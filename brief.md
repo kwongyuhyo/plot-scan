@@ -148,8 +148,28 @@ _맥락 — 카탈로그 다곡·플랫폼 괴리_
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
 _…외 14곡군: Jung Kook(4) · AKMU(4) · aespa(3) · Justin Bieber(3) · Kenshi Yonezu(3) · DAY6(3) · Jimin(2) · NMIXX(2) · LE SSERAFIM(2) · Sung Si Kyung(2) · PSY(2) · PLAVE(2) · Oasis(2) · The Weeknd(2)_
 
-**플랫폼 동반 (Spotify＋YouTube 동시)**
-- **10위** HANRORO - 0+0 (-2) · Days 302 → 진짜 확산, 특집 앵글
+_조인: YouTube 20곡 중 16곡 Spotify 매칭(정확 15·제목폴백 1) · 미매칭 4곡은 아래 'YouTube 선행'_
+
+**플랫폼 동반 (Spotify＋YouTube · 진짜 확산 → 특집)**
+- **HANRORO - 0+0** — SP 10위 · YT 20위  ← **워치리스트**
+- **CORTIS - REDRED** — SP 1위 · YT 1위
+- **RESCENE - LOVE ATTACK** — SP 2위 · YT 4위
+- **aespa - LEMONADE** — SP 3위 · YT 3위
+- **RESCENE - Pretty Girl** — SP 4위 · YT 2위
+- **ILLIT - It's Me** — SP 5위 · YT 6위
+- **Hearts2Hearts - Lemon Tang** — SP 7위 · YT 19위
+- **ATEEZ - BAD** — SP 11위 · YT 8위
+- **Hearts2Hearts - RUDE!** — SP 12위 · YT 9위
+- **RESCENE - Deja Vu** — SP 13위 · YT 11위
+- **TAEYEON - Bansanka** — SP 14위 · YT 10위
+- **WOODZ - Drowning** — SP 19위 · YT 14위
+_…외 4곡_
+
+**YouTube 선행 (Spotify 200위 밖 · 대중·영상이 먼저 → MV/라이브클립 앵글)**
+- I.O.I - 갑자기 — YT 7위
+- i-dle - Gimme Dat Love — YT 13위 (-2)
+- HANRORO - 사랑하게 될 거야 — YT 16위 (-1)  ← **워치리스트**
+- YENA - 캐치 캐치 — YT 18위 (NEW)
 
 ---
 ## 원자료

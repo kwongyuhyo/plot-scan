@@ -291,6 +291,43 @@ function catKeyOf(e) {
   return (e.artistIds && e.artistIds[0]) || artistOf(e.title);
 }
 
+// 제목만 (아티스트 표기 흔들림 대비 폴백 조인용). "Artist - Title" → Title 정규화.
+function titleOnly(title) {
+  const parts = String(title || '').split(' - ');
+  return normTitle(parts.length > 1 ? parts.slice(1).join(' - ') : parts[0]);
+}
+
+// P1 괴리 — 플랫폼 교차 crossPlatformGap()
+// 제목 정규화 조인(§4). full 매칭 우선, 실패 시 제목-only 유일 매칭으로 폴백(아티스트 표기 차이 흡수).
+// 여전히 못 붙은 YouTube 곡 = "대중·영상이 먼저"(조용히 삼키지 않고 표면화).
+function crossPlatformGap(spotify, youtube) {
+  const spFull = new Map();      // normTitle → entry
+  const spByTitle = new Map();   // titleOnly → [entries]
+  for (const e of spotify) {
+    const f = normTitle(e.title);
+    if (!spFull.has(f)) spFull.set(f, e);
+    const t = titleOnly(e.title);
+    if (!spByTitle.has(t)) spByTitle.set(t, []);
+    spByTitle.get(t).push(e);
+  }
+  const both = [], youtubeOnly = [], matchedSpTitles = new Set();
+  let full = 0, fallback = 0;
+  for (const y of youtube) {
+    let sp = spFull.get(normTitle(y.title));
+    if (sp) { full++; }
+    else {
+      const cand = spByTitle.get(titleOnly(y.title)) || [];
+      if (cand.length === 1) { sp = cand[0]; fallback++; }  // 유일할 때만(모호하면 미매칭 처리)
+    }
+    if (sp) { both.push({ sp, ytPos: y.pos }); matchedSpTitles.add(sp.title); }
+    else youtubeOnly.push(y);
+  }
+  return {
+    both, youtubeOnly, matchedSpTitles,
+    stats: { ytTotal: youtube.length, matched: both.length, full, fallback, unmatched: youtubeOnly.length },
+  };
+}
+
 // 후보 1건을 태그와 함께 렌더
 function renderCandidate(e, ctx) {
   let out = `- ${fmtEntry(e)}`;
@@ -359,13 +396,14 @@ function buildBrief(srcData, today) {
   const catalog = buildCatalog(sp.entries);            // P4 아티스트별 곡 수
   const watchByKey = new Map();                        // entry title → artist명
   for (const h of sp.hits) watchByKey.set(h.entry.title, h.artist);
-  const ytSet = new Set((srcData.youtube?.entries || []).map(e => normTitle(e.title))); // P1 조인용
+  const ytEntries = srcData.youtube?.entries || [];
+  const cpg = crossPlatformGap(sp.entries, ytEntries); // P1 플랫폼 교차 괴리
 
   const ctxOf = (e) => ({
     isWatch: watchByKey.has(e.title),
     artistName: watchByKey.get(e.title),
     catCount: catalog.get(catKeyOf(e)) || 1,
-    crossPlatform: ytSet.has(normTitle(e.title)),
+    crossPlatform: cpg.matchedSpTitles.has(e.title),
   });
 
   // 후보 풀 = 워치리스트 히트 ∪ diff(신규·급등·재진입). 제목 기준 중복 제거.
@@ -423,10 +461,28 @@ function buildBrief(srcData, today) {
   } else {
     brief += '_카탈로그 다곡 없음_\n\n';
   }
-  const both = pool.filter(e => ytSet.has(normTitle(e.title))).sort((a, b) => a.pos - b.pos);
-  if (both.length) {
-    brief += `**플랫폼 동반 (Spotify＋YouTube 동시)**\n` +
-      both.slice(0, 10).map(e => `- ${fmtEntry(e)} → 진짜 확산, 특집 앵글`).join('\n') + '\n\n';
+  // P1 플랫폼 교차 괴리 (제목 정규화+제목폴백 조인)
+  const ytWatch = new Set((srcData.youtube?.hits || []).map(h => h.entry.title));
+  brief += `_조인: YouTube ${cpg.stats.ytTotal}곡 중 ${cpg.stats.matched}곡 Spotify 매칭(정확 ${cpg.stats.full}·제목폴백 ${cpg.stats.fallback}) · 미매칭 ${cpg.stats.unmatched}곡은 아래 'YouTube 선행'_\n\n`;
+
+  // 둘 다 = 진짜 확산 → 특집. 워치리스트(PLOT 결) 우선, 캡 12.
+  const bothRows = cpg.both
+    .map(b => ({ ...b, isWatch: watchTitles.has(b.sp.title) }))
+    .sort((a, b) => (b.isWatch - a.isWatch) || (a.sp.pos - b.sp.pos));
+  if (bothRows.length) {
+    brief += `**플랫폼 동반 (Spotify＋YouTube · 진짜 확산 → 특집)**\n` +
+      bothRows.slice(0, 12).map(b => `- **${b.sp.title}** — SP ${b.sp.pos}위 · YT ${b.ytPos}위${b.isWatch ? '  ← **워치리스트**' : ''}`).join('\n') + '\n';
+    if (bothRows.length > 12) brief += `_…외 ${bothRows.length - 12}곡_\n`;
+    brief += '\n';
+  }
+
+  // YouTube만 = 대중·영상이 먼저 → MV/라이브클립 앵글
+  if (cpg.youtubeOnly.length) {
+    brief += `**YouTube 선행 (Spotify 200위 밖 · 대중·영상이 먼저 → MV/라이브클립 앵글)**\n` +
+      cpg.youtubeOnly.sort((a, b) => a.pos - b.pos).map(y => {
+        const chg = y.change && y.change !== '=' ? ` (${y.change})` : '';
+        return `- ${y.title} — YT ${y.pos}위${chg}${ytWatch.has(y.title) ? '  ← **워치리스트**' : ''}`;
+      }).join('\n') + '\n\n';
   }
 
   // ── 4) 원자료 부록 (판단 드릴다운용 — 아무것도 버리지 않는다) ──
@@ -498,7 +554,19 @@ function test() {
   const tags = interpretTags(rows[0], { isWatch: true, artistName: '한로로', catCount: 5, crossPlatform: false });
   console.assert(tags.some(t => t.includes('카탈로그 5곡')) && tags.some(t => t.includes('한로로')), 'C-1 태그 조립');
 
-  console.log('테스트 통과 ✓  (파서·CSV 왕복·diff·워치리스트 + 분석 레이어 C-1/C-2)');
+  // ── P1 플랫폼 교차 괴리 ──
+  console.assert(titleOnly('한로로 - Landing in Love') === 'landing in love', 'titleOnly 분리');
+  const cpg1 = crossPlatformGap(rows, [
+    { title: '한로로 - Landing in Love', pos: 5, change: '=' },  // full 매칭
+    { title: 'Nobody - Ghost Song', pos: 9, change: '=' },        // 미매칭 → YouTube만
+  ]);
+  console.assert(cpg1.both.length === 1 && cpg1.stats.full === 1, 'P1 full 매칭');
+  console.assert(cpg1.youtubeOnly.length === 1 && cpg1.youtubeOnly[0].pos === 9, 'P1 YouTube만');
+  console.assert(cpg1.matchedSpTitles.has('한로로 - Landing in Love'), 'P1 매칭 제목 집합');
+  const cpg2 = crossPlatformGap(rows, [{ title: 'HANRORO - Landing in Love', pos: 5, change: '=' }]); // 표기 다름 → 제목폴백
+  console.assert(cpg2.stats.full === 0 && cpg2.stats.fallback === 1 && cpg2.both.length === 1, 'P1 제목폴백(표기 흔들림)');
+
+  console.log('테스트 통과 ✓  (파서·CSV 왕복·diff·워치리스트 + 분석 레이어 C-1/C-2 + P1 괴리)');
 }
 
 if (require.main === module) {
