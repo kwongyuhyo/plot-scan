@@ -198,6 +198,106 @@ function section(title, arr, empty) {
   return `### ${title}\n` + arr.map(x => `- ${fmtEntry(x.entry || x)}${x.artist ? `  ← **${x.artist}**` : ''}`).join('\n') + '\n';
 }
 
+// ── 분석 레이어 (C-1 태그 · C-2 라우팅) · 전부 순수 함수 ────────
+// SPEC.md §2 패턴 참조. 이 도구는 후보·근거까지만 — 선곡·판단은 사람이 한다.
+// 조회수·성과를 선곡 입력으로 쓰는 로직은 절대 넣지 않는다.
+
+// 제목 앞 아티스트명 (kworb "Artist - Title" 형식)
+function artistOf(title) {
+  const s = String(title || '');
+  const i = s.indexOf(' - ');
+  return (i === -1 ? s : s.slice(0, i)).trim();
+}
+
+// 조인용 제목 정규화 (SPEC §4). 괄호군 제거 → 구분자 통일 → 소문자·공백정리.
+function normTitle(title) {
+  return String(title || '')
+    .toLowerCase()
+    .replace(/\([^)]*\)/g, ' ')
+    .replace(/\[[^\]]*\]/g, ' ')
+    .replace(/[-–—/·]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+// P+ 필드 해석: NEW / RE / 이동량
+function parseChange(change) {
+  const s = String(change || '').trim();
+  if (/new/i.test(s)) return { kind: 'new', n: null };
+  if (/re/i.test(s)) return { kind: 're', n: null };
+  const n = parseInt(s.replace(/[^\-\d]/g, ''), 10);
+  return { kind: 'move', n: Number.isFinite(n) ? n : 0 };
+}
+
+// P3 하락 기울기: Pos===Pk 상승 중, Pos>Pk 하락(한때 N위)
+function trajectoryTag(e) {
+  if (e.peak == null || e.pos == null) return null;
+  if (e.pos === e.peak) return '상승 중 (정점 미도달)';
+  if (e.pos > e.peak) return `하락 (한때 ${e.peak}위, −${e.pos - e.peak})`;
+  return null;
+}
+
+// P2 롱테일 격차: Days≥300 롱테일, Days≤10 신곡
+function longTailTag(e) {
+  if (e.days == null) return null;
+  if (e.days >= 300) return `롱테일 (약 ${Math.round(e.days / 30)}개월)`;
+  if (e.days <= 10) return '신곡';
+  return null;
+}
+
+// C-1: 후보 1건의 해석 태그 3줄 (▸). ctx = {isWatch, artistName, catCount, crossPlatform}
+function interpretTags(e, ctx = {}) {
+  const lines = [];
+  const traj = trajectoryTag(e);
+  if (traj) lines.push(traj);
+  const lt = longTailTag(e);
+  if (lt) lines.push(lt);
+  const watch = ctx.isWatch ? (ctx.artistName || '워치리스트 히트') : '워치리스트 ✗';
+  const cat = ctx.catCount >= 2 ? `카탈로그 ${ctx.catCount}곡 동시` : '카탈로그 단독';
+  const tail = ctx.crossPlatform ? ` · 플랫폼 동반(YouTube도)` : '';
+  lines.push(`${watch} · ${cat}${tail}`);
+  return lines;
+}
+
+// C-2: 후보 1건을 포맷별 섹션으로 라우팅 (한 곡이 여러 섹션 가능 — 배타 아님)
+// today = 오늘의 노래 후보(발견) · osms = 오음소 소재(소식)
+// 특집 신호(맥락)는 곡 단위가 아니라 카탈로그·플랫폼 그룹으로 별도 렌더.
+function routeSong(e, ctx = {}) {
+  const c = parseChange(e.change);
+  const isWatch = !!ctx.isWatch;
+  // 오늘의 노래 후보: 진입 중 신곡·상승 곡 · 또는 워치리스트 히트 & 순위 안정
+  const risingNew = e.days != null && e.days <= 60 && e.peak != null && e.pos === e.peak;
+  const freshNew = c.kind === 'new' && e.days != null && e.days <= 60;
+  const watchStable = isWatch && c.kind === 'move' && Math.abs(c.n) <= 5;
+  const today = risingNew || freshNew || watchStable;
+  // 오음소 소재: 급등(P+≥15) · 재진입(RE) · Days 긴 곡의 이변
+  const surge = c.kind === 'move' && c.n >= 15;
+  const reentry = c.kind === 're';
+  const oldMove = e.days != null && e.days >= 300 && c.kind === 'move' && Math.abs(c.n) >= 10;
+  const osms = surge || reentry || oldMove;
+  return { today, osms };
+}
+
+// 아티스트별 차트인 곡 수 (P4). 대표 아티스트 = artistIds[0] 우선, 없으면 제목 앞 이름.
+function buildCatalog(entries) {
+  const counts = new Map();
+  for (const e of entries) {
+    const key = (e.artistIds && e.artistIds[0]) || artistOf(e.title);
+    counts.set(key, (counts.get(key) || 0) + 1);
+  }
+  return counts;
+}
+function catKeyOf(e) {
+  return (e.artistIds && e.artistIds[0]) || artistOf(e.title);
+}
+
+// 후보 1건을 태그와 함께 렌더
+function renderCandidate(e, ctx) {
+  let out = `- ${fmtEntry(e)}`;
+  for (const t of interpretTags(e, ctx)) out += `\n  ▸ ${t}`;
+  return out;
+}
+
 // ── 메인 ─────────────────────────────────────────────────
 async function fetchHTML(url) {
   const res = await fetch(url, {
@@ -219,9 +319,9 @@ function prevDateStr(days = 1) {
 async function main() {
   fs.mkdirSync(DATA_DIR, { recursive: true });
   const today = dateStr();
-  let brief = `# PLOT 데일리 브리프 — ${today}\n\n`;
-  brief += `> 급등 기준: 전일 대비 +${SURGE_MIN} 이상 · 데이터: kworb (24~48h 지연 가능)\n\n`;
 
+  // ── 1) 수집·아카이빙 + 소스별 diff/워치리스트 확보 ──────────
+  const srcData = {}; // key → { label, entries, prevDay, diff, hits }
   for (const src of SOURCES) {
     const csvPath = d => path.join(DATA_DIR, `${src.key}_${d}.csv`);
     process.stdout.write(`[${src.key}] fetch... `);
@@ -230,34 +330,124 @@ async function main() {
     fs.writeFileSync(csvPath(today), toCSV(entries));
     console.log(`${entries.length}행 저장`);
 
-    brief += `## ${src.label} (${entries.length}곡 수집)\n\n`;
-
-    // 전일 (없으면 최대 7일 소급 탐색 — 빈 날 허용)
     let prev = null, prevDay = null;
     for (let back = 1; back <= 7; back++) {
       const p = csvPath(prevDateStr(back));
       if (fs.existsSync(p)) { prev = fromCSV(fs.readFileSync(p, 'utf8')); prevDay = prevDateStr(back); break; }
     }
-
-    if (prev) {
-      const { news, surges, reentries, dropped } = diff(entries, prev);
-      brief += `_비교 기준: ${prevDay}_\n\n`;
-      brief += section('신규 진입', news.slice(0, 15), '없음');
-      brief += section(`급등 (+${SURGE_MIN}↑)`, surges.slice(0, 15), '없음');
-      brief += section('재진입 (RE)', reentries.slice(0, 10), '없음');
-      brief += section('이탈 (전일 100위 내)', dropped.slice(0, 10), '없음');
-    } else {
-      brief += `_첫 수집 — 내일부터 diff가 나옵니다._\n\n`;
-    }
-
-    const hits = watchHits(entries, src.key);
-    brief += section(`워치리스트 히트 (${hits.length})`, hits, '없음');
-    brief += '\n';
+    srcData[src.key] = {
+      label: src.label,
+      entries,
+      prevDay,
+      diff: prev ? diff(entries, prev) : null,
+      hits: watchHits(entries, src.key),
+    };
   }
 
-  brief += `---\n괴리 읽기: Spotify O/멜론 X → 오늘의 노래 · Shorts O/Top X → 이슈 · 전 차트 동반 → 특집. 자세한 건 운영 루틴 v10 §5-2.\n`;
+  const brief = buildBrief(srcData, today);
   fs.writeFileSync(path.join(__dirname, 'brief.md'), brief);
   console.log(`brief.md 생성 완료 (${today})`);
+}
+
+// brief.md 문자열 생성 — 수집과 분리(오프라인 재생성·테스트 가능). srcData = key→{label,entries,prevDay,diff,hits}
+function buildBrief(srcData, today) {
+  let brief = `# PLOT 데일리 브리프 — ${today}\n\n`;
+  brief += `> 급등 기준: 전일 대비 +${SURGE_MIN} 이상 · 데이터: kworb (24~48h 지연 가능)\n\n`;
+
+  // ── 2) 분석 컨텍스트 (Spotify = Days/Pk/artistIds 있는 주 분석원) ──
+  const sp = srcData.spotify || { entries: [], hits: [], diff: null };
+  const catalog = buildCatalog(sp.entries);            // P4 아티스트별 곡 수
+  const watchByKey = new Map();                        // entry title → artist명
+  for (const h of sp.hits) watchByKey.set(h.entry.title, h.artist);
+  const ytSet = new Set((srcData.youtube?.entries || []).map(e => normTitle(e.title))); // P1 조인용
+
+  const ctxOf = (e) => ({
+    isWatch: watchByKey.has(e.title),
+    artistName: watchByKey.get(e.title),
+    catCount: catalog.get(catKeyOf(e)) || 1,
+    crossPlatform: ytSet.has(normTitle(e.title)),
+  });
+
+  // 후보 풀 = 워치리스트 히트 ∪ diff(신규·급등·재진입). 제목 기준 중복 제거.
+  const poolMap = new Map();
+  const addPool = (e) => { if (e && !poolMap.has(e.title)) poolMap.set(e.title, e); };
+  sp.hits.forEach(h => addPool(h.entry));
+  if (sp.diff) { sp.diff.news.forEach(addPool); sp.diff.surges.forEach(addPool); sp.diff.reentries.forEach(addPool); }
+  const pool = [...poolMap.values()];
+
+  // ── 3) C-2 라우팅 (중복 노출 OK) ────────────────────────
+  const today3 = [], osms3 = [];
+  for (const e of pool) {
+    const r = routeSong(e, ctxOf(e));
+    if (r.today) today3.push(e);
+    if (r.osms) osms3.push(e);
+  }
+  today3.sort((a, b) => a.pos - b.pos);
+  osms3.sort((a, b) => (parseChange(b.change).n || 0) - (parseChange(a.change).n || 0) || a.pos - b.pos);
+
+  const renderList = (arr, cap = 15) => arr.slice(0, cap).map(e => renderCandidate(e, ctxOf(e))).join('\n');
+  const capNote = (arr, cap = 15) => arr.length > cap ? `\n_…외 ${arr.length - cap}건 (원자료 참조)_` : '';
+
+  brief += `> 수집: Spotify KR ${sp.entries.length}곡 · YouTube KR ${(srcData.youtube?.entries || []).length}곡`;
+  brief += sp.prevDay ? ` · 비교 기준 ${sp.prevDay}\n\n` : ` · 첫 수집(내일부터 diff)\n\n`;
+
+  brief += `## 오늘의 노래 후보\n_발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_\n\n`;
+  brief += (today3.length ? renderList(today3) + capNote(today3) : '_해당 없음_') + '\n\n';
+
+  brief += `## 오음소 소재\n_소식 — 급등·재진입·오래된 곡의 이변_\n\n`;
+  brief += (osms3.length ? renderList(osms3) + capNote(osms3) : '_해당 없음_') + '\n\n';
+
+  // 특집 신호 = P4 카탈로그 다곡 + P1 플랫폼 동반 (곡 단위 아님)
+  brief += `## 특집 신호\n_맥락 — 카탈로그 다곡·플랫폼 괴리_\n\n`;
+  // 워치리스트(=PLOT 결) 아티스트 곡 제목 집합 — 카탈로그 그룹 우선순위에 쓴다
+  const watchTitles = new Set(sp.hits.map(h => h.entry.title));
+  const catGroups = [];
+  for (const [key, n] of catalog) {
+    if (n < 2) continue;
+    const songs = sp.entries.filter(e => catKeyOf(e) === key).sort((a, b) => a.pos - b.pos);
+    const isWatch = songs.some(s => watchTitles.has(s.title));
+    catGroups.push({ name: artistOf(songs[0].title), n, songs, isWatch });
+  }
+  // PLOT 결 아티스트 먼저, 그다음 곡 수 → 최상위 순위. 캡 15(나머지는 카운트로만).
+  catGroups.sort((a, b) => (b.isWatch - a.isWatch) || (b.n - a.n) || (a.songs[0].pos - b.songs[0].pos));
+  const CAT_CAP = 15;
+  if (catGroups.length) {
+    brief += catGroups.slice(0, CAT_CAP).map(g =>
+      `- **${g.name}** — 카탈로그 ${g.n}곡 동시 차트인 (${g.songs.map(s => s.pos + '위').join('·')})${g.isWatch ? '  ← **워치리스트**' : ''}\n  ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거`
+    ).join('\n') + '\n';
+    if (catGroups.length > CAT_CAP) {
+      const rest = catGroups.slice(CAT_CAP).map(g => `${g.name}(${g.n})`).join(' · ');
+      brief += `_…외 ${catGroups.length - CAT_CAP}곡군: ${rest}_\n`;
+    }
+    brief += '\n';
+  } else {
+    brief += '_카탈로그 다곡 없음_\n\n';
+  }
+  const both = pool.filter(e => ytSet.has(normTitle(e.title))).sort((a, b) => a.pos - b.pos);
+  if (both.length) {
+    brief += `**플랫폼 동반 (Spotify＋YouTube 동시)**\n` +
+      both.slice(0, 10).map(e => `- ${fmtEntry(e)} → 진짜 확산, 특집 앵글`).join('\n') + '\n\n';
+  }
+
+  // ── 4) 원자료 부록 (판단 드릴다운용 — 아무것도 버리지 않는다) ──
+  brief += `---\n## 원자료\n\n`;
+  for (const src of SOURCES) {
+    const d = srcData[src.key];
+    brief += `### ${d.label} (${d.entries.length}곡)\n`;
+    if (d.diff) {
+      brief += `_비교 기준: ${d.prevDay}_\n`;
+      brief += section('신규 진입', d.diff.news.slice(0, 15), '없음');
+      brief += section(`급등 (+${SURGE_MIN}↑)`, d.diff.surges.slice(0, 15), '없음');
+      brief += section('재진입 (RE)', d.diff.reentries.slice(0, 10), '없음');
+      brief += section('이탈 (전일 100위 내)', d.diff.dropped.slice(0, 10), '없음');
+    } else {
+      brief += `_첫 수집 — 내일부터 diff가 나옵니다._\n`;
+    }
+    brief += section(`워치리스트 히트 (${d.hits.length})`, d.hits, '없음');
+    brief += '\n';
+  }
+  brief += `---\n괴리 읽기: Spotify O/멜론 X → 오늘의 노래 · Shorts O/Top X → 이슈 · 전 차트 동반 → 특집. 자세한 건 운영 루틴 v10 §5-2.\n`;
+  return brief;
 }
 
 // ── 내장 테스트 ──────────────────────────────────────────
@@ -285,8 +475,39 @@ function test() {
 
   const hits = watchHits(rows, 'spotify');
   console.assert(hits.length === 2, '워치리스트 (한로로 ID + Raf Sandou 이름)');
-  console.log('테스트 통과 ✓  (파서·CSV 왕복·diff·워치리스트)');
+
+  // ── 분석 레이어 (C-1 태그 · C-2 라우팅) ──
+  console.assert(parseChange('+18').n === 18 && parseChange('+18').kind === 'move', 'parseChange 이동');
+  console.assert(parseChange('NEW').kind === 'new', 'parseChange NEW');
+  console.assert(parseChange('RE').kind === 're', 'parseChange RE');
+  console.assert(parseChange('=').kind === 'move' && parseChange('=').n === 0, 'parseChange =');
+
+  console.assert(trajectoryTag({ pos: 1, peak: 1 }).includes('상승 중'), 'P3 상승');
+  console.assert(/하락 .*한때 1위, −9/.test(trajectoryTag({ pos: 10, peak: 1 })), 'P3 하락');
+  console.assert(longTailTag({ days: 330 }).includes('롱테일') && longTailTag({ days: 330 }).includes('11개월'), 'P2 롱테일');
+  console.assert(longTailTag({ days: 5 }) === '신곡', 'P2 신곡');
+  console.assert(longTailTag({ days: 100 }) === null, 'P2 중간(태그없음)');
+
+  console.assert(catKeyOf(rows[0]) === '5wVJpXzuKV6Xj7Yhsf2uYx', '카탈로그 키(ID)');
+  console.assert(buildCatalog(rows).get('5wVJpXzuKV6Xj7Yhsf2uYx') === 1, 'P4 카탈로그 카운트');
+  console.assert(normTitle('한로로 - Landing in Love (feat. X)') === '한로로 landing in love', '제목 정규화');
+
+  console.assert(routeSong(rows[0], { isWatch: true, catCount: 1 }).today === true, '라우팅: 워치안정→오늘의노래');
+  console.assert(routeSong(rows[2], { isWatch: false, catCount: 1 }).osms === true, '라우팅: 급등→오음소');
+  console.assert(routeSong(rows[1], { isWatch: true, catCount: 1 }).today === true, '라우팅: 신곡NEW→오늘의노래');
+  const tags = interpretTags(rows[0], { isWatch: true, artistName: '한로로', catCount: 5, crossPlatform: false });
+  console.assert(tags.some(t => t.includes('카탈로그 5곡')) && tags.some(t => t.includes('한로로')), 'C-1 태그 조립');
+
+  console.log('테스트 통과 ✓  (파서·CSV 왕복·diff·워치리스트 + 분석 레이어 C-1/C-2)');
 }
 
-if (process.argv.includes('--test')) test();
-else main().catch(e => { console.error('실패:', e.message); process.exit(1); });
+if (require.main === module) {
+  if (process.argv.includes('--test')) test();
+  else main().catch(e => { console.error('실패:', e.message); process.exit(1); });
+}
+
+module.exports = {
+  parseTable, toCSV, fromCSV, diff, watchHits,
+  parseChange, trajectoryTag, longTailTag, interpretTags, routeSong,
+  buildCatalog, catKeyOf, artistOf, normTitle, buildBrief,
+};
