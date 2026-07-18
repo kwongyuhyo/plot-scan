@@ -25,12 +25,14 @@ const SOURCES = [
     url: 'https://kworb.net/spotify/country/kr_daily.html',
     // 아티스트 매칭: /artist/[ID].html 링크의 ID로
     idPattern: /artist\/([0-9A-Za-z]{22})\.html/,
+    minRows: 50,  // 200위 차트. 이보다 적으면 파싱 실패로 간주(SPEC §4)
   },
   {
     key: 'youtube',
     label: 'YouTube KR 일간',
     url: 'https://kworb.net/youtube/insights/kr_daily.html',
     idPattern: null, // 유튜브는 이름 문자열 매칭
+    minRows: 10,  // insights 표는 소수 행. 보수적 하한
   },
 ];
 
@@ -328,6 +330,17 @@ function crossPlatformGap(spotify, youtube) {
   };
 }
 
+// P8 차트 밀도 — 워치리스트(=PLOT 결) 점유율 한 줄(순수). 시계열로 쌓여 경계붕괴 특집의 정량 축.
+function densityRow(date, sp, yt) {
+  const ratio = (hits, total) => (total ? (hits / total).toFixed(4) : '');
+  return {
+    date,
+    spotify_ratio: ratio(sp.hits.length, sp.entries.length),
+    youtube_ratio: ratio(yt.hits.length, yt.entries.length),
+    watchlist_hits: sp.hits.length,
+  };
+}
+
 // 후보 1건을 태그와 함께 렌더
 function renderCandidate(e, ctx) {
   let out = `- ${fmtEntry(e)}`;
@@ -353,6 +366,26 @@ function prevDateStr(days = 1) {
   return dateStr(new Date(Date.now() - days * 86400 * 1000));
 }
 
+// P8 density.csv 읽기/업서트 (같은 날 재실행 시 행 갱신, 날짜순 정렬)
+const DENSITY_PATH = path.join(DATA_DIR, 'density.csv');
+const DENSITY_HEAD = 'date,spotify_ratio,youtube_ratio,watchlist_hits';
+function readDensity() {
+  if (!fs.existsSync(DENSITY_PATH)) return [];
+  return fs.readFileSync(DENSITY_PATH, 'utf8').trim().split('\n').slice(1)
+    .filter(Boolean).map(l => {
+      const [date, spotify_ratio, youtube_ratio, watchlist_hits] = l.split(',');
+      return { date, spotify_ratio, youtube_ratio, watchlist_hits };
+    });
+}
+function upsertDensity(row) {
+  const rows = readDensity().filter(r => r.date !== row.date);
+  rows.push(row);
+  rows.sort((a, b) => a.date.localeCompare(b.date));
+  const body = rows.map(r => [r.date, r.spotify_ratio, r.youtube_ratio, r.watchlist_hits].join(',')).join('\n');
+  fs.writeFileSync(DENSITY_PATH, DENSITY_HEAD + '\n' + body + '\n');
+  return rows;
+}
+
 async function main() {
   fs.mkdirSync(DATA_DIR, { recursive: true });
   const today = dateStr();
@@ -364,6 +397,9 @@ async function main() {
     process.stdout.write(`[${src.key}] fetch... `);
     const html = await fetchHTML(src.url);
     const entries = parseTable(html, src.idPattern);
+    // SPEC §4: 행 수 비정상이면 잘못된 데이터를 쌓지 말고 죽인다(저장 전 검사)
+    if (entries.length < (src.minRows || 1))
+      throw new Error(`[${src.key}] 행 수 ${entries.length} < 최소 ${src.minRows} — 파싱 실패로 간주. CSV 저장 안 함.`);
     fs.writeFileSync(csvPath(today), toCSV(entries));
     console.log(`${entries.length}행 저장`);
 
@@ -381,13 +417,26 @@ async function main() {
     };
   }
 
-  const brief = buildBrief(srcData, today);
+  // ── P8 밀도 시계열 업데이트 + 전일 대비 델타 ────────────────
+  const sp = srcData.spotify || { entries: [], hits: [] };
+  const yt = srcData.youtube || { entries: [], hits: [] };
+  const dRow = densityRow(today, sp, yt);
+  const prevDensity = readDensity().filter(r => r.date !== today).slice(-1)[0] || null;
+  upsertDensity(dRow);
+  console.log(`density: 워치리스트 ${dRow.watchlist_hits}/${sp.entries.length} (${(dRow.spotify_ratio * 100).toFixed(1)}%)`);
+
+  // ── SPEC §4: 플랫폼 조인 미매칭을 로그로 남긴다(조용히 삼키지 않음) ──
+  const cpgLog = crossPlatformGap(sp.entries, yt.entries);
+  console.log(`crossPlatform: YouTube ${cpgLog.stats.ytTotal}곡 중 ${cpgLog.stats.matched} 매칭 · 미매칭 ${cpgLog.stats.unmatched}: ${cpgLog.youtubeOnly.map(y => y.title).join(' / ') || '없음'}`);
+
+  const brief = buildBrief(srcData, today, { today: dRow, prev: prevDensity });
   fs.writeFileSync(path.join(__dirname, 'brief.md'), brief);
   console.log(`brief.md 생성 완료 (${today})`);
 }
 
-// brief.md 문자열 생성 — 수집과 분리(오프라인 재생성·테스트 가능). srcData = key→{label,entries,prevDay,diff,hits}
-function buildBrief(srcData, today) {
+// brief.md 문자열 생성 — 수집과 분리(오프라인 재생성·테스트 가능).
+// srcData = key→{label,entries,prevDay,diff,hits} · density = {today, prev} (선택, P8)
+function buildBrief(srcData, today, density = null) {
   let brief = `# PLOT 데일리 브리프 — ${today}\n\n`;
   brief += `> 급등 기준: 전일 대비 +${SURGE_MIN} 이상 · 데이터: kworb (24~48h 지연 가능)\n\n`;
 
@@ -420,7 +469,13 @@ function buildBrief(srcData, today) {
     if (r.today) today3.push(e);
     if (r.osms) osms3.push(e);
   }
-  today3.sort((a, b) => a.pos - b.pos);
+  // '발견'(진입 중 신곡·상승 곡)을 위로, 그다음 순위. 오래된 워치리스트 안정곡이 위를 덮지 않게.
+  const isDiscovery = (e) => {
+    const c = parseChange(e.change);
+    return (e.days != null && e.days <= 60 && e.peak != null && e.pos === e.peak)
+      || (c.kind === 'new' && e.days != null && e.days <= 60);
+  };
+  today3.sort((a, b) => (isDiscovery(b) - isDiscovery(a)) || (a.pos - b.pos));
   osms3.sort((a, b) => (parseChange(b.change).n || 0) - (parseChange(a.change).n || 0) || a.pos - b.pos);
 
   const renderList = (arr, cap = 15) => arr.slice(0, cap).map(e => renderCandidate(e, ctxOf(e))).join('\n');
@@ -428,6 +483,18 @@ function buildBrief(srcData, today) {
 
   brief += `> 수집: Spotify KR ${sp.entries.length}곡 · YouTube KR ${(srcData.youtube?.entries || []).length}곡`;
   brief += sp.prevDay ? ` · 비교 기준 ${sp.prevDay}\n\n` : ` · 첫 수집(내일부터 diff)\n\n`;
+
+  // P8 밀도(워치리스트 점유율) — 전일 대비 델타. 시계열은 data/density.csv에 누적.
+  if (density && density.today) {
+    const pct = v => (v === '' || v == null) ? '—' : (parseFloat(v) * 100).toFixed(1) + '%';
+    let line = `> 밀도(Spotify 200 중 워치리스트): ${density.today.watchlist_hits}곡 · ${pct(density.today.spotify_ratio)}`;
+    if (density.prev && density.prev.spotify_ratio !== '') {
+      const d = (parseFloat(density.today.spotify_ratio) - parseFloat(density.prev.spotify_ratio)) * 100;
+      const arrow = d > 0 ? '▲' : d < 0 ? '▼' : '=';
+      line += ` (${density.prev.date} 대비 ${arrow}${Math.abs(d).toFixed(1)}p)`;
+    }
+    brief += line + `\n\n`;
+  }
 
   brief += `## 오늘의 노래 후보\n_발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_\n\n`;
   brief += (today3.length ? renderList(today3) + capNote(today3) : '_해당 없음_') + '\n\n';
@@ -566,7 +633,14 @@ function test() {
   const cpg2 = crossPlatformGap(rows, [{ title: 'HANRORO - Landing in Love', pos: 5, change: '=' }]); // 표기 다름 → 제목폴백
   console.assert(cpg2.stats.full === 0 && cpg2.stats.fallback === 1 && cpg2.both.length === 1, 'P1 제목폴백(표기 흔들림)');
 
-  console.log('테스트 통과 ✓  (파서·CSV 왕복·diff·워치리스트 + 분석 레이어 C-1/C-2 + P1 괴리)');
+  // ── P8 밀도 ──
+  const dr = densityRow('2026-07-18',
+    { entries: new Array(200), hits: new Array(40) },
+    { entries: new Array(20), hits: new Array(2) });
+  console.assert(dr.spotify_ratio === '0.2000' && dr.youtube_ratio === '0.1000' && dr.watchlist_hits === 40, 'P8 densityRow');
+  console.assert(densityRow('d', { entries: [], hits: [] }, { entries: [], hits: [] }).spotify_ratio === '', 'P8 0곡 방어');
+
+  console.log('테스트 통과 ✓  (파서·CSV 왕복·diff·워치리스트 + C-1/C-2 + P1 괴리 + P8 밀도)');
 }
 
 if (require.main === module) {
@@ -578,4 +652,5 @@ module.exports = {
   parseTable, toCSV, fromCSV, diff, watchHits,
   parseChange, trajectoryTag, longTailTag, interpretTags, routeSong,
   buildCatalog, catKeyOf, artistOf, normTitle, buildBrief,
+  titleOnly, crossPlatformGap, densityRow,
 };
