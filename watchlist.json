@@ -173,5 +173,298 @@
     "name": "윤도현",
     "eng": "Yoon Do Hyun",
     "spotifyId": "6KsmQPHXE3qhzNNBPSZ0eB"
+  },
+  {
+    "name": "실리카겔",
+    "eng": "Silica Gel"
+  },
+  {
+    "name": "새소년",
+    "eng": "SE SO NEON"
+  },
+  {
+    "name": "쏜애플",
+    "eng": "Thornapple"
+  },
+  {
+    "name": "ADOY",
+    "eng": "ADOY"
+  },
+  {
+    "name": "넬",
+    "eng": "NELL"
+  },
+  {
+    "name": "국카스텐",
+    "eng": "Guckkasten"
+  },
+  {
+    "name": "데이식스",
+    "eng": "DAY6"
+  },
+  {
+    "name": "QWER",
+    "eng": "QWER"
+  },
+  {
+    "name": "델리스파이스",
+    "eng": "DELISPICE"
+  },
+  {
+    "name": "스탠딩에그",
+    "eng": "Standing Egg"
+  },
+  {
+    "name": "페퍼톤스",
+    "eng": "Peppertones"
+  },
+  {
+    "name": "데이브레이크",
+    "eng": "Daybreak"
+  },
+  {
+    "name": "터치드",
+    "eng": "TOUCHED"
+  },
+  {
+    "name": "우효",
+    "eng": "Oohyo"
+  },
+  {
+    "name": "적재",
+    "eng": "Jukjae"
+  },
+  {
+    "name": "김뜻돌",
+    "eng": "Kim Ddeut Dol"
+  },
+  {
+    "name": "이랑",
+    "eng": "Lang Lee"
+  },
+  {
+    "name": "이승윤",
+    "eng": "Lee Seung Yoon"
+  },
+  {
+    "name": "최유리",
+    "eng": "Choi Yu Ree"
+  },
+  {
+    "name": "유라",
+    "eng": "youra"
+  },
+  {
+    "name": "선우정아",
+    "eng": "Sunwoo Jung A"
+  },
+  {
+    "name": "소란",
+    "eng": "SORAN"
+  },
+  {
+    "name": "짙은",
+    "eng": "Zitten"
+  },
+  {
+    "name": "세이수미",
+    "eng": "Say Sue Me"
+  },
+  {
+    "name": "스텔라장",
+    "eng": "Stella Jang"
+  },
+  {
+    "name": "안녕하신가영",
+    "eng": "Hello Gayoung"
+  },
+  {
+    "name": "루시",
+    "eng": "LUCY"
+  },
+  {
+    "name": "잠비나이",
+    "eng": "Jambinai"
+  },
+  {
+    "name": "디어클라우드",
+    "eng": "Dear Cloud"
+  },
+  {
+    "name": "9와 숫자들",
+    "eng": "9 and the Numbers"
+  },
+  {
+    "name": "볼빨간사춘기",
+    "eng": "BOL4"
+  },
+  {
+    "name": "파란노을",
+    "eng": "Parannoul"
+  },
+  {
+    "name": "이날치",
+    "eng": "LEENALCHI"
+  },
+  {
+    "name": "김사월",
+    "eng": "Kim Sawol"
+  },
+  {
+    "name": "로다운30",
+    "eng": "Lowdown 30"
+  },
+  {
+    "name": "신해경",
+    "eng": "Shin Hae Kyung"
+  },
+  {
+    "name": "프롬",
+    "eng": "FROMM"
+  },
+  {
+    "name": "ZICO",
+    "eng": "ZICO"
+  },
+  {
+    "name": "우원재",
+    "eng": "Woo Won Jae"
+  },
+  {
+    "name": "창모",
+    "eng": "CHANGMO"
+  },
+  {
+    "name": "코드쿤스트",
+    "eng": "CODE KUNST"
+  },
+  {
+    "name": "그루비룸",
+    "eng": "GroovyRoom"
+  },
+  {
+    "name": "사이먼도미닉",
+    "eng": "Simon Dominic"
+  },
+  {
+    "name": "기리보이",
+    "eng": "Giriboy"
+  },
+  {
+    "name": "팔로알토",
+    "eng": "Paloalto"
+  },
+  {
+    "name": "딥플로우",
+    "eng": "Deepflow"
+  },
+  {
+    "name": "스윙스",
+    "eng": "Swings"
+  },
+  {
+    "name": "저스디스",
+    "eng": "JUSTHIS"
+  },
+  {
+    "name": "던말릭",
+    "eng": "Don Malik"
+  },
+  {
+    "name": "릴러말즈",
+    "eng": "Leellamarz"
+  },
+  {
+    "name": "애쉬아일랜드",
+    "eng": "ASH ISLAND"
+  },
+  {
+    "name": "넉살",
+    "eng": "Nucksal"
+  },
+  {
+    "name": "pH-1",
+    "eng": "pH-1"
+  },
+  {
+    "name": "이영지",
+    "eng": "Lee Young Ji"
+  },
+  {
+    "name": "마미손",
+    "eng": "Mommy Son"
+  },
+  {
+    "name": "릴보이",
+    "eng": "lIlBOI"
+  },
+  {
+    "name": "비오",
+    "eng": "BE'O"
+  },
+  {
+    "name": "미란이",
+    "eng": "Mirani"
+  },
+  {
+    "name": "소코도모",
+    "eng": "Sokodomo"
+  },
+  {
+    "name": "김심야",
+    "eng": "Kim Ximya"
+  },
+  {
+    "name": "크러쉬",
+    "eng": "",
+    "note": "needs spotifyId (byName over-matches Prod. credits)"
+  },
+  {
+    "name": "콜드",
+    "eng": "Colde"
+  },
+  {
+    "name": "offonoff",
+    "eng": "offonoff"
+  },
+  {
+    "name": "수민",
+    "eng": "SUMIN"
+  },
+  {
+    "name": "래드뮤지엄",
+    "eng": "Rad Museum"
+  },
+  {
+    "name": "후디",
+    "eng": "Hoody"
+  },
+  {
+    "name": "쏠",
+    "eng": "Sole"
+  },
+  {
+    "name": "예지",
+    "eng": "Yaeji"
+  },
+  {
+    "name": "재키와이",
+    "eng": "Jvcki Wai"
+  },
+  {
+    "name": "염따",
+    "eng": "Yumdda"
+  },
+  {
+    "name": "슬롬",
+    "eng": "Slom"
+  },
+  {
+    "name": "비비",
+    "eng": "BIBI"
+  },
+  {
+    "name": "미노이",
+    "eng": "meenoi"
   }
 ]
