@@ -119,6 +119,10 @@ function extractTitles(html, linkPattern) {
   return [...new Set(out)].slice(0, L.titlesPerSource);
 }
 
+// 연속 요청 시 일부 사이트가 429를 뱉는다(실측: hiphopplaya · r/hiphopheads).
+// 소스당 간격을 두면 해결된다. 하루 1회 배치라 총 소요는 문제되지 않는다.
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
 function readJSON(p, fallback) {
   try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return fallback; }
 }
@@ -132,7 +136,10 @@ async function main() {
   const out = { date: today, rss: {}, titles: {}, failures: [] };
 
   // 1) RSS
+  let first = true;
   for (const src of CFG.rss) {
+    if (!first) await sleep(L.fetchDelayMs || 1500);
+    first = false;
     process.stdout.write(`[rss:${src.key}] `);
     try {
       const xml = await fetchText(src.url);
@@ -149,6 +156,7 @@ async function main() {
 
   // 2) 국내 매체 제목 diff
   for (const src of CFG.titles) {
+    await sleep(L.fetchDelayMs || 1500);
     process.stdout.write(`[titles:${src.key}] `);
     const snapPath = path.join(TITLE_DIR, `${src.key}.json`);
     try {
