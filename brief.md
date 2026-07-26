@@ -1,30 +1,18 @@
-# PLOT 데일리 브리프 — 2026-07-26
+# PLOT 데일리 브리프 — 2026-07-27
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-07-25
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-07-26
 
-> 밀도(Spotify 200 중 워치리스트): 51곡 · 25.5% (2026-07-25 대비 ▼1.0p)
+> 밀도(Spotify 200 중 워치리스트): 51곡 · 25.5% (2026-07-26 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 
-- **4위** JENNIE - Less than a Lover (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 단독
 - **26위** fromis_9 - Vitamin ME (+15) · Days 4
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
   ▸ 워치리스트 ✗ · 카탈로그 2곡 동시 · 플랫폼 동반(YouTube도)
-- **96위** aespa - KISS N TELL (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 4곡 동시
-- **144위** KATSEYE - Animal (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 단독
 - **154위** San E - Story of someone I know (+27) · Days 8
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
@@ -33,14 +21,10 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
   ▸ 릴러말즈 · 카탈로그 단독
-- **172위** Charli xcx - Camera (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 단독
 - **186위** BOL4 - Please Summer! (NEW) · Days 1
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
-  ▸ 볼빨간사춘기 · 카탈로그 단독
+  ▸ 볼빨간사춘기 · 카탈로그 단독 · 플랫폼 동반(YouTube도)
 - **7위** HANRORO - 0+0 (+3) · Days 310
   ▸ 하락 (한때 1위, −6)
   ▸ 롱테일 (약 10개월)
@@ -68,7 +52,20 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
   ▸ 하락 (한때 17위, −16)
   ▸ 롱테일 (약 14개월)
   ▸ Redoor · 카탈로그 단독
-_…외 15건 (원자료 참조)_
+- **37위** Nerd Connection - ‎Good Night Good Dream (-4) · Days 767
+  ▸ 하락 (한때 28위, −9)
+  ▸ 롱테일 (약 26개월)
+  ▸ 너드커넥션 · 카탈로그 2곡 동시
+- **41위** NOWIMYOUNG - KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki) (w/ Royal 44 , SUNWOO ) (-2) · Days 127
+  ▸ 하락 (한때 2위, −39)
+  ▸ 나우아임영 · 카탈로그 단독
+- **45위** VINXEN - FLYING HIGH WITH U (-1) · Days 159
+  ▸ 하락 (한때 21위, −24)
+  ▸ 빈첸 · 카탈로그 단독
+- **47위** hamo - 아크라포빅 (Akrapovic) (-2) · Days 161
+  ▸ 하락 (한때 4위, −43)
+  ▸ hamo · 카탈로그 단독
+_…외 11건 (원자료 참조)_
 
 ## 오음소 소재
 _소식 — 급등·재진입·오래된 곡의 이변_
@@ -164,50 +161,35 @@ _맥락 — 카탈로그 다곡·플랫폼 괴리_
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
 _…외 14곡군: ILLIT(4) · Hearts2Hearts(4) · AKMU(4) · Jung Kook(3) · Justin Bieber(3) · Kenshi Yonezu(3) · Jimin(2) · NMIXX(2) · fromis_9(2) · LE SSERAFIM(2) · PSY(2) · Sung Si Kyung(2) · San E(2) · The Weeknd(2)_
 
-_조인: YouTube 20곡 중 15곡 Spotify 매칭(정확 14·제목폴백 1) · 미매칭 5곡은 아래 'YouTube 선행'_
+_조인: YouTube 20곡 중 17곡 Spotify 매칭(정확 16·제목폴백 1) · 미매칭 3곡은 아래 'YouTube 선행'_
 
 **플랫폼 동반 (Spotify＋YouTube · 진짜 확산 → 특집)**
+- **BOL4 - Please Summer!** — SP 186위 · YT 20위  ← **워치리스트**
 - **CORTIS - REDRED** — SP 1위 · YT 1위
 - **RESCENE - LOVE ATTACK** — SP 2위 · YT 2위
 - **RESCENE - Pretty Girl** — SP 3위 · YT 4위
+- **JENNIE - Less than a Lover** — SP 4위 · YT 7위
 - **aespa - LEMONADE** — SP 5위 · YT 3위
 - **ILLIT - It's Me** — SP 6위 · YT 5위
-- **Hearts2Hearts - Lemon Tang** — SP 8위 · YT 17위
+- **Hearts2Hearts - Lemon Tang** — SP 8위 · YT 16위
 - **ATEEZ - BAD** — SP 10위 · YT 6위
 - **Hearts2Hearts - RUDE!** — SP 13위 · YT 11위
-- **RESCENE - Deja Vu** — SP 14위 · YT 8위
+- **RESCENE - Deja Vu** — SP 14위 · YT 10위
 - **WOODZ - Drowning** — SP 15위 · YT 14위
-- **TAEYEON - Bansanka** — SP 20위 · YT 12위
-- **OFFICIAL HIGE DANDISM - Pretender** — SP 22위 · YT 16위
-_…외 3곡_
+_…외 5곡_
 
 **YouTube 선행 (Spotify 200위 밖 · 대중·영상이 먼저 → MV/라이브클립 앵글)**
-- I.O.I - 갑자기 — YT 7위 (+1)
-- FIFTY FIFTY - Genie Magic — YT 9위 (NEW)
-- HANRORO - 사랑하게 될 거야 — YT 18위 (-2)  ← **워치리스트**
-- Novelbright - Walking with you — YT 19위 (-5)
-- YENA - 캐치 캐치 — YT 20위 (NEW)
+- I.O.I - 갑자기 — YT 8위 (-1)
+- FIFTY FIFTY - Genie Magic — YT 9위
+- YENA - 캐치 캐치 — YT 17위 (+3)
 
 ---
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-07-25_
+_비교 기준: 2026-07-26_
 ### 신규 진입
-- **4위** JENNIE - Less than a Lover (NEW) · Days 1
-- **96위** aespa - KISS N TELL (NEW) · Days 1
-- **144위** KATSEYE - Animal (NEW) · Days 1
-- **146위** Na Yoon Kwon - 나였으면 (RE) · Days 158
-- **162위** Coogie - Thursday (Feat. Leellamarz, Crush) (w/ Leellamarz , Crush ) (RE) · Days 2
-- **164위** BUMKEY - Attraction (w/ Dynamicduo ) (RE) · Days 26
-- **169위** DAVICHI - TIME CAPSULE (RE) · Days 173
-- **172위** Charli xcx - Camera (NEW) · Days 1
-- **174위** Turtles - 비행기 (RE) · Days 38
-- **186위** BOL4 - Please Summer! (NEW) · Days 1
-- **195위** Lim Young Woong - Don’t look back at me (RE) · Days 319
-- **198위** PLAVE - Born Savage (RE) · Days 101
-- **199위** PSY - Passionate Goodbye (Feat. Sung Si Kyung) (w/ Sung Si Kyung ) (RE) · Days 10
-- **200위** HEEDAE - OHYEOHYE (w/ C JAMM , BlackNut ) (RE) · Days 5
+없음
 ### 급등 (+15↑)
 - **26위** fromis_9 - Vitamin ME (+15) · Days 4
 - **69위** HANRORO - You and I (+21) · Days 16
@@ -289,19 +271,19 @@ _비교 기준: 2026-07-25_
 - **192위** DEAN - instagram (-35) · Days 1254  ← **DEAN**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-07-25_
+_비교 기준: 2026-07-26_
 ### 신규 진입
-- **9위** FIFTY FIFTY - Genie Magic (NEW)
-- **19위** Novelbright - Walking with you (-5)
+- **7위** JENNIE - Less than a Lover (NEW)
+- **20위** BOL4 - Please Summer! (NEW)
 ### 급등 (+15↑)
 없음
 ### 재진입 (RE)
 없음
 ### 이탈 (전일 100위 내)
-- **18위** Choi Yu Ree - 생각을 멈추다 보면 (-1)
-- **19위** HANRORO - 0+0 (=)
+- **18위** HANRORO - 사랑하게 될 거야 (-2)
+- **19위** Novelbright - Walking with you (-5)
 ### 워치리스트 히트 (1)
-- **18위** HANRORO - 사랑하게 될 거야 (-2)  ← **한로로**
+- **20위** BOL4 - Please Summer! (NEW)  ← **볼빨간사춘기**
 
 ---
 괴리 읽기: Spotify O/멜론 X → 오늘의 노래 · Shorts O/Top X → 이슈 · 전 차트 동반 → 특집. 자세한 건 운영 루틴 v10 §5-2.
