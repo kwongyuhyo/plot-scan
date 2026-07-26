@@ -8,7 +8,7 @@ on:
   workflow_dispatch: {}   # 수동 실행 버튼 (Actions 탭에서)
 
 permissions:
-  contents: write
+  contents: write   # 기본 GITHUB_TOKEN으로 커밋한다. PAT 불필요(만료 없음).
 
 jobs:
   scan:
@@ -20,13 +20,33 @@ jobs:
         with:
           node-version: '22'
 
+      # ── 1) 차트 (핵심) ─────────────────────────────────
+      # 파싱 실패 시 죽는다(SPEC §4). 잘못된 데이터를 쌓는 것보다 낫다.
       - name: run scan
         run: node scan.js
+
+      # ── 2) 파서 단위 테스트 ────────────────────────────
+      - name: test collect parsers
+        run: node collect.test.js
+
+      # ── 3) 피드·국내매체 수집 (보조) ───────────────────
+      # 클라우드 브리프 세션은 RSS를 판독하지 못하고(전부 binary) 차단 도메인도 많다.
+      # 여기서 대신 긁어 feeds.md 로 떨군다. 보조 소스라 실패해도 워크플로를 죽이지 않는다.
+      - name: collect feeds
+        continue-on-error: true
+        run: node collect.js
+
+      # ── 4) 워치리스트 발굴 풀 자동 승격 ────────────────
+      # 차트 급등·신규 진입인데 코어·커버리지 어디에도 없는 아티스트를 발굴 풀에 넣는다.
+      # 코어(watchlist.json)는 밀도 지표의 분모라 절대 건드리지 않는다.
+      - name: promote watchlist
+        continue-on-error: true
+        run: node promote.js
 
       - name: commit data
         run: |
           git config user.name "plot-scan"
           git config user.email "plot-scan@users.noreply.github.com"
-          git add data/ brief.md
+          git add data/ brief.md feeds.md watchlist-discovery.json watchlist-coverage.json
           git diff --cached --quiet && echo "변화 없음" || git commit -m "scan: $(date -u -d '+9 hours' +%F)"
           git push
