@@ -132,10 +132,14 @@ function withinDays(item, days) {
 
 // ── 국내 매체 제목 스냅샷 + diff ─────────────────────────
 function extractTitles(html, linkPattern) {
+  // linkPattern은 **선택**이다. 없으면 모든 링크에서 제목을 뽑는다.
+  // 새 매체를 붙일 때 URL 구조를 몰라도 일단 시도해볼 수 있게 하려는 것 —
+  // 길이 필터(5~120자)와 중복 제거가 대부분의 노이즈를 걸러준다.
+  const pat = linkPattern ? `(?:${linkPattern})` : '';
   // linkPattern이 캡처 그룹을 포함할 수 있으므로 제목은 **named group**으로 잡는다.
   // (그러지 않으면 m[1]이 linkPattern의 그룹을 가리켜 제목 대신 URL 조각이 나온다 — 실제로 겪은 버그)
   const re = new RegExp(
-    `<a[^>]+href=["'][^"']*(?:${linkPattern})["'][^>]*>(?<title>[\\s\\S]*?)<\\/a>`, 'gi');
+    `<a[^>]+href=["'][^"']*${pat}["'][^>]*>(?<title>[\\s\\S]*?)<\\/a>`, 'gi');
   const out = [];
   let m;
   while ((m = re.exec(html))) {

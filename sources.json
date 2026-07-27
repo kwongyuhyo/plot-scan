@@ -101,6 +101,41 @@
       "linkPattern": "(posts|article|news)/[0-9a-zA-Z-]+",
       "track": "T1",
       "_note": "패턴 미검증 — 실패하면 '제목 0건'으로 리포트되니 그때 정정"
+    },
+    {
+      "key": "weiv",
+      "label": "weiv",
+      "url": "https://weiv.co.kr/",
+      "track": "T2-발견",
+      "_note": "후보 — 음악 평론 웹진. 리뷰 중심이라 T2-발견 합격선(소리의 구체성)과 결이 맞다. 셀렉터 미지정: 첫 실행이 알려준다"
+    },
+    {
+      "key": "indistreet",
+      "label": "인디스트릿",
+      "url": "https://indistreet.com/",
+      "track": "T2-선점",
+      "_note": "후보 — 인디 공연 플랫폼. 라인업은 '아직 안 뜬 밴드'가 먼저 올라오는 자리라 선점 슬롯의 금맥"
+    },
+    {
+      "key": "ebs_space",
+      "label": "EBS 스페이스 공감",
+      "url": "https://www.ebs.co.kr/space/main",
+      "track": "T2-발견",
+      "_note": "후보 — 2026-04 부활. 출연 라인업 자체가 큐레이션된 발굴 리스트다"
+    },
+    {
+      "key": "visla",
+      "label": "VISLA",
+      "url": "https://visla.kr/",
+      "track": "T2-발견",
+      "_note": "후보 — 스트릿·힙합·인디 문화 매거진"
+    },
+    {
+      "key": "rhythmer",
+      "label": "리드머",
+      "url": "https://www.rhythmer.net/",
+      "track": "T2-발견",
+      "_note": "재시도 — 브리프 세션에선 SSL 인증서 키 취약으로 페치 불가였다. Actions의 Node는 다를 수 있으니 한 번 본다"
     }
   ],
   "_limits": {
