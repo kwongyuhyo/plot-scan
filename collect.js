@@ -38,20 +38,46 @@ function dateStr(d = new Date()) {
   return kst.toISOString().slice(0, 10);
 }
 
-async function fetchText(url) {
+// 429는 재시도로 대부분 풀린다. Reddit·힙합플레이야가 Actions IP에 레이트리밋을 건다(실측).
+// 백오프는 8s → 20s. 하루 1회 배치라 최악 30초 추가는 무의미한 비용이다.
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+const BACKOFF = [8000, 20000];
+
+async function fetchOnce(url) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), L.fetchTimeoutMs);
   try {
     const res = await fetch(url, {
       signal: ctrl.signal,
-      headers: { 'user-agent': UA, accept: '*/*', 'accept-language': 'ko,en;q=0.8' },
+      headers: {
+        'user-agent': UA,
+        accept: 'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/html;q=0.8, */*;q=0.5',
+        'accept-language': 'ko,en;q=0.8',
+        'cache-control': 'no-cache',
+      },
       redirect: 'follow',
     });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok) { const e = new Error(`HTTP ${res.status}`); e.status = res.status; throw e; }
     return await res.text();
   } finally {
     clearTimeout(t);
   }
+}
+
+async function fetchText(url) {
+  let last;
+  for (let i = 0; i <= BACKOFF.length; i++) {
+    try {
+      return await fetchOnce(url);
+    } catch (e) {
+      last = e;
+      // 429/503만 재시도한다. 403·404는 재시도해봐야 똑같다.
+      if (![429, 503].includes(e.status) || i === BACKOFF.length) throw e;
+      process.stdout.write(`(${e.status} 재시도 ${i + 1}) `);
+      await sleep(BACKOFF[i]);
+    }
+  }
+  throw last;
 }
 
 // ── XML/HTML 유틸 ────────────────────────────────────────
@@ -118,10 +144,6 @@ function extractTitles(html, linkPattern) {
   }
   return [...new Set(out)].slice(0, L.titlesPerSource);
 }
-
-// 연속 요청 시 일부 사이트가 429를 뱉는다(실측: hiphopplaya · r/hiphopheads).
-// 소스당 간격을 두면 해결된다. 하루 1회 배치라 총 소요는 문제되지 않는다.
-const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 function readJSON(p, fallback) {
   try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return fallback; }
