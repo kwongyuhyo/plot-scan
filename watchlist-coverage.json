@@ -1,0 +1,342 @@
+{
+  "_comment": "커버리지 리스트 — T1 누락 방지용. 밀도 지표(density.csv) 계산에는 절대 넣지 않는다. 코어(watchlist.json 108명)가 비운 축을 메운다. 사람이 관리한다. promote.js는 읽기만 한다.",
+  "_axes": "코어에 비어 있던 축: 해외 아티스트 0 · K-pop 사실상 0 · 재즈/일렉/앰비언트/포크/시티팝/국악크로스오버 0",
+  "updated": "2026-07-26",
+  "artists": [
+    {
+      "name": "뉴진스",
+      "eng": "NewJeans",
+      "axis": "K-pop"
+    },
+    {
+      "name": "아이브",
+      "eng": "IVE",
+      "axis": "K-pop"
+    },
+    {
+      "name": "르세라핌",
+      "eng": "LE SSERAFIM",
+      "axis": "K-pop"
+    },
+    {
+      "name": "에스파",
+      "eng": "aespa",
+      "axis": "K-pop"
+    },
+    {
+      "name": "세븐틴",
+      "eng": "SEVENTEEN",
+      "axis": "K-pop"
+    },
+    {
+      "name": "방탄소년단",
+      "eng": "BTS",
+      "axis": "K-pop"
+    },
+    {
+      "name": "스트레이 키즈",
+      "eng": "Stray Kids",
+      "axis": "K-pop"
+    },
+    {
+      "name": "투모로우바이투게더",
+      "eng": "TOMORROW X TOGETHER",
+      "axis": "K-pop"
+    },
+    {
+      "name": "제니",
+      "eng": "JENNIE",
+      "axis": "K-pop"
+    },
+    {
+      "name": "로제",
+      "eng": "ROSE",
+      "axis": "K-pop"
+    },
+    {
+      "name": "베이비몬스터",
+      "eng": "BABYMONSTER",
+      "axis": "K-pop"
+    },
+    {
+      "name": "키스오브라이프",
+      "eng": "KISS OF LIFE",
+      "axis": "K-pop"
+    },
+    {
+      "name": "엔믹스",
+      "eng": "NMIXX",
+      "axis": "K-pop"
+    },
+    {
+      "name": "라이즈",
+      "eng": "RIIZE",
+      "axis": "K-pop"
+    },
+    {
+      "name": "코르티스",
+      "eng": "CORTIS",
+      "axis": "K-pop"
+    },
+    {
+      "name": "임영웅",
+      "eng": "Lim Young Woong",
+      "axis": "성인가요"
+    },
+    {
+      "name": "이무진",
+      "eng": "Lee Mujin",
+      "axis": "국내 보컬"
+    },
+    {
+      "name": "박재범",
+      "eng": "Jay Park",
+      "axis": "힙합"
+    },
+    {
+      "name": "성시경",
+      "eng": "Sung Si Kyung",
+      "axis": "발라드 · 2026-07-26 역주행 미포착 건"
+    },
+    {
+      "name": "김광석",
+      "eng": "Kim Kwang Seok",
+      "axis": "카탈로그"
+    },
+    {
+      "name": "빅뱅",
+      "eng": "BIGBANG",
+      "axis": "카탈로그"
+    },
+    {
+      "name": "부활",
+      "eng": "BOOHWAL",
+      "axis": "카탈로그"
+    },
+    {
+      "name": "Radiohead",
+      "eng": "Radiohead",
+      "axis": "해외 얼터"
+    },
+    {
+      "name": "The Cure",
+      "eng": "The Cure",
+      "axis": "해외 얼터"
+    },
+    {
+      "name": "My Bloody Valentine",
+      "eng": "My Bloody Valentine",
+      "axis": "해외 슈게이즈"
+    },
+    {
+      "name": "Slowdive",
+      "eng": "Slowdive",
+      "axis": "해외 슈게이즈"
+    },
+    {
+      "name": "Beach House",
+      "eng": "Beach House",
+      "axis": "해외 드림팝"
+    },
+    {
+      "name": "Big Thief",
+      "eng": "Big Thief",
+      "axis": "해외 포크"
+    },
+    {
+      "name": "Phoebe Bridgers",
+      "eng": "Phoebe Bridgers",
+      "axis": "해외 포크"
+    },
+    {
+      "name": "Sufjan Stevens",
+      "eng": "Sufjan Stevens",
+      "axis": "해외 포크"
+    },
+    {
+      "name": "Bon Iver",
+      "eng": "Bon Iver",
+      "axis": "해외 포크"
+    },
+    {
+      "name": "Frank Ocean",
+      "eng": "Frank Ocean",
+      "axis": "해외 R&B"
+    },
+    {
+      "name": "SZA",
+      "eng": "SZA",
+      "axis": "해외 R&B"
+    },
+    {
+      "name": "Kendrick Lamar",
+      "eng": "Kendrick Lamar",
+      "axis": "해외 힙합"
+    },
+    {
+      "name": "Tyler, The Creator",
+      "eng": "Tyler, The Creator",
+      "axis": "해외 힙합"
+    },
+    {
+      "name": "JPEGMAFIA",
+      "eng": "JPEGMAFIA",
+      "axis": "해외 힙합"
+    },
+    {
+      "name": "Charli XCX",
+      "eng": "Charli XCX",
+      "axis": "해외 팝"
+    },
+    {
+      "name": "Caroline Polachek",
+      "eng": "Caroline Polachek",
+      "axis": "해외 팝"
+    },
+    {
+      "name": "Fred again..",
+      "eng": "Fred again..",
+      "axis": "일렉트로닉"
+    },
+    {
+      "name": "Jamie xx",
+      "eng": "Jamie xx",
+      "axis": "일렉트로닉"
+    },
+    {
+      "name": "Floating Points",
+      "eng": "Floating Points",
+      "axis": "일렉트로닉"
+    },
+    {
+      "name": "Four Tet",
+      "eng": "Four Tet",
+      "axis": "일렉트로닉"
+    },
+    {
+      "name": "Aphex Twin",
+      "eng": "Aphex Twin",
+      "axis": "일렉트로닉"
+    },
+    {
+      "name": "坂本龍一",
+      "eng": "Ryuichi Sakamoto",
+      "axis": "앰비언트·현대"
+    },
+    {
+      "name": "原摩利彦",
+      "eng": "Marihiko Hara",
+      "axis": "앰비언트·영화음악 · 2026-07-26 T2 발견 건"
+    },
+    {
+      "name": "Hiroshi Yoshimura",
+      "eng": "Hiroshi Yoshimura",
+      "axis": "앰비언트"
+    },
+    {
+      "name": "King Gnu",
+      "eng": "King Gnu",
+      "axis": "일본 밴드"
+    },
+    {
+      "name": "Fujii Kaze",
+      "eng": "Fujii Kaze",
+      "axis": "일본"
+    },
+    {
+      "name": "Vaundy",
+      "eng": "Vaundy",
+      "axis": "일본"
+    },
+    {
+      "name": "羊文学",
+      "eng": "Hitsujibungaku",
+      "axis": "일본 슈게이즈"
+    },
+    {
+      "name": "Tatsuro Yamashita",
+      "eng": "Tatsuro Yamashita",
+      "axis": "시티팝"
+    },
+    {
+      "name": "이날치",
+      "eng": "LEENALCHI",
+      "axis": "국악 크로스오버"
+    },
+    {
+      "name": "추다혜차지스",
+      "eng": "Chudahye Chagis",
+      "axis": "국악 크로스오버"
+    },
+    {
+      "name": "블랙스트링",
+      "eng": "Black String",
+      "axis": "국악 크로스오버"
+    },
+    {
+      "name": "악단광칠",
+      "eng": "ADG7",
+      "axis": "국악 크로스오버"
+    },
+    {
+      "name": "고래야",
+      "eng": "Coreyah",
+      "axis": "국악 크로스오버"
+    },
+    {
+      "name": "달음",
+      "eng": "Daleum",
+      "axis": "국악 크로스오버"
+    },
+    {
+      "name": "윤석철트리오",
+      "eng": "Yoon Seokcheol Trio",
+      "axis": "재즈"
+    },
+    {
+      "name": "Sungjae Son",
+      "eng": "Sungjae Son",
+      "axis": "재즈"
+    },
+    {
+      "name": "정미조",
+      "eng": "Jung Mi Jo",
+      "axis": "카탈로그"
+    },
+    {
+      "name": "혁오",
+      "eng": "HYUKOH",
+      "axis": "코어 중복 — 매칭 확인용"
+    },
+    {
+      "name": "악뮤",
+      "eng": "AKMU",
+      "axis": "국내 듀오"
+    },
+    {
+      "name": "경서예지",
+      "eng": "GyeongseoYeji",
+      "axis": "국내 보컬 · 2026-07-26 +52 미포착"
+    },
+    {
+      "name": "프로미스나인",
+      "eng": "fromis_9",
+      "axis": "K-pop"
+    },
+    {
+      "name": "산이",
+      "eng": "San E",
+      "axis": "힙합"
+    },
+    {
+      "name": "피프티피프티",
+      "eng": "FIFTY FIFTY",
+      "axis": "K-pop"
+    },
+    {
+      "name": "최예나",
+      "eng": "YENA",
+      "axis": "K-pop"
+    }
+  ]
+}
