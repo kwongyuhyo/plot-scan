@@ -1,9 +1,29 @@
 name: daily-scan
 
+# ─────────────────────────────────────────────────────────────
+# 설계 원칙 (2026-08-01 개정 — 4일 정지 사고 이후)
+#
+#   **어떤 단계도 다른 단계의 데이터 수집을 막지 못한다.**
+#
+#   사고 경위: collect.test.js 의 픽스처 날짜가 하드코딩(2026-07-25)돼 있었고
+#   rssMaxAgeDays=3 필터 테스트가 07-29에 자연 만료로 실패했다. 이 단계가 fatal 이라
+#   워크플로가 통째로 죽었고 scan·collect·promote·commit 전부 도달하지 못했다.
+#   차트도 뉴스도 4일간 멈췄다 — 그 사이 BTS·그래미 건(07-29)이 통째로 유실됐다.
+#
+#   그래서 바꾼 것:
+#   1) 단위 테스트는 이 워크플로에서 뺐다 → test.yml (push/PR 에서만 돈다)
+#   2) 모든 수집 단계는 continue-on-error. 하나 죽어도 나머지는 돈다
+#   3) 커밋은 if: always() — 부분 성공이라도 반드시 남긴다
+#   4) 결과를 health.json 에 적는다. 브리프가 이걸 읽고 **첫 줄에** 상태를 띄운다
+#   5) 실패가 있으면 마지막 단계에서 job 을 빨갛게 만든다 → GitHub 알림이 온다
+# ─────────────────────────────────────────────────────────────
+
 on:
   schedule:
     # UTC 22:30 = KST 07:30 — Spotify 전일 차트 확정(KST 07:00) 직후
     # 주의: Actions 스케줄은 몇 분~몇십 분 지연될 수 있음. 하루 1회 수집엔 무관.
+    # 주의2: 레포에 사람 커밋이 60일간 없으면 GitHub이 스케줄을 자동 비활성화한다.
+    #        (Actions 봇 커밋은 활동으로 안 쳐준다) → 두 달에 한 번은 손으로 밀어야 한다.
     - cron: '30 22 * * *'
   workflow_dispatch: {}   # 수동 실행 버튼 (Actions 탭에서)
 
@@ -20,33 +40,76 @@ jobs:
         with:
           node-version: '22'
 
-      # ── 1) 차트 (핵심) ─────────────────────────────────
-      # 파싱 실패 시 죽는다(SPEC §4). 잘못된 데이터를 쌓는 것보다 낫다.
-      - name: run scan
-        run: node scan.js
-
-      # ── 2) 파서 단위 테스트 ────────────────────────────
-      - name: test collect parsers
-        run: node collect.test.js
-
-      # ── 3) 피드·국내매체 수집 (보조) ───────────────────
-      # 클라우드 브리프 세션은 RSS를 판독하지 못하고(전부 binary) 차단 도메인도 많다.
-      # 여기서 대신 긁어 feeds.md 로 떨군다. 보조 소스라 실패해도 워크플로를 죽이지 않는다.
+      # ── 1) 피드·국내매체 수집 ──────────────────────────
+      # 제일 먼저 돌린다. 뉴스는 그날 못 잡으면 영영 못 잡는다(차트는 다음날 복구 가능).
       - name: collect feeds
+        id: collect
         continue-on-error: true
         run: node collect.js
 
-      # ── 4) 워치리스트 발굴 풀 자동 승격 ────────────────
+      # ── 2) 차트 ────────────────────────────────────────
+      # 파싱 실패 시 스크립트가 죽는다(SPEC §4). 잘못된 데이터를 쌓는 것보다 낫다.
+      # 단 워크플로는 죽이지 않는다 — 죽이면 위에서 모은 뉴스까지 같이 날아간다.
+      - name: run scan
+        id: scan
+        continue-on-error: true
+        run: node scan.js
+
+      # ── 3) 워치리스트 발굴 풀 자동 승격 ────────────────
       # 차트 급등·신규 진입인데 코어·커버리지 어디에도 없는 아티스트를 발굴 풀에 넣는다.
       # 코어(watchlist.json)는 밀도 지표의 분모라 절대 건드리지 않는다.
       - name: promote watchlist
+        id: promote
         continue-on-error: true
         run: node promote.js
 
+      # ── 4) 상태 기록 ───────────────────────────────────
+      # 브리프가 읽는다. "수집실패"를 문서 맨 끝에 적어두면 아무도 안 읽는다는 걸
+      # 4일 정지 사고로 배웠다. 기계가 읽을 수 있는 자리에 둔다.
+      - name: write health
+        if: always()
+        run: |
+          cat > health.json <<EOF
+          {
+            "date": "$(date -u -d '+9 hours' +%F)",
+            "ranAtUtc": "$(date -u +%FT%TZ)",
+            "steps": {
+              "collect": "${{ steps.collect.outcome }}",
+              "scan": "${{ steps.scan.outcome }}",
+              "promote": "${{ steps.promote.outcome }}"
+            }
+          }
+          EOF
+          python3 - <<'PY'
+          import json
+          h = json.load(open('health.json'))
+          h['failed'] = [k for k, v in h['steps'].items() if v != 'success']
+          h['ok'] = not h['failed']
+          json.dump(h, open('health.json', 'w'), ensure_ascii=False, indent=2)
+          print(json.dumps(h, ensure_ascii=False))
+          PY
+
+      # ── 5) 커밋 ────────────────────────────────────────
+      # always() — 일부만 성공했어도 그 일부는 반드시 남긴다.
       - name: commit data
+        if: always()
         run: |
           git config user.name "plot-scan"
           git config user.email "plot-scan@users.noreply.github.com"
-          git add data/ brief.md feeds.md watchlist-discovery.json watchlist-coverage.json
-          git diff --cached --quiet && echo "변화 없음" || git commit -m "scan: $(date -u -d '+9 hours' +%F)"
-          git push
+          git add -A data/ brief.md feeds.md health.json \
+                    watchlist-discovery.json watchlist-coverage.json 2>/dev/null || true
+          git diff --cached --quiet && echo "변화 없음" \
+            || git commit -m "scan: $(date -u -d '+9 hours' +%F)"
+          git push || echo "push 실패 — 다음 실행에서 재시도된다"
+
+      # ── 6) 실패 신고 ───────────────────────────────────
+      # 여기서만 job 을 빨갛게 만든다. 데이터는 이미 커밋된 뒤다.
+      - name: report failures
+        if: always()
+        run: |
+          FAILED=$(python3 -c "import json;print(','.join(json.load(open('health.json'))['failed']))")
+          if [ -n "$FAILED" ]; then
+            echo "::error::수집 단계 실패 — $FAILED (데이터는 부분 커밋됨. health.json 확인)"
+            exit 1
+          fi
+          echo "전 단계 정상"

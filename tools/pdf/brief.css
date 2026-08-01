@@ -1,0 +1,106 @@
+/* brief.css — PLOT/매거진 브리프 PDF 스타일
+   화면용이 아니라 인쇄용이다. 흑백 출력에서도 위계가 살아남게 짰다. */
+
+@page {
+  size: A4;
+  margin: 16mm 15mm 18mm 15mm;
+  /* 페이지 번호. weasyprint 경로에서만 동작한다(wkhtmltopdf 는 무시). */
+  @bottom-right {
+    content: counter(page) " / " counter(pages);
+    font-family: "Noto Sans CJK KR", sans-serif;
+    font-size: 8pt; color: #9aa1ac;
+  }
+  @bottom-left {
+    content: string(doctitle);
+    font-family: "Noto Sans CJK KR", sans-serif;
+    font-size: 8pt; color: #9aa1ac;
+  }
+}
+
+body {
+  font-family: "Noto Sans CJK KR", "Noto Color Emoji", sans-serif;
+  font-size: 10.2pt;
+  line-height: 1.62;
+  color: #16181d;
+  max-width: 100%;
+  margin: 0;
+  word-break: keep-all;      /* 한글은 어절 단위로 끊는다 */
+  overflow-wrap: break-word;
+}
+
+h1 {
+  font-size: 18pt; font-weight: 800; letter-spacing: -0.02em;
+  margin: 0 0 4pt; padding-bottom: 7pt;
+  border-bottom: 2.5pt solid #16181d;
+  string-set: doctitle content();   /* 각 페이지 왼쪽 아래에 문서명 반복 */
+}
+h2 {
+  font-size: 13pt; font-weight: 800; letter-spacing: -0.01em;
+  margin: 20pt 0 7pt; padding-left: 7pt;
+  border-left: 3.5pt solid #16181d;
+  page-break-after: avoid;
+}
+h3 {
+  font-size: 11pt; font-weight: 700;
+  margin: 13pt 0 5pt; color: #2b2f38;
+  page-break-after: avoid;
+}
+h4 { font-size: 10.2pt; font-weight: 700; margin: 10pt 0 4pt; }
+
+p, li { margin: 0 0 5pt; }
+ul, ol { padding-left: 17pt; margin: 0 0 7pt; }
+li::marker { color: #7a808c; }
+
+strong { font-weight: 800; }
+em { font-style: normal; color: #5b6068; }   /* 이탤릭 한글은 가독이 나쁘다 */
+
+a { color: #16181d; text-decoration: none; border-bottom: 0.4pt solid #b9bec7; }
+
+hr {
+  border: 0; border-top: 0.6pt solid #d6dae1;
+  margin: 16pt 0;
+}
+
+/* 인용 — 브리프에서 '기준일·규격' 머리말에 쓰인다 */
+blockquote {
+  margin: 9pt 0; padding: 7pt 11pt;
+  background: #f4f6f8;
+  border-left: 2.5pt solid #9aa1ac;
+  font-size: 9.3pt; color: #3d424b;
+}
+blockquote p { margin: 0 0 3pt; }
+blockquote p:last-child { margin: 0; }
+
+/* 봇 초안 블록 — 그대로 복붙하는 물건이라 원문 개행을 보존한다 */
+pre {
+  font-family: "Noto Sans Mono CJK KR", monospace;
+  font-size: 8.6pt; line-height: 1.5;
+  background: #fbfbfc;
+  border: 0.6pt solid #dde1e7;
+  border-radius: 3pt;
+  padding: 9pt 11pt;
+  white-space: pre-wrap;
+  word-break: break-all;
+  page-break-inside: avoid;   /* 카드뉴스 초안이 페이지에 걸려 잘리면 못 쓴다 */
+}
+code {
+  font-family: "Noto Sans Mono CJK KR", monospace;
+  font-size: 0.9em;
+  background: #eef0f3; padding: 0.5pt 3pt; border-radius: 2pt;
+}
+pre code { background: none; padding: 0; font-size: inherit; }
+
+table {
+  border-collapse: collapse; width: 100%;
+  margin: 9pt 0; font-size: 9.3pt;
+  page-break-inside: avoid;
+}
+th {
+  background: #eef0f3; font-weight: 800; text-align: left;
+  border-bottom: 1.2pt solid #9aa1ac;
+}
+th, td {
+  padding: 4.5pt 7pt;
+  border-bottom: 0.5pt solid #e2e5ea;
+  vertical-align: top;
+}

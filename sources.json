@@ -60,6 +60,68 @@
       "label": "r/hiphopheads",
       "url": "https://www.reddit.com/r/hiphopheads/new/.rss",
       "track": "신호"
+    },
+    {
+      "key": "starnews",
+      "label": "스타뉴스",
+      "url": "https://rss.mt.co.kr/st_news.xml",
+      "track": "T1",
+      "note": "워터밤 비비 논란을 최초 기사화한 곳. 사후 화제가 가장 먼저 활자가 되는 경로."
+    },
+    {
+      "key": "khan_music",
+      "label": "스포츠경향 음악",
+      "url": "https://sports.khan.co.kr/rss/entertainment_music",
+      "track": "T1",
+      "note": "음악 전용 피드. 국내 신보·공연 기사 축."
+    },
+    {
+      "key": "khan_ent",
+      "label": "스포츠경향 연예",
+      "url": "https://sports.khan.co.kr/rss/entertainment",
+      "track": "T1",
+      "note": "페스티벌 현장·논란이 실리는 넓은 축. 8/1 펜타포트 현장 기사 확인."
+    },
+    {
+      "key": "isplus",
+      "label": "일간스포츠",
+      "url": "https://isplus.com/rss",
+      "track": "T1"
+    },
+    {
+      "key": "yt_waterbomb",
+      "label": "워터밤 공식",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSk-o7uCpprI1GNvmt070cQ",
+      "track": "신호-현장",
+      "note": "미실측. 주최측은 비논란곡만 올리는 경향(2026 서울: BUMPA만 공식) — 공식배포 판정용이지 화제도 판정용이 아니다."
+    },
+    {
+      "key": "yt_pentaport",
+      "label": "펜타포트 공식",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW1xu9TsNT8NJ1HlJkrMvUw",
+      "track": "신호-현장",
+      "note": "미실측"
+    },
+    {
+      "key": "yt_gmf",
+      "label": "GMF 공식",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMBo4sUxfySb9OIE2f31tbQ",
+      "track": "신호-현장",
+      "note": "미실측"
+    },
+    {
+      "key": "yt_mintpaper",
+      "label": "민트페이퍼",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJNcA7z2dPXEHF27zn9WYw",
+      "track": "신호-현장",
+      "note": "미실측. GMF 주최사"
+    },
+    {
+      "key": "yt_busanrock",
+      "label": "부산국제록페스티벌",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA9vUK8KKADTPa7lKGD1FSA",
+      "track": "신호-현장",
+      "note": "미실측"
     }
   ],
   "_titles_comment": "날짜가 HTML에 노출되지 않는 국내 매체. 제목 스냅샷을 떠서 전일 대비 diff로 '신규'를 판정한다. 이게 없으면 신규 여부를 알 수 없다.",

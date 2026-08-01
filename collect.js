@@ -58,9 +58,35 @@ async function fetchOnce(url) {
       redirect: 'follow',
     });
     if (!res.ok) { const e = new Error(`HTTP ${res.status}`); e.status = res.status; throw e; }
-    return await res.text();
+    return decodeBody(Buffer.from(await res.arrayBuffer()), res.headers.get('content-type'));
   } finally {
     clearTimeout(t);
+  }
+}
+
+// 국내 매체 RSS는 상당수가 EUC-KR이다. res.text()는 무조건 UTF-8로 디코딩하므로
+// 한글이 통째로 깨진다 — 그런데 **파싱은 성공해서 조용히 쓰레기가 쌓인다.**
+// 명시적 실패보다 나쁘다. 그래서 헤더 → XML선언 → meta 순으로 charset을 찾아 직접 디코딩한다.
+const CHARSET_RE = /charset\s*=\s*["']?([\w.:-]+)/i;
+
+function normCharset(cs) {
+  cs = String(cs || '').toLowerCase().replace(/["';]/g, '').trim();
+  if (['ks_c_5601-1987', 'ksc5601', 'ksc_5601', 'euckr', 'cp949', 'ms949'].includes(cs)) return 'euc-kr';
+  return cs || 'utf-8';
+}
+
+function decodeBody(buf, contentType) {
+  let cs = contentType && contentType.match(CHARSET_RE)?.[1];
+  if (!cs) {
+    // 선언은 파일 앞부분에 있다. latin1로 읽으면 어떤 인코딩이든 ASCII 부분은 온전하다.
+    const head = buf.subarray(0, 2048).toString('latin1');
+    cs = head.match(/encoding\s*=\s*["']([\w.:-]+)["']/i)?.[1] || head.match(CHARSET_RE)?.[1];
+  }
+  cs = normCharset(cs);
+  try {
+    return new TextDecoder(cs, { fatal: false }).decode(buf);
+  } catch {
+    return buf.toString('utf8');   // 모르는 인코딩이면 UTF-8로 떨어진다
   }
 }
 
@@ -208,7 +234,9 @@ async function main() {
 
 // 브리프가 읽는 요약. T2 슬롯 우선순위로 정렬한다.
 function renderFeeds(out) {
-  const order = ['T2-발견', 'T2-선점', 'T1', '신호'];
+  // 신호-현장을 맨 앞에 둔다. 페스티벌 다음날 공식 클립이 올라오는지가
+  // D+1 후속(어느 무대가 터졌나)의 출발점이라 브리프가 제일 먼저 봐야 한다.
+  const order = ['신호-현장', 'T2-발견', 'T2-선점', 'T1', '신호'];
   let md = `# PLOT 피드 수집 — ${out.date}\n\n`;
   md += `> GitHub Actions가 수집. 브리프는 이 파일을 읽는다(RSS 직접 페치 불가 우회).\n`;
   md += `> 트랙 표기는 \`셀렉션-기준-정본.md\` 의 T1/T2 슬롯과 대응한다.\n\n`;
@@ -255,4 +283,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { parseFeed, extractTitles, stripTags, decodeEnt, unCDATA, linkOf, withinDays, renderFeeds };
+module.exports = { parseFeed, extractTitles, stripTags, decodeEnt, unCDATA, linkOf, withinDays, renderFeeds, decodeBody, normCharset };

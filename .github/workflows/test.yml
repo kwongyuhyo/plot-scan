@@ -1,0 +1,37 @@
+name: test
+
+# 단위 테스트는 **여기서만** 돈다.
+# daily-scan 에 두면 테스트 하나가 깨질 때 그날 뉴스·차트가 통째로 유실된다.
+# 실제로 그렇게 4일을 잃었다(2026-07-29~08-01). 다시는 섞지 않는다.
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+  workflow_dispatch: {}
+
+jobs:
+  unit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: collect parsers
+        run: node collect.test.js
+
+      - name: sources.json 유효성
+        run: |
+          node -e "
+            const s = require('./sources.json');
+            const seen = new Set();
+            for (const r of [...s.rss, ...s.titles]) {
+              if (!r.key || !r.url) throw new Error('key/url 누락: ' + JSON.stringify(r));
+              if (seen.has(r.key)) throw new Error('key 중복: ' + r.key);
+              seen.add(r.key);
+              new URL(r.url);
+            }
+            console.log('rss ' + s.rss.length + ' · titles ' + s.titles.length + ' · 중복 없음');
+          "

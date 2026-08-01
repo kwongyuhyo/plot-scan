@@ -1,0 +1,30 @@
+name: feedcheck
+
+# 소스가 살아있는지 한 화면으로 본다. Actions 탭에서 손으로 돌린다.
+#
+# 왜 Actions 인가: 클라우드 브리프 세션·개발 컨테이너는 이그레스 프록시가 외부 fetch를
+# 전부 403으로 막아서 살아있는 소스도 죽은 것처럼 보인다. Actions 러너만 진짜를 본다.
+#
+# 새 소스를 sources.json 에 넣기 전에 여기서 먼저 돌려라 —
+# "재보지 않은 소스는 넣지 않는다"(수집소스-레지스트리)를 지키는 유일한 수단이다.
+
+on:
+  workflow_dispatch:
+    inputs:
+      filter:
+        description: 'key 앞부분 필터 (공백 구분, 비우면 전체)'
+        required: false
+        default: ''
+  schedule:
+    - cron: '0 23 * * 0'   # 일요일 KST 08:00 — 주 1회 자동 점검
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: check feeds
+        run: node tools/feedcheck.js ${{ github.event.inputs.filter }}
