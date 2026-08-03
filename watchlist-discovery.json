@@ -1,7 +1,7 @@
 {
   "_comment": "발굴 풀 — promote.js가 자동 관리. 차트에서 급등/신규 진입했는데 코어·커버리지 어디에도 없는 아티스트. 밀도 지표 계산에는 절대 넣지 않는다. 관찰하다 확실해지면 사람이 watchlist-coverage.json으로 옮긴다.",
-  "updated": "2026-08-03",
-  "count": 19,
+  "updated": "2026-08-04",
+  "count": 22,
   "artists": [
     {
       "name": "HEEDAE",
@@ -68,9 +68,9 @@
       "eng": "",
       "spotifyId": "4PPkRMbw2jIs7flJkl4okf",
       "firstSeen": "2026-08-02",
-      "lastSeen": "2026-08-02",
+      "lastSeen": "2026-08-04",
       "bestRank": 104,
-      "hits": 1,
+      "hits": 2,
       "note": "자동 승격 — spotify 104위 +15"
     },
     {
@@ -78,9 +78,9 @@
       "eng": "",
       "spotifyId": "5y8tKLUfMvliMe8IKamR32",
       "firstSeen": "2026-08-02",
-      "lastSeen": "2026-08-02",
-      "bestRank": 132,
-      "hits": 1,
+      "lastSeen": "2026-08-04",
+      "bestRank": 122,
+      "hits": 2,
       "note": "자동 승격 — spotify 132위 +19"
     },
     {
@@ -178,9 +178,9 @@
       "eng": "",
       "spotifyId": "2dd5mrQZvg6SmahdgVKDzh",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-08-03",
-      "bestRank": 171,
-      "hits": 1,
+      "lastSeen": "2026-08-04",
+      "bestRank": 147,
+      "hits": 2,
       "note": "자동 승격 — spotify 171위 +27"
     },
     {
@@ -192,6 +192,36 @@
       "bestRank": 176,
       "hits": 1,
       "note": "자동 승격 — spotify 176위 +19"
+    },
+    {
+      "name": "Taylor Swift",
+      "eng": "",
+      "spotifyId": "06HL4z0CvFAxyc27GXpf02",
+      "firstSeen": "2026-08-04",
+      "lastSeen": "2026-08-04",
+      "bestRank": 124,
+      "hits": 1,
+      "note": "자동 승격 — spotify 124위 +20"
+    },
+    {
+      "name": "The Weeknd",
+      "eng": "",
+      "spotifyId": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "firstSeen": "2026-08-04",
+      "lastSeen": "2026-08-04",
+      "bestRank": 146,
+      "hits": 1,
+      "note": "자동 승격 — spotify 146위 +15"
+    },
+    {
+      "name": "Leessang",
+      "eng": "",
+      "spotifyId": "0JGN9XIqm3vfg7hhPHjExI",
+      "firstSeen": "2026-08-04",
+      "lastSeen": "2026-08-04",
+      "bestRank": 183,
+      "hits": 1,
+      "note": "자동 승격 — spotify 183위 +17"
     }
   ]
 }
