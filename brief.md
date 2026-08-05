@@ -1,10 +1,10 @@
-# PLOT 데일리 브리프 — 2026-08-05
+# PLOT 데일리 브리프 — 2026-08-06
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-08-04
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-08-05
 
-> 밀도(Spotify 200 중 워치리스트): 54곡 · 27.0% (2026-08-04 대비 ▲1.5p)
+> 밀도(Spotify 200 중 워치리스트): 54곡 · 27.0% (2026-08-05 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
@@ -12,23 +12,11 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 - **32위** BOL4 - Please Summer! (+10) · Days 11
   ▸ 상승 중 (정점 미도달)
   ▸ 볼빨간사춘기 · 카탈로그 2곡 동시 · 플랫폼 동반(YouTube도)
-- **37위** Red Velvet - Surfin' Boy (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 2곡 동시
 - **51위** CORTIS - MOTION (w/ Juicy J ) (+25) · Days 4
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
   ▸ 워치리스트 ✗ · 카탈로그 6곡 동시
 - **144위** Supreme Team - Then Then Then (w/ Youngjun ) (RE) · Days 7
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 단독
-- **181위** Red Velvet - Hot Girls Cold Vibe (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 2곡 동시
-- **190위** She & Him - I Thought I Saw Your Face Today (NEW) · Days 1
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
   ▸ 워치리스트 ✗ · 카탈로그 단독
@@ -67,7 +55,18 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
   ▸ 하락 (한때 15위, −18)
   ▸ 롱테일 (약 20개월)
   ▸ GRAY · 카탈로그 단독
-_…외 15건 (원자료 참조)_
+- **36위** 데이먼스 이어 Damons year - yours (-1) · Days 1376
+  ▸ 하락 (한때 6위, −30)
+  ▸ 롱테일 (약 46개월)
+  ▸ 데이먼스 이어 · 카탈로그 단독
+- **42위** Nerd Connection - ‎Good Night Good Dream (-2) · Days 777
+  ▸ 하락 (한때 28위, −14)
+  ▸ 롱테일 (약 26개월)
+  ▸ 너드커넥션 · 카탈로그 2곡 동시
+- **49위** NOWIMYOUNG - KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki) (w/ Royal 44 , SUNWOO ) (=) · Days 137
+  ▸ 하락 (한때 2위, −47)
+  ▸ 나우아임영 · 카탈로그 단독
+_…외 12건 (원자료 참조)_
 
 ## 오음소 소재
 _소식 — 급등·재진입·오래된 곡의 이변_
@@ -167,47 +166,33 @@ _…외 17곡군: aespa(5) · Hearts2Hearts(5) · ILLIT(4) · Jung Kook(4) · AK
 _조인: YouTube 20곡 중 16곡 Spotify 매칭(정확 16·제목폴백 0) · 미매칭 4곡은 아래 'YouTube 선행'_
 
 **플랫폼 동반 (Spotify＋YouTube · 진짜 확산 → 특집)**
-- **BOL4 - Please Summer!** — SP 32위 · YT 14위  ← **워치리스트**
+- **BOL4 - Please Summer!** — SP 32위 · YT 13위  ← **워치리스트**
 - **CORTIS - REDRED** — SP 1위 · YT 4위
-- **RESCENE - LOVE ATTACK** — SP 2위 · YT 1위
+- **RESCENE - LOVE ATTACK** — SP 2위 · YT 2위
 - **JENNIE - Less than a Lover** — SP 3위 · YT 9위
 - **RESCENE - Pretty Girl** — SP 4위 · YT 6위
-- **aespa - LEMONADE** — SP 5위 · YT 2위
+- **aespa - LEMONADE** — SP 5위 · YT 1위
 - **ILLIT - It's Me** — SP 7위 · YT 5위
 - **ATEEZ - BAD** — SP 10위 · YT 3위
-- **RESCENE - Deja Vu** — SP 12위 · YT 10위
-- **Hearts2Hearts - RUDE!** — SP 14위 · YT 8위
-- **fromis_9 - Vitamin ME** — SP 16위 · YT 13위
-- **WOODZ - Drowning** — SP 19위 · YT 15위
+- **RESCENE - Deja Vu** — SP 12위 · YT 11위
+- **Hearts2Hearts - RUDE!** — SP 14위 · YT 7위
+- **fromis_9 - Vitamin ME** — SP 16위 · YT 12위
+- **WOODZ - Drowning** — SP 19위 · YT 16위
 _…외 4곡_
 
 **YouTube 선행 (Spotify 200위 밖 · 대중·영상이 먼저 → MV/라이브클립 앵글)**
-- I.O.I - 갑자기 — YT 7위
-- YENA - 캐치 캐치 — YT 16위 (-1)
-- HANRORO - 사랑하게 될 거야 — YT 17위 (-1)  ← **워치리스트**
-- Choi Yu Ree - 생각을 멈추다 보면 — YT 20위 (NEW)  ← **워치리스트**
+- BABYMONSTER - MOON — YT 8위 (NEW)
+- I.O.I - 갑자기 — YT 10위 (-3)
+- Choi Yu Ree - 생각을 멈추다 보면 — YT 17위 (+3)  ← **워치리스트**
+- HANRORO - 사랑하게 될 거야 — YT 18위 (-1)  ← **워치리스트**
 
 ---
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-08-04_
+_비교 기준: 2026-08-05_
 ### 신규 진입
-- **37위** Red Velvet - Surfin' Boy (NEW) · Days 1
-- **144위** Supreme Team - Then Then Then (w/ Youngjun ) (RE) · Days 7
-- **167위** San E - A midsummer night's sweetness (w/ Raina ) (RE) · Days 16
-- **172위** Tim - 사랑합니다... (RE) · Days 170
-- **174위** SPYAIR - サムライハート(Some Like It Hot!!) (RE) · Days 527
-- **179위** GIRIBOY - Let's Not Love Each Other (RE) · Days 18
-- **180위** aespa - Supernova (RE) · Days 706
-- **181위** Red Velvet - Hot Girls Cold Vibe (NEW) · Days 1
-- **184위** DAY6 - You Were Beautiful (RE) · Days 1083
-- **190위** She & Him - I Thought I Saw Your Face Today (NEW) · Days 1
-- **192위** BOL4 - Eternal love (RE) · Days 147
-- **193위** Redoor - Feathers (NEW) · Days 1
-- **195위** DELISPICE - 고백 (RE) · Days 155
-- **197위** Baek A - Amor (RE) · Days 1158
-- **198위** Epik High - 우산 (w/ Younha ) (RE) · Days 206
+없음
 ### 급등 (+15↑)
 - **51위** CORTIS - MOTION (w/ Juicy J ) (+25) · Days 4
 - **54위** aespa - Whiplash (+17) · Days 652
@@ -294,19 +279,19 @@ _비교 기준: 2026-08-04_
 - **198위** Epik High - 우산 (w/ Younha ) (RE) · Days 206  ← **에픽하이**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-08-04_
+_비교 기준: 2026-08-05_
 ### 신규 진입
-- **20위** Choi Yu Ree - 생각을 멈추다 보면 (NEW)
+- **8위** BABYMONSTER - MOON (NEW)
 ### 급등 (+15↑)
 없음
 ### 재진입 (RE)
 없음
 ### 이탈 (전일 100위 내)
-- **19위** Hearts2Hearts - Lemon Tang (+1)
+- **16위** YENA - 캐치 캐치 (-1)
 ### 워치리스트 히트 (3)
-- **14위** BOL4 - Please Summer! (=)  ← **볼빨간사춘기**
-- **17위** HANRORO - 사랑하게 될 거야 (-1)  ← **한로로**
-- **20위** Choi Yu Ree - 생각을 멈추다 보면 (NEW)  ← **최유리**
+- **13위** BOL4 - Please Summer! (+1)  ← **볼빨간사춘기**
+- **17위** Choi Yu Ree - 생각을 멈추다 보면 (+3)  ← **최유리**
+- **18위** HANRORO - 사랑하게 될 거야 (-1)  ← **한로로**
 
 ---
 괴리 읽기: Spotify O/멜론 X → 오늘의 노래 · Shorts O/Top X → 이슈 · 전 차트 동반 → 특집. 자세한 건 운영 루틴 v10 §5-2.
