@@ -1,7 +1,7 @@
 {
   "_comment": "발굴 풀 — promote.js가 자동 관리. 차트에서 급등/신규 진입했는데 코어·커버리지 어디에도 없는 아티스트. 밀도 지표 계산에는 절대 넣지 않는다. 관찰하다 확실해지면 사람이 watchlist-coverage.json으로 옮긴다.",
-  "updated": "2026-08-08",
-  "count": 39,
+  "updated": "2026-08-09",
+  "count": 44,
   "artists": [
     {
       "name": "HEEDAE",
@@ -98,9 +98,9 @@
       "eng": "",
       "spotifyId": "30b9WulBM8sFuBo17nNq9c",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-08-03",
+      "lastSeen": "2026-08-09",
       "bestRank": 85,
-      "hits": 1,
+      "hits": 2,
       "note": "자동 승격 — spotify 85위 +19"
     },
     {
@@ -158,9 +158,9 @@
       "eng": "",
       "spotifyId": "1aCvTvFylQbGlKetfucVJY",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-08-08",
-      "bestRank": 139,
-      "hits": 2,
+      "lastSeen": "2026-08-09",
+      "bestRank": 120,
+      "hits": 3,
       "note": "자동 승격 — spotify 142위 +44"
     },
     {
@@ -308,9 +308,9 @@
       "eng": "",
       "spotifyId": "027TpXKGwdXP7iwbjUSpV8",
       "firstSeen": "2026-08-07",
-      "lastSeen": "2026-08-07",
-      "bestRank": 136,
-      "hits": 1,
+      "lastSeen": "2026-08-09",
+      "bestRank": 108,
+      "hits": 2,
       "note": "자동 승격 — spotify 136위 +34"
     },
     {
@@ -338,9 +338,9 @@
       "eng": "",
       "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08",
-      "bestRank": 108,
-      "hits": 1,
+      "lastSeen": "2026-08-09",
+      "bestRank": 93,
+      "hits": 2,
       "note": "자동 승격 — spotify 108위 +16"
     },
     {
@@ -368,9 +368,9 @@
       "eng": "",
       "spotifyId": "4hnHLgMSOiqERWBL4jINP1",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08",
-      "bestRank": 174,
-      "hits": 1,
+      "lastSeen": "2026-08-09",
+      "bestRank": 166,
+      "hits": 2,
       "note": "자동 승격 — spotify 174위 +23"
     },
     {
@@ -378,9 +378,9 @@
       "eng": "",
       "spotifyId": "49fyJl5wIzI5GtRuCKxKRw",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08",
-      "bestRank": 178,
-      "hits": 1,
+      "lastSeen": "2026-08-09",
+      "bestRank": 143,
+      "hits": 2,
       "note": "자동 승격 — spotify 178위 +17"
     },
     {
@@ -392,6 +392,56 @@
       "bestRank": 19,
       "hits": 1,
       "note": "자동 승격 — youtube 19위 NEW"
+    },
+    {
+      "name": "BUZZ",
+      "eng": "",
+      "spotifyId": "4SdXXEHKFa5NSoh10QxeN2",
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-09",
+      "bestRank": 117,
+      "hits": 1,
+      "note": "자동 승격 — spotify 117위 +27"
+    },
+    {
+      "name": "DAVICHI",
+      "eng": "",
+      "spotifyId": "4z6yrDz5GfKXkeQZjOaZdq",
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-09",
+      "bestRank": 122,
+      "hits": 1,
+      "note": "자동 승격 — spotify 122위 +26"
+    },
+    {
+      "name": "BLACKPINK",
+      "eng": "",
+      "spotifyId": "41MozSoPIsD1dJM0CLPjZF",
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-09",
+      "bestRank": 135,
+      "hits": 1,
+      "note": "자동 승격 — spotify 135위 +21"
+    },
+    {
+      "name": "Young K",
+      "eng": "",
+      "spotifyId": "34HmvZztvxqAo2mBSAieRe",
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-09",
+      "bestRank": 151,
+      "hits": 1,
+      "note": "자동 승격 — spotify 151위 +30"
+    },
+    {
+      "name": "Justin Bieber",
+      "eng": "",
+      "spotifyId": "1uNFoZAHBGtllmzznpCI3s",
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-09",
+      "bestRank": 161,
+      "hits": 1,
+      "note": "자동 승격 — spotify 161위 +31"
     }
   ]
 }
