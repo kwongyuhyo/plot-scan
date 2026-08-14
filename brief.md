@@ -1,18 +1,14 @@
-# PLOT 데일리 브리프 — 2026-08-14
+# PLOT 데일리 브리프 — 2026-08-15
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-08-13
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-08-14
 
-> 밀도(Spotify 200 중 워치리스트): 51곡 · 25.5% (2026-08-13 대비 ▲0.5p)
+> 밀도(Spotify 200 중 워치리스트): 51곡 · 25.5% (2026-08-14 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 
-- **97위** Hearts2Hearts - ICONIC HEART (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 6곡 동시
 - **127위** KISS OF LIFE - SWEAT (+61) · Days 2
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
@@ -65,7 +61,10 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 - **48위** NOWIMYOUNG - KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki) (w/ Royal 44 , SUNWOO ) (-2) · Days 146
   ▸ 하락 (한때 2위, −46)
   ▸ 나우아임영 · 카탈로그 단독
-_…외 14건 (원자료 참조)_
+- **55위** The Black Skirts - Ling Ling (-2) · Days 280
+  ▸ 하락 (한때 52위, −3)
+  ▸ 검정치마 · 카탈로그 5곡 동시
+_…외 13건 (원자료 참조)_
 
 ## 오음소 소재
 _소식 — 급등·재진입·오래된 곡의 이변_
@@ -168,41 +167,32 @@ _조인: YouTube 20곡 중 15곡 Spotify 매칭(정확 15·제목폴백 0) · �
 **플랫폼 동반 (Spotify＋YouTube · 진짜 확산 → 특집)**
 - **CORTIS - REDRED** — SP 1위 · YT 4위
 - **RESCENE - LOVE ATTACK** — SP 2위 · YT 2위
-- **RESCENE - Pretty Girl** — SP 4위 · YT 6위
+- **RESCENE - Pretty Girl** — SP 4위 · YT 5위
 - **aespa - LEMONADE** — SP 5위 · YT 3위
-- **KiiiKiii - Pop Off Pop Off** — SP 7위 · YT 5위
-- **JENNIE - Less than a Lover** — SP 8위 · YT 12위
-- **RESCENE - Deja Vu** — SP 9위 · YT 9위
+- **KiiiKiii - Pop Off Pop Off** — SP 7위 · YT 9위
+- **JENNIE - Less than a Lover** — SP 8위 · YT 11위
+- **RESCENE - Deja Vu** — SP 9위 · YT 7위
 - **ATEEZ - BAD** — SP 10위 · YT 1위
-- **ILLIT - It's Me** — SP 11위 · YT 7위
+- **ILLIT - It's Me** — SP 11위 · YT 6위
 - **Hearts2Hearts - RUDE!** — SP 14위 · YT 8위
-- **Red Velvet - Surfin' Boy** — SP 17위 · YT 14위
-- **WOODZ - Drowning** — SP 22위 · YT 17위
+- **Red Velvet - Surfin' Boy** — SP 17위 · YT 18위
+- **WOODZ - Drowning** — SP 22위 · YT 19위
 _…외 3곡_
 
 **YouTube 선행 (Spotify 200위 밖 · 대중·영상이 먼저 → MV/라이브클립 앵글)**
 - I.O.I - 갑자기 — YT 10위
-- BABYMONSTER - MOON — YT 11위 (-3)
-- FIFTY FIFTY - Genie Magic — YT 16위 (-1)
-- YENA - 캐치 캐치 — YT 19위 (-1)
+- BABYMONSTER - MOON — YT 14위 (-3)
+- FIFTY FIFTY - Genie Magic — YT 16위
+- Choi Yu Ree - 생각을 멈추다 보면 — YT 17위 (NEW)  ← **워치리스트**
 - HANRORO - 사랑하게 될 거야 — YT 20위  ← **워치리스트**
 
 ---
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-08-13_
+_비교 기준: 2026-08-14_
 ### 신규 진입
-- **97위** Hearts2Hearts - ICONIC HEART (NEW) · Days 1
-- **109위** HANRORO - Goodbye, My Summer (RE) · Days 170
-- **138위** Parc Jae Jung - Let's Say Goodbye (RE) · Days 331
-- **165위** DAY6 - You Were Beautiful (RE) · Days 1090
-- **179위** freestyle - Y (Please Tell Me Why) (RE) · Days 87
-- **185위** DELISPICE - 고백 (RE) · Days 160
-- **192위** Choi Yu Ree - Forest (RE) · Days 375
-- **193위** OneRepublic - Counting Stars (RE) · Days 53
-- **197위** Baek A - Amor (RE) · Days 1164
-- **200위** BOOHWAL - Never Ending Story (RE) · Days 331
+없음
 ### 급등 (+15↑)
 - **63위** Yoon Do Hyun - I Guess I Loved You (+36) · Days 1112
 - **73위** 10CM - To Reach You (+16) · Days 296
@@ -285,16 +275,17 @@ _비교 기준: 2026-08-13_
 - **199위** Standing Egg - O rae dwaen no lae (-64) · Days 4  ← **스탠딩에그**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-08-13_
+_비교 기준: 2026-08-14_
 ### 신규 진입
-- **5위** KiiiKiii - Pop Off Pop Off (+6)
+- **17위** Choi Yu Ree - 생각을 멈추다 보면 (NEW)
 ### 급등 (+15↑)
 없음
 ### 재진입 (RE)
 없음
 ### 이탈 (전일 100위 내)
-- **11위** KiiiKiii - Pop Off Pop Off (Preview) (NEW)
-### 워치리스트 히트 (1)
+- **19위** YENA - 캐치 캐치 (-1)
+### 워치리스트 히트 (2)
+- **17위** Choi Yu Ree - 생각을 멈추다 보면 (NEW)  ← **최유리**
 - **20위** HANRORO - 사랑하게 될 거야 (=)  ← **한로로**
 
 ---
