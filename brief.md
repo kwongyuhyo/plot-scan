@@ -1,18 +1,14 @@
-# PLOT 데일리 브리프 — 2026-08-17
+# PLOT 데일리 브리프 — 2026-08-18
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-08-16
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-08-17
 
-> 밀도(Spotify 200 중 워치리스트): 53곡 · 26.5% (2026-08-16 대비 ▲2.0p)
+> 밀도(Spotify 200 중 워치리스트): 53곡 · 26.5% (2026-08-17 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 
-- **197위** Yoon Jong Shin - Like it (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 단독
 - **11위** HANRORO - 0+0 (+2) · Days 332
   ▸ 하락 (한때 1위, −10)
   ▸ 롱테일 (약 11개월)
@@ -64,7 +60,11 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 - **55위** The Black Skirts - Ling Ling (+2) · Days 283
   ▸ 하락 (한때 52위, −3)
   ▸ 검정치마 · 카탈로그 4곡 동시
-_…외 7건 (원자료 참조)_
+- **72위** The Black Skirts - 1:05 (+5) · Days 486
+  ▸ 하락 (한때 45위, −27)
+  ▸ 롱테일 (약 16개월)
+  ▸ 검정치마 · 카탈로그 4곡 동시
+_…외 6건 (원자료 참조)_
 
 ## 오음소 소재
 _소식 — 급등·재진입·오래된 곡의 이변_
@@ -190,23 +190,9 @@ _…외 3곡_
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-08-16_
+_비교 기준: 2026-08-17_
 ### 신규 진입
-- **141위** Lim Young Woong - A Song For Us (RE) · Days 327
-- **148위** Beenzino - Aqua Man (RE) · Days 149
-- **176위** Car, the garden - 나무 (RE) · Days 497
-- **178위** DELISPICE - 고백 (RE) · Days 162
-- **179위** KiiiKiii - Hey Hi (RE) · Days 4
-- **184위** BOOHWAL - Never Ending Story (RE) · Days 332
-- **185위** Geeks - Officially Missing You (RE) · Days 688
-- **186위** Baek A - Amor (RE) · Days 1166
-- **192위** Loco - Spring Is Gone by chance (w/ YUJU ) (RE) · Days 191
-- **193위** Jung Seung Hwan - The Snowman (RE) · Days 265
-- **194위** Jung Kook - Still With You (RE) · Days 669
-- **195위** HYUKOH - Wi Ing Wi Ing (RE) · Days 716
-- **197위** Yoon Jong Shin - Like it (NEW) · Days 1
-- **199위** D-Hack - OHAYO MY NIGHT (w/ PATEKO ) (RE) · Days 648
-- **200위** Stephen Sanchez - Until I Found You (RE) · Days 296
+없음
 ### 급등 (+15↑)
 - **83위** The Black Skirts - EVERYTHING (+27) · Days 1258
 - **91위** Epik High - 우산 (w/ Younha ) (+28) · Days 217
@@ -292,15 +278,15 @@ _비교 기준: 2026-08-16_
 - **195위** HYUKOH - Wi Ing Wi Ing (RE) · Days 716  ← **혁오**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-08-16_
+_비교 기준: 2026-08-17_
 ### 신규 진입
-- **14위** BABYMONSTER - MOON (+3)
+없음
 ### 급등 (+15↑)
 없음
 ### 재진입 (RE)
 없음
 ### 이탈 (전일 100위 내)
-- **12위** Dr. Lee - REDRED (NEW)
+없음
 ### 워치리스트 히트 (2)
 - **16위** Choi Yu Ree - 생각을 멈추다 보면 (-1)  ← **최유리**
 - **18위** HANRORO - 사랑하게 될 거야 (+1)  ← **한로로**
