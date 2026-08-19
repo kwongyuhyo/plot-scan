@@ -1,18 +1,14 @@
-# PLOT 데일리 브리프 — 2026-08-19
+# PLOT 데일리 브리프 — 2026-08-20
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-08-18
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-08-19
 
-> 밀도(Spotify 200 중 워치리스트): 53곡 · 26.5% (2026-08-18 대비 =0.0p)
+> 밀도(Spotify 200 중 워치리스트): 53곡 · 26.5% (2026-08-19 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 
-- **64위** aespa - Whiplash (English Version) (+1) · Days 2
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 4곡 동시
 - **110위** Ravyn Lenae - Love Me Not (+23) · Days 8
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
@@ -21,18 +17,6 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
   ▸ 워치리스트 ✗ · 카탈로그 단독
-- **189위** Temper City - Self Aware (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 단독
-- **190위** Tame Impala - Loser (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 단독
-- **193위** Sung Si Kyung - Fije (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 3곡 동시
 - **11위** HANRORO - 0+0 (=) · Days 334
   ▸ 하락 (한때 1위, −10)
   ▸ 롱테일 (약 11개월)
@@ -68,7 +52,20 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
   ▸ 하락 (한때 28위, −6)
   ▸ 롱테일 (약 26개월)
   ▸ 너드커넥션 · 카탈로그 2곡 동시
-_…외 20건 (원자료 참조)_
+- **36위** 데이먼스 이어 Damons year - yours (-3) · Days 1390
+  ▸ 하락 (한때 6위, −30)
+  ▸ 롱테일 (약 46개월)
+  ▸ 데이먼스 이어 · 카탈로그 단독
+- **38위** Epik High - Love Love Love (-3) · Days 279
+  ▸ 하락 (한때 5위, −33)
+  ▸ 에픽하이 · 카탈로그 2곡 동시
+- **44위** VINXEN - FLYING HIGH WITH U (+2) · Days 183
+  ▸ 하락 (한때 21위, −23)
+  ▸ 빈첸 · 카탈로그 단독
+- **46위** NOWIMYOUNG - KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki) (w/ Royal 44 , SUNWOO ) (-3) · Days 151
+  ▸ 하락 (한때 2위, −44)
+  ▸ 나우아임영 · 카탈로그 단독
+_…외 16건 (원자료 참조)_
 
 ## 오음소 소재
 _소식 — 급등·재진입·오래된 곡의 이변_
@@ -128,7 +125,7 @@ _소식 — 급등·재진입·오래된 곡의 이변_
   ▸ 하락 (한때 8위, −97)
   ▸ 롱테일 (약 10개월)
   ▸ 10CM · 카탈로그 단독
-_…외 20건 (원자료 참조)_
+_…외 19건 (원자료 참조)_
 
 ## 특집 신호
 _맥락 — 카탈로그 다곡·플랫폼 괴리_
@@ -165,50 +162,36 @@ _맥락 — 카탈로그 다곡·플랫폼 괴리_
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
 _…외 15곡군: aespa(4) · ILLIT(4) · BTS(4) · AKMU(4) · Jung Kook(3) · Justin Bieber(3) · Sung Si Kyung(3) · Jimin(2) · fromis_9(2) · NMIXX(2) · Kenshi Yonezu(2) · The Weeknd(2) · BIGBANG(2) · LE SSERAFIM(2) · BLACKPINK(2)_
 
-_조인: YouTube 20곡 중 15곡 Spotify 매칭(정확 15·제목폴백 0) · 미매칭 5곡은 아래 'YouTube 선행'_
+_조인: YouTube 20곡 중 16곡 Spotify 매칭(정확 16·제목폴백 0) · 미매칭 4곡은 아래 'YouTube 선행'_
 
 **플랫폼 동반 (Spotify＋YouTube · 진짜 확산 → 특집)**
-- **CORTIS - REDRED** — SP 1위 · YT 3위
+- **CORTIS - REDRED** — SP 1위 · YT 4위
 - **RESCENE - LOVE ATTACK** — SP 2위 · YT 2위
-- **KiiiKiii - Pop Off Pop Off** — SP 3위 · YT 10위
+- **KiiiKiii - Pop Off Pop Off** — SP 3위 · YT 8위
 - **RESCENE - Pretty Girl** — SP 6위 · YT 5위
-- **aespa - LEMONADE** — SP 7위 · YT 4위
+- **aespa - LEMONADE** — SP 7위 · YT 3위
 - **RESCENE - Deja Vu** — SP 8위 · YT 7위
 - **ILLIT - It's Me** — SP 9위 · YT 6위
 - **ATEEZ - BAD** — SP 10위 · YT 1위
-- **Hearts2Hearts - RUDE!** — SP 14위 · YT 8위
-- **JENNIE - Less than a Lover** — SP 16위 · YT 19위
-- **Red Velvet - Surfin' Boy** — SP 20위 · YT 20위
-- **WOODZ - Drowning** — SP 26위 · YT 14위
-_…외 3곡_
+- **Hearts2Hearts - Lemon Tang** — SP 12위 · YT 20위
+- **Hearts2Hearts - RUDE!** — SP 14위 · YT 9위
+- **JENNIE - Less than a Lover** — SP 16위 · YT 17위
+- **Red Velvet - Surfin' Boy** — SP 20위 · YT 16위
+_…외 4곡_
 
 **YouTube 선행 (Spotify 200위 밖 · 대중·영상이 먼저 → MV/라이브클립 앵글)**
-- I.O.I - 갑자기 — YT 9위 (-1)
+- I.O.I - 갑자기 — YT 10위 (-1)
 - YENA - 캐치 캐치 — YT 12위
-- BABYMONSTER - MOON — YT 15위 (-1)
-- Choi Yu Ree - 생각을 멈추다 보면 — YT 16위  ← **워치리스트**
-- Post Malone - Sunflower — YT 18위 (NEW)
+- Choi Yu Ree - 생각을 멈추다 보면 — YT 13위 (+3)  ← **워치리스트**
+- Post Malone - Sunflower — YT 14위 (+4)
 
 ---
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-08-18_
+_비교 기준: 2026-08-19_
 ### 신규 진입
-- **64위** aespa - Whiplash (English Version) (+1) · Days 2
-- **148위** M.C the Max - 행복하지 말아요 (+44) · Days 2
-- **153위** Block B - HER - Japanese Version (-18) · Days 2
-- **156위** The Black Skirts - Till The End of Time (-5) · Days 273
-- **181위** RESCENE - Glow Up (RE) · Days 27
-- **189위** Temper City - Self Aware (NEW) · Days 1
-- **190위** Tame Impala - Loser (NEW) · Days 1
-- **191위** Primary - question mark (Feat. CHOIZA Of Dynamicduo, Zion.T) (w/ CHOIZA , Zion.T ) (RE) · Days 306
-- **193위** Sung Si Kyung - Fije (NEW) · Days 1
-- **195위** BTS - NORMAL (RE) · Days 119
-- **197위** Panic! At The Disco - High Hopes (RE) · Days 181
-- **198위** yung kai - blue (RE) · Days 470
-- **199위** NewJeans - ETA (-15) · Days 1007
-- **200위** BOYNEXTDOOR - IF I SAY, I LOVE YOU (RE) · Days 464
+없음
 ### 급등 (+15↑)
 - **85위** BUMJIN - A Letter (+15) · Days 929
 - **86위** BIG Naughty - Vancouver (+15) · Days 1208
@@ -236,7 +219,7 @@ _비교 기준: 2026-08-18_
 - **198위** yung kai - blue (RE) · Days 470
 - **200위** BOYNEXTDOOR - IF I SAY, I LOVE YOU (RE) · Days 464
 ### 이탈 (전일 100위 내)
-- **58위** aespa - Whiplash (+2) · Days 664
+없음
 ### 워치리스트 히트 (53)
 - **11위** HANRORO - 0+0 (=) · Days 334  ← **한로로**
 - **13위** HANRORO - Landing in Love (=) · Days 399  ← **한로로**
@@ -293,17 +276,17 @@ _비교 기준: 2026-08-18_
 - **191위** Primary - question mark (Feat. CHOIZA Of Dynamicduo, Zion.T) (w/ CHOIZA , Zion.T ) (RE) · Days 306  ← **Zion.T**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-08-18_
+_비교 기준: 2026-08-19_
 ### 신규 진입
-- **18위** Post Malone - Sunflower (NEW)
+- **20위** Hearts2Hearts - Lemon Tang (NEW)
 ### 급등 (+15↑)
 없음
 ### 재진입 (RE)
 없음
 ### 이탈 (전일 100위 내)
-- **18위** HANRORO - 사랑하게 될 거야 (+1)
+- **15위** BABYMONSTER - MOON (-1)
 ### 워치리스트 히트 (1)
-- **16위** Choi Yu Ree - 생각을 멈추다 보면 (=)  ← **최유리**
+- **13위** Choi Yu Ree - 생각을 멈추다 보면 (+3)  ← **최유리**
 
 ---
 괴리 읽기: Spotify O/멜론 X → 오늘의 노래 · Shorts O/Top X → 이슈 · 전 차트 동반 → 특집. 자세한 건 운영 루틴 v10 §5-2.
