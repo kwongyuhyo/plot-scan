@@ -1,0 +1,1330 @@
+{
+  "date": "2026-08-23",
+  "rss": {
+    "pitchfork_reviews": {
+      "label": "Pitchfork 리뷰",
+      "track": "T2-발견",
+      "count": 9,
+      "items": [
+        {
+          "title": "Gravest Gravy",
+          "url": "https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/",
+          "published": "2026-08-22",
+          "summary": "The songs may be familiar to diehards, but on a long-awaited collection of early Alex Chilton recordings they appear in their most primordial form, just sprouting legs and walking on land."
+        },
+        {
+          "title": "Herzsprung",
+          "url": "https://pitchfork.com/reviews/albums/gb-herzsprung/",
+          "published": "2026-08-21",
+          "summary": "Like fellow Rhythmic Music Conservatory alum ML Buch, the Danish musician recontextualizes hoary sounds in surprising ways, flipping ’80s AOR and jazz fusion into sleek, mysterious art rock."
+        },
+        {
+          "title": "Say a Prayer to the Gods of Getting Going",
+          "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/",
+          "published": "2026-08-21",
+          "summary": "On her fourth record of tender, twangy indie rock, Ella Williams probes the capacity of the open road to cure anything that ails the heart."
+        },
+        {
+          "title": "9 months & 50 hours",
+          "url": "https://pitchfork.com/reviews/albums/fred-again-latin-mafia-9-months-and-50-hours/",
+          "published": "2026-08-21",
+          "summary": "The British DJ and Mexican alt-pop band livestreamed the production of their new joint mixtape, which highlights a shared interest in freeform music shaped by real-time experience."
+        },
+        {
+          "title": "Faith EP",
+          "url": "https://pitchfork.com/reviews/albums/faith-leazae-faith-ep/",
+          "published": "2026-08-21",
+          "summary": "The Sacramento rapper’s 16-minute EP is tailor-made for viral engagement, but her outlandish hooks and motivational energy ensure it’s strong enough to stand on its own."
+        },
+        {
+          "title": "Big World",
+          "url": "https://pitchfork.com/reviews/albums/hovvdy-big-world/",
+          "published": "2026-08-20",
+          "summary": "Reflecting candidly on aging, forgiveness, and self-improvement, the indie-pop duo returns with a charming new album that takes the world in stride."
+        },
+        {
+          "title": "Whatchu Bringing?",
+          "url": "https://pitchfork.com/reviews/albums/dinner-party-whatchu-bringing/",
+          "published": "2026-08-20",
+          "summary": "On a brief new album, the jazz supergroup locks into a relaxed, comfortable groove with communal atmosphere and a hip-hop sensibility."
+        },
+        {
+          "title": "Jewish American Prairie Princess",
+          "url": "https://pitchfork.com/reviews/albums/prairie-princess-jewish-american-prairie-princess/",
+          "published": "2026-08-20",
+          "summary": "Nebraska-raised songwriter Emerson Borakove’s country-fried anti-folk-rock overflows with idiosyncratic humor and tender heart."
+        },
+        {
+          "title": "Trapculinary vol.2 (the recipe)",
+          "url": "https://pitchfork.com/reviews/albums/730turk-trapculinary-vol2-the-recipe/",
+          "published": "2026-08-20",
+          "summary": "The Florida rapper faces off with himself on a hilariously animated new tape, ping-ponging between high and low voices over groovy Florida-via-Michigan beats."
+        }
+      ]
+    },
+    "pitchfork_news": {
+      "label": "Pitchfork 뉴스",
+      "track": "T1",
+      "count": 12,
+      "items": [
+        {
+          "title": "Blackpink’s Jennie to Release New EP Next Friday",
+          "url": "https://pitchfork.com/story/blackpinks-jennie-to-release-new-ep-next-friday/",
+          "published": "2026-08-21",
+          "summary": "Fallen Angel follows the K-pop group’s own comeback project, Deadline"
+        },
+        {
+          "title": "Bonnaroo Is Taking 2027 Off",
+          "url": "https://pitchfork.com/story/bonnaroo-is-taking-2027-off/",
+          "published": "2026-08-21",
+          "summary": "The Tennessee festival will allow its storm-damaged grounds to recover before a 2028 return"
+        },
+        {
+          "title": "Listen to an Unreleased Song Off Mac Miler's The Divine Feminine",
+          "url": "https://pitchfork.com/story/mac-millers-the-divine-feminine-gets-10th-anniversary-reissue/",
+          "published": "2026-08-21",
+          "summary": "It’s one of three unheard tracks off the upcoming 10th anniversary edition"
+        },
+        {
+          "title": "Octo Octa and Eris Drew Ready Collaborative Album as Alchemical Sisters",
+          "url": "https://pitchfork.com/story/octo-octa-and-eris-drew-ready-collaborative-album-as-alchemical-sisters/",
+          "published": "2026-08-21",
+          "summary": "The creative and life partners call the project “psychedelic chaos, acid rollers, and big beat, channeled through hardware instruments and animated by love”"
+        },
+        {
+          "title": "Turnstile Recruit Elton John, Slayyyter, and Panda Bear for Never Enough Remake",
+          "url": "https://pitchfork.com/story/turnstile-recruit-elton-john-slayyyter-and-panda-bear-for-never-enough-remake/",
+          "published": "2026-08-21",
+          "summary": "Out next week, Never Enough: Versions also features Four Tet, Oklou, Alex G, Hayley Williams, A. G. Cook, Blood Orange, and many more"
+        },
+        {
+          "title": "Four’s Company in Shygirl’s New “Alyse” Video",
+          "url": "https://pitchfork.com/story/fours-company-in-shygirls-new-alyse-video/",
+          "published": "2026-08-21",
+          "summary": "A high-drama clip accompanies the London artist’s first single of the year"
+        },
+        {
+          "title": "14 New Albums You Should Listen to Now: Lambchop, Julia Holter, and More",
+          "url": "https://pitchfork.com/story/14-new-albums-you-should-listen-to-now-lambchop-julia-holter-and-more/",
+          "published": "2026-08-21",
+          "summary": "Stream new releases from Lambchop, Julia Holter, GB, Denzel Curry, and Weezer"
+        },
+        {
+          "title": "Rio Da Yung OG Announces New Album The World Is Yours",
+          "url": "https://pitchfork.com/story/rio-da-yung-og-announces-new-album-the-world-is-yours/",
+          "published": "2026-08-21",
+          "summary": "He also dropped the aptly named “Finna Drop (Tour)”"
+        },
+        {
+          "title": "Watch Slayyyter Cover Hole’s “Violet”",
+          "url": "https://pitchfork.com/story/watch-slayyyter-cover-holes-violet/",
+          "published": "2026-08-21",
+          "summary": "A rendition so good Courtney Love offered to come work for her"
+        },
+        {
+          "title": "Remi Wolf Announces New Album Mud",
+          "url": "https://pitchfork.com/story/remi-wolf-announces-new-album-mud/",
+          "published": "2026-08-20",
+          "summary": "“I literally felt like I was covered in shit. And now, at the end of the album process, I feel so clean and clear.”"
+        },
+        {
+          "title": "Bibio and Dorian Concept Team Up for Collaborative Album",
+          "url": "https://pitchfork.com/story/bibio-and-dorian-concept-announce-collaborative-album-answers/",
+          "published": "2026-08-20",
+          "summary": "The second single from Answers is out now"
+        },
+        {
+          "title": "Sen Morimoto Readies New Album Time Is on Your Side",
+          "url": "https://pitchfork.com/story/sen-morimoto-readies-new-album-time-is-on-your-side/",
+          "published": "2026-08-20",
+          "summary": "Join the versatile singer-songwriter in a woodsy video for single “Overthinker”"
+        }
+      ]
+    },
+    "bandcamp_daily": {
+      "label": "Bandcamp Daily",
+      "track": "T2-발견",
+      "count": 7,
+      "items": [
+        {
+          "title": "Hip-Hop Label Fused Arrow Hits The Target, Every Time",
+          "url": "https://daily.bandcamp.com/label-profile/fused-arrow-label-profile",
+          "published": "2026-08-21",
+          "summary": "Helmed by acclaimed producer Steel Tipped Dove, the label is fast becoming an underground rap bedrock. Read full story on the Bandcamp Daily ."
+        },
+        {
+          "title": "Essential Releases, August 21, 2026",
+          "url": "https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026",
+          "published": "2026-08-21",
+          "summary": "Thrash metal, electronic kosmiche, experimental, and more. Read full story on the Bandcamp Daily ."
+        },
+        {
+          "title": "Ok Cowgirl, “Rhinestone Cowgirl”",
+          "url": "https://daily.bandcamp.com/album-of-the-day/ok-cowgirl-rhinestone-cowgirl-review",
+          "published": "2026-08-21",
+          "summary": "The Brooklyn indie rockers embrace twangy alternative country with confidence and ease. Read full story on the Bandcamp Daily ."
+        },
+        {
+          "title": "Gasba Forever: The Next Phase of Algeria’s Millenia-Old Folk Tradition",
+          "url": "https://daily.bandcamp.com/features/my-heart-is-dust-before-him-21st-century-gasba-from-algeria-feature",
+          "published": "2026-08-21",
+          "summary": "A new compilation explores the idiosyncratic state of contemporary Western Algerian reed flute music. Read full story on the Bandcamp Daily ."
+        },
+        {
+          "title": "The Ongoing Transformation of Cabo Verdean Music",
+          "url": "https://daily.bandcamp.com/scene-report/the-ongoing-transformation-of-music-from-cabo-verde-review",
+          "published": "2026-08-20",
+          "summary": "Past and present, home and afar—a host of elements combine to create dynamic new music. Read full story on the Bandcamp Daily ."
+        },
+        {
+          "title": "Learning by Doing: Making Music as Melaina Kol",
+          "url": "https://daily.bandcamp.com/features/melaina-kol-okay-thats-great-because-if-i-do-that-then-feature",
+          "published": "2026-08-20",
+          "summary": "The lo-fi indie rock veteran experiments with spindly string instruments and bubbling vocals on his latest. Read full story on the Bandcamp Daily ."
+        },
+        {
+          "title": "Tyondai Braxton, “Splayed Werks”",
+          "url": "https://daily.bandcamp.com/album-of-the-day/tyondai-braxton-splayed-werks-review",
+          "published": "2026-08-20",
+          "summary": "The experimental composer's latest isn't an LP; it's a full-blown anti-album. Read full story on the Bandcamp Daily ."
+        }
+      ]
+    },
+    "stereogum": {
+      "label": "Stereogum",
+      "track": "T2-발견",
+      "count": 25,
+      "items": [
+        {
+          "title": "Zara Larsson & PinkPantheress Finally Perform Together For The First Time At All Points East",
+          "url": "https://stereogum.com/2509149/zara-larsson-pinkpantheress-finally-perform-together-for-the-first-time-at-all-points-east/news/",
+          "published": "2026-08-22",
+          "summary": "Earlier this year, PinkPantheress brought out memorable guests at her Coachella set, including Zara Larsson, who took the stage solo to perform her own song \"Midnight Sun.\" Shortly after, she released a remixed version of the track with PinkPantheress. Today, at the stacked All Points East festival in London, the pair finally performed together. The post Zara Larsson & PinkPantheress Finally Perfo"
+        },
+        {
+          "title": "BigXthaPlug Arrested On One-Year Anniversary Of Last Arrest, Misses Festival Set",
+          "url": "https://stereogum.com/2509144/bigxthaplug-arrested-on-one-year-anniversary-of-last-arrest-misses-festival-set/news/",
+          "published": "2026-08-22",
+          "summary": "On Aug. 21, 2025, BigXthaPlug was arrested for marijuana possession of less than two ounces, and unlawful possession of a firearm just hours before his album came out. On Aug. 21, 2026, BigXthaPlug was arrested again, this time for driving while intoxicated, marijuana possession of less than 2 ounces, and unlawful possession of a firearm. The post BigXthaPlug Arrested On One-Year Anniversary Of La"
+        },
+        {
+          "title": "Ethan Miller Expanded The Odyssey Cult Into A Psych Supergroup For New Album Vol. 3",
+          "url": "https://stereogum.com/2509136/ethan-miller-expanded-the-odyssey-cult-into-a-psych-supergroup-for-new-album-vol-3/music/",
+          "published": "2026-08-21",
+          "summary": "Everyone's talking about The Odyssey these days, but more people should be talking about the Odyssey Cult. The band is headed up by Ethan Miller (Comets On Fire, Howlin Rain, Heron Oblivion, etc.), who has assembled some serious firepower from the underground rock ranks to bring his expansive, fuzzed-out visions to life. The first two Odyssey Cult LPs, Vol. 1 and Vol. 2 , were Miller solo joints, "
+        },
+        {
+          "title": "The 5 Best Songs Of The Week",
+          "url": "https://stereogum.com/2508984/the-5-best-songs-of-the-week-640/lists/the-5-best-songs-of-the-week/",
+          "published": "2026-08-21",
+          "summary": "Every week the Stereogum staff chooses the five best new songs of the week. The eligibility period begins and ends Thursdays right before midnight. You can hear this week’s picks below and on Stereogum’s Favorite New Music Spotify playlist, which is updated weekly. (An expanded playlist of our new music picks is available to subscribers on Spotify and Apple Music, updated throughout the week.) The"
+        },
+        {
+          "title": "Michael Jackson Movie Sequel Will Address Child Abuse Allegations From “His Point Of View,” Says Jaafar Jackson",
+          "url": "https://stereogum.com/2509123/michael-jackson-movie-sequel-will-address-child-abuse-allegations-from-his-point-of-view-says-jaafar-jackson/news/",
+          "published": "2026-08-21",
+          "summary": "For a long time, the producers of Michael , the Michael Jackson biopic that came out earlier this year, reportedly planned to include a story arc about one of the many children who accused Jackson of sexual abuse. After filming an entire third arc about Jackson's decision to settle out of court with the family of Jordan Chandler, the 13-year-old boy who first sued Jackson for abuse in 1993, the pr"
+        },
+        {
+          "title": "Rhys Langston Announces New Album to live and die in E.U.L.A.: Hear Two Songs",
+          "url": "https://stereogum.com/2509120/rhys-langston-announces-new-album-to-live-and-die-in-e-u-l-a-hear-two-songs/music/",
+          "published": "2026-08-21",
+          "summary": "The prolific Los Angeles underground rap staple Rhys Langston was a Stereogum Artist To Watch in 2022, and he has made a whole lot of playful, verbose, layered music since then. Langston released the album Pale Black Negative last year, and he teamed up with R.A.P. Ferreira and nahhphet on \" Sound Of Horns \" earlier this summer. Now, he's preparing to release a new LP called to live and die in E.U"
+        },
+        {
+          "title": "Bonnaroo Taking “A Much-Needed Year Off” In 2027",
+          "url": "https://stereogum.com/2509115/bonnaroo-taking-a-much-needed-year-off-in-2027/news/",
+          "published": "2026-08-21",
+          "summary": "Huge news out of Tennessee: There will be no Bonnaroo in 2027. The longstanding music festival announced today that it will be taking \"a much-needed year off,\" with plans to return in 2028. The post Bonnaroo Taking “A Much-Needed Year Off” In 2027 appeared first on Stereogum ."
+        },
+        {
+          "title": "Flower Face – “Bad Dream”",
+          "url": "https://stereogum.com/2509113/flower-face-bad-dream/music/",
+          "published": "2026-08-21",
+          "summary": "Montreal musician Ruby McKinnon makes gauzy, dreamy music under the name Flower Face, and she became a Stereogum Artist To Watch on the strength of her 2024 album Girl Prometheus . Now, she's back with a hazy, glamorous, awfully pretty new song called \"Bad Dream.\" If Mazzy Star recorded a song specifically for the Drive soundtrack, it might sound a bit like this. Here's what McKinnon says about it"
+        },
+        {
+          "title": "Contention Share Awesome New Surprise EP Nuclear Summer",
+          "url": "https://stereogum.com/2509104/contention-share-awesome-new-surprise-ep-nuclear-summer/music/",
+          "published": "2026-08-21",
+          "summary": "Last weekend was Sound And Fury weekend, the moment for the gigantic Los Angeles festival that remains the biggest annual item on the hardcore calendar. We're deep in the afterglow. Haywire and God's Hate have both dropped new music since playing Sound And Fury, and now that list also includes the fiery Tampa straight-edge crew Contention. The post Contention Share Awesome New Surprise EP <em>Nucl"
+        },
+        {
+          "title": "Slayyyter Nails Hole Cover, To Courtney Love’s Delight",
+          "url": "https://stereogum.com/2509045/slayyyter-nails-hole-cover-to-courtney-loves-delight/news/",
+          "published": "2026-08-21",
+          "summary": "Courtney Love is now employed by Slayyyter. Well, only metaphorically. For Triple J's Like A Version, the Midwestern pop artist covered \"Violet\" from Hole's 1994 opus Live Through This . Love responded on social media with praise: The post Slayyyter Nails Hole Cover, To Courtney Love’s Delight appeared first on Stereogum ."
+        },
+        {
+          "title": "Napsack Announce New Album More Mountains: Hear “If I Could Write”",
+          "url": "https://stereogum.com/2509100/napsack-announce-new-album-more-mountains-hear-if-i-could-write/music/",
+          "published": "2026-08-21",
+          "summary": "Knapsack were '90s emo pioneers who reunited last year . This post is not about them. It's about Napsack, the countrified indie rockers from Cleveland. The post Napsack Announce New Album <em>More Mountains</em>: Hear “If I Could Write” appeared first on Stereogum ."
+        },
+        {
+          "title": "Carly Rae Jepsen – “Motivation”",
+          "url": "https://stereogum.com/2509095/carly-rae-jepsen-motivation/music/",
+          "published": "2026-08-21",
+          "summary": "Carly Rae Jepsen is making moves right now. Earlier this week, we got the confirmation that she's working with Lena Dunham on a new stage-musical adaptation of 10 Things I Hate About You , set to open on Broadway next year. At the same time, we're about a month away from the release of Jepsen's new double album Day And Night . It's shaping up beautifully. The post Carly Rae Jepsen – “Motivation” a"
+        },
+        {
+          "title": "Mac Miller’s The Divine Feminine Getting 10th Anniversary Reissue With Unreleased Songs",
+          "url": "https://stereogum.com/2509081/mac-millers-the-divine-feminine-getting-10th-anniversary-reissue-with-unreleased-songs/music/",
+          "published": "2026-08-21",
+          "summary": "The Divine Feminine was one of the best and most important albums of Mac Miller's career. With 2015's GOOD:AM , the Pittsburgh native was already redefining himself as a soulful, melodic sonic adventurer, a fixture of a burgeoning Los Angeles hip-hop scene alongside some of the brightest talents from the orbits of Odd Future and TDE. By the time he followed it up with a concept album about women's"
+        },
+        {
+          "title": "Sheryl Crow Debuts Cars: Lightning Racers Theme 20 Years After Her First Cars Song",
+          "url": "https://stereogum.com/2509088/sheryl-crow-debuts-cars-lightning-racers-theme-20-years-after-her-first-cars-song/music/",
+          "published": "2026-08-21",
+          "summary": "It has been two decades since Sheryl Crow first serenated Lightning McQueen, Mater, and the other sentient automobiles in the town of Radiator Springs. In the opening scene of the 2006 Pixar motion picture Cars , Owen Wilson's young hotshot racer Lightning McQueen pulled some reckless moves in his quest for the Piston Cup, and Crow's song \" Real Gone \" played over the soundtrack. \"Real Gone\" hasn'"
+        },
+        {
+          "title": "Turnstile Reimagine Never Enough With A Fascinating Crew Of Contributors",
+          "url": "https://stereogum.com/2509027/turnstile-reimagine-never-enough-with-a-fascinating-crew-of-contributors/news/",
+          "published": "2026-08-21",
+          "summary": "Creativity is infinite. Music is infinite. Hardcore is infinite. Turnstile is infinite . The ground-breaking, expansive Baltimore band announced an all-star take on their 2025 Grammy Award-winning album NEVER ENOUGH . It's not a remix album. It's not a covers album. Maybe it's a testament to creativity's limitlessness. Either way, you will never be able to guess who is on it. It's the most Turnsti"
+        },
+        {
+          "title": "Bassvictim’s Ike Clateman Apologizes For daine Shade, “Never Meant To Diss” Them",
+          "url": "https://stereogum.com/2509073/bassvictims-ike-clateman-apologizes-for-daine-shade-never-meant-to-diss-them/news/",
+          "published": "2026-08-21",
+          "summary": "For days now, the music world has held its collective breath over the brewing beef between young hyperpop acts Bassvictim and daine. The young hyperpop artist daine will release their debut album In Endless Awe & Agony later this year, and London duo Bassvictim dropped a remix of daine's single \" PQC \" last month. In a recent Instagram live session, Bassvictim member Ike Clateman claimed that dain"
+        },
+        {
+          "title": "Squirrel Flower Doesn’t Want To Make It Easy",
+          "url": "https://stereogum.com/2508754/squirrel-flower-doesnt-want-to-make-it-easy/interviews/qa/",
+          "published": "2026-08-21",
+          "summary": "Things haven’t gotten easier for Squirrel Flower’s Ella O'Connor Williams, and that’s not a bad thing. I first interviewed Williams over six years ago, as an Artist To Watch , before she became an established Chicago-based musician, put out three albums on Polyvinyl Records, and led an important boycott against one of the industry’s biggest music festivals. As a musician, her writing has only gott"
+        },
+        {
+          "title": "Diane Warren Chases 18th Oscar Nomination, Adopts 2nd Viral Runaway LA Farm Animal",
+          "url": "https://stereogum.com/2509058/diane-warren-attempts-18th-oscar-nomination-adopts-2nd-viral-runaway-la-farm-animal/news/",
+          "published": "2026-08-21",
+          "summary": "One of Hollywood's proudest traditions is nominating big-deal songwriter Diane Warren for the Best Original Song Oscar and then not giving her the award. Last year, Warren broke an Academy record, racking up 17 nominations and zero wins, which means our ranked list of Oscar-nominated Warren songs is woefully out of date. Warren's last nomination was for \"Dear Me,\" a Kesha-sung ballad from a docume"
+        },
+        {
+          "title": "Brian Robert Jones Shares Comedic Musical Theater Album About The Louisiana Purchase (And Hayley Williams Is On It)",
+          "url": "https://stereogum.com/2509061/brian-robert-jones-shares-comedic-musical-theater-album-about-the-louisiana-purchase-and-hayley-williams-is-on-it/music/",
+          "published": "2026-08-21",
+          "summary": "If you've seen a Vampire Weekend, Paramore, or Hayley Williams show in recent years, Brian Robert Jones was the guitarist onstage with the big afro. When not playing sideman for some of the best alt-leaning pop-rockers in the biz, Jones has been working on a behemoth project of his own. The post Brian Robert Jones Shares Comedic Musical Theater Album About The Louisiana Purchase (And Hayley Willia"
+        },
+        {
+          "title": "Apple Music Will Also Now Label AI-Generated Songs",
+          "url": "https://stereogum.com/2509039/apple-music-will-also-now-label-ai-generated-songs/news/",
+          "published": "2026-08-21",
+          "summary": "The music industry is facing a moral and existential crisis as AI-generated music becomes increasingly prevalent. The latest development in streaming platforms’ response is that Apple Music will begin labeling AI-generated songs. According to The Hollywood Reporter , an email sent out yesterday announced that AI labels on songs will arrive \"later this year,\" confirming reports from back in March. "
+        },
+        {
+          "title": "Wet Leg Cover The Cardigans For Deutsche Telekom’s New Gen Z Campaign",
+          "url": "https://stereogum.com/2509023/wet-leg-cover-the-cardigans-for-deutsche-telekoms-new-gen-z-campaign/news/",
+          "published": "2026-08-21",
+          "summary": "Wet Leg's Rhian Teasdale is the face of a new Deutsche Telekom campaign targeted at Gen Z reclaiming agency in a digitally overstimulating world. The campaign is called \"Not A Passenger,\" and actualized in a visual, inspired by the Cardigans' 1998 hit \" My Favorite Game ,\" where Teasdale fends off internet influencer demons pushing their manifestations, self-care routines, or AI slop. The video al"
+        },
+        {
+          "title": "The Hollies Call It Quits After 64 Years",
+          "url": "https://stereogum.com/2509018/the-hollies-call-it-quits-after-64-years/news/",
+          "published": "2026-08-21",
+          "summary": "After 64 years, English pop band the Hollies are calling it quits. The group started out in Manchester in 1962, and Graham Nash led them before leaving to form Crosby, Stills, & Nash in 1968. The Hollies' string of '60s and '70s hits includes \"Bus Stop,\" \"He Ain't Heavy, He's My Brother,\" \"Long Cool Woman (In A Black Dress),\" and \"The Air That I Breathe.\" In recent years, the lineup has included g"
+        },
+        {
+          "title": "Jeff Tweedy – “Real Magic” (Star Moles Cover)",
+          "url": "https://stereogum.com/2509004/jeff-tweedy-real-magic-star-moles-cover/music/",
+          "published": "2026-08-20",
+          "summary": "It's been quite the glow-up lately for the Historic New Jersey collective, and Jeff Tweedy has been right in the middle of it. The Philadelphia friend group boasts rising talents like Rubber Band Gun, Star Moles, and Sam and Louise Sullivan , the eclectic retro-rocking sibling who Wilco featured at their Solid Sound festival. Star Moles' Emily Moales was with the Sullivans at the fest, and Tweedy "
+        },
+        {
+          "title": "Nicole Atkins – “Trippin’ On Teardrops”",
+          "url": "https://stereogum.com/2508983/nicole-atkins-trippin-on-teardrops/music/",
+          "published": "2026-08-20",
+          "summary": "Nicole Atkins releases her new record Drama next month. The old-school pop revivalist has shared the singles \" When The Night Falls \" and \" Singing In The Mirror \" so far, and now she's back with the extravagant, lonesome album opener, \"Trippin' On Teardrops.\" The post Nicole Atkins – “Trippin’ On Teardrops” appeared first on Stereogum ."
+        },
+        {
+          "title": "Friko – “Necessary”",
+          "url": "https://stereogum.com/2508926/friko-necessary/music/",
+          "published": "2026-08-20",
+          "summary": "Here, at Stereogum, we already love Friko . But today, they've given us a reason to love them even more via the new single \"Necessary.\" Earlier this year they released their killer Something Worth Waiting For , which placed near the top of our list of this year's best LPs so far . Now they're letting us have more of that glorious album's world. They've announced an expanded version, coming Sept. 1"
+        }
+      ]
+    },
+    "consequence": {
+      "label": "Consequence",
+      "track": "T1",
+      "count": 15,
+      "items": [
+        {
+          "title": "Olivia Rodrigo Releases Politically Charged New Song “Serena Joy” on Limited-Edition CD",
+          "url": "https://consequence.net/2026/08/olivia-rodrigo-releases-politically-charged-new-song-serena-joy-on-limited-edition-cd/",
+          "published": "2026-08-22",
+          "summary": "Named after the Handmaid's Tale character, the track arrives ahead of Rodrigo's inaugural Daisy Chain Fields festival in Irvine. Olivia Rodrigo Releases Politically Charged New Song “Serena Joy” on Limited-Edition CD Alex Krinsky"
+        },
+        {
+          "title": "Kacey Musgraves Launches Lube, Hangs from Giant Disco Balls at Tour Kickoff",
+          "url": "https://consequence.net/2026/08/kacey-musgraves-sex-lube-disco-balls-tour-kickoff/",
+          "published": "2026-08-22",
+          "summary": "The suggestive product launch arrived just days before Musgraves took the joke to arena scale in Chicago. Kacey Musgraves Launches Lube, Hangs from Giant Disco Balls at Tour Kickoff Alex Krinsky"
+        },
+        {
+          "title": "Buckcherry’s Tour Bus Involved in Fatal Multi-Vehicle Accident",
+          "url": "https://consequence.net/2026/08/buckcherrys-tour-bus-involved-in-fatal-multi-vehicle-accident/",
+          "published": "2026-08-22",
+          "summary": "Members of the band and its touring crew are said to be \"safe and unharmed.\" Buckcherry’s Tour Bus Involved in Fatal Multi-Vehicle Accident Alex Young"
+        },
+        {
+          "title": "See the Setlist for Garth Brooks’ “Blame It All On My Roots” Arena Tour Kick-Off",
+          "url": "https://consequence.net/2026/08/garth-brooks-blame-it-all-on-my-roots-arena-tour-setlist/",
+          "published": "2026-08-22",
+          "summary": "Brooks kicked off his arena return with two sold-out Indianapolis shows featuring deep cuts, fan favorites, and surprises from across his career. See the Setlist for Garth Brooks’ “Blame It All On My Roots” Arena Tour Kick-Off Alex Young"
+        },
+        {
+          "title": "ENHYPEN on How THE SIN : BLISS Is a New Sound for a New Beginning",
+          "url": "https://consequence.net/2026/08/enhypen-new-album-the-sin-bliss-interview/",
+          "published": "2026-08-21",
+          "summary": "ENHYPEN on how their latest EP THE SIN : BLISS stretched them artistically and personally. ENHYPEN on How THE SIN : BLISS Is a New Sound for a New Beginning Christine Terrisse"
+        },
+        {
+          "title": "West End Motel and Matt Pike Honor Mastodon’s Brent Hinds with New Song “Return of the Kid”: Stream",
+          "url": "https://consequence.net/2026/08/west-end-motel-matt-pike-brent-hinds-return-of-the-kid/",
+          "published": "2026-08-21",
+          "summary": "The track was released on the one-year anniversary of the Mastodon guitarist's tragic passing. West End Motel and Matt Pike Honor Mastodon’s Brent Hinds with New Song “Return of the Kid”: Stream Langdon Hickman"
+        },
+        {
+          "title": "Heavy Song of the Week: Down Return with Masterpiece “Blood Oath”",
+          "url": "https://consequence.net/2026/08/heavy-song-of-the-week-down-blood-oath/",
+          "published": "2026-08-21",
+          "summary": "Down return after over a decade with the genuinely perfect Sabbathian doom metal track \"Blood Oath.\" Heavy Song of the Week: Down Return with Masterpiece “Blood Oath” Langdon Hickman"
+        },
+        {
+          "title": "Ministry Unleash Anti-Trump Single and Music Video “We Hate”: Stream",
+          "url": "https://consequence.net/2026/08/ministry-we-hate-single-video/",
+          "published": "2026-08-21",
+          "summary": "The video delivers a scathing examination of Trump's presidency. Ministry Unleash Anti-Trump Single and Music Video “We Hate”: Stream Langdon Hickman"
+        },
+        {
+          "title": "Fontaines D.C. Announce Fall Headlining Shows in Brooklyn and Los Angeles",
+          "url": "https://consequence.net/2026/08/fontaines-dc-fall-headlining-shows-brooklyn-los-angeles/",
+          "published": "2026-08-21",
+          "summary": "Fresh off the announcement of their new album Dopamine Chamber, the Irish band will perform two special headlining shows in the US in September. Fontaines D.C. Announce Fall Headlining Shows in Brooklyn and Los Angeles Paolo Ragusa"
+        },
+        {
+          "title": "Superman Spinoff Comedy The People v. Gorilla Grodd Greenlit at HBO Max",
+          "url": "https://consequence.net/2026/08/the-people-v-gorilla-grodd-hbo-max/",
+          "published": "2026-08-21",
+          "summary": "The meta DC Studios comedy stars Skyler Gisondo and Jimmy Tatro. Superman Spinoff Comedy The People v. Gorilla Grodd Greenlit at HBO Max Liz Shannon Miller"
+        },
+        {
+          "title": "AirPods Max 2 Are $120 Off in Every Color",
+          "url": "https://consequence.net/2026/08/airpods-max-2-deal-120-off/",
+          "published": "2026-08-21",
+          "summary": "Now available for $429 at Amazon, this is the second-best price we've seen. AirPods Max 2 Are $120 Off in Every Color Eddie Fu"
+        },
+        {
+          "title": "Travis Barker Opens Up on Plane Crash and Mom’s Passing in Interview with Anderson Cooper",
+          "url": "https://consequence.net/2026/08/travis-barker-plane-crash-mom-passing-interview-anderson-cooper/",
+          "published": "2026-08-21",
+          "summary": "The blink-182 drummer credits his late mother for pushing him to pursue a career in music. Travis Barker Opens Up on Plane Crash and Mom’s Passing in Interview with Anderson Cooper Spencer Kaufman"
+        },
+        {
+          "title": "Young Miko Names Bad Bunny, Tego Calderon to Her Reggaeton Mount Rushmore",
+          "url": "https://consequence.net/2026/08/young-miko-reggaeton-mount-rushmore/",
+          "published": "2026-08-21",
+          "summary": "Asked to narrow her picks down to four, Miko admitted she couldn’t: “Si eres de PR, you’re up there for me\". Young Miko Names Bad Bunny, Tego Calderon to Her Reggaeton Mount Rushmore Pedro Camacho"
+        },
+        {
+          "title": "Stream On This Week: An Instantly Iconic Dad Movie, and Lady Whistledown Is Watching The Sopranos",
+          "url": "https://consequence.net/2026/08/stream-on-pressure-lanterns-nicola-coughlan/",
+          "published": "2026-08-21",
+          "summary": "Here's what to stream the weekend of August 21st. Stream On This Week: An Instantly Iconic Dad Movie, and Lady Whistledown Is Watching The Sopranos Liz Shannon Miller"
+        },
+        {
+          "title": "Judge Denies Bad Bunny Nearly $500,000 in Legal Fees in Un Verano Sin Ti Sample Case",
+          "url": "https://consequence.net/2026/08/judge-denies-bad-bunny-legal-fees-lawsuit/",
+          "published": "2026-08-21",
+          "summary": "The Puerto Rican superstar sought $465,612 after defeating a copyright lawsuit over a sample used on “Enséñame a Bailar” Judge Denies Bad Bunny Nearly $500,000 in Legal Fees in Un Verano Sin Ti Sample Case Pedro Camacho"
+        }
+      ]
+    },
+    "nme": {
+      "label": "NME",
+      "track": "T1",
+      "count": 10,
+      "items": [
+        {
+          "title": "Watch Rosalía sing Bad Bunny’s ‘Safaera’ with tequila shot in Monterrey",
+          "url": "https://www.nme.com/news/music/watch-rosalia-sing-bad-bunnys-safaera-with-tequila-shot-in-monterrey-3964139?utm_source=rss&utm_medium=rss&utm_campaign=watch-rosalia-sing-bad-bunnys-safaera-with-tequila-shot-in-monterrey",
+          "published": "2026-08-22",
+          "summary": "It took the place of the white wine she usually drinks before 'Sauvignon Blanc' The post Watch Rosalía sing Bad Bunny’s ‘Safaera’ with tequila shot in Monterrey appeared first on NME ."
+        },
+        {
+          "title": "PS Plus August 2026 games – what to expect on PS5 and PS4",
+          "url": "https://www.nme.com/guides/gaming-guides/ps-plus-august-2026-games-3956088?utm_source=rss&utm_medium=rss&utm_campaign=ps-plus-august-2026-games",
+          "published": "2026-08-22",
+          "summary": "Another month of free games The post PS Plus August 2026 games – what to expect on PS5 and PS4 appeared first on NME ."
+        },
+        {
+          "title": "PS Plus September 2026 games – what to expect on PS5 and PS4",
+          "url": "https://www.nme.com/guides/gaming-guides/ps-plus-september-2026-games-3960325?utm_source=rss&utm_medium=rss&utm_campaign=ps-plus-september-2026-games",
+          "published": "2026-08-22",
+          "summary": "Another month comes along. The post PS Plus September 2026 games – what to expect on PS5 and PS4 appeared first on NME ."
+        },
+        {
+          "title": "Tupac murder trial plays “secret” police interview with Keffe D admitting role in rapper’s shooting",
+          "url": "https://www.nme.com/news/music/tupac-murder-trial-plays-secret-police-interview-with-keffe-d-admitting-role-in-rappers-shooting-3964131?utm_source=rss&utm_medium=rss&utm_campaign=tupac-murder-trial-plays-secret-police-interview-with-keffe-d-admitting-role-in-rappers-shooting",
+          "published": "2026-08-22",
+          "summary": "Duane 'Keffe D' Davis' defence lawyers maintain that his accounts were fabricated The post Tupac murder trial plays “secret” police interview with Keffe D admitting role in rapper’s shooting appeared first on NME ."
+        },
+        {
+          "title": "Janie Bradford, Motown songwriter behind ‘Money (That’s What I Want)’, dies aged 87",
+          "url": "https://www.nme.com/news/music/janie-bradford-motown-songwriter-behind-money-thats-what-i-want-dies-aged-87-3964134?utm_source=rss&utm_medium=rss&utm_campaign=janie-bradford-motown-songwriter-behind-money-thats-what-i-want-dies-aged-87",
+          "published": "2026-08-22",
+          "summary": "Berry Gordy described her as one of the label's \"unsung heroes\" The post Janie Bradford, Motown songwriter behind ‘Money (That’s What I Want)’, dies aged 87 appeared first on NME ."
+        },
+        {
+          "title": "Watch Moby perform ‘Father Ted’ favourite ‘My Lovely Horse’ live in Dublin",
+          "url": "https://www.nme.com/news/music/watch-moby-perform-father-ted-favourite-my-lovely-horse-live-in-dublin-3964127?utm_source=rss&utm_medium=rss&utm_campaign=watch-moby-perform-father-ted-favourite-my-lovely-horse-live-in-dublin",
+          "published": "2026-08-22",
+          "summary": "\"If you need a new national anthem, may I suggest this song?\" The post Watch Moby perform ‘Father Ted’ favourite ‘My Lovely Horse’ live in Dublin appeared first on NME ."
+        },
+        {
+          "title": "Fontaines D.C. announce intimate New York and Los Angeles shows ahead of ‘Dopamine Chamber’",
+          "url": "https://www.nme.com/news/music/fontaines-d-c-announce-intimate-new-york-and-los-angeles-shows-ahead-of-dopamine-chamber-3964124?utm_source=rss&utm_medium=rss&utm_campaign=fontaines-d-c-announce-intimate-new-york-and-los-angeles-shows-ahead-of-dopamine-chamber",
+          "published": "2026-08-22",
+          "summary": "The dates will come just weeks before the release of the band's fifth album in October The post Fontaines D.C. announce intimate New York and Los Angeles shows ahead of ‘Dopamine Chamber’ appeared first on NME ."
+        },
+        {
+          "title": "Olivia Rodrigo surprise releases ‘The Handmaid’s Tale’-inspired new song ‘Serena Joy’ on limited edition CD",
+          "url": "https://www.nme.com/news/music/olivia-rodrigo-surprise-releases-the-handmaids-tale-inspired-new-song-serena-joy-on-limited-edition-cd-3964121?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-surprise-releases-the-handmaids-tale-inspired-new-song-serena-joy-on-limited-edition-cd",
+          "published": "2026-08-22",
+          "summary": "Just 500 copies were sold at an independent record shop near her upcoming Daisy Chain Fields festival The post Olivia Rodrigo surprise releases ‘The Handmaid’s Tale’-inspired new song ‘Serena Joy’ on limited edition CD appeared first on NME ."
+        },
+        {
+          "title": "Dry Cleaning bring out Wilco’s Jeff Tweedy for ‘My Soul/Half Pint’ at Green Man 2026",
+          "url": "https://www.nme.com/news/music/dry-cleaning-bring-out-wilcos-jeff-tweedy-for-my-soul-half-pint-at-green-man-2026-3964113?utm_source=rss&utm_medium=rss&utm_campaign=dry-cleaning-bring-out-wilcos-jeff-tweedy-for-my-soul-half-pint-at-green-man-2026",
+          "published": "2026-08-22",
+          "summary": "Tweedy also played on the studio version of the track from the London band's third album 'Secret Love' The post Dry Cleaning bring out Wilco’s Jeff Tweedy for ‘My Soul/Half Pint’ at Green Man 2026 appeared first on NME ."
+        },
+        {
+          "title": "Rose McGowan and Anna Paquin call for greater protections for child stars while paying tribute to Hayden Panettiere",
+          "url": "https://www.nme.com/news/film/rose-mcgowan-and-anna-paquin-call-for-greater-protections-for-child-stars-while-paying-tribute-to-hayden-panettiere-3964100?utm_source=rss&utm_medium=rss&utm_campaign=rose-mcgowan-and-anna-paquin-call-for-greater-protections-for-child-stars-while-paying-tribute-to-hayden-panettiere",
+          "published": "2026-08-22",
+          "summary": "\"It’s not a coincidence that so many former, specifically pre-sexualized female, child ‘stars’ have profoundly sad lives and untimely ends\" The post Rose McGowan and Anna Paquin call for greater protections for child stars while paying tribute to Hayden Panettiere appeared first on NME ."
+        }
+      ]
+    },
+    "billboard": {
+      "label": "Billboard",
+      "track": "T1",
+      "count": 10,
+      "items": [
+        {
+          "title": "Dale Morris, Nashville Manager Who Guided Careers of Alabama & Kenny Chesney, Dies at 89",
+          "url": "https://www.billboard.com/business/management/dale-morris-death-manager-alabama-kenny-chesney-dies-1236322517/",
+          "published": "2026-08-22",
+          "summary": "The longtime Nashville manager also represented Martina McBride, Barbara Mandrell andJake Owen."
+        },
+        {
+          "title": "Olivia Rodrigo Drops ‘Handmaid’s Tale’-Inspired ‘Serena Joy’ as CD Single at Indie Record Store",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-serena-joy-cd-single-indie-record-store-1236322505/",
+          "published": "2026-08-22",
+          "summary": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal."
+        },
+        {
+          "title": "Kehlani Delivers Superstar Set at Brooklyn Stop of Triumphant World Tour: 5 Best Moments",
+          "url": "https://www.billboard.com/lists/kehlani-brooklyn-concert-best-moments-cardi-b/",
+          "published": "2026-08-22",
+          "summary": "The Oakland R&B savant proved exactly why she's the cover star of Billboard 's 2026 R&B/Hip-Hop Power Players issue."
+        },
+        {
+          "title": "Janie Bradford, Early Motown Songwriter & ‘Money (That’s What I Want)’ Co-Writer, Dies at 87",
+          "url": "https://www.billboard.com/music/music-news/janie-bradford-death-motown-songwriter-dies-1236322487/",
+          "published": "2026-08-22",
+          "summary": "She also co-wrote songs recorded by Marvin Gaye, Stevie Wonder and Mary Wells."
+        },
+        {
+          "title": "BigXthaPlug Faces Drug and Gun Charges One Year After Last Arrest",
+          "url": "https://www.billboard.com/music/music-news/bigxthaplug-arrested-texas-drug-gun-charges-1236322443/",
+          "published": "2026-08-22",
+          "summary": "The rapper was forced to miss his performance at Winnipeg’s Country Rising Festival."
+        },
+        {
+          "title": "‘The Vampire Lestat: One Night Only LIVE’: Here’s How to Watch the Concert Special Online for Free",
+          "url": "https://www.billboard.com/culture/product-recommendations/vampire-lestat-one-night-only-live-watch-stream-online-free-1236320217/",
+          "published": "2026-08-22",
+          "summary": "The actor took the stage in character as Lestat for a special performance featuring six songs written by the series’ composer Daniel Hart."
+        },
+        {
+          "title": "Here’s Where to Watch 2026 U.S. Open Tennis Championships: Best Ways to Livestream the Grand Slam Online",
+          "url": "https://www.billboard.com/culture/product-recommendations/us-open-tennis-championships-2026-watch-online-free-1236318601/",
+          "published": "2026-08-22",
+          "summary": "The tennis tournament begins on Aug. 23. Here's how to watch the action online for free."
+        },
+        {
+          "title": "Karol G, Maluma & More Unite for Colombia Earthquake Relief & More Uplifting Moments in Latin Music",
+          "url": "https://www.billboard.com/music/latin/karol-g-maluma-colombia-earthquake-relief-mana-apple-music-1236322398/",
+          "published": "2026-08-22",
+          "summary": "Plus, Maná becomes the first Latin act to perform for Apple Music's Rediscovered series, and Elvis Crespo returns to NYC for a free concert."
+        },
+        {
+          "title": "Holly Humberstone Sets Biggest Australian Tour Yet for 2027",
+          "url": "https://www.billboard.com/music/concerts/holly-humberstone-australian-tour-2027-1236322391/",
+          "published": "2026-08-22",
+          "summary": "The run supports Cruel World , Humberstone's second studio album, released April 10 through Polydor Records."
+        },
+        {
+          "title": "Robbie Williams to Perform at Australia’s Melbourne Cup Day",
+          "url": "https://www.billboard.com/music/concerts/robbie-williams-2026-melbourne-cup-1236322393/",
+          "published": "2026-08-22",
+          "summary": "The record-breaking British pop star will play the Flemington mounting yard before kicking off his BRITPOP arena run."
+        }
+      ]
+    },
+    "mbw": {
+      "label": "Music Business Worldwide",
+      "track": "T2-선점",
+      "count": 8,
+      "items": [
+        {
+          "title": "Vanessa Bosåen exits Virgin Music Group, where she’s led the UK business since 2021",
+          "url": "https://www.musicbusinessworldwide.com/vanessa-bosaen-exits-virgin-music-group-where-she-has-led-the-uk-business-since-its-launch-in-2021/",
+          "published": "2026-08-21",
+          "summary": "She joined UMG in 2021 from Regent Street Records, the independent label and publisher she founded in 2014, having spent 15 years as a touring musician. Source"
+        },
+        {
+          "title": "Universal Music Poland acquires the Kayax Records catalog and brand, home to recordings by Brodka, Nosowska and Zakopower",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-poland-acquires-the-kayax-records-catalog-and-brand-home-to-recordings-by-brodka-nosowska-and-zakopower/",
+          "published": "2026-08-21",
+          "summary": "Universal Music Poland also entered a strategic deal with Kayax's separate management business, Kayax Management, which is not part of the acquisition. Source"
+        },
+        {
+          "title": "From Apple Music’s AI labeling plan to Spotify’s $1.5B buyback… it’s MBW’s Weekly Round-Up",
+          "url": "https://www.musicbusinessworldwide.com/from-apple-musics-ai-labeling-plan-to-spotifys-1-5bn-buyback-boost-its-mbws-weekly-round-up/",
+          "published": "2026-08-21",
+          "summary": "The biggest headlines from the past few days... Source"
+        },
+        {
+          "title": "Spotify expands its share buyback program by $1.5B, raising total authorization to around $2.2B",
+          "url": "https://www.musicbusinessworldwide.com/spotify-expands-its-share-buyback-program-by-1-5b-raising-total-authorization-to-around-2-2b/",
+          "published": "2026-08-20",
+          "summary": "The company's Board of Directors approved the increase, which Spotify confirmed in a press release on Thursday (August 20). Source"
+        },
+        {
+          "title": "Apple Music to slap AI labels on Suno tracks – but pushes the onus onto record companies",
+          "url": "https://www.musicbusinessworldwide.com/apple-music-to-slap-on-suno/",
+          "published": "2026-08-20",
+          "summary": "The move was announced in a message to industry partners from Apple on Thursday (August 20), obtained by MBW. Source"
+        },
+        {
+          "title": "UMG-backed Music IP Holdings unveils AI music patent portfolio, aiming to ‘set a standard for how AI and music grow together’",
+          "url": "https://www.musicbusinessworldwide.com/umg-backed-music-ip-holdings-unveils-ai-music-patent-portfolio-aiming-to-set-a-standard-for-how-ai-and-music-grow-together/",
+          "published": "2026-08-20",
+          "summary": "Licenses, secured by Udio and GRAI, will support the development of licensed AI services including covers, remixes, and \"a wide range of interactive music experiences\" Source"
+        },
+        {
+          "title": "Judge clears Ariana Grande to subpoena Instagram, TikTok, and PayPal to identify alleged music leakers",
+          "url": "https://www.musicbusinessworldwide.com/judge-clears-ariana-grande-to-subpoena-instagram-tiktok-and-paypal-to-identify-alleged-music-leakers/",
+          "published": "2026-08-20",
+          "summary": "The ruling matters because Grande has not named a single defendant in the case, listing them as John Doe 1 and John Does 2 through 100. Source"
+        },
+        {
+          "title": "Metal band Demon Hunter sues Netflix and AEG over ‘KPop Demon Hunters’",
+          "url": "https://www.musicbusinessworldwide.com/metal-band-demon-hunter-sues-netflix-and-aeg-over-kpop-demon-hunters/",
+          "published": "2026-08-20",
+          "summary": "The band's corporation, Hyde Lane, is asking the court for treble damages, restitution, Netflix's profits and attorneys' fees, and has demanded a jury trial. Source"
+        }
+      ]
+    },
+    "reddit_indieheads": {
+      "label": "r/indieheads",
+      "track": "신호",
+      "count": 25,
+      "items": [
+        {
+          "title": "[FRESH CHART] New Alternative 40 - August 23, 2026 - FONTAINES D.C. get a 6th #1 with \"Marianne\". BEABADOOBEE, SHYGIRL, REMI WOLF, WESTSIDE COWBOY, HERMANOS GUTIÉRREZ, and BECK also debut in the top 20. SHYGIRL charts for the first time.",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvplad/fresh_chart_new_alternative_40_august_23_2026/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvplad/fresh_chart_new_alternative_40_august_23_2026/\"> <img src=\"https://preview.redd.it/v9uqbadn30lh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b8a8222cfdd621c11b4a512622fb0a365226d8a\" alt=\"[FRESH CHART] New Alternative 40 - August 23, 2026 - FONTAINES D.C. get a 6th #1 with &quot;Marianne&quot;. BEABADOOBEE, SHYGIRL"
+        },
+        {
+          "title": "GBV producer Travis Harrison has a new band. ON LÈ ORE",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvpc4s/gbv_producer_travis_harrison_has_a_new_band_on_lè/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Travis Harrison who produces all the BGV stuff in the last 10 years has a post punk band that are great. He plays drums, mixes as well. On Le Ore. check it …</p> <p><a href=\"https://open.spotify.com/track/2p5EcTwURrHutwgzSUelhU?si=DApf1avHRVqsvb%5C_B-x9YGg&amp;utm%5C_source=copy-link\">https://open.spotify.com/track/2p5EcTwURrHutwgzSUelhU?si=DApf1avHRVqsvb\\_B-x9YGg"
+        },
+        {
+          "title": "[FRESH] Khloe Rose - Girl Down",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvlv6f/fresh_khloe_rose_girl_down/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvlv6f/fresh_khloe_rose_girl_down/\"> <img src=\"https://external-preview.redd.it/kHSO7GIagL4izI8bNu8sAOv7cJyCTZAVh-y4Fxf-SfU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eae257956bbc0e944f59ef7ce5eed4705ffdeaec\" alt=\"[FRESH] Khloe Rose - Girl Down\" title=\"[FRESH] Khloe Rose - Girl Down\" /> </a> </td><td> &#32; submitted by"
+        },
+        {
+          "title": "[FRESH] Devon Gabriella - Charlie",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvlfre/fresh_devon_gabriella_charlie/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvlfre/fresh_devon_gabriella_charlie/\"> <img src=\"https://external-preview.redd.it/qMinxAGnkQjJDE90gV0n3PvatoRbsNDuPR_RGbXIjC8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ffe562dcccd30d69907218bf017f586339d9ef7\" alt=\"[FRESH] Devon Gabriella - Charlie\" title=\"[FRESH] Devon Gabriella - Charlie\" /> </a> </td><td> &#32; sub"
+        },
+        {
+          "title": "[FRESH] Little Hag - Babies",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvlc6v/fresh_little_hag_babies/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvlc6v/fresh_little_hag_babies/\"> <img src=\"https://external-preview.redd.it/h2FBKIglNsnBFu67mzi3tq1fqQh73nmnUsJfIk1fySQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=59e990ac91e114fa6b06580ee328877320808cbd\" alt=\"[FRESH] Little Hag - Babies\" title=\"[FRESH] Little Hag - Babies\" /> </a> </td><td> &#32; submitted by &#32; <a"
+        },
+        {
+          "title": "[FRESH] Earthgirl - Grounded",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvl270/fresh_earthgirl_grounded/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvl270/fresh_earthgirl_grounded/\"> <img src=\"https://external-preview.redd.it/6lXTc9RNcybUNdZzcQWCg5OOM0wPP9goSbQNdbEG0t8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69523bfd6d3ce30f2c706568c15717aceb295a1f\" alt=\"[FRESH] Earthgirl - Grounded\" title=\"[FRESH] Earthgirl - Grounded\" /> </a> </td><td> &#32; submitted by &#32;"
+        },
+        {
+          "title": "[FRESH] Chelsea Cutler - THIS TIME OF THE YEAR",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvkpsp/fresh_chelsea_cutler_this_time_of_the_year/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvkpsp/fresh_chelsea_cutler_this_time_of_the_year/\"> <img src=\"https://external-preview.redd.it/eA384aViNS6nzLgiIrgqJDpeA6yErN6if9PejsytnHE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=54e422711c9295b9fa0a28d64f327f488984a0cd\" alt=\"[FRESH] Chelsea Cutler - THIS TIME OF THE YEAR\" title=\"[FRESH] Chelsea Cutler - THIS TIME O"
+        },
+        {
+          "title": "[FRESH ALBUM] Fen - ELEMENTAL Part One: MOURNING EARTH",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvkcik/fresh_album_fen_elemental_part_one_mourning_earth/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvkcik/fresh_album_fen_elemental_part_one_mourning_earth/\"> <img src=\"https://external-preview.redd.it/8sQba1e-peq7v55dleUC5dKeP9hwN4g6Vjk7DWG5A_U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be450da600f94a9abc87c6fc8174cab7244b59c9\" alt=\"[FRESH ALBUM] Fen - ELEMENTAL Part One: MOURNING EARTH\" title=\"[FRESH ALBUM] Fen - E"
+        },
+        {
+          "title": "[FRESH] Taylor Acorn - Isn’t It Strange (feat. Knox)",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvk38g/fresh_taylor_acorn_isnt_it_strange_feat_knox/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvk38g/fresh_taylor_acorn_isnt_it_strange_feat_knox/\"> <img src=\"https://external-preview.redd.it/7yP4V7GmLK3Ux7CdiTPQXNEXrHGkoPGs4RZEbj9xv1o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4a781498ef3277d2fed447ca6a6ac0df2205acd\" alt=\"[FRESH] Taylor Acorn - Isn’t It Strange (feat. Knox)\" title=\"[FRESH] Taylor Acorn - Isn’t"
+        },
+        {
+          "title": "[RATE REVEAL] New Wave of No Wave Day 2: I spent AAAAALLL my 10s on, flop songs, flop songs",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvk2x0/rate_reveal_new_wave_of_no_wave_day_2_i_spent/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>We&#39;re back for more of this bullshit... Day Two of the New Wave of No Wave will begin again at 8 pm GMT today (so about a half hour from now) where we will continue the eliminations, going from <strong>#28 - #15</strong> in the main rate, and <strong>#10 - #6</strong> in the bonus rate!</p> <hr/> <p>Some stats up front:</p> <p>We had <a href=\"https://pastebin."
+        },
+        {
+          "title": "[ALBUM DISCUSSION] Phoebe Bridgers - Lost Weekend",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvilco/album_discussion_phoebe_bridgers_lost_weekend/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Phoebe Bridgers - <a href=\"https://phoebebridgers.bandcamp.com/album/lost-weekend\">Lost Weekend</a></h1> <p><strong>Release Date: August 14th, 2026</strong></p> <p><strong>Label:</strong> Dead Oceans </p> <p><strong>Genre:</strong> Indie Folk, Singer-songwriter, Americana</p> <p><strong>Singles:</strong> <a href=\"https://phoebebridgers.bandcamp.com/track/lost-boy"
+        },
+        {
+          "title": "[Saturday] General Discussion - 22 August 2026",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvho5b/saturday_general_discussion_22_august_2026/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Talk about anything, music related or not!</strong> Or if you want to discuss music, check out the <a href=\"https://www.reddit.com/r/indieheads/search/?q=DAILY%20MUSIC%20DISCUSSION\">daily music discussion</a> threads. If you&#39;re new here, we encourage you to introduce yourself and tell us about music you&#39;re passionate about.</p> <p>Find out who&#39;"
+        },
+        {
+          "title": "[AMA ANNOUNCEMENT] Julia Holter on Monday, August 24th @ 2:30pm ET/11:30am PT!",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvg808/ama_announcement_julia_holter_on_monday_august/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvg808/ama_announcement_julia_holter_on_monday_august/\"> <img src=\"https://preview.redd.it/vvtt2ii4jskh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=6e48b921de974daf06202c80d07b1205093642e8\" alt=\"[AMA ANNOUNCEMENT] Julia Holter on Monday, August 24th @ 2:30pm ET/11:30am PT!\" title=\"[AMA ANNOUNCEMENT] Ju"
+        },
+        {
+          "title": "[FRESH VIDEO] wakelee - Joyce Kilmer Service Area",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvfs83/fresh_video_wakelee_joyce_kilmer_service_area/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvfs83/fresh_video_wakelee_joyce_kilmer_service_area/\"> <img src=\"https://external-preview.redd.it/R6QJAwdr39JnVJHYpG6uNBy6Ij46KFrPZeqsuTyGUpk.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3cee591572d9d30c039e7d39f30df16fe167374b\" alt=\"[FRESH VIDEO] wakelee - Joyce Kilmer Service Area\" title=\"[FRESH VIDEO] wakelee - Joyce "
+        },
+        {
+          "title": "J Dilla's posthumous LP 'The Shining' was released 20 years ago today",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvf665/j_dillas_posthumous_lp_the_shining_was_released/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvf665/j_dillas_posthumous_lp_the_shining_was_released/\"> <img src=\"https://external-preview.redd.it/7J2FyMAEy5TRWwmym13exLtfw6lx-uQPApu0DoMepI4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b1135fcd9d171d787dd4c5570db4abbb04b5ff96\" alt=\"J Dilla's posthumous LP 'The Shining' was released 20 years ago today\" title=\"J Dilla'"
+        },
+        {
+          "title": "[Saturday] Daily Music Discussion - 22 August 2026",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvenqx/saturday_daily_music_discussion_22_august_2026/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Talk about anything music related that doesn&#39;t need its own thread.</strong> This thread is not for discussion that is tangentially music related; that belongs in the <a href=\"https://www.reddit.com/r/indieheads/search/?q=GENERAL%20DISCUSSION\">general discussion</a> threads. If you&#39;re new here, we encourage you to introduce yourself and tell us abo"
+        },
+        {
+          "title": "[FRESH] Radio Days - Another Lonely Night",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvcvy6/fresh_radio_days_another_lonely_night/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvcvy6/fresh_radio_days_another_lonely_night/\"> <img src=\"https://external-preview.redd.it/vNMkBDJGKN5DeFP-qv_hcEv-I1Gd6uuQBbkXdNpID7U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2acf3ce05bef68467c2e5b19035aade7f7c53439\" alt=\"[FRESH] Radio Days - Another Lonely Night\" title=\"[FRESH] Radio Days - Another Lonely Night\" /> "
+        },
+        {
+          "title": "‘It brings me joy’: how young people are making CDs cool again",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vvckhr/it_brings_me_joy_how_young_people_are_making_cds/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vvckhr/it_brings_me_joy_how_young_people_are_making_cds/\"> <img src=\"https://external-preview.redd.it/-m8TL29Ysiw-X9pgYaODz1XEx4ZaNm15BPyhrHRU5IY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=198e32fa150305c34c0c06e39bfeafa1bc755d4d\" alt=\"‘It brings me joy’: how young people are making CDs cool again\" title=\"‘It brings me "
+        },
+        {
+          "title": "[FRESH] Epicure - Evenings in Honduras",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vv6lmf/fresh_epicure_evenings_in_honduras/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vv6lmf/fresh_epicure_evenings_in_honduras/\"> <img src=\"https://external-preview.redd.it/bvv0pB8NPJsBWTY4VuDxAuV_szHjboUwz9TmZS-wOnQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f11991ad13cdd4483622dae781643f636b1c0fa7\" alt=\"[FRESH] Epicure - Evenings in Honduras\" title=\"[FRESH] Epicure - Evenings in Honduras\" /> </a> </td"
+        },
+        {
+          "title": "Weezer on the shifting sands of success, ugly feelings and the joy of spreadsheets: 'I need to think like a CEO'",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vv5n4v/weezer_on_the_shifting_sands_of_success_ugly/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vv5n4v/weezer_on_the_shifting_sands_of_success_ugly/\"> <img src=\"https://external-preview.redd.it/rN3WHlu8eIOP0eK00PAF7pZ1PaEXZctQwpVztXBF8o8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2d5ede7fb501c68a062d700db88f5befbaeaf3c\" alt=\"Weezer on the shifting sands of success, ugly feelings and the joy of spreadsheets: 'I ne"
+        },
+        {
+          "title": "[FRESH] Oso Oso - the nights",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vv4up0/fresh_oso_oso_the_nights/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Song secretly released with the tour announcement; might be part of upcoming record?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bespectacIed\"> /u/bespectacIed </a> <br/> <span><a href=\"https://samply.app/p/u2Csx9nwEQKprKYKQeym\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/indieheads/comments/1vv4up0/fr"
+        },
+        {
+          "title": "[FRESH ALBUM] Swami John Reis - Navajo White (of Drive Like Jehu, Hot Snakes, RTFC)",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vuxceg/fresh_album_swami_john_reis_navajo_white_of_drive/",
+          "published": "2026-08-22",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vuxceg/fresh_album_swami_john_reis_navajo_white_of_drive/\"> <img src=\"https://external-preview.redd.it/SBP4Qt3v4oVhaXaigabBFIAvMZqxRWmTx3CTA2Gdjgk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25db24292842eccdedf6a6ee284ec79851c0f740\" alt=\"[FRESH ALBUM] Swami John Reis - Navajo White (of Drive Like Jehu, Hot Snakes, RTFC)\""
+        },
+        {
+          "title": "Yves Tumor has been accused of sexual assault, abuse by multiple women",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vuwoqg/yves_tumor_has_been_accused_of_sexual_assault/",
+          "published": "2026-08-21",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VietRooster\"> /u/VietRooster </a> <br/> <span><a href=\"https://i.redd.it/jbu5w3cqftkh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/indieheads/comments/1vuwoqg/yves_tumor_has_been_accused_of_sexual_assault/\">[댓글]</a></span>"
+        },
+        {
+          "title": "[FRESH ALBUM] Untitled With Drums - Made Flesh",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vuwdfc/fresh_album_untitled_with_drums_made_flesh/",
+          "published": "2026-08-21",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vuwdfc/fresh_album_untitled_with_drums_made_flesh/\"> <img src=\"https://external-preview.redd.it/oNAcx50TmRetY5d2hpEoaYkD55auQ453wv-8oSQN5wc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=05323c6793dbc25b74ffe8d6e1d0b5ab9bf0e1a3\" alt=\"[FRESH ALBUM] Untitled With Drums - Made Flesh\" title=\"[FRESH ALBUM] Untitled With Drums - "
+        },
+        {
+          "title": "Julia Jacklin releasing new song \"The Hardest Thing\" next week",
+          "url": "https://www.reddit.com/r/indieheads/comments/1vuw5ir/julia_jacklin_releasing_new_song_the_hardest/",
+          "published": "2026-08-21",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1vuw5ir/julia_jacklin_releasing_new_song_the_hardest/\"> <img src=\"https://preview.redd.it/zwihqsuxbtkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=728ea53a3515d0cbc78bc1fac13b4b5f31c8bf0d\" alt=\"Julia Jacklin releasing new song &quot;The Hardest Thing&quot; next week\" title=\"Julia Jacklin releasing new song &quot;The Hard"
+        }
+      ]
+    },
+    "reddit_hiphopheads": {
+      "label": "r/hiphopheads",
+      "track": "신호",
+      "count": 25,
+      "items": [
+        {
+          "title": "[FRESH] aroomfullofmirrors – Creative Luxury 2 (Freestyle) (collection of artists curated by TDE Punch)",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvpxed/fresh_aroomfullofmirrors_creative_luxury_2/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AChuckleFuck\"> /u/AChuckleFuck </a> <br/> <span><a href=\"https://youtu.be/FUwvVtNHZI0?si=aOgsq1pGam9w-nRE\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvpxed/fresh_aroomfullofmirrors_creative_luxury_2/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Calling all young Millennial / old Gen Z hiphop heads",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvpx94/calling_all_young_millennial_old_gen_z_hiphop/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I’m (31F) a former party girl turned first time mom. Planning on making my baby shower theme 2011-2014 (ish) party for old times sake (think Project X themed? Idk)</p> <p>What songs or artists do y’all feel like defined that era for you? I feel like I’m missing some less popular bangers that I forgot about.</p> <p>Thanks in advance 😊 </p> <p>Here’s what I hav"
+        },
+        {
+          "title": "Travis Scott - “GOD’S COUNTRY”",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvps0z/travis_scott_gods_country/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kanyefan_24\"> /u/kanyefan_24 </a> <br/> <span><a href=\"https://youtu.be/omrJYLHe-tI?si=zT59wWC5MOkhfMSq\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvps0z/travis_scott_gods_country/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Juice WRLD — Feeling",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvpm8e/juice_wrld_feeling/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AboutLastFight\"> /u/AboutLastFight </a> <br/> <span><a href=\"https://youtu.be/9gHwgVRRCWg?is=lqTt6_j2Fnw0AaM6\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvpm8e/juice_wrld_feeling/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Rio da Yung OG dropping new album \"The World Is Yours\" on September 11th",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvp6xh/rio_da_yung_og_dropping_new_album_the_world_is/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://music.apple.com/us/album/the-world-is-yours/6800923392\">Apple Music page</a></p> <p>22 Tracks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thesuntalking\"> /u/thesuntalking </a> <br/> <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvp6xh/rio_da_yung_og_dropping_new_album_the_world_is/\">[link]"
+        },
+        {
+          "title": "Lil Yachty To Make WWE In-Ring Debut At Sunday Night's Main Event",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvo1rj/lil_yachty_to_make_wwe_inring_debut_at_sunday/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ItsGeoCon\"> /u/ItsGeoCon </a> <br/> <span><a href=\"https://www.wrestlinginc.com/2242048/wwe-smackdown-lil-yachty-in-ring-debut-sunday-nights-main-event/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvo1rj/lil_yachty_to_make_wwe_inring_debut_at_sunday/\">[댓글]</a></span>"
+        },
+        {
+          "title": "DRAM ft. ASAP Rocky & Juicy J - Gilligan",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvlkkm/dram_ft_asap_rocky_juicy_j_gilligan/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/aggieclams\"> /u/aggieclams </a> <br/> <span><a href=\"https://youtu.be/hEcPNrqsXfg?is=I-OnDkGA9D41sHdK\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvlkkm/dram_ft_asap_rocky_juicy_j_gilligan/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Or Barak Releases New Single and Video “BODY” as Second Album Speculation Intensifies",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvlahd/or_barak_releases_new_single_and_video_body_as/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>**Or Barak Releases New Single and Video “BODY” as Second Album Speculation Intensifies**</p> <p>That extended wait has only made the possibility of another album more exciting. **While Barak has not officially confirmed a second studio album, speculation surrounding a possible 2026 release continues to grow**, especially as new music like “BODY” begins to arrive."
+        },
+        {
+          "title": "[Fresh] The Neighborhood Kids Livegood ft Rocky G",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvk7uy/fresh_the_neighborhood_kids_livegood_ft_rocky_g/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/albinoman38\"> /u/albinoman38 </a> <br/> <span><a href=\"https://youtu.be/ky-Hwz6zhts?is=hR9DQbkbLxzHKXDg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvk7uy/fresh_the_neighborhood_kids_livegood_ft_rocky_g/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Drop Watch: 08.21.2026",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvjyv2/drop_watch_08212026/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Drop Watch: 08/21/2026</strong></p> <h1>LPs</h1> <ul> <li><a href=\"https://music.apple.com/us/album/superarte-exhibici%C3%B3n-2-0/6803117439\"><strong>Justin Quiles &amp; Lenny Tavárez (🇵🇷) - SUPERARTE: EXHIBICIÓN 2.0</strong></a> (w J Balvin, Blessd, Sech, Jowell &amp; Randy, Eladio Carrión, Dalex) <strong>[Reggaetón, <em>Warner</em>]</strong></li> <li><"
+        },
+        {
+          "title": "[FRESH VIDEO] JODOT KREEP & SLUMP DOTTY - PROFIT (Dir. ONE MIC NYCC)",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvjefl/fresh_video_jodot_kreep_slump_dotty_profit_dir/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kanyefan_24\"> /u/kanyefan_24 </a> <br/> <span><a href=\"https://youtu.be/1bHdRqJO5MA?si=zQzRvjOJX-nD7Zam\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvjefl/fresh_video_jodot_kreep_slump_dotty_profit_dir/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Five takeaways from week one of the Tupac Shakur murder trial (Gift Article)",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvipu8/five_takeaways_from_week_one_of_the_tupac_shakur/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MichaelNamikas\"> /u/MichaelNamikas </a> <br/> <span><a href=\"https://www.nytimes.com/2026/08/22/arts/music/tupac-shakur-murder-trial-takeaways.html?unlocked_article_code=1.7VA.8XX1.RSkXOKyKD8hq&amp;smid=bs-share\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvipu8/five_takeaways_from_week_one_of_"
+        },
+        {
+          "title": "REMI - Lose Sleep (feat. Jordan Rakei)",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvimzb/remi_lose_sleep_feat_jordan_rakei/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mkk4\"> /u/mkk4 </a> <br/> <span><a href=\"https://m.youtube.com/watch?v=wZWB0cyTGrA\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvimzb/remi_lose_sleep_feat_jordan_rakei/\">[댓글]</a></span>"
+        },
+        {
+          "title": "[Fresh] Smif-N-Wessun & M.O.P - MEDINA (SNDTRAK REMIX)",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvgkzz/fresh_smifnwessun_mop_medina_sndtrak_remix/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Akverse47\"> /u/Akverse47 </a> <br/> <span><a href=\"https://youtu.be/HfbCegPW_4M?si=bLo0J4LvFFaynXoB\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvgkzz/fresh_smifnwessun_mop_medina_sndtrak_remix/\">[댓글]</a></span>"
+        },
+        {
+          "title": "\"20 Years Later\": T.I.'s 'King' and the 2006 coronation of Atlanta trap",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvg64w/20_years_later_tis_king_and_the_2006_coronation/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m starting a new retrospective write-up series called <strong>20 Years Later</strong>, where I revisit the albums and tracks that defined mid-2000s music and shaped my fandom growing up. To kick things off, I’m diving into T.I.’s 2006 classic, <em>King</em>. Hope you enjoy the read!</p> <p>Welcome to <em>20 Years Later</em>, a retrospective series I’m starting t"
+        },
+        {
+          "title": "Kendrick Lamar feat Hitta J3, YoungThreat & Peysoh - gnx",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvf62u/kendrick_lamar_feat_hitta_j3_youngthreat_peysoh/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kanyefan_24\"> /u/kanyefan_24 </a> <br/> <span><a href=\"https://youtu.be/8sfLudpdZPU?si=VD3vQuCTDLxVJrId\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvf62u/kendrick_lamar_feat_hitta_j3_youngthreat_peysoh/\">[댓글]</a></span>"
+        },
+        {
+          "title": "East Indianapolis- 4200Kory - BOGUS",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vve9kk/east_indianapolis_4200kory_bogus/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ikocos\"> /u/ikocos </a> <br/> <span><a href=\"https://youtu.be/9QEf4Pygelw?is=pNY9X4DjiHMmP3iA\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vve9kk/east_indianapolis_4200kory_bogus/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Snoop Dogg - Riders On The Storm feat. The Doors [Fredwreck Remix] (2004)",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vve6rw/snoop_dogg_riders_on_the_storm_feat_the_doors/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Anderrrrr\"> /u/Anderrrrr </a> <br/> <span><a href=\"https://youtu.be/ubWL8VAPoYw\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vve6rw/snoop_dogg_riders_on_the_storm_feat_the_doors/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Aesop Rock - Big Bang",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vve0h6/aesop_rock_big_bang/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ShelterOk1535\"> /u/ShelterOk1535 </a> <br/> <span><a href=\"https://www.youtube.com/watch?v=BM8_rEIiWRo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vve0h6/aesop_rock_big_bang/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Pusha T (feat. Rick Ross) - Millions (Official Video)",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvdt60/pusha_t_feat_rick_ross_millions_official_video/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TorontoFan7200\"> /u/TorontoFan7200 </a> <br/> <span><a href=\"https://youtu.be/hU6VqlnrQhM?si=ada3T2BOnEtKCK1z\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvdt60/pusha_t_feat_rick_ross_millions_official_video/\">[댓글]</a></span>"
+        },
+        {
+          "title": "[FRESH VIDEO] VonOff1700 - Hood Legends (Official Video)",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvdiup/fresh_video_vonoff1700_hood_legends_official_video/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TorontoFan7200\"> /u/TorontoFan7200 </a> <br/> <span><a href=\"https://youtu.be/fMjSto456sg?si=Ykvn-GOdPe6XNiF_\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvdiup/fresh_video_vonoff1700_hood_legends_official_video/\">[댓글]</a></span>"
+        },
+        {
+          "title": "[FRESH VIDEO] YTB Fatt (feat. Future) - Pink Diamonds (Official Audio)",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvdgeg/fresh_video_ytb_fatt_feat_future_pink_diamonds/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TorontoFan7200\"> /u/TorontoFan7200 </a> <br/> <span><a href=\"https://youtu.be/YU78cc8ppRU?si=_sfdhUBSEvpvv2jn\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvdgeg/fresh_video_ytb_fatt_feat_future_pink_diamonds/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Daily Discussion Thread 08/22/2026",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvd2wt/daily_discussion_thread_08222026/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Welcome to the <a href=\"/r/hiphopheads\">/r/hiphopheads</a> daily discussion thread!</h1> <h3>What&#39;s This Thread For?</h3> <ul> <li>Objective questions with right/wrong answers (<em>&quot;Does anyone know what is happening with Detox?&quot;, &quot;What is the sample in C.R.E.A.M.?&quot;, etc.</em>) </li> <li>General hip-hop discussion.</li> <li>Meta posts, lik"
+        },
+        {
+          "title": "[FRESH VIDEO] Nettspend - sober",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vvc7my/fresh_video_nettspend_sober/",
+          "published": "2026-08-22",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NinjaGaara\"> /u/NinjaGaara </a> <br/> <span><a href=\"https://www.youtube.com/watch?v=UoqaVRAF3H4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/hiphopheads/comments/1vvc7my/fresh_video_nettspend_sober/\">[댓글]</a></span>"
+        },
+        {
+          "title": "[DISCUSSION] Rae Sremmurd - SremmLife 2 (10 Years Later)",
+          "url": "https://www.reddit.com/r/hiphopheads/comments/1vv95l6/discussion_rae_sremmurd_sremmlife_2_10_years_later/",
+          "published": "2026-08-22",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Tupelo, Mississippi rap duo released their second studio album on August 11th, 2016, via Ear Drummer Records and Interscope Records.</p> <p>The album debuted at number seven on the US Billboard 200, with 30,000 album-equivalent units with 15,000 pure album sales in its first week. The album later reached a new peak at number four on the chart on the issue date"
+        }
+      ]
+    },
+    "isplus": {
+      "label": "일간스포츠",
+      "track": "T1",
+      "count": 25,
+      "items": [
+        {
+          "title": "'여제' 안세영, 3년 만에 세계선수권 챔피언 도전...결승 상대는 '5연승' 거둔 야마구치",
+          "url": "https://isplus.com/article/view/isp202608230009",
+          "published": "2026-08-23",
+          "summary": "'셔틀콕 여제' 안세영(24&middot;삼성생명)이 3년 만에 세계선수권대회 우승에 한 걸음만을 남겨뒀다. 야마구치 아카네(일본)을 만난다. 안세영은 23일(한국시간) 인도 뉴델리에서 열린 세계배드민턴연맹(BWF) 2026 세계선수권대회 여자단식 8강전에서 랭킹 3위 왕즈이(중국)에 게임 스코어 2-0(24-22, 21-16)으로 승리했다. 1게임 듀스 승부에서 승리하며 기선을 제압한 뒤 2게임은 5점 앞선 채 먼저 21점째를 쌓았다. 최근 14번 맞대결에서 13승(1패)째를 거두며 기량 차이를 증명했다. 안세영은 2023년 이 대회에서 우승을 차지한 뒤 3년 만에 다시 챔피언 자리를 노린다. 결승전 상대는 야마구치다. 한때 안세영의 '천적'이었던 선수다. 한때 5위까지 떨어졌던 랭킹을 2위까지 끌어올릴 "
+        },
+        {
+          "title": "박위, CCTV 공개 논란에 후폭풍…♥송지은에 “남편 관리 좀” 불똥 [왓IS]",
+          "url": "https://isplus.com/article/view/isp202608230008",
+          "published": "2026-08-23",
+          "summary": "유튜버 박위가 낙상 사고 당시 CCTV를 공개해 논란에 휩싸인 가운데, 아내인 가수 송지은에게까지 불똥이 튀었다.23일 송지은의 최근 SNS 게시물에는 박위의 논란과 관련된 댓글이 잇따라 달리고 있다.일부 누리꾼들은 &ldquo;지팔지꼰&rdquo;, &ldquo;시크릿 때부터 팬이었는데&rdquo;, &ldquo;남편 관리 좀 해주세요&rdquo;, &ldquo;지금이라도 안 늦었다&rdquo; 등의 댓글을 남기며 송지은에게까지 비난의 화살을 돌렸다.앞서 박위는 21일 유튜브 채널을 통해 KTX에서 하차하던 중 휠체어 바퀴가 공익근무요원의 발에 걸려 넘어졌다며 당시 사고가 담긴 CCTV 영상을 공개했다. 그러나 일부 누리꾼은 해당 근무자의 고의성이 확인되지 않은 상황에서 CCTV 영상을 공개한 것은 과도한"
+        },
+        {
+          "title": "‘추성훈 딸’ 추사랑, 14살에 완성형 비율…172cm 역시 ‘모델 DNA’ [IS하이컷]",
+          "url": "https://isplus.com/article/view/isp202608230007",
+          "published": "2026-08-23",
+          "summary": "추성훈과 야노시호 부부의 딸 추사랑의 근황이 전해졌다.야노시호는 지난 21일 자신의 SNS에 하트 이모티콘과 함께 사진 한 장을 게재했다.공개된 사진 속 추사랑은 흰색 크롭티에 연청바지를 입고 안경을 쓴 채 카메라를 바라보고 있다. 갑작스럽게 카메라를 발견한 듯 눈을 크게 뜨고 손을 흔드는 모습이 포착됐다.무엇보다 훌쩍 성장한 추사랑의 모습이 눈길을 끈다. 또 길게 뻗은 팔다리와 남다른 비율과 함께, 모델인 엄마 야노시호의 얼굴을 쏙 빼닮은 분위기도 돋보인다.앞서 추사랑은 최근 KBS2 &lsquo;신상출시 편스토랑&rsquo;에 출연해 키가 172cm라고 밝혀 화제를 모았다.한편 일본에서 모델로 활동한 야노시호는 추성훈과 지난 2009년 결혼했으며 2011년 딸 추사랑을 품에 안았다. 추사랑은 과거 KBS"
+        },
+        {
+          "title": "'폰세와 류현진에게 홈런 뺏은' KT 김상수 보상 선수, 처음 입은 '푸른 홈런 재킷'",
+          "url": "https://isplus.com/article/view/isp202608230006",
+          "published": "2026-08-23",
+          "summary": "삼성 라이온즈 외야수 김태훈(30)이 '푸른 홈런 재킷'을 처음 입었다. 김태훈은 지난 22일 창원NC파크에서 열린 NC 다이노스전에 7번 타자 우익수로 선발 출전해 2-3으로 뒤진 4회 초 역전 2점 홈런을 터뜨렸다. 그는 선발 투수 원종해의 시속 137㎞ 투심 패스트볼을 받아쳐 우측 담장을 시원하게 넘겼다. 비거리 135m의 시즌 마수걸이 홈런이다. ​프로 입단 12년 차 김태훈은 2023년 김상수의 보상 선수로 사자 군단에 합류했다. 2020년 퓨처스 남부리그 타격왕(0.367)에 오른 이듬해 1군 44경기에서 타율 0.230에 그쳤다. 삼성 이적 첫 시즌인 2023년 시범경기 타점왕(12개&middot;14경기 타율 0.314)을 차지하며 기대를 모았으나 오른 발목 부상을 당하는 등 운도 따르지 않았"
+        },
+        {
+          "title": "‘우지원 딸’ 우서윤, 미스코리아 진 당선…농구스타 2세의 변신",
+          "url": "https://isplus.com/article/view/isp202608230005",
+          "published": "2026-08-23",
+          "summary": "전 프로농구 선수 우지원의 딸 우서윤이 미스코리아 진에 올랐다.22일 서울 강남구 코엘스 오디토리움에서 &lsquo;제70회 미스코리아 선발대회&rsquo; 본선이 개최됐다. 이날 우서윤은 최고 영예인 미스코리아 진에 당선됐다.이날 진으로 호명된 우서윤은 &ldquo;70기 동기들 정말 수고 많았다. 한 땀 한 땀 피나는 노력으로 멋진 무대를 완성할 수 있었던 것 같아 너무 기쁘다&rdquo;고 전했다.우서윤은 앞서 &lsquo;2026 미스 서울&middot;경기&middot;인천 선발대회에서 선을 차지하며 본선에 진출했다.한편 우서윤은 우지원의 장녀로 미국 터프츠대학교에서 파인아트를 전공 중이다.우서윤은 우지원과 함께 SBS &lsquo;스타주니어쇼 붕어빵&rsquo;, JTBC &lsquo;유자식 상팔"
+        },
+        {
+          "title": "악천후가 만든 또 '솔림대전' 시즌 4승 과연 누가...\"기회 안 놓친다\" \"역전 기대\"",
+          "url": "https://isplus.com/article/view/isp202608230003",
+          "published": "2026-08-23",
+          "summary": "악천후로 또 한 번의 '임솔대전'이 펼쳐지게 됐다. '동갑내기 라이벌' 서교림과 김민솔(이상 20)은 23일 경기도 포천의 포천힐스 컨트리클럽 가든&middot;팰리스 코스(파72)에서 열리는 시즌 두 번째 메이저대회인 BC카드&middot;한경 제48회 KLPGA 챔피언십(총상금 15억원) 최종일에 '챔피언 조'에서 함께 플레이한다. 3라운드까지는 서교림이 중간 합계 10언더파 206타를 기록, 2위 김민솔에 세 타 차 앞선 단독 선두를 질주하고 있다. 서교림과 김민솔은 올 시즌 엎치락뒤치락 경쟁 중이다. 서교림은 지난주 메디힐&middot;한국일보 챔피언십에서 시즌 3승을 수확하며 김민솔과 함께 다승 공동 선두가 됐다. 대상 포인트는 서교림이 390점을 얻어, 김민솔(352점)을 제치고 1위로 올라섰다."
+        },
+        {
+          "title": "웃지 못한 '스마일 점퍼' 우상혁, 국제대회 복귀전서 2ｍ16 실패",
+          "url": "https://isplus.com/article/view/isp202608230004",
+          "published": "2026-08-23",
+          "summary": "'스마일 점퍼' 우상혁(용인시청)이 복귀전에서 웃지 못했다.한국 높이뛰기 간판인 우상혁은 22일(한국시간) 폴란드 카토비체 중앙광장 특설경기장에서 열린 2026 세계육상연맹 실레시아 다이아몬드리그 남자 높이뛰기에서 첫 번째 시도 높이인 2ｍ16을 넘지 못해 공식 기록 없이 대회를 마쳤다. 올 시즌 개인 최고 기록(2ｍ30)에 한참 못 미쳤다. 올 시즌 순조롭게 출발한 우상혁은 이란 전쟁 여파로 국제대회가 취소되면서 컨디션 조절에 어려움을 겪었다. 지난 5월 열린 제80회 육상경기선수권대회에서 2ｍ27의 기록으로 우승했으나, 선발전 직후 일본에서 열린 세이코 골든 그랑프리 경기 도중 왼쪽 스파이크가 찢어지면서 찰과상을 입었다. 이후 우상혁은 3개월 가까이 컨디션과 멘털 회복에 집중했다.오는 9월 개막하는 아이"
+        },
+        {
+          "title": "120일 만에 되찾은 5선발, 두 번의 악송구로 무너진 '좌승현'",
+          "url": "https://isplus.com/article/view/isp202608220098",
+          "published": "2026-08-23",
+          "summary": "삼성 라이온즈 왼손 투수 이승현(24)이 두 번의 악송구로 스스로 무너졌다. 이승현은 22일 창원NC파크에서열린 NC 다이노스전에 선발 등판해 2⅔이닝 6피안타 3실점(2자책)을 기록했다. 팀이 8-6 역전승을 올려 패전은 면했다. 이승현은 1회 초 최형우의 1타점 결승타에 힘입어 1-0 리드를 안고 마운드에 올랐다. 그러나 첫 타자 김주원에게 2루타를 허용했고, 후속 최정원의 번트 시도 때 1루 악송구를 했다. 그 사이 김주원이 3루를 돌아 여유 있게 홈을 밟아 동점이 됐다. 이승현은 이어진 1사 3루에서 4번 타자 김휘집을 투수 앞 땅볼로 유도했다. 투수 정면으로 향한 강습 타구를 한 번에 잡지 못한 그는 바로 앞에 떨어진 공을 주워 1루가 아닌 홈 승부를 택했다. 타이밍상 쉽지 않은 승부였다. 그러나 "
+        },
+        {
+          "title": "\"이강인은 프로 저격수\"…스페인 라리가, '슛돌이 홀릭'에 빠졌다",
+          "url": "https://isplus.com/article/view/isp202608220093",
+          "published": "2026-08-23",
+          "summary": "\"'프로 저격수(profesi&oacute;n francotirador)'가 직업인 이강인. 그의 첫인상은 충분히 강렬했다.\"스페인 유력지 마르카는 최근 스페인 프로축구 프리메라리가 아틀레티코 마드리드에서 데뷔골을 터뜨린 이강인(25)에 대해 이렇게 평가했다.마르카는 최근 '만약 누군가 아틀레티코의 새로운 등번호 7번이 어떤 것을 보여줄 수 있을지 의문을 품었다면, 그 의문은 말끔히 사라졌다. 강한 자신감과 직선적인 움직임, 그리고 날카로운 킥 능력까지. 파리 생제르맹(PSG) 출신 이강인은 유럽 정상급 클럽에 단순히 유니폼을 팔기 위해 온 선수가 아니었다. 자신의 존재감을 확실하게 증명했다'고 보도했다.마르카의 보도대로, 이강인은 아틀레티코 데뷔전에서 번뜩이는 활약을 보였다. 라리가 개막 전에 아틀레티코로"
+        },
+        {
+          "title": "3331억 받고 다저스 왔는데 끝없는 추락…급기야 최근 7경기 1할대 타율",
+          "url": "https://isplus.com/article/view/isp202608220073",
+          "published": "2026-08-23",
+          "summary": "미국 프로야구 메이저리그(MLB) LA(로스앤젤레스) 다저스에서 뛰는 카일 터커(29)의 부진이 장기화하고 있다. 올 시즌을 앞두고 천문학적인 규모의 계약을 맺고 다저스 유니폼을 입었지만, 기대와는 거리가 먼 성적표를 받아들고 있다. 최근에는 타격감이 더욱 떨어지면서 극심한 슬럼프 탈출을 위한 안간힘을 쓰고 있다.글로벌스포츠전문매체 ESPN은 '터커가 극심한 타격 부진에서 벗어나기 위해 안간힘을 쓰고 있다'라며 '평소 실내 타격 케이지에서 훈련하던 터커는 피츠버그 파이어리츠와의 홈경기를 앞두고 그라운드에서 타격 훈련했다. 그는 슬럼프 탈출을 위해 조금이라도 좋은 감각을 찾으려 하고 있다'고 22일(한국시간) 보도했다.올 시즌 터커는 기대에 크게 미치지 못하고 있다. 22일 기준으로 그는 정규리그 121경기에"
+        },
+        {
+          "title": "'라팍 ERA 6.26' 악몽 탈출한 김재윤, 원정 21경기째 '극강'...역대 5번째 기록",
+          "url": "https://isplus.com/article/view/isp202608220097",
+          "published": "2026-08-22",
+          "summary": "삼성 라이온즈 마무리 투수 김재윤(36)이 홈 구장 악몽을 털고 역대 5번째 개인 통산 220세이브를 달성했다.김재윤은 22일 창원NC파크에서 열린 NC 다이노스전에서 1과 3분의 1이닝 무피안타 무실점으로 팀의 8-6 리드를 끝까지 지켰다. 직전 등판이었던 지난 18일 대구 SSG 랜더스전에서 아웃카운트 하나 잡지 못한 채 4피안타 4실점으로 시즌 5번째 블론 세이브를 범한 아픔에서 벗어났다. 김재윤은 역대 5번째 KBO리그 개인 통산 220세이브를 달성했다. 더불어 올 시즌 27세이브째를 따내며 개인 첫 구원왕을 향해 순항하고 있다. 부문 2위 LG 트윈스 손주영(24세이브)과 격차를 3개 차로 벌렸다. 김재윤은 올 시즌 홈 라이온즈파크(이하 라팍) 마운드에만 서면 흔들린다. 지난 18일에도 팀이 2-1"
+        },
+        {
+          "title": "'최고 158㎞' 돌아온 안우진 올 시즌 최고 투구, KIA 7연승 도전 막았다",
+          "url": "https://isplus.com/article/view/isp202608220096",
+          "published": "2026-08-22",
+          "summary": "목 통증을 털고 돌아온 키움 히어로즈 '에이스' 안우진(27)이 KIA 타이거즈의 7연승 도전을 가로막았다. 안우진은 22일 서울 고척스카이돔에서 열린 KIA 타이거즈와 홈 경기에 선발 등판해 7이닝 동안 4피안타 무실점으로 호투했다. 키움은 3-1로 승리하며 최근 5연패에서 탈출했고, 안우진은 시즌 3승(6패)째를 달성했다. 올 시즌 다승 공동 선두 KIA 애덤 올러(6이닝 4피안타 2볼넷 7탈삼진 1실점)와 맞대결에서도 판정승을 거뒀다. 안우진의 호투에 고전한 3위 KIA는 6연승 행진을 마감했다. 4위 LG 트윈스와 승차가 반 경기 차로 좁혀졌다. 안우진이 올 시즌 7이닝을 투구한 건 이날이 처음이다. 안우진은 2023년 군 입대를 앞두고 팔꿈치 인대 접합 수술(토미존 서저리)을 받았고, 2025년 8"
+        },
+        {
+          "title": "[IS부천]부천, 포항을 3-0으로 잡으며 2연승 신바람! 갈레고 1골 1도움 맹활약",
+          "url": "https://isplus.com/article/view/isp202608220095",
+          "published": "2026-08-22",
+          "summary": "부천 FC 1995가 포항 스틸러스에 승리했다. 부천은 22일 부천종합운동장에서 열린 포항스틸러스와의 하나은행 K리그1 2026 24라운드 경기에서 3-0으로 승리했다. 갈레고가 1골 1도움을 기록하며 승리의 일등공신이 됐다. 부천은 구단 역사상 처음으로 K리그1 연승을 달렸다. 전북전 승리에 이어 2연승으로 신바람을 냈다. 이번 경기는 원래 포항 홈에서 치러질 예정이었지만, 스틸야드의 안전 문제로 개최 장소가 변경됐다. 전반 초반은 포항이 조금 더 장악하는 모양새였다. 트란치스카를 앞세워 공세를 펼쳤다. 전반 12분 코너킥 상황에서 박찬용이 헤더로 찔러준 볼을 트란지스카가 슈팅을 연결했지만 골문을 넘겼다. 밀리던 부천은 역습 한방으로 선제골을 넣었다. 전반 16분이었다. 갈레고가 포항의 전진패스를 잡아냈다"
+        },
+        {
+          "title": "'4승+2주 연속 우승 도전' 서교림, 김민솔 제치고 단독 1위 \"기회 놓치지 않겠다\"",
+          "url": "https://isplus.com/article/view/isp202608220094",
+          "published": "2026-08-22",
+          "summary": "서교림(20)이 다승왕, 상금왕 타이틀을 두고 치열하게 다투는 '동갑내기 라이벌' 김민솔을 제치고 시즌 4승에 한 발짝 더 가까이 다가섰다.서교림은 22일 경기도 포천의 포천힐스 컨트리클럽 가든&middot;팰리스 코스(파72)에서 열린 시즌 두 번째 메이저대회인 BC카드&middot;한경 제48회 KLPGA 챔피언십(총상금 15억원) 3라운드에서 보기 없이 버디만 3개를 잡으며 3언더파 69타를 쳤다. 중간 합계 10언더파 206타를 기록한 서교림은 2위 김민솔을 세 타 차로 따돌리고 전날 공동 선두에서 단독 선두로 올라섰다. 서교림은 지난주 메디힐&middot;한국일보 챔피언십에서 시즌 3승을 수확하며 김민솔과 함께 다승 공동 선두가 됐다. 대상 포인트는 김민솔을 따돌리고 1위(390점)로 올라섰다. 상"
+        },
+        {
+          "title": "[IS부천]'갈레고 1골-1도움' 부천, 역습 2방으로 포항에 2-0 리드하며 전반 종료",
+          "url": "https://isplus.com/article/view/isp202608220091",
+          "published": "2026-08-22",
+          "summary": "부천 FC 1995가 포항 스틸러스에 2-0으로 앞서 있다.부천은 22일 부천종합운동장에서 열리고 있는 포항과의 하나은행 K리그1 2026 24라운드 경기에서 전반을 2-0으로 앞선 채 마쳤다. 갈레고가 1골 1도움을 올렸다. 전반 초반은 포항이 조금 더 장악하는 모양새였다. 트란치스카를 앞세워 공세를 펼쳤다. 전반 12분 코너킥 상황에서 박찬용이 헤더로 찔러준 볼을 트란지스카가 슈팅을 연결했지만 골문을 넘겼다. 밀리던 부천은 역습 한방으로 선제골을 넣었다. 전반 16분이었다. 갈레고가 포항의 전진패스를 잡아냈다. 바로 가브리엘에게 패스를 주고 최전방으로 뛰어들어갔다. 다시 리턴패스를 받았다. 골키퍼와 일대일 상황에서 가볍게 골로 연결했다. 부천이 앞서나갔다. 포항은 공격적으로 임했다. 전반 22분 트란지스"
+        },
+        {
+          "title": "'2연속 충격의 역전패' LG '왕옌청 입원' 한화도 반가운 우천 취소",
+          "url": "https://isplus.com/article/view/isp202608220090",
+          "published": "2026-08-22",
+          "summary": "LG 트윈스도 한화 이글스도 우천 순연이 반갑다. 22일 대전 한화생명볼파크에서 열릴 예정이던 양 팀의 시즌 13차전은 우천 취소됐다. 2연속 역전패를 당한 LG는 충격을 덜고 23일 경기에 나설 수 있게 됐다. LG는 지난 20일 잠실 KT 위즈전 3-1로 앞선 7회 초 '필승조' 존 케네디와 우강훈이 무너지며 6점을 뺏겼다. 8회 7점, 9회 2점 더 내준 끝에 4-16으로 역전패를 당했다. 21일에는 대전 한화 이글스전에서 1회 7점, 3회 2점을 뽑아 9-0까지 앞서갔다. 그러나 4회부터 8회 까지 2점-3점-3점-3점-4점을 뺏겨 결국 11-15로 졌다. 역대 두 번째 최다 점수 차 역전패. 최대 98.7%까지 승리 확률을 기록했지만, 충격의 역전패를 당했다. LG는 미국 메이저리그(MLB) 역대 "
+        },
+        {
+          "title": "“잘못은 사과, 안 한 일은 못 참아” 김병지, 박문성 상대 민사소송 예고",
+          "url": "https://isplus.com/article/view/isp202608220089",
+          "published": "2026-08-22",
+          "summary": "김병지 강원FC 대표이사가 자신을 둘러싼 각종 의혹에 대해 직접 반박하고 나섰다. 자신의 잘못에 대해서는 거듭 사과하면서도 사실과 다른 주장까지 비판의 근거로 활용되고 있다며 박문성 축구 해설위원과 유튜브 채널 &lsquo;달수네라이브&rsquo;를 상대로 민사소송을 예고했다.김 대표이사는 21일 자신의 유튜브 채널 &lsquo;꽁병지TV&rsquo;에 &lsquo;박문성씨, 박동희기자 대답하세요&rsquo;라는 제목의 영상을 공개하고 &ldquo;더 이상 침묵하지 않겠다. 앞으로는 모든 사실을 밝히고 대응하도록 하겠다&rdquo;고 말했다.먼저 최근 자신과 관련한 논란에 대해 사과했다. 김 대표이사는 &ldquo;팬 여러분과 강원 팬 여러분께 걱정을 끼쳐드린 점에 대해 진심으로 사과드린다&rdquo;며 &"
+        },
+        {
+          "title": "'악' KIA 김도영, 안우진 156㎞/h 강속구에 팔꿈치 강타 사구",
+          "url": "https://isplus.com/article/view/isp202608220087",
+          "published": "2026-08-22",
+          "summary": "KIA 타이거즈 김도영이 시속 156㎞ 강속구에 왼 팔꿈치 사구를 당했다. 다행히 1루까지 걸어나갔다. 김도영은 22일 서울 고척 스카이돔에서 펼쳐지는 키움 히어로즈전에 3번 타자 2루수로 선발 출장했다.0-0으로 맞선 4회 초 2사 후 타석에 들어선 김도영은 1볼-1스트라이크에서 상대 선발 안우진의 시속 156㎞ 직구에 피할 사이도 없이 왼 팔꿈치를 맞았다. 김도영이 고통스러워하자 큰 부상을 우려해 순간 고척돔에는 정적이 흘렀다. 다행히도 김도영은 1루까지 걸어나갔다. 왼 팔꿈치에 보호대를 착용하고 있어 큰 부상을 피한 것으로 보인다. 안우진은 김도영을 향해 '미안하다'는 제스처를 취했다. 이날 팀의 첫 출루를 기록한 김도영은 후속 카스트로의 3구 삼진을 당할 때 2루 도루를 시도한 것으로 봐선 큰 이상은"
+        },
+        {
+          "title": "밥스누 ‘The 건강한 약콩차’, SBS ‘우리동네 전성시대’ 휴식타임 음료로 등장",
+          "url": "https://isplus.com/article/view/isp202608210126",
+          "published": "2026-08-22",
+          "summary": "-서울대 25년 약콩 연구 기반 특허 소재 적용&hellip;국내산 약콩 추출액 98.74%&middot;식이섬유 5,000mg 함유-500ml 기준 14kcal&middot;당류 0g&hellip;NON-GMO 원료&middot;HACCP 인증 시설 생산 서울대학교 기술지주회사 밥스누의 &lsquo;The 건강한 약콩차&rsquo;가 SBS 예능 프로그램 &lsquo;우리동네 전성시대&rsquo;에 등장한다.오는 22일 방송에서는 &lsquo;홍보부장 영탁이 챙겨온 간편한 건강템&rsquo;이라는 자막과 함께 &lsquo;The 건강한 약콩차&rsquo;가 &lsquo;새 동네 살림단&rsquo;의 휴식시간 음료로 소개될 예정이다.&lsquo;우리동네 전성시대&rsquo;는 인구 감소와 지역 소멸 문제를 "
+        },
+        {
+          "title": "‘결별’ 박은빈·양세종, 용의자와 검사로 ‘충격 재회’ (오싹한 연애)",
+          "url": "https://isplus.com/article/view/isp202608220086",
+          "published": "2026-08-22",
+          "summary": "&lsquo;오싹한 연애&rsquo; 박은빈과 양세종이 뜻밖에 재회를 한다.22일 방송되는 tvN 토일드라마 &lsquo;오싹한 연애&rsquo;에서는 이별 후 살인 용의자와 검사로 재회하는 천여리(박은빈)과 마강욱(양세종)의 모습이 그려진다.앞서 미제 사건을 해결하는 과정에서 마음을 나눈 천여리와 마강욱은 약혼식을 올리고 공식적인 연인으로 발전했다. 그러나 강민환(옹성우)의 방해 공작으로 천여리는 물론, 마강욱까지 입지가 위태로워졌다. 여기에 마강욱의 조모 팽묘순(차미경)까지 두 사람의 만남에 우려를 내비치자 결국 천여리는 이별을 선택했다. 갑작스러운 이별에 마음을 추스르기도 전, 천여리와 마강욱 사이에 또 한 번 기막힌 우연이 일어난다. 마강욱은 신고를 받고 출동한 곳에서 피해자의 혈액으로 추정되는 피 "
+        },
+        {
+          "title": "하영 증조부 친일 논란, 국회까지…2700평 토지 환수되나 [왓IS]",
+          "url": "https://isplus.com/article/view/isp202608220085",
+          "published": "2026-08-22",
+          "summary": "배우 하영 증조부의 일제강점기 행적을 둘러싼 논란이 국회로 번졌다. 박은정 조국혁신당 의원은 증조부 안상호가 보유했던 토지가 친일 재산에 해당하는지 조사해 국가 귀속 여부를 판단해야 한다고 주장했다.박은정 의원은 지난 21일 국회 법제사법위원회 전체회의에서 안상호가 일제강점기 경기 군포시 일대에 2700평(약 8900㎡) 규모의 토지를 보유했다는 언론 보도를 언급했다. 일제강점기 토지조사부에 따르면 안상호는 당시 시흥군 남면 금정리 235번지에 2700평의 땅을 소유한 것으로 기록돼 있다. 해당 토지는 1983년 국가에 수용됐지만, 안상호 후손이 당시까지 소유했는지와 보상금을 받았는지는 확인되지 않았다.박 의원은 &ldquo;일제강점기에 이미 재산을 축적한 대지주로, 친일 재산이었던 것으로 보인다&rdquo"
+        },
+        {
+          "title": "‘멋진 신세계’ 한아일, 오늘(22일) 결혼…신랑은 전 라크로스 국가대표",
+          "url": "https://isplus.com/article/view/isp202608220083",
+          "published": "2026-08-22",
+          "summary": "배우 한아일(본명 한다솔)이 유부녀 대열에 합류했다.한아일은 22일 오후 서울 그랜드 하얏트 호텔에서 결혼식을 올렸다. 남편은 전 라크로스 국가대표 유민승이다.앞서 유민승은 자신의 사회관계망서비스(SNS)를 통해 직접 결혼 소식을 알리기도 했다. 당시 그는 프러포즈 영상을 공개하며 &ldquo;그녀는 &lsquo;예스&rsquo;라고 답했다. 그녀의 모든 것을 영원히 사랑하겠다는 마음을 담은 짧은 영화&rdquo;라고 남겼다.이날 결혼식에는 이주승, 이은샘 등 동료 배우들도 참석했다. 이주승은 자신의 SNS에 &ldquo;잘 사시게&rdquo;라는 글과 함께 버진로드를 걷는 신랑 신부의 영상을 올렸으며, 이은샘은 &ldquo;세상에서 제일 아름다운 신부&rdquo;라는 말로 한아일의 결혼을 축하했다.1995"
+        },
+        {
+          "title": "[IS현장] 신봉선 칼춤 추고, 김신영 뒤집어 놨다…희극인다운 헌사 ‘전유성 쇼’ [제14회 부코페]",
+          "url": "https://isplus.com/article/view/isp202608220082",
+          "published": "2026-08-22",
+          "summary": "&ldquo;전유성 선생님은 법에 어긋나지 않고 웃기기만 하면 돼.&rdquo;(신봉선)세상을 떠나도 그 &lsquo;웃음&rsquo; 철학은 영원하다. 고(故) 전유성의 코미디 정신은 이렇게 &lsquo;전유성 없이&rsquo;도 &lsquo;쇼&rsquo;로 전승된다. 22일 오후 부산광역시 부산은행 본점 오션홀에서는 &lsquo;제14회 부산국제코미디페스티벌&rsquo;의 공연 &lsquo;전유성 없는 전유성 쇼&rsquo;(이하 &lsquo;전유성 쇼&rsquo;)가 열렸다.&lsquo;전유성 쇼&rsquo;는 지난해 세상을 떠난 고 전유성의 코미디 정신을 이어받은 후배들이 기획한 공연으로, 코미디 발전을 위해 헌신해 온 그를 향한 존경의 의미를 담았다. 전유성이 생전 각별하게 아꼈던 이홍렬부터, 전"
+        },
+        {
+          "title": "박보검, ‘구르미 그린 달빛’ 10주년 자축 “그때도, 지금도, 언제나” [IS하이컷]",
+          "url": "https://isplus.com/article/view/isp202608220081",
+          "published": "2026-08-22",
+          "summary": "배우 박보검이 출연작 &lsquo;구르미 그린 달빛&rsquo; 10주년을 자축했다.박보검은 22일 자신의 사회관계망서비스(SNS)에 &ldquo;그때도, 지금도, 언제나 &lsquo;구르미 그린 달빛&rsquo;&rdquo;이란 글과 함께 여러 장의 사진을 게재했다. 공개된 사진에는 &lsquo;구르미 그린 달빛&rsquo; 비하인드 스틸과 &lsquo;축하패. forever &lsquo;구르미 그린 달빛&rsquo; 10주년을 축하해요&rsquo;란 문구가 담긴 토퍼가 꽂힌 케이크 등이 담겼다. 지난 2016년 8월 22일 첫 방송한 &lsquo;구르미 달빛 그린&rsquo;은 세자 이영(박보검)가 내시 홍라온(김유정)와 사랑에 빠지면서 벌어지는 이야기를 그린 KBS 드라마로, 최고 시청률 23.3%를 "
+        },
+        {
+          "title": "'포기는 없다' 8월 승률 2위 롯데의 6연승 도전, 비 때문에 하루 밀렸다",
+          "url": "https://isplus.com/article/view/isp202608220080",
+          "published": "2026-08-22",
+          "summary": "롯데 자이언츠의 6연승 도전이 비로 인해 하루 밀렸다. 한국야구위원회(KBO)는 22일 오후 4시 32분경 잠실구장에서 열릴 예정이던 롯데-두산 베어스의 우천 순연을 발표했다. 이날 수도권 지역에는 오전부터 비가 내렸고, 이에 앞서 인천SSG랜더스필드에서 열릴 예정이던 SSG 랜더스-KT 위즈전도 우천 순연이 결정됐다. 최근 5연승을 질주 중인 롯데는 이번 우천 순연이 다소 아쉬울 수밖에 없다. 롯데는 이날 '토종 에이스' 박세웅을 앞세워 최근 6연승에 도전하려고 했다. 김태형 감독이 이끄는 롯데는 올 시즌 50승 57패 2무(승률 0.467)로 7위에 자리하고 있다. 포스트시즌 진출 마지노선인 5위 두산 베어스에 7경기 뒤져 있어 '가을 야구'를 경험하기가 쉽진 않다. 롯데의 포스트시즌은 2017년이 마지"
+        }
+      ]
+    },
+    "yt_waterbomb": {
+      "label": "워터밤 공식",
+      "track": "신호-현장",
+      "count": 15,
+      "items": [
+        {
+          "title": "태양은 피할 수 있지만 비는 피할 수 없음",
+          "url": "https://www.youtube.com/shorts/BNXKZNjaix8",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "정지훈 그저 숭배",
+          "url": "https://www.youtube.com/shorts/mpmK7pHoHhs",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "레전드라 쓰고 비라 읽는다",
+          "url": "https://www.youtube.com/shorts/LrR4fWrTPfY",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "타이거 JK는 윤미래를 원해",
+          "url": "https://www.youtube.com/shorts/man9pz8SFuU",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "이게 힙합이고 이게 사랑이야",
+          "url": "https://www.youtube.com/shorts/iW8dmy03TnE",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "국힙 원탑 등장! 타이거 JK & 윤미래",
+          "url": "https://www.youtube.com/shorts/_QTiv6mWSgE",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "전소연은 진짜 천재임",
+          "url": "https://www.youtube.com/shorts/FXdsrWu8spE",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "전소연 첫 솔로 정규 워터밤에서 맛보기",
+          "url": "https://www.youtube.com/shorts/kH08Puv_2c4",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "워터밤 소연이가 왜 이리 씩씩해",
+          "url": "https://www.youtube.com/shorts/5Gaft8cd90Y",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "속초도 함 느껴봐야지?",
+          "url": "https://www.youtube.com/shorts/v_mOcjMTBCw",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "쌈디 왔잖아! 레드 카펫 당장 깔아",
+          "url": "https://www.youtube.com/shorts/3_nxImtgoCo",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "워터밤 속초! 이게 바로 훅킹입니다",
+          "url": "https://www.youtube.com/shorts/cAZNVpyW5ic",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "오늘도 찢은 나는 이.영.지",
+          "url": "https://www.youtube.com/shorts/uGz81G1rl3I",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "영지 시켜줘 워터밤 명예 대통령",
+          "url": "https://www.youtube.com/shorts/OlExHjcU43E",
+          "published": "2026-08-22",
+          "summary": ""
+        },
+        {
+          "title": "영지 소녀의 본업 모먼트",
+          "url": "https://www.youtube.com/shorts/ImcyGCB6-tI",
+          "published": "2026-08-22",
+          "summary": ""
+        }
+      ]
+    },
+    "yt_pentaport": {
+      "label": "펜타포트 공식",
+      "track": "신호-현장",
+      "count": 0,
+      "items": []
+    },
+    "yt_gmf": {
+      "label": "GMF 공식",
+      "track": "신호-현장",
+      "count": 0,
+      "items": []
+    },
+    "yt_mintpaper": {
+      "label": "민트페이퍼",
+      "track": "신호-현장",
+      "count": 1,
+      "items": [
+        {
+          "title": "THE FLOOD 2026 하이라이트ㅣ𝑻𝑯𝑬 𝑭𝑳𝑶𝑶𝑫 𝟐𝟎𝟐𝟔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗛𝗜𝗚𝗛𝗧𝗟𝗜𝗚𝗛𝗧𝗦",
+          "url": "https://www.youtube.com/watch?v=JFOk4awlOps",
+          "published": "2026-08-21",
+          "summary": ""
+        }
+      ]
+    },
+    "yt_busanrock": {
+      "label": "부산국제록페스티벌",
+      "track": "신호-현장",
+      "count": 0,
+      "items": []
+    }
+  },
+  "titles": {
+    "izm": {
+      "label": "IZM",
+      "track": "T2-발견",
+      "total": 12,
+      "new": []
+    },
+    "indistreet": {
+      "label": "인디스트릿",
+      "track": "T2-선점",
+      "total": 40,
+      "new": [
+        "SETLIST 10곡 위닝샷 SKATE-HIGH vol.3 1 Heyday 2 A tiny war on my board 3 Courtship song …외 7곡 2026년 8월 22일 Club Victim",
+        "ㅇㅇㅇㅇ 이디어츠 2026",
+        "마음 최혜진 2026",
+        "SYNTAX ERROR Antti Kokkomäki & Tammikuun Lapset 2026",
+        "고요, 비눗방울, 우주 [LIVE] Scene #3 고요, 비눗방울, 우주 2026",
+        "고요, 비눗방울, 우주 [LIVE] Scene #3 Awan我完아완 2026",
+        "고요, 비눗방울, 우주 [별] Ep.1 고요, 비눗방울, 우주 2026",
+        "고요, 비눗방울, 우주 [별] Ep.1 Awan我完아완 2026",
+        "마음의 사람 씩제프 2026",
+        "무신사개러지 서울 마포구 잔다리로 32 서문빌딩 지하1층 2개 공연",
+        "인천여관X루비살롱 인천 중구 신포로31번길 20 1층 1개 공연",
+        "롤링홀 서울 마포구 어울마당로 35 신보빌딩 지하 1층 2개 공연",
+        "언플러그드 라운지 서울 마포구 와우산로29길 15 2층 9개 공연",
+        "오방가르드 부산 남구 용소로7번길 15-1 지하층 2개 공연",
+        "북두칠성도서관 아트훌 부산 동구 충장대로 160 협성마리나G7 B동 1개 공연",
+        "카페 언플러그드 홍대점 서울 마포구 와우산로33길 26 1층 6개 공연",
+        "Club FF 서울 마포구 와우산로17길 12 7개 공연",
+        "살롱문보우 서울 마포구 동교로12안길 36 1층 2개 공연",
+        "클럽헤비 대구광역시 남구 현충로 244 1개 공연",
+        "모래내 극락 서울 서대문구 수색로4길 7 2층 좌측호 1개 공연",
+        "스트레인지 프룻 서울 마포구 와우산로29길 64 3개 공연"
+      ]
+    },
+    "ebs_space": {
+      "label": "EBS 스페이스 공감",
+      "track": "T2-발견",
+      "total": 40,
+      "new": []
+    }
+  },
+  "failures": [
+    {
+      "key": "starnews",
+      "kind": "rss",
+      "error": "fetch failed"
+    },
+    {
+      "key": "khan_music",
+      "kind": "rss",
+      "error": "HTTP 403"
+    },
+    {
+      "key": "khan_ent",
+      "kind": "rss",
+      "error": "HTTP 403"
+    },
+    {
+      "key": "hiphople",
+      "kind": "titles",
+      "error": "fetch failed"
+    },
+    {
+      "key": "hiphopplaya",
+      "kind": "titles",
+      "error": "HTTP 429"
+    },
+    {
+      "key": "eyesmag",
+      "kind": "titles",
+      "error": "HTTP 404"
+    },
+    {
+      "key": "glowupmag",
+      "kind": "titles",
+      "error": "제목 0건 — 셀렉터 확인 필요"
+    },
+    {
+      "key": "weiv",
+      "kind": "titles",
+      "error": "HTTP 403"
+    },
+    {
+      "key": "visla",
+      "kind": "titles",
+      "error": "제목 0건 — 셀렉터 확인 필요"
+    },
+    {
+      "key": "rhythmer",
+      "kind": "titles",
+      "error": "fetch failed"
+    }
+  ]
+}
