@@ -1,7 +1,7 @@
 {
   "_comment": "발굴 풀 — promote.js가 자동 관리. 차트에서 급등/신규 진입했는데 코어·커버리지 어디에도 없는 아티스트. 밀도 지표 계산에는 절대 넣지 않는다. 관찰하다 확실해지면 사람이 watchlist-coverage.json으로 옮긴다.",
-  "updated": "2026-08-29",
-  "count": 73,
+  "updated": "2026-08-30",
+  "count": 77,
   "artists": [
     {
       "name": "HEEDAE",
@@ -318,9 +318,9 @@
       "eng": "",
       "spotifyId": "6dHoQP2ONf0e9DMH94Obo7",
       "firstSeen": "2026-08-07",
-      "lastSeen": "2026-08-29",
+      "lastSeen": "2026-08-30",
       "bestRank": 141,
-      "hits": 3,
+      "hits": 4,
       "note": "자동 승격 — spotify 141위 +35"
     },
     {
@@ -438,9 +438,9 @@
       "eng": "",
       "spotifyId": "1uNFoZAHBGtllmzznpCI3s",
       "firstSeen": "2026-08-09",
-      "lastSeen": "2026-08-29",
+      "lastSeen": "2026-08-30",
       "bestRank": 96,
-      "hits": 10,
+      "hits": 11,
       "note": "자동 승격 — spotify 161위 +31"
     },
     {
@@ -488,9 +488,9 @@
       "eng": "",
       "spotifyId": "7qUALZhWSQIwqTw1auwwCc",
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-30",
       "bestRank": 86,
-      "hits": 3,
+      "hits": 4,
       "note": "자동 승격 — spotify 86위 +17"
     },
     {
@@ -528,9 +528,9 @@
       "eng": "",
       "spotifyId": "3MaRWfwKpbYnkYHC5gRKYo",
       "firstSeen": "2026-08-14",
-      "lastSeen": "2026-08-21",
-      "bestRank": 94,
-      "hits": 5,
+      "lastSeen": "2026-08-30",
+      "bestRank": 80,
+      "hits": 6,
       "note": "자동 승격 — spotify 153위 +37"
     },
     {
@@ -548,9 +548,9 @@
       "eng": "",
       "spotifyId": "4qRXrzUmdy3p33lgvJEzdv",
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-29",
-      "bestRank": 115,
-      "hits": 4,
+      "lastSeen": "2026-08-30",
+      "bestRank": 100,
+      "hits": 5,
       "note": "자동 승격 — spotify 157위 +19"
     },
     {
@@ -598,9 +598,9 @@
       "eng": "",
       "spotifyId": "7kXQtwn3ZRTBc8JYNyGwQy",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-29",
-      "bestRank": 113,
-      "hits": 4,
+      "lastSeen": "2026-08-30",
+      "bestRank": 90,
+      "hits": 5,
       "note": "자동 승격 — spotify 113위 +66"
     },
     {
@@ -732,6 +732,46 @@
       "bestRank": 91,
       "hits": 1,
       "note": "자동 승격 — spotify 91위 +20"
+    },
+    {
+      "name": "Baek A",
+      "eng": "",
+      "spotifyId": "5rHUhS9Ya0S63WI9LFmCSx",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "bestRank": 123,
+      "hits": 1,
+      "note": "자동 승격 — spotify 123위 +72"
+    },
+    {
+      "name": "D-Hack",
+      "eng": "",
+      "spotifyId": "6Ycj4hhpz2nOfsYCU1gHqR",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "bestRank": 155,
+      "hits": 1,
+      "note": "자동 승격 — spotify 155위 +32"
+    },
+    {
+      "name": "Lim Jae Hyun",
+      "eng": "",
+      "spotifyId": "3GXxRsiCLmZvM5oSeHbNdO",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "bestRank": 174,
+      "hits": 1,
+      "note": "자동 승격 — spotify 174위 +16"
+    },
+    {
+      "name": "WINTER",
+      "eng": "",
+      "spotifyId": "",
+      "firstSeen": "2026-08-30",
+      "lastSeen": "2026-08-30",
+      "bestRank": 16,
+      "hits": 1,
+      "note": "자동 승격 — youtube 16위 NEW"
     }
   ]
 }
