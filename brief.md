@@ -1,10 +1,10 @@
-# PLOT 데일리 브리프 — 2026-09-01
+# PLOT 데일리 브리프 — 2026-09-02
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-08-31
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-09-01
 
-> 밀도(Spotify 200 중 워치리스트): 52곡 · 26.0% (2026-08-31 대비 ▲0.5p)
+> 밀도(Spotify 200 중 워치리스트): 52곡 · 26.0% (2026-09-01 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
@@ -93,7 +93,7 @@ _소식 — 급등·재진입·오래된 곡의 이변_
 - **75위** JENNIE - HEAVEN (+19) · Days 3
   ▸ 하락 (한때 48위, −27)
   ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 3곡 동시 · 플랫폼 동반(YouTube도)
+  ▸ 워치리스트 ✗ · 카탈로그 3곡 동시
 - **114위** DPR LIVE - Jasmine (+18) · Days 481
   ▸ 하락 (한때 102위, −12)
   ▸ 롱테일 (약 16개월)
@@ -166,36 +166,32 @@ _조인: YouTube 20곡 중 16곡 Spotify 매칭(정확 16·제목폴백 0) · �
 
 **플랫폼 동반 (Spotify＋YouTube · 진짜 확산 → 특집)**
 - **CORTIS - REDRED** — SP 1위 · YT 5위
-- **RESCENE - LOVE ATTACK** — SP 2위 · YT 4위
+- **RESCENE - LOVE ATTACK** — SP 2위 · YT 3위
 - **BIGBANG - BiiiG** — SP 4위 · YT 1위
-- **KiiiKiii - Pop Off Pop Off** — SP 5위 · YT 15위
-- **RESCENE - Pretty Girl** — SP 6위 · YT 7위
-- **aespa - LEMONADE** — SP 8위 · YT 6위
+- **KiiiKiii - Pop Off Pop Off** — SP 5위 · YT 13위
+- **RESCENE - Pretty Girl** — SP 6위 · YT 6위
+- **aespa - LEMONADE** — SP 8위 · YT 4위
 - **ATEEZ - BAD** — SP 9위 · YT 2위
 - **RESCENE - Deja Vu** — SP 10위 · YT 11위
-- **ILLIT - It's Me** — SP 11위 · YT 8위
-- **Hearts2Hearts - RUDE!** — SP 19위 · YT 9위
-- **WOODZ - Drowning** — SP 23위 · YT 17위
-- **JENNIE - FALLEN ANGEL** — SP 27위 · YT 3위
+- **ILLIT - It's Me** — SP 11위 · YT 7위
+- **Hearts2Hearts - RUDE!** — SP 19위 · YT 10위
+- **WOODZ - Drowning** — SP 23위 · YT 16위
+- **JENNIE - FALLEN ANGEL** — SP 27위 · YT 8위
 _…외 4곡_
 
 **YouTube 선행 (Spotify 200위 밖 · 대중·영상이 먼저 → MV/라이브클립 앵글)**
-- LEE SUHYUN - Blue Lagoon (Korean Ver.) — YT 10위 (+2)
-- I.O.I - 갑자기 — YT 12위 (-1)
-- YENA - 캐치 캐치 — YT 14위 (+3)
-- Ha Yea Song - Happy Me (2026 ver.) — YT 20위 (NEW)
+- LEE SUHYUN - Blue Lagoon (Korean Ver.) — YT 9위 (+1)
+- I.O.I - 갑자기 — YT 12위
+- YENA - 캐치 캐치 — YT 14위
+- Choi Yu Ree - 생각을 멈추다 보면 — YT 17위 (NEW)  ← **워치리스트**
 
 ---
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-08-31_
+_비교 기준: 2026-09-01_
 ### 신규 진입
-- **184위** Geeks - Officially Missing You (RE) · Days 698
-- **186위** Sandeul - Slightly Tipsy (She is My Type♡ X SANDEUL) (RE) · Days 152
-- **190위** SG Wannabe - Timeless (RE) · Days 303
-- **195위** SPYAIR - サムライハート(Some Like It Hot!!) (RE) · Days 550
-- **198위** Primary - question mark (Feat. CHOIZA Of Dynamicduo, Zion.T) (w/ CHOIZA , Zion.T ) (RE) · Days 312
+없음
 ### 급등 (+15↑)
 - **75위** JENNIE - HEAVEN (+19) · Days 3
 - **84위** Lim Young Woong - Wild flower (+24) · Days 366
@@ -273,17 +269,19 @@ _비교 기준: 2026-08-31_
 - **198위** Primary - question mark (Feat. CHOIZA Of Dynamicduo, Zion.T) (w/ CHOIZA , Zion.T ) (RE) · Days 312  ← **Zion.T**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-08-31_
+_비교 기준: 2026-09-01_
 ### 신규 진입
-없음
+- **17위** Choi Yu Ree - 생각을 멈추다 보면 (NEW)
+- **20위** tuki. - 晩餐歌 (NEW)
 ### 급등 (+15↑)
 없음
 ### 재진입 (RE)
 없음
 ### 이탈 (전일 100위 내)
-없음
-### 워치리스트 히트 (0)
-없음
+- **13위** JENNIE - HEAVEN (NEW)
+- **20위** Ha Yea Song - Happy Me (2026 ver.) (NEW)
+### 워치리스트 히트 (1)
+- **17위** Choi Yu Ree - 생각을 멈추다 보면 (NEW)  ← **최유리**
 
 ---
 괴리 읽기: Spotify O/멜론 X → 오늘의 노래 · Shorts O/Top X → 이슈 · 전 차트 동반 → 특집. 자세한 건 운영 루틴 v10 §5-2.

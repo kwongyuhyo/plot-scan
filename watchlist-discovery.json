@@ -1,6 +1,6 @@
 {
   "_comment": "발굴 풀 — promote.js가 자동 관리. 차트에서 급등/신규 진입했는데 코어·커버리지 어디에도 없는 아티스트. 밀도 지표 계산에는 절대 넣지 않는다. 관찰하다 확실해지면 사람이 watchlist-coverage.json으로 옮긴다.",
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "count": 82,
   "artists": [
     {
@@ -388,9 +388,9 @@
       "eng": "",
       "spotifyId": "",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-29",
+      "lastSeen": "2026-09-02",
       "bestRank": 19,
-      "hits": 2,
+      "hits": 3,
       "note": "자동 승격 — youtube 19위 NEW"
     },
     {
@@ -688,9 +688,9 @@
       "eng": "",
       "spotifyId": "5mHUmlJWkcoOk1NbjfrXWz",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "bestRank": 164,
-      "hits": 2,
+      "hits": 3,
       "note": "자동 승격 — spotify 177위 +15"
     },
     {
@@ -818,9 +818,9 @@
       "eng": "",
       "spotifyId": "7l8rOFwZFQ3G0sgZ7gjGng",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "bestRank": 145,
-      "hits": 1,
+      "hits": 2,
       "note": "자동 승격 — spotify 145위 +31"
     }
   ]
