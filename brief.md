@@ -1,10 +1,10 @@
-# PLOT 데일리 브리프 — 2026-09-03
+# PLOT 데일리 브리프 — 2026-09-04
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-09-02
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-09-03
 
-> 밀도(Spotify 200 중 워치리스트): 51곡 · 25.5% (2026-09-02 대비 ▼0.5p)
+> 밀도(Spotify 200 중 워치리스트): 51곡 · 25.5% (2026-09-03 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
@@ -12,15 +12,11 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 - **3위** BIG Naughty - Nostalgia (+5) · Days 2
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
-  ▸ 빅나티 · 카탈로그 3곡 동시 · 플랫폼 동반(YouTube도)
+  ▸ 빅나티 · 카탈로그 3곡 동시
 - **53위** BIG Naughty - Nostalgia (Band ver.) (+4) · Days 2
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
   ▸ 빅나티 · 카탈로그 3곡 동시
-- **186위** BESTie - Love Options (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 단독
 - **13위** HANRORO - 0+0 (=) · Days 349
   ▸ 하락 (한때 1위, −12)
   ▸ 롱테일 (약 12개월)
@@ -67,7 +63,10 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
   ▸ 하락 (한때 33위, −19)
   ▸ 롱테일 (약 41개월)
   ▸ 빅나티 · 카탈로그 3곡 동시
-_…외 12건 (원자료 참조)_
+- **55위** VINXEN - FLYING HIGH WITH U (+3) · Days 198
+  ▸ 하락 (한때 21위, −34)
+  ▸ 빈첸 · 카탈로그 단독
+_…외 11건 (원자료 참조)_
 
 ## 오음소 소재
 _소식 — 급등·재진입·오래된 곡의 이변_
@@ -127,7 +126,7 @@ _소식 — 급등·재진입·오래된 곡의 이변_
   ▸ 하락 (한때 6위, −175)
   ▸ 롱테일 (약 18개월)
   ▸ 워치리스트 ✗ · 카탈로그 6곡 동시
-_…외 27건 (원자료 참조)_
+_…외 26건 (원자료 참조)_
 
 ## 특집 신호
 _맥락 — 카탈로그 다곡·플랫폼 괴리_
@@ -164,50 +163,37 @@ _맥락 — 카탈로그 다곡·플랫폼 괴리_
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
 _…외 18곡군: RESCENE(5) · Jung Kook(4) · ILLIT(4) · AKMU(4) · KiiiKiii(3) · aespa(3) · JENNIE(3) · Jimin(2) · TUIDE(2) · BTS(2) · fromis_9(2) · NMIXX(2) · Sung Si Kyung(2) · Justin Bieber(2) · G-DRAGON(2) · M.C the Max(2) · Kenshi Yonezu(2) · LEE MU JIN(2)_
 
-_조인: YouTube 20곡 중 16곡 Spotify 매칭(정확 16·제목폴백 0) · 미매칭 4곡은 아래 'YouTube 선행'_
+_조인: YouTube 20곡 중 15곡 Spotify 매칭(정확 15·제목폴백 0) · 미매칭 5곡은 아래 'YouTube 선행'_
 
 **플랫폼 동반 (Spotify＋YouTube · 진짜 확산 → 특집)**
-- **BIG Naughty - Nostalgia** — SP 3위 · YT 19위  ← **워치리스트**
 - **CORTIS - REDRED** — SP 1위 · YT 5위
 - **RESCENE - LOVE ATTACK** — SP 2위 · YT 3위
-- **KiiiKiii - Pop Off Pop Off** — SP 6위 · YT 13위
+- **KiiiKiii - Pop Off Pop Off** — SP 6위 · YT 14위
 - **BIGBANG - BiiiG** — SP 7위 · YT 1위
 - **RESCENE - Pretty Girl** — SP 9위 · YT 6위
 - **aespa - LEMONADE** — SP 10위 · YT 4위
-- **RESCENE - Deja Vu** — SP 11위 · YT 7위
+- **RESCENE - Deja Vu** — SP 11위 · YT 8위
 - **ATEEZ - BAD** — SP 12위 · YT 2위
-- **ILLIT - It's Me** — SP 15위 · YT 10위
-- **JENNIE - FALLEN ANGEL** — SP 22위 · YT 8위
-- **Hearts2Hearts - RUDE!** — SP 25위 · YT 9위
-_…외 4곡_
+- **ILLIT - It's Me** — SP 15위 · YT 9위
+- **JENNIE - FALLEN ANGEL** — SP 22위 · YT 13위
+- **Hearts2Hearts - RUDE!** — SP 25위 · YT 10위
+- **WOODZ - Drowning** — SP 26위 · YT 15위
+_…외 3곡_
 
 **YouTube 선행 (Spotify 200위 밖 · 대중·영상이 먼저 → MV/라이브클립 앵글)**
-- LEE SUHYUN - Blue Lagoon (Korean Ver.) — YT 11위 (-2)
-- I.O.I - 갑자기 — YT 12위
-- Choi Yu Ree - 생각을 멈추다 보면 — YT 16위 (+1)  ← **워치리스트**
-- YENA - 캐치 캐치 — YT 17위 (-3)
+- Unknown Artist - NOSTALGIA - ICN to NTG: BIG NAUGHTY 1st Concert — YT 7위 (+12)  ← **워치리스트**
+- I.O.I - 갑자기 — YT 11위 (+1)
+- LEE SUHYUN - Blue Lagoon (Korean Ver.) — YT 12위 (-1)
+- Choi Yu Ree - 생각을 멈추다 보면 — YT 17위 (-1)  ← **워치리스트**
+- YENA - 캐치 캐치 — YT 18위 (-1)
 
 ---
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-09-02_
+_비교 기준: 2026-09-03_
 ### 신규 진입
-- **3위** BIG Naughty - Nostalgia (+5) · Days 2
-- **53위** BIG Naughty - Nostalgia (Band ver.) (+4) · Days 2
-- **68위** Jung Kook - Standing Next to You (+2) · Days 1031
-- **151위** Lim Jae Hyun - If there was practice in love (+23) · Days 256
-- **155위** Kim Seungmin - Hope You're Doing Well (RE) · Days 75
-- **162위** BTS - Body to Body (-9) · Days 165
-- **174위** GyeongseoYeji - If you lovingly call my name (w/ Jeon Gunho ) (+22) · Days 529
-- **175위** BOYNEXTDOOR - Boom Boom Boom (RE) · Days 8
-- **176위** PATEKO - Rainy day (Feat. ASH ISLAND, Skinny Brown) (w/ ASH ISLAND , Skinny Brown ) (+2) · Days 676
-- **177위** BUZZ - 가시 (+9) · Days 449
-- **181위** Hearts2Hearts - The Chase (+19) · Days 532
-- **183위** YANGHONGWON - ROSE (w/ Skinny Brown , Homeboy ) (+11) · Days 20
-- **185위** back number - ヒロイン (RE) · Days 142
-- **186위** BESTie - Love Options (NEW) · Days 1
-- **187위** Jung Kook - 3D (w/ Jack Harlow ) (-32) · Days 1024
+없음
 ### 급등 (+15↑)
 - **60위** CORTIS - MONEYMONEYMONEY (+16) · Days 9
 - **69위** Ariana Grande - hate that i made you love me (+17) · Days 95
@@ -290,18 +276,18 @@ _비교 기준: 2026-09-02_
 - **197위** HAON - TICK TOCK (Feat. ZICO) (Prod. by ZICO, Crush) (w/ Nosun , Raf Sandou , Marv , Jung Junhyuk , ZICO ) (-10) · Days 180  ← **Raf Sandou**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-09-02_
+_비교 기준: 2026-09-03_
 ### 신규 진입
-- **19위** BIG Naughty - Nostalgia (NEW)
+- **7위** Unknown Artist - NOSTALGIA - ICN to NTG: BIG NAUGHTY 1st Concert (+12)
 ### 급등 (+15↑)
 없음
 ### 재진입 (RE)
 없음
 ### 이탈 (전일 100위 내)
-- **20위** tuki. - 晩餐歌 (NEW)
+- **19위** BIG Naughty - Nostalgia (NEW)
 ### 워치리스트 히트 (2)
-- **16위** Choi Yu Ree - 생각을 멈추다 보면 (+1)  ← **최유리**
-- **19위** BIG Naughty - Nostalgia (NEW)  ← **빅나티**
+- **7위** Unknown Artist - NOSTALGIA - ICN to NTG: BIG NAUGHTY 1st Concert (+12)  ← **빅나티**
+- **17위** Choi Yu Ree - 생각을 멈추다 보면 (-1)  ← **최유리**
 
 ---
 괴리 읽기: Spotify O/멜론 X → 오늘의 노래 · Shorts O/Top X → 이슈 · 전 차트 동반 → 특집. 자세한 건 운영 루틴 v10 §5-2.
