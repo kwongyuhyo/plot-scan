@@ -1,7 +1,7 @@
 {
   "_comment": "발굴 풀 — promote.js가 자동 관리. 차트에서 급등/신규 진입했는데 코어·커버리지 어디에도 없는 아티스트. 밀도 지표 계산에는 절대 넣지 않는다. 관찰하다 확실해지면 사람이 watchlist-coverage.json으로 옮긴다.",
-  "updated": "2026-09-05",
-  "count": 86,
+  "updated": "2026-09-06",
+  "count": 88,
   "artists": [
     {
       "name": "HEEDAE",
@@ -38,9 +38,9 @@
       "eng": "",
       "spotifyId": "1rp5HzWaNwgauM5W5YmZ3U",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-06",
       "bestRank": 99,
-      "hits": 8,
+      "hits": 9,
       "note": "자동 승격 — spotify 148위 +24"
     },
     {
@@ -68,9 +68,9 @@
       "eng": "",
       "spotifyId": "4PPkRMbw2jIs7flJkl4okf",
       "firstSeen": "2026-08-02",
-      "lastSeen": "2026-09-05",
-      "bestRank": 76,
-      "hits": 10,
+      "lastSeen": "2026-09-06",
+      "bestRank": 65,
+      "hits": 11,
       "note": "자동 승격 — spotify 104위 +15"
     },
     {
@@ -78,9 +78,9 @@
       "eng": "",
       "spotifyId": "5y8tKLUfMvliMe8IKamR32",
       "firstSeen": "2026-08-02",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
       "bestRank": 90,
-      "hits": 7,
+      "hits": 8,
       "note": "자동 승격 — spotify 132위 +19"
     },
     {
@@ -108,9 +108,9 @@
       "eng": "",
       "spotifyId": "56NKtypwi90dIOb5ZQZwHb",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-09-06",
       "bestRank": 64,
-      "hits": 3,
+      "hits": 4,
       "note": "자동 승격 — spotify 87위 +20"
     },
     {
@@ -168,9 +168,9 @@
       "eng": "",
       "spotifyId": "70NcAr4ZtA3FAqU16iQZSb",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
       "bestRank": 113,
-      "hits": 6,
+      "hits": 7,
       "note": "자동 승격 — spotify 160위 +15"
     },
     {
@@ -318,9 +318,9 @@
       "eng": "",
       "spotifyId": "6dHoQP2ONf0e9DMH94Obo7",
       "firstSeen": "2026-08-07",
-      "lastSeen": "2026-08-30",
+      "lastSeen": "2026-09-06",
       "bestRank": 141,
-      "hits": 4,
+      "hits": 5,
       "note": "자동 승격 — spotify 141위 +35"
     },
     {
@@ -398,9 +398,9 @@
       "eng": "",
       "spotifyId": "4SdXXEHKFa5NSoh10QxeN2",
       "firstSeen": "2026-08-09",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-09-06",
       "bestRank": 117,
-      "hits": 4,
+      "hits": 5,
       "note": "자동 승격 — spotify 117위 +27"
     },
     {
@@ -418,9 +418,9 @@
       "eng": "",
       "spotifyId": "41MozSoPIsD1dJM0CLPjZF",
       "firstSeen": "2026-08-09",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
       "bestRank": 92,
-      "hits": 8,
+      "hits": 9,
       "note": "자동 승격 — spotify 135위 +21"
     },
     {
@@ -548,9 +548,9 @@
       "eng": "",
       "spotifyId": "4qRXrzUmdy3p33lgvJEzdv",
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
       "bestRank": 84,
-      "hits": 6,
+      "hits": 7,
       "note": "자동 승격 — spotify 157위 +19"
     },
     {
@@ -862,6 +862,26 @@
       "bestRank": 174,
       "hits": 1,
       "note": "자동 승격 — spotify 174위 +19"
+    },
+    {
+      "name": "LISA",
+      "eng": "",
+      "spotifyId": "",
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "bestRank": 1,
+      "hits": 1,
+      "note": "자동 승격 — youtube 1위 NEW"
+    },
+    {
+      "name": "Mrs. GREEN APPLE",
+      "eng": "",
+      "spotifyId": "",
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "bestRank": 17,
+      "hits": 1,
+      "note": "자동 승격 — youtube 17위 NEW"
     }
   ]
 }
