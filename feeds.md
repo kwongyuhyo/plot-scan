@@ -1,10 +1,9 @@
-# PLOT 피드 수집 — 2026-09-26
+# PLOT 피드 수집 — 2026-09-27
 
 > GitHub Actions가 수집. 브리프는 이 파일을 읽는다(RSS 직접 페치 불가 우회).
 > 트랙 표기는 `셀렉션-기준-정본.md` 의 T1/T2 슬롯과 대응한다.
 
-## ⚠️ 수집 실패 11건
-- `reddit_hiphopheads` (rss) — HTTP 429
+## ⚠️ 수집 실패 10건
 - `starnews` (rss) — fetch failed
 - `khan_music` (rss) — HTTP 403
 - `khan_ent` (rss) — HTTP 403
@@ -18,30 +17,29 @@
 
 ## 국내 매체 신규 (제목 diff)
 
-### IZM · T2-발견 — 신규 4 / 전체 12
-- 너나 나나 장기하 by 이재훈
-- 내리고 머쉬베놈 Feat. 저스디스 by 정하림
-- 이 별로부터 아이유 (IU) by 남강민
-- Daylight 존 레전드 (John Legend) by 손민현
+### IZM · T2-발견 — 신규 1 / 전체 12
+- Velvet Summer 레드벨벳 (Red Velvet) by 이재훈
 
-### 인디스트릿 · T2-선점 — 신규 17 / 전체 40
-- Today 더블 더블베이스 - 정수민 & 우희준 (#격조콘 스페셜) 9월 26일 (토) 오후 2:00 정수민 우희준
-- Today Stoned Party ! 돌잔치! 2026 / 9 / 26 SAT 9월 26일 (토) 오후 6:00 생기스튜디오
-- Today ADCT vol.1 9월 26일 (토) 오후 7:00 카페 언플러그드 홍대점 롱타임노쉿 모우들 딸기포포
-- Today 달아 달아 9월 26일 (토) 오후 7:30 언플러그드 라운지 살포시 미스치퍼스 위스키플랫피쉬
-- Today LITTLE BOYS 🇮🇹 × ZERO ZERO 🇰🇷 9월 26일 (토) 오후 9:00 OL'55 Little Boys Zero Zero
-- D-1 Dream to be… 『Mångata』 9월 27일 (일) 오전 9:30 스트레인지 프룻
-- D-1 Imagination 9월 27일 (일) 오후 3:00 언플러그드 라운지 illgot JULYWANTSMORE 루즌도어즈
-- D-1 언플러그드 오픈스테이지 9월 27일 (일) 오후 3:00 카페 언플러그드 홍대점 양승연 단발머리 세진(SeJINN)
-- D-1 SAY MY NAME @FF 9월 27일 (일) 오후 5:00 Club FF 아나키컬쳐 보이드 적란운 + 2
-- D-1 오디세이:Odyssey - 우무해, 밴드 그린, 오아(OHAH) 9월 27일 (일) 오후 7:00 언플러그드 라운지 우무해 밴드 그린
-- D-1 FOUND - What will you find today? 9월 27일 (일) 오후 7:00 생기스튜디오 낙원 음성녹음
-- D-1 SACRED FIERAMO 한국 공연 9월 27일 (일) 오후 7:00 Club Victim 콘트라젤리 사토 유키에 神聖フレラモ -Sacred Fieramo-
-- D-1 HATE MODERN 9월 27일 (일) 오후 8:00 venomouscxnt 사바하 헤도니악
-- 흘러가는 대로 네켄킴 2026
-- SETLIST 6곡 정도기 추수감자절 1 HE 2 나의 바다 3 천천히 1부터 시작해봐요 …외 3곡 2026년 5월 30일 대구 제임스레코드
-- SETLIST 7곡 정도기 COME TOGETHER 1 HE 2 나의 바다 3 난 알아 …외 4곡 2026년 6월 6일 유기체
-- SETLIST 6곡 정도기 모여라 Vol.01 More Summer Please 1 널 지켜볼게 끝까지 2 처음처럼 3 천천히 1부터 시작해봐요 …외 3곡 2026년 9월 5일 HQ광안
+### 인디스트릿 · T2-선점 — 신규 19 / 전체 40
+- 언플러그드 라운지 서울 마포구 와우산로29길 15 2층 7개 공연
+- 스페이스 한강 서울 마포구 와우산로 128 지하1층 1개 공연
+- 스트레인지 프룻 서울 마포구 와우산로29길 64 1개 공연
+- 언드 경남 거제시 거제대로 3734 지하1층 1개 공연
+- OL'55 부산 남구 용소로19번길 26 1개 공연
+- 생기스튜디오 서울 마포구 와우산로 137 5층 2개 공연
+- Club FF 서울 마포구 와우산로17길 12 5개 공연
+- 카페 언플러그드 홍대점 서울 마포구 와우산로33길 26 1층 5개 공연
+- 우주정거장 서울 마포구 와우산로29길 16 1개 공연
+- 롤링홀 서울 마포구 어울마당로 35 신보빌딩 지하 1층 1개 공연
+- Club Victim 서울 마포구 와우산로 53 지하 1개 공연
+- 채널1969 서울 마포구 연희로 35 1개 공연
+- Today Dream to be… 『Mångata』 9월 27일 (일) 오전 9:30 스트레인지 프룻 나비춤 청난 zzzaam
+- Today Imagination 9월 27일 (일) 오후 3:00 언플러그드 라운지 illgot JULYWANTSMORE 루즌도어즈
+- Today 언플러그드 오픈스테이지 9월 27일 (일) 오후 3:00 카페 언플러그드 홍대점 양승연 단발머리 세진(SeJINN)
+- Today SAY MY NAME @FF 9월 27일 (일) 오후 5:00 Club FF 아나키컬쳐 보이드 적란운 + 2
+- Today 오디세이:Odyssey - 우무해, 밴드 그린, 오아(OHAH) 9월 27일 (일) 오후 7:00 언플러그드 라운지 우무해 밴드 그린
+- Today FOUND - What will you find today? 9월 27일 (일) 오후 7:00 생기스튜디오 낙원 음성녹음
+- Today SACRED FIERAMO 한국 공연 9월 27일 (일) 오후 7:00 Club Victim 콘트라젤리 사토 유키에 神聖フレラモ -Sacred Fieramo-
 
 ### EBS 스페이스 공감 · T2-발견 — 신규 0 / 전체 40
 _전일 대비 신규 없음_
@@ -67,7 +65,9 @@ _최근 3일 내 항목 없음_
 
 ### T2-발견
 
-**Pitchfork 리뷰** (8건)
+**Pitchfork 리뷰** (5건)
+- 2026-09-26 · [Eternal (Live)](https://pitchfork.com/reviews/albums/joy-division-eternal-live/)
+  · A 16-disc box set captures 14 months of live sets from the post-punk titans’ prime. Despite their dour reputation, they prove consistently thrilling on stage, led by Ian Curtis’ wh
 - 2026-09-25 · [Pugnello](https://pitchfork.com/reviews/albums/gilla-band-pugnello/)
   · Exploding its signature blend of noise-punk and dance music to masterful extremes, the Irish band gets louder, rawer, funnier, and more methodical on its exhilarating fourth album.
 - 2026-09-25 · [AUDACITY](https://pitchfork.com/reviews/albums/jae-stephens-audacity/)
@@ -76,28 +76,26 @@ _최근 3일 내 항목 없음_
   · The Rage Against the Machine guitarist’s towering legacy and sincere political convictions are at painful odds with the sanitized blues-rawk and tedious folk poetry on his new solo
 - 2026-09-25 · [Happiness Anytime](https://pitchfork.com/reviews/albums/leon-bridges-happiness-anytime/)
   · The retro R&B singer surrenders to the groove on a versatile and rhythmic new album that keeps the momentum going without ever really getting anywhere.
-- 2026-09-24 · [Bass Persuades](https://pitchfork.com/reviews/albums/miley-cyrus-bass-persuades/)
-  · Miley Cyrus has a distinctive voice, outsize charisma, and an infamous weird streak, but her short, uninspired new album sounds dated on arrival.
-- 2026-09-24 · [No Rest for the Wicked](https://pitchfork.com/reviews/albums/az-chike-no-rest-for-the-wicked/)
-  · With A&R assistance from Kendrick Lamar, the L.A. rapper shows off his versatility and knack for hooks on an album that effortlessly balances fury, swagger, and introspection.
-- 2026-09-24 · [Melodie](https://pitchfork.com/reviews/albums/slow-pulp-melodie/)
-  · The Midwest indie rock band returns with a new wave-influenced album that explores our innate desire to understand and be understood.
-- 2026-09-24 · [Dogma](https://pitchfork.com/reviews/albums/kim-ximya-dogma/)
-  · The combative Korean rapper leans into club music on his first album in six years, wrapping rhythmically inventive bilingual refrains around tough, futuristic beats.
 
-**Bandcamp Daily** (5건)
+**Bandcamp Daily** (3건)
 - 2026-09-25 · [Hip-Hop That Streaming Forgot](https://daily.bandcamp.com/lists/hip-hop-that-streaming-forgot)
   · A selection of rap projects lost to the sands of time that deserve your time and love Read full story on the Bandcamp Daily .
 - 2026-09-25 · [The Best Albums of Summer 2026](https://daily.bandcamp.com/best-of-2026/the-best-albums-of-summer-2026)
   · Looking back at the last three months. Read full story on the Bandcamp Daily .
 - 2026-09-25 · [applied communications, “applied communications bites the big one”](https://daily.bandcamp.com/album-of-the-day/applied-communications-applied-communications-bites-the-big-one-review)
   · The latest from Max Wood is blissfully disorienting. Read full story on the Bandcamp Daily .
-- 2026-09-24 · [Stones Throw At 30: Artists Share Stories About the Label’s Rich History](https://daily.bandcamp.com/features/stones-throw-label-profile)
-  · Looking back at three decades of the iconic underground rap label. Read full story on the Bandcamp Daily .
-- 2026-09-24 · [megiapa, “Intentions”](https://daily.bandcamp.com/album-of-the-day/megiapa-intentions-review)
-  · On her debut album, megiapa elevates what would be a masterful beat tape into a lyrical diary. Read full story on the Bandcamp Daily .
 
 **Stereogum** (25건)
+- 2026-09-26 · [Quavo Announces QRÖMELIFE Tracklist With Tyler, The Creator, Justin Timberlake, Future, & More](https://stereogum.com/2512722/quavo-announces-qromelife-tracklist-with-tyler-the-creator-justin-timberlake-future-more/news/)
+  · Quavo's new Pharrell-produced album QRÖMELIFE arrives next week. On Friday (Sept. 25), the Migos member announced the tracklist, which features guests like Tyler, The Creator, Just
+- 2026-09-26 · [Danz CM Announces New Album The Interdimensional Extraterrestrial Time Travelers Society: Hear Two Tracks](https://stereogum.com/2512712/danz-cm-announces-new-album-the-interdimensional-extraterrestrial-time-travelers-society-hear-two-tracks/music/)
+  · Danielle Johnson kicked off the year with the release of MYTHS , an ambient album made with vintage synths, recorded live at the Vintage Synthesizer Museum. She returned last month
+- 2026-09-26 · [Peter Gabriel – “Face The Wall”](https://stereogum.com/2512708/peter-gabriel-face-the-wall/music/)
+  · Peter Gabriel is slowly releasing his new album o\i , sharing a single on every full moon. Last month's was the " Looking For The Happy, " which he said was about gratitude and "tr
+- 2026-09-26 · [Sabrina Carpenter Cast As Ginger Rogers In Fred Astaire Biopic](https://stereogum.com/2512705/sabrina-carpenter-cast-as-ginger-rogers-in-fred-astaire-biopic/news/)
+  · Before Sabrina Carpenter was a singer, she was an actress, best known for her role in the Disney sitcom Girl Meets World . Now, after dominating the pop world with Short N’ Sweet a
+- 2026-09-26 · [Pearl Jam Appear To Reveal New Drummer At Ohana Festival](https://stereogum.com/2512693/pearl-jam-reveal-new-drummer-at-ohana-festival/news/)
+  · After a handful of songs at Ohana Fest on Friday night, the “Eddie Vedder And Friends” set turned into a full-on Pearl Jam performance. (They are still scheduled to headline on Sun
 - 2026-09-25 · [Brain Tourniquet Unleash Fearsome New Concept Album Sinking Deeper Into Madness](https://stereogum.com/2512670/brain-tourniquet-unleash-fearsome-new-concept-album-sinking-deeper-into-madness/music/)
   · My wife got back from work just now, walked into my office, and asked, " What are you listening to?" When I told her, she was like, " Brain Tourniquet? Well, A for effort on the na
 - 2026-09-25 · [daine Covers Martin Solveig & Dragonette’s “Hello” For Like A Version](https://stereogum.com/2512664/daine-covers-martin-solveig-dragonettes-hello-for-like-a-version/news/)
@@ -112,20 +110,10 @@ _최근 3일 내 항목 없음_
   · Ween are opening the vaults with Boognish Provides , a new collection of seven previously unreleased concerts from their 1994-95 Chocolate And Cheese tour. Arriving next month via 
 - 2026-09-25 · [Remi Wolf – “I Won’t Cry”](https://stereogum.com/2512648/remi-wolf-i-wont-cry/music/)
   · Palo Alto singer Remi Wolf started off as a kind of alt-pop artist, but she seems to be inching ever-closer to actual pop music. Wolf's new album Mud comes out next month, and we'v
-- 2026-09-25 · [Todd Rundgren Says Taylor Swift “Ruined Music,” “Not A Great Songwriter”](https://stereogum.com/2512629/todd-rundgren-says-taylor-swift-ruined-music-not-a-great-songwriter/news/)
-  · Look out! Here comes the cult-beloved rock legend Todd Rundgren, and he's got takes ! Rundgren has never been shy about sharing his opinions. In 2021, for instance, Rundgren said t
-- 2026-09-25 · [2hollis Announces New Album Pirouette: Hear “Warhorse”](https://stereogum.com/2512640/2hollis-announces-new-album-pirouette-hear-warhorse/music/)
-  · After releasing " Hurt " in July and " Sex " last week, 2hollis has announced his fifth album, Pirouette , arriving this fall. The star followup features cover artwork by legendary
-- 2026-09-25 · [All Things Go NYC, Global Citizen, Oceans Calling, CBGB Festivals Canceled Due To Nor’easter](https://stereogum.com/2512628/all-things-go-nyc-global-citizen-oceans-calling-festivals-canceled-due-to-noreaster/news/)
-  · A nor'easter is on the way, devastating every music festival in its wake. So far, All Things Go NYC, Global Citizen Festival, Oceans Calling, and CBGB Festival have all been cancel
-- 2026-09-25 · [Treaty Oak Revival Ask Fans To Stop Throwing Chairs](https://stereogum.com/2512619/treaty-oak-revival-ask-fans-to-stop-throwing-chairs/news/)
-  · Apparently there's a group called Treaty Oak Revival that make country rock that some call " Southwest emo ," and they played the MAGA-associated Rock The Country Festival earlier 
-- 2026-09-25 · [Ghostemane Announces New Album AM:FM: Hear “BucketList”](https://stereogum.com/2512615/ghostemane-announces-new-album-amfm-hear-bucketlist/music/)
-  · Back in the great SoundCloud-rap wave of the '10s, the West Palm Beach weirdo Ghostemane emerged with a messy and fascinating style that combined that moment's underground rap, and
 
 ### T2-선점
 
-**Music Business Worldwide** (10건)
+**Music Business Worldwide** (7건)
 - 2026-09-25 · [From Warner Music’s leadership shake-up to Suno’s courtroom defiance… it’s MBW’s Weekly Round-Up](https://www.musicbusinessworldwide.com/from-warner-musics-leadership-shake-up-to-sunos-courtroom-defiance-its-mbws-weekly-round-up/)
   · The biggest headlines from the past few days... Source
 - 2026-09-25 · [Josh Remsberg appointed Head of Commercial Partnerships at direct-to-fan platform EVEN](https://www.musicbusinessworldwide.com/josh-remsberg-appointed-head-of-commercial-partnerships-at-direct-to-fan-platform-even/)
@@ -140,16 +128,10 @@ _최근 3일 내 항목 없음_
   · Selby has joined the board as a publisher member, ASCAP President and Chairman of the Board Paul Williams. Source
 - 2026-09-25 · [Man who pocketed $8m using AI songs and bot streams asks for no prison time, arguing ‘no artist suffered any perceptible harm’](https://www.musicbusinessworldwide.com/man-who-pocketed-8m-using-ai-songs-and-bot-streams-asks-for-no-prison-time-arguing-no-artist-suffered-any-perceptible-harm/)
   · Michael Smith's lawyers argued that his scheme caused only "tiny, immeasurable losses" spread across millions of songwriters and artists, Billboard reported. Source
-- 2026-09-24 · [Sound designers and SFX libraries launch Professional Sound Alliance to fight AI scraping: ‘Now sound will have protection of our own’](https://www.musicbusinessworldwide.com/sound-designers-and-sfx-libraries-launch-professional-sound-alliance-to-fight-ai-scraping-now-sound-will-have-protection-of-our-own/)
-  · The Alliance says it was formed in response to two forms of unauthorized use, which it calls Data Piracy and Sync Piracy. Source
-- 2026-09-24 · [LANDR expands AI fraud detection built with machine learning lab Mila – and says artificial streams flagged by Spotify for music it distributes fell 95% between Q1 2025 and Q2 2026](https://www.musicbusinessworldwide.com/landr-expands-ai-fraud-detection-built-with-machine-learning-lab-mila-and-says-artificial-streams-flagged-by-spotify-for-music-it-distributes-fell-95-between-q1-2025-and-q2-2026/)
-  · Distribution and music creation platform expands streaming fraud detection system Source
-- 2026-09-24 · [Over 50% of a major streaming service’s tracks come from DistroKid – and other revelations from UMG’s lawsuit](https://www.musicbusinessworldwide.com/over-50-of-a-major-streaming-services-tracks-come-from-distrokid/)
-  · UMG's lawsuit accuses the DIY distributor of "deceptive trade practices and blatant copyright infringement", and of flooding streaming services with AI-generated "slop. Source
 
 ### T1
 
-**Pitchfork 뉴스** (17건)
+**Pitchfork 뉴스** (7건)
 - 2026-09-25 · [Woman Who Accused Jay-Z of Rape Withdraws Allegations](https://pitchfork.com/story/woman-who-accused-jay-z-of-rape-withdraws-allegations/)
   · “Mr. Carter never engaged in any inappropriate conduct toward me whatsoever,” she wrote in a declaration
 - 2026-09-25 · [All Things Go, CBGB, Global Citizen 2026 Festivals Canceled](https://pitchfork.com/story/all-things-go-festival-2026-canceled/)
@@ -164,18 +146,18 @@ _최근 3일 내 항목 없음_
   · The Life of a Showgirl: The Encore is here
 - 2026-09-25 · [Listen to Phoebe Bridgers’ New Song for A24 Film Primetime](https://pitchfork.com/story/listen-to-phoebe-bridgers-new-song-for-a24-film-primetime/)
   · Bridgers stars in the Lance Oppenheim-directed movie opposite Robert Pattinson
-- 2026-09-24 · [Madonna and Charli XCX Unite for New Song “Danceteria Afterhours”](https://pitchfork.com/story/madonna-and-charli-xcx-unite-for-new-song-danceteria-afterhours/)
-  · Ahead of Madonna’s VMAs opening performance this weekend
-- 2026-09-24 · [B0YG1RL Announce Self-Titled Album](https://pitchfork.com/story/b0yg1rl-announce-self-titled-album/)
-  · The Miami-based duo’s fourth release of 2026 is out in October
-- 2026-09-24 · [How the Founder of Lady Gaga’s Biggest Fan Site Ended Up in Prison](https://pitchfork.com/story/how-the-founder-of-lady-gaga-biggest-fan-site-ended-up-in-prison/)
-  · Gaga Daily’s Kirill Nguyen is free—and streaming Mayhem—after being detained for protesting the Belarusian government
-- 2026-09-24 · [Sugababes Announce First Album as Original Trio in 26 Years](https://pitchfork.com/story/sugababes-announces-first-album-as-original-trio-in-26-years/)
-  · After various lineup changes, the OG girl group have reunited for a self-titled record due out next year
-- 2026-09-24 · [Morphine Unveil Lost Album Cocoon](https://pitchfork.com/story/morphine-unveil-lost-album-cocoon/)
-  · The album, led by the title track, was completed from recordings shelved soon before the death of frontman Mark Sandman
 
 **Consequence** (15건)
+- 2026-09-26 · [Olivia Rodrigo Kicks Off “Unraveled Tour”: See 26-Song Setlist + Video](https://consequence.net/2026/09/olivia-rodrigo-unraveled-tour-kickoff-setlist-video/)
+  · Rodrigo launched her new tour with a season-inspired set featuring songs from SOUR, GUTS, and her latest album. Olivia Rodrigo Kicks Off “Unraveled Tour”: See 26-Song Setlist + Vid
+- 2026-09-26 · [GWAR Classic Member Chuck Varga Dies After Battle With Cancer](https://consequence.net/2026/09/gwar-classic-member-chuck-varga-dies-after-battle-with-cancer/)
+  · Varga helped shape GWAR’s visual universe through sculpture, character design, special effects, and his onstage role as Sexecutioner. GWAR Classic Member Chuck Varga Dies After Bat
+- 2026-09-26 · [Drummer Abe Laboriel Jr. Joins Pearl Jam at Ohana Festival](https://consequence.net/2026/09/pearl-jam-new-drummer-ohana-festival/)
+  · Laboriel made his debut with Pearl Jam during a surprise Friday night set. Drummer Abe Laboriel Jr. Joins Pearl Jam at Ohana Festival Spencer Kaufman
+- 2026-09-26 · [Hans Zimmer Sets 2027 North American Tour Dates](https://consequence.net/2026/09/hans-zimmer-2027-north-american-tour-dates/)
+  · The "Hans Zimmer Live - The Next Level" arena tour will stop in 30 cities. Hans Zimmer Sets 2027 North American Tour Dates Eddie Fu
+- 2026-09-26 · [Metallica Announce 2027 North American Tour Dates](https://consequence.net/2026/09/metallica-2027-north-american-tour-dates/)
+  · The massive 12-date outing features support from Limp Bizkit and Avatar. Metallica Announce 2027 North American Tour Dates Alex Young
 - 2026-09-25 · [Margaret Qualley and Sabrina Carpenter Join Tom Holland in Fred Astaire Biopic](https://consequence.net/2026/09/margaret-qualley-sabrina-carpenter-fred-astaire-biopic-tom-holland/)
   · Carpenter will star as Ginger Rogers, while Qualley will play Adele Astaire. Margaret Qualley and Sabrina Carpenter Join Tom Holland in Fred Astaire Biopic Eddie Fu
 - 2026-09-25 · [Heavy Song of the Week: Crypta Bring Death Metal Majesty with “A Portrait of Decay”](https://consequence.net/2026/09/heavy-song-of-the-week-crypta-a-portrait-of-decay/)
@@ -190,111 +172,127 @@ _최근 3일 내 항목 없음_
   · "I’m not sure what the point of it was,” was the To Catch a Predator host's first reaction. Chris Hansen, Shockingly Enough, Didn’t Love Primetime Liz Shannon Miller
 - 2026-09-25 · [Lin-Manuel Miranda Releases Definitive Hamilton 10th Anniversary Box Set](https://consequence.net/2026/09/hamilton-rise-up-anthology-10th-anniversary-box-set/)
   · The set includes the original Broadway cast recording, The Hamilton Mixtape, and Hamildrops: The Complete Collection. Lin-Manuel Miranda Releases Definitive Hamilton 10th Anniversa
-- 2026-09-25 · [Nor’easter Knocks Out Three New York Festivals: All Things Go, CBGB, and Global Citizen All Canceled](https://consequence.net/2026/09/all-things-go-cbgb-global-citizens-new-york-canceled/)
-  · With a massive storm hitting the East Coast, numerous major music events in the music area have been forced to shut down. Nor’easter Knocks Out Three New York Festivals: All Things
-- 2026-09-25 · [Mastodon Mesmerize Brooklyn with Deafheaven and Alcest: Review, Photos + Video](https://consequence.net/2026/09/mastodon-brooklyn-deafheaven-alcest-review-photos/)
-  · The triple bill "Poisonous Weapons Tour" is a must-see for metal fans. Mastodon Mesmerize Brooklyn with Deafheaven and Alcest: Review, Photos + Video Spencer Kaufman
-- 2026-09-25 · [Anika Nilles Loses Drumstick During RUSH “Tom Sawyer” Fill, Recovers Like a Champ: Watch](https://consequence.net/2026/09/anika-nilles-loses-drumstick-rush-tom-sawyer/)
-  · The drummer showed quick thinking during a concert in San Antonio. Anika Nilles Loses Drumstick During RUSH “Tom Sawyer” Fill, Recovers Like a Champ: Watch Spencer Kaufman
-- 2026-09-25 · [Todd Rundgren Says Taylor Swift “Ruined Music,” Calls Her “Apotheosis of Mediocrity”](https://consequence.net/2026/09/todd-rundgren-taylor-swift-ruined-music/)
-  · "Swift doesn’t do anything particularly great except grow hair," Rundgren added. Todd Rundgren Says Taylor Swift “Ruined Music,” Calls Her “Apotheosis of Mediocrity” Eddie Fu
-- 2026-09-25 · [Olivia Rodrigo Set to Launch Her Biggest Tour Yet With “The Unraveled Tour”](https://consequence.net/2026/09/olivia-rodrigo-unraveled-tour-kickoff/)
-  · The 59-date outing kicks off this weekend: here's how to find last-minute tickets and deals. Olivia Rodrigo Set to Launch Her Biggest Tour Yet With “The Unraveled Tour” Alex Krinsk
 
 **NME** (10건)
-- 2026-09-25 · [Today’s Wordle answer and hints for #1915 on September 26](https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&utm_medium=rss&utm_campaign=heres-the-wordle-answer-for-today)
-  · There's no need to lose your streak - here's the 'Wordle' answer for today The post Today’s Wordle answer and hints for #1915 on September 26 appeared first on NME .
-- 2026-09-25 · [‘Connections’ answers and hints for today, September 26](https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&utm_medium=rss&utm_campaign=connections-answers-hints-groups-today)
-  · Here are hints, groups and answers for 'Connections' #1203 The post ‘Connections’ answers and hints for today, September 26 appeared first on NME .
-- 2026-09-25 · [Globle answer today – here’s the answer and hints for September 26](https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&utm_medium=rss&utm_campaign=globle-hint-answer-today)
-  · Where in the world? The post Globle answer today – here’s the answer and hints for September 26 appeared first on NME .
-- 2026-09-25 · [Framed answer today – here’s the solution for September 26](https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186?utm_source=rss&utm_medium=rss&utm_campaign=framed-answer-today)
-  · You’ve been framed The post Framed answer today – here’s the solution for September 26 appeared first on NME .
-- 2026-09-25 · [Portrait of The 1975’s Matty Healy shortlisted at British Photography Awards](https://www.nme.com/news/music/portrait-of-the-1975s-matty-healy-shortlisted-at-british-photography-awards-3970840?utm_source=rss&utm_medium=rss&utm_campaign=portrait-of-the-1975s-matty-healy-shortlisted-at-british-photography-awards)
-  · "I literally only had a minute to do the photo," said Newcastle photographer Neil Ferry of his "timeless" piece The post Portrait of The 1975’s Matty Healy shortlisted at British P
-- 2026-09-25 · [Beck recalls meeting “warm, kind and open” Dolly Parton as a child: “I was taken aback”](https://www.nme.com/news/music/beck-recalls-meeting-warm-kind-and-open-dolly-parton-as-a-child-i-was-taken-aback-3970818?utm_source=rss&utm_medium=rss&utm_campaign=beck-recalls-meeting-warm-kind-and-open-dolly-parton-as-a-child-i-was-taken-aback)
-  · The 'Ride Lonesome' artist was asked about the "icons" he'd crossed paths with The post Beck recalls meeting “warm, kind and open” Dolly Parton as a child: “I was taken aback” appe
-- 2026-09-25 · [Elton John to open new Apple Music Hall in London – with Charli XCX and Chase & Status also among confirmed acts](https://www.nme.com/news/music/elton-john-open-apple-music-hall-london-charli-xcx-chase-status-3970819?utm_source=rss&utm_medium=rss&utm_campaign=elton-john-open-apple-music-hall-london-charli-xcx-chase-status)
-  · Baby Keem, Troye Sivan, Arlo Parks and Burna Boy are also part of the first run of shows at the new 600-capacity Battersea venue The post Elton John to open new Apple Music Hall in
-- 2026-09-25 · [Nothing But Thieves tell us about “subverting expectations” on introspective ‘Stray Dogs’: “We’re a band that takes left turns”](https://www.nme.com/news/music/nothing-but-thieves-interview-stray-dogs-5-reflection-fans-tour-3970747?utm_source=rss&utm_medium=rss&utm_campaign=nothing-but-thieves-interview-stray-dogs-5-reflection-fans-tour)
-  · The Southend outfit spoke to NME about going back to basics on their "smaller and noisy" latest album, looked back at their debut LP, and teased what to expect from their biggest h
-- 2026-09-25 · [‘How To Get To Heaven From Belfast’ cancelled at Netflix](https://www.nme.com/news/tv/how-to-get-to-heaven-from-belfast-cancelled-at-netflix-3970806?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-to-heaven-from-belfast-cancelled-at-netflix)
-  · The comedy-thriller debuted on the streaming service in February The post ‘How To Get To Heaven From Belfast’ cancelled at Netflix appeared first on NME .
-- 2026-09-25 · [Listen to Taylor Swift’s bittersweet new single ‘Patient Zero’ – along with three more ‘Encore’ tracks](https://www.nme.com/news/music/listen-taylor-swift-bittersweet-single-patient-zero-three-more-encore-tracks-3970801?utm_source=rss&utm_medium=rss&utm_campaign=listen-taylor-swift-bittersweet-single-patient-zero-three-more-encore-tracks)
-  · ‘Cleveland!’, ‘Pink Clouding’ and ‘Babylon’ also feature on the newly released expanded edition of ‘The Life Of A Showgirl’ The post Listen to Taylor Swift’s bittersweet new single
+- 2026-09-26 · [What songs are on the new ‘Sense & Sensibility’ soundtrack?](https://www.nme.com/news/film/what-songs-are-on-the-new-sense-sensibility-soundtrack-3970907?utm_source=rss&utm_medium=rss&utm_campaign=what-songs-are-on-the-new-sense-sensibility-soundtrack)
+  · Georgia Oakley’s Jane Austen adaptation uses specially recorded 18th-century English folk music The post What songs are on the new ‘Sense & Sensibility’ soundtrack? appeared first 
+- 2026-09-26 · [What’s new in ‘Avengers: Endgame Encore’? All the added scenes explained](https://www.nme.com/news/film/whats-new-in-avengers-endgame-encore-all-the-added-scenes-explained-3970905?utm_source=rss&utm_medium=rss&utm_campaign=whats-new-in-avengers-endgame-encore-all-the-added-scenes-explained)
+  · Marvel’s 2019 blockbuster is back in cinemas with fresh footage that leads directly into ‘Avengers: Doomsday’ The post What’s new in ‘Avengers: Endgame Encore’? All the added scene
+- 2026-09-26 · [Every song on the ‘American Horror Story’ season 13 soundtrack](https://www.nme.com/news/tv/every-song-on-the-american-horror-story-season-13-soundtrack-3970903?utm_source=rss&utm_medium=rss&utm_campaign=every-song-on-the-american-horror-story-season-13-soundtrack)
+  · Johnny Cash and Hoagy Carmichael feature in the opening episodes The post Every song on the ‘American Horror Story’ season 13 soundtrack appeared first on NME .
+- 2026-09-26 · [Todd Rundgren claims that Taylor Swift “ruined music” and calls her the “apotheosis of mediocrity”](https://www.nme.com/news/music/todd-rundgren-taylor-swift-ruined-music-apotheosis-of-mediocrity-3970899?utm_source=rss&utm_medium=rss&utm_campaign=todd-rundgren-taylor-swift-ruined-music-apotheosis-of-mediocrity)
+  · “She’s not a great singer. She’s not a great songwriter. She’s not a great dancer” The post Todd Rundgren claims that Taylor Swift “ruined music” and calls her the “apotheosis of m
+- 2026-09-26 · [Matty Healy says The 1975’s new album is ‘almost done’: “I’m never going to finish it”](https://www.nme.com/news/music/matty-healy-the-1975-new-album-almost-done-never-going-finish-3970896?utm_source=rss&utm_medium=rss&utm_campaign=matty-healy-the-1975-new-album-almost-done-never-going-finish)
+  · The band have previously said they have made two new records, with at least one expected to be called ‘DOGS’ The post Matty Healy says The 1975’s new album is ‘almost done’: “I’m n
+- 2026-09-26 · [Watch Blossoms’ Tom Ogden join Niall Horan on stage in Manchester for ‘Charlemagne’](https://www.nme.com/news/music/watch-blossoms-tom-ogden-niall-horan-manchester-charlemagne-3970892?utm_source=rss&utm_medium=rss&utm_campaign=watch-blossoms-tom-ogden-niall-horan-manchester-charlemagne)
+  · The Stockport frontman made a surprise appearance during Horan's ‘Dinner Party’ show at Co-op Live The post Watch Blossoms’ Tom Ogden join Niall Horan on stage in Manchester for ‘C
+- 2026-09-26 · [Here’s what Olivia Rodrigo played as she kicked off the ‘Unraveled’ tour](https://www.nme.com/news/music/heres-what-olivia-rodrigo-played-as-she-kicked-off-the-unraveled-tour-3970884?utm_source=rss&utm_medium=rss&utm_campaign=heres-what-olivia-rodrigo-played-as-she-kicked-off-the-unraveled-tour)
+  · The opening night featured a birthday tribute to Rodrigo's mother and an elaborate rain-soaked transformation during ‘The Cure’ The post Here’s what Olivia Rodrigo played as she ki
+- 2026-09-26 · [Longtime Paul McCartney drummer Abe Laboriel Jr. joins Pearl Jam at Ohana Festival](https://www.nme.com/news/music/longtime-paul-mccartney-drummer-abe-laboriel-jr-pearl-jam-ohana-festival-3970880?utm_source=rss&utm_medium=rss&utm_campaign=longtime-paul-mccartney-drummer-abe-laboriel-jr-pearl-jam-ohana-festival)
+  · Eddie Vedder said he was “filling in tonight” during the band’s first performance since Matt Cameron’s departure The post Longtime Paul McCartney drummer Abe Laboriel Jr. joins Pea
+- 2026-09-26 · [Ed Sheeran’s shows at Robert Kraft’s Gillette Stadium and other huge events have been cancelled after all – thanks to “severe weather warnings”](https://www.nme.com/news/music/ed-sheerans-shows-robert-kraft-gillette-stadium-cancelled-severe-weather-3970876?utm_source=rss&utm_medium=rss&utm_campaign=ed-sheerans-shows-robert-kraft-gillette-stadium-cancelled-severe-weather)
+  · All Things Go NYC, Global Citizen, CBGB Festival, The Prodigy and Oceans Calling have also fallen victim to a powerful nor’easter The post Ed Sheeran’s shows at Robert Kraft’s Gill
+- 2026-09-26 · [Noel and Liam Gallagher react after Manchester City reportedly found guilty of 114 of 115 charges](https://www.nme.com/news/music/noel-liam-gallagher-react-manchester-city-guilty-115-charges-3970872?utm_source=rss&utm_medium=rss&utm_campaign=noel-liam-gallagher-react-manchester-city-guilty-115-charges)
+  · “I know what I saw and I know what I felt,” Noel has said The post Noel and Liam Gallagher react after Manchester City reportedly found guilty of 114 of 115 charges appeared first 
 
 **Billboard** (10건)
-- 2026-09-26 · [Billboard’s Music Industry Events Calendar](https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/)
-  · A complete rundown of the most important events across the music business.
-- 2026-09-26 · [Taylor Swift Sets 2026 Single-Day Spotify Record, Thanks to ‘The Life of a Showgirl: The Encore’](https://www.billboard.com/music/pop/taylor-swift-spotify-record-single-day-patient-zero-1236348113/)
-  · Swift became the most-streamed female artist in a single day this year on the platform.
-- 2026-09-25 · [Sabrina Carpenter & Margaret Qualley Join Fred Astaire Biopic Cast](https://www.billboard.com/culture/tv-film/sabrina-carpenter-margaret-qualley-fred-astaire-movie-cast-1236348083/)
-  · It will be a "House Tour" music video reunion in the new Tom Holland-starring film.
-- 2026-09-25 · [Common Accepts SAG-AFTRA & SoundExchange’s Artist Impact Award: ‘Makes Me Feel Like I’ve Got to Do More’](https://www.billboard.com/pro/common-honored-sag-aftra-soundexchange-artist-impact-award/)
-  · The new award honors an artist whose work crosses creative boundaries.
-- 2026-09-25 · [Victoria Monét Reveals ‘Frequency of Love’ Track List, Featuring Bruno Mars, SZA, Bryson Tiller & Leon Thomas](https://www.billboard.com/music/rb-hip-hop/victoria-monet-frequency-of-love-track-list-bruno-mars-sza-1236347914/)
-  · Frequency of Love arrives on Oct. 2.
-- 2026-09-25 · [‘Gilded Age’ Cast Comes Together for First Holiday Album: Full Track List](https://www.billboard.com/music/pop/gilded-age-cast-christmas-album-audra-mcdonald-baranski-1236347953/)
-  · Noted producer/songwriter Desmond Child helmed the project, which includes many Tony Award-winning performers.
-- 2026-09-25 · [In Canada: Nashville’s Grand Ole Opry to Celebrate 50th Anniversary of Canadian Country Music Association](https://www.billboard.com/pro/grand-ole-opry-celebrate-canadian-country-music-canada-news/)
-  · Also up north this week: Riley Green is set to headline the Grey Cup halftime show.
-- 2026-09-25 · [Lady Gaga Shouldn’t Get $230K ‘Consolation Prize’ After ‘Mayhem’ Lawsuit, Surf Brand Tells Judge](https://www.billboard.com/pro/lady-gaga-mayhem-lawsuit-surf-brand-legal-fees/)
-  · Lost Surfboards tried and failed to sue the pop superstar for infringing its "Mayhem" trademark on her chart-topping album.
-- 2026-09-25 · [Stella Lefty’s ‘Boston’ Earns Country Chart Honor Last Achieved 22 Years Ago](https://www.billboard.com/music/chart-beat/stella-lefty-boston-number-1-country-airplay-second-week-1236347962/)
-  · Lefty scores a mark on Country Airplay last logged by Gretchen Wilson.
-- 2026-09-25 · [John Legend Takes Inspiration From His ‘Ordinary People’ Video for Cinematic ‘Fireflies’ Visual](https://www.billboard.com/music/rb-hip-hop/john-legend-pharrell-fireflies-video-muse-1236347865/)
-  · Fully produced by Pharrell, the Grammy-winning singer's Muse album arrives next month.
+- 2026-09-26 · [Jalen Brunson & KATSEYE on ‘SNL’: Here’s Where to Watch the Season 52 Premiere Live Online for Free](https://www.billboard.com/culture/product-recommendations/snl-2026-jalen-brunson-katseye-watch-live-online-free-1236347520/)
+  · Livestream the NY Knicks superstar and global pop girl group for season premiere of Saturday Night Live on Sept. 26 — watch live online for free.
+- 2026-09-26 · [Chuck Varga, GWAR Founding Member, Dies at 68 After Cancer Battle](https://www.billboard.com/music/rock/chuck-varga-death-gwar-founding-member-dies-cancer-battle-1236348335/)
+  · He portrayed the heavy metal band's Sexecutioner character for nearly four decades.
+- 2026-09-26 · [Olivia Rodrigo’s Unraveled Tour Opener Blooms With Hit After Hit & A Dissolving Dress: 5 Best Moments](https://www.billboard.com/lists/olivia-rodrigo-unraveled-tour-night-one-best-moments/)
+  · Night one of The Unraveled Tour in Hartford, Connecticut, was a joyous two-hour show with no misses. And one really cool wardrobe change.
+- 2026-09-26 · [Here’s What Ella Langley Said After a Fan Boldly Asked Her Out](https://www.billboard.com/music/music-news/ella-langley-fan-asks-her-out-response-tiktok-1236348289/)
+  · The country star’s “Choosin’ Texas” recently made history on the Billboard Hot 100.
+- 2026-09-26 · [Stray Kids Close Latin American Tour in Mexico With Festival STRAYCITY: ‘Did You Miss Us?’](https://www.billboard.com/music/latin/stray-kids-mexico-straycity-show-night-one-review-1236348306/)
+  · The president and first lady of South Korea attended the show on Sept. 25 at GNP Seguros Stadium.
+- 2026-09-26 · [Kenny Chesney Welcomes Fans Into ‘Silver Sands Marina’ During Intimate Nashville Show: 5 Best Moments](https://www.billboard.com/lists/kenny-chesney-sands-marina-nashville-show-pinnacle-review/)
+  · The Country Music Hall of Fame member brought fans into the world of Silver Sands Marina with his show at Nashville's The Pinnacle.
+- 2026-09-26 · [Here’s the Host & Musical Guest for Every ‘Saturday Night Live’ Season Premiere](https://www.billboard.com/lists/saturday-night-live-host-and-musical-guest-every-season-premiere-episode/)
+  · Steve Martin has hosted four season openers, more than anyone else. But who is the most frequent musical guest on a season premiere?
+- 2026-09-26 · [‘JAŸ-Z in 8’: 4 Things We Learned From Episode Four](https://www.billboard.com/lists/jay-z-in-8-review-episode-four-rick-rubin-hbo-max/)
+  · The eight-episode series will be released weekly on HBO Ma two episodes at a time.
+- 2026-09-26 · [‘Saturday Night Live U.K.’: Here’s Where to Watch the Season 2 Online](https://www.billboard.com/culture/product-recommendations/saturday-night-live-uk-season-2-watch-stream-online-1236338739/)
+  · For this weekend, SNL U.K . has Amelia Dimoldenberg as host and Rachel Chinouriri as musical guest.
+- 2026-09-26 · [Where to Watch the 2026 Texas vs. Tennessee College Football Game Free Online](https://www.billboard.com/culture/product-recommendations/where-to-watch-texas-vs-tennessee-2026-free-online-1236348047/)
+  · The game will air live on Saturday, Sept. 26 at 12:00 p.m. ET across several streaming platforms that offer free trials.
 
 **일간스포츠** (25건)
-- 2026-09-26 · [[나고야 2026] ‘0.06초’ 모자라 44년 만의 메달 무산…나마디 조엘진, 첫 AG 100ｍ서 아쉬운 4위](https://isplus.com/article/view/isp202609260006)
-  · 한국 단거리 에이스 나마디 조엘진(예천군청)이 첫 아시안게임 남자 100ｍ에서 4위에 올랐다. 메달까지 단 0.06초가 모자랐다.나마디 조엘진은 25일 일본 나고야 미즈호공원 육상경기장에서 열린 2026 아이치&middot;나고야 아시안게임 남자 100ｍ 결선에서 10초17을 기록했다. 푸리폴 분손(9초90&middot;
-- 2026-09-26 · [“왜 이제야 UFC 왔나” 역대급 기대감, 11승 무패 파이터 전격 입성…10월 첫 출격→밴텀급 판도 뒤흔들까](https://isplus.com/article/view/isp202609260002)
-  · UFC 밴텀급에 또 한 명의 강력한 경쟁자가 등장한다. 종합격투기(MMA) 프로 전적 11전 전승을 달리고 있는 아사프 초프로프(아제르바이잔)가 마침내 UFC 옥타곤에 입성한다.UFC는 오는 10월 25일(한국시간) 아랍에미리트(UAE) 아부다비 에티하드 아레나에서 열리는 UFC 333에 초프로프와 콜비 딕니스(호주)의 
-- 2026-09-26 · [‘소요한남 by 파르나스’, 전담 버틀러·호텔식 식사·헬스케어 결합…시니어 주거 서비스 강화](https://isplus.com/article/view/isp202609230036)
-  · -호실별 전담 버틀러&middot;비대면 캐비닛&middot;인룸다이닝 운영&hellip;생활 지원 서비스 확대-건강 모니터링&middot;응급 동행&middot;하이드로 테라피 등 의료&middot;웰니스 프로그램 구성 하이엔드 시니어 레지던스가 주거공간을 넘어 생활과 식음, 헬스케어, 웰니스 서비스를 결합한 형태로 확
-- 2026-09-26 · [‘봄봄봄’의 로이킴, 이제 가을을 부른다 [IS포커스]](https://isplus.com/article/view/isp202609220080)
-  · 로이킴이 다시 가을에 돌아온다. 오는 10월 6일 새 싱글 &lsquo;크게 울어라&rsquo;를 발표하고, 11월에는 데뷔 후 처음으로 케이스포돔 단독 무대에 선다.신곡 &lsquo;크게 울어라&rsquo;는 2024년 10월 &lsquo;내게 사랑이 뭐냐고 물어본다면&rsquo;, 지난해 10월 &lsquo;달리 표현
-- 2026-09-26 · [韓 3총사, ‘미국과 골프 대항전’ 프레지던츠컵서 2승 합작…흐름 뒤집었다](https://isplus.com/article/view/isp202609260003)
-  · 한국 골퍼 3명이 미국과의 골프 대항전 프레지던츠컵 둘째 날 전승을 거두며 인터내셔널 팀의 역전 흐름에 힘을 보탰다.김시우와 김주형은 26일(한국시간) 미국 일리노이주 시카고 메디나 컨트리클럽 3번 코스(파70)에서 열린 포섬 매치플레이에서 패트릭 캔틀레이-잰더 쇼플리 조를 4홀 차로 제압했다. 3개 홀을 남기고 경기를 
-- 2026-09-26 · [[나고야 2026] 韓 여자축구, 일본과 결승 다툰다…윤수정 해트트릭→우즈베크 6-3 격파](https://isplus.com/article/view/isp202609260001)
-  · 한국 여자축구가 우즈베키스탄을 꺾고 2026 아이치&middot;나고야 아시안게임 4강에 올랐다. 신성 윤수정이 해트트릭을 터뜨리며 6-3 난타전을 승리로 이끌었다.신상우 감독이 이끄는 한국은 25일 일본 오사카 나가이 스타디움에서 열린 대회 8강전에서 우즈베키스탄을 6-3으로 제압했다.한국이 아시안게임 준결승에 진출한 
-- 2026-09-26 · [‘부활남: 더 레드' 신승호, 이번엔 초능력까지...구교환 쫓는다 [줌인]](https://isplus.com/article/view/isp202609230007)
-  · 배우 신승호가 이번엔 초능력까지 접수한다. 여러 작품에서 강렬한 존재감을 보여준 그가 &lsquo;부활남: 더 레드&rsquo;에서 미스터리한 인물로 변신한다. &lsquo;D.P.&rsquo; 이후 재회한 구교환과는 또 한 번 적으로 붙는다.오는 30일 개봉하는 영화 &lsquo;부활남: 더 레드&rsquo;는 근거 없
-- 2026-09-26 · [예능감 좋은 비비와 무리하는 고경표… ‘식스센스’ 새 시즌, 리스크 떠나 재밌다](https://isplus.com/article/view/isp202609230010)
-  · 메인 연출을 맡았던 정철민 CP의 사생활 이슈로 부침을 겪었던 tvN 예능 프로그램 &lsquo;식스센스&rsquo;가 분위기 반전에 나섰다. 이전보다 치밀해진 가짜 찾기에 망가짐을 두려워하지 않는 고경표, 새롭게 투입된 비비의 활약까지 더해지며 다시 &lsquo;식스센스&rsquo;다운 재미를 찾아가고 있다.지난 13일
-- 2026-09-26 · [본능을 마주한 소년들…보이넥스트도어, ‘애니멀’로 깨어나다 [IS포커스]](https://isplus.com/article/view/isp202609210122)
-  · 고백과 이별, 사랑의 혼란스러운 감정을 솔직하게 전해온 보이넥스트도어가 이번에는 &lsquo;애니멀&rsquo;을 꺼낸다. 오는 28일 발매되는 정규 1집 리패키지 &lsquo;홈 : 디럭스&rsquo;에서 여섯 멤버는 자신을 뛰어넘어 앞으로 나아가겠다는 에너지를 전면에 내세운다.&lsquo;홈 : 디럭스&rsquo;는 
-- 2026-09-26 · [‘진정성 아이콘’ 이준, 예능 고정만 ‘4개’…전현무 ‘여친’·김숙 옆 ‘아바타’ [줌인]](https://isplus.com/article/view/isp202609210070)
-  · 배우 이준이 심상치 않은 예능 활약을 보여주고 있다. 전현무, 김숙 등 예능 터줏대감들과 함께하는 새로운 고정 프로그램 2개를 추가했다. 그가 지닌 &lsquo;진정성&rsquo;이 새로운 무대를 확장하고 있는 모습이다.먼저 이준은 지난 20일 첫 방송한 MBN 새 여행 예능 &lsquo;디스이즈 현무로드&rsquo;(이
-- 2026-09-26 · [[K팝과 AI 혁명 ⑨] “버튼 누르면 뚝딱? 착각이다...연출가 무기는 안목과 휴먼 터치”](https://isplus.com/article/view/isp202609200099)
-  · K팝 산업이 생성형 AI와 엔터테크의 거센 물결 속에서 제작 효율성의 극대화와 창작의 본질이라는 대전환점을 맞이했다. 음원 프로듀싱부터 버추얼 아이돌, 뮤직비디오 프로덕션에 이르기까지 기술 도입은 제작비를 크게 낮추고 자본 장벽을 허물며 창작자들에게 새로운 생존 무기와 IP 확장성을 제공하고 있다. 본 기획 시리즈 은 K
-- 2026-09-26 · [[K팝과 AI 혁명 ⑧] 렌즈도 세트장도 없다…모니터 화면에서 태어난 아포칼립스](https://isplus.com/article/view/isp202609200041)
-  · K팝 산업이 생성형 AI와 엔터테크의 거센 물결 속에서 제작 효율성의 극대화와 창작의 본질이라는 대전환점을 맞이했다. 음원 프로듀싱부터 버추얼 아이돌, 뮤직비디오 프로덕션에 이르기까지 기술 도입은 제작비를 크게 낮추고 자본 장벽을 허물며 창작자들에게 새로운 생존 무기와 IP 확장성을 제공하고 있다. 본 기획 시리즈 은 K
+- 2026-09-27 · [‘미우새’ 김승수, 16년째 연애 못 했는데… 맞선녀 등장에 母 “남성 호르몬 수치 좋아” 어필](https://isplus.com/article/view/isp202609270025)
+  · 배우 김승수, 송종호가 합숙 맞선을 한다.27일 방송되는 SBS &lsquo;미운 우리 새끼&rsquo;(이하 &lsquo;미우새&rsquo;)에서는 어머니와 함께 &lsquo;미우새 표 합숙 맞선&rsquo;에 출격한 김승수와 송종호의 모습이 공개된다.16년째 연애를 못 하고 있는 김승수와 장가갈 생각이 전혀 없는 송종
+- 2026-09-27 · [1693만 ‘왕사남’, 안방도 휩쓸었다…시청률 11%로 1위 [IS차트]](https://isplus.com/article/view/isp202609270024)
+  · 올해 최고 흥행 영화 &lsquo;왕과 사는 남자&rsquo;가 안방에서도 통했다.27일 시청률 조사 기관 닐슨코리아에 따르면 전날 SBS를 통해 방송된 추석특선영화 &lsquo;왕과 사는 남자&rsquo; 전국 가구 기준 시청률 11%를 기록했다. 이는 26일 방송된 지상파 전체 프로그램 가운데 가장 높은 수치다. KB
+- 2026-09-27 · [28일 MLB 정규시즌 최종전...최대 5팀 운명이 엇갈린다](https://isplus.com/article/view/isp202609270023)
+  · 메이저리그(MLB) 양대 리그가 포스트시즌(PS) 남은 티켓 한 장을 두고 '살얼음판 레이스'를 펼치고 있다. 26일 기준으로 아메리칸리그(AL) 서부 지구는 나란히 79승 81패를 기록한 휴스턴 애스트로스와 텍사스 레인저스가 우승 경쟁 중이다. 총 6개 팀이 진출하는 PS 티켓이 걸려 있기도 하다. 이미 탬파베이 레이스
+- 2026-09-27 · [‘나나 자택 침입’ 후 되레 살인미수 고소…강도범, 결국 무고 혐의로 기소](https://isplus.com/article/view/isp202609270022)
+  · 그룹 애프터스쿨 출신 배우 나나를 살인미수 혐의로 고소한 자택 침입법 A씨가 결국 무고 혐의로 재판에 넘겨졌다. 26일 경향신문에 따르면 서울중앙지검 형사1부(직무대리 부장검사 이주희)는 지난 16일 30대 남성 A씨를 무고 혐의로 불구속 기소했다. A씨는 지난해 11월 15일 경기 구리시 아천동에 위치한 나나의 자택에 
+- 2026-09-27 · [베리베리·이븐, 추석 가족 상황극·요리 대결 대공개...풍성한 명절 웃음 선사](https://isplus.com/article/view/isp202609270021)
+  · 그룹 베리베리와 이븐이 추석을 맞아 한 가족으로 뭉쳐 유쾌한 요리 대결을 펼쳤다.베리베리와 이븐은 지난 24일과 26일 공개된 추석 특집 콘텐츠 &lsquo;젤리家화만사성&rsquo;에서 가족 상황극과 요리 대결을 선보였다. 두 그룹은 큰집과 작은집으로 나뉘어 명절 음식 만들기에 도전하며 무대 위와는 또 다른 친근한 매력
+- 2026-09-27 · [[일간 김하성] 847일 만의 3루타로 20타수 무안타 탈출...시즌 첫 멀티 득점](https://isplus.com/article/view/isp202609270016)
+  · 김하성(애틀랜타 브레이브스)이 847일 만의 3루타를 때려내며 20타수 무안타 부진에서 탈출했다. 김하성은 27일(한국시간) 미국 플로리다주 론디포파크에서 열린 미국 메이저리그(MLB) 마이애미 말린스와 원정 경기에 9번 타자 유격수로 선발 출전해 3타수 1안타 1볼넷 2득점을 기록했다.팀이 3-0으로 앞선 2회 초 볼넷
+- 2026-09-27 · [KBS가 생중계한 ‘여자농구 결승전’… 최고 19.3%까지 나왔다 [차트IS]](https://isplus.com/article/view/isp202609270019)
+  · 지상파 중 유일하게 여자농구를 생중계한 KBS1이 시청률에서 활짝 웃었다.27일 시청률 조사 기관 닐슨코리아에 따르면 KBS1 &lsquo;2026 아이치-나고야 아시안게임&rsquo; 여자농구 결승전은 전국 평균 10%를 기록하며, 현재까지 아시안게임 전체 시청률 1위에 올랐다. 분당 최고 시청률은 19.3%다.지난 2
+- 2026-09-27 · [‘차예련♥’ 고생 좀 했겠네…주상욱 “시청률 5% 돌파 시 냉장고 돌릴 것” (냉부)](https://isplus.com/article/view/isp202609270018)
+  · 배우 주상욱과 채정안의 냉장고가 공개된다. 오늘(27일) 오후 8시 50분 방송되는 JTBC &lsquo;냉장고를 부탁해&rsquo;에는 빌런 연기로 안방극장을 사로잡은 배우 주상욱과 &lsquo;첫사랑의 아이콘&rsquo; 채정안이 출연해 거침없는 입담을 뽐낸다.화제의 드라마 &lsquo;김부장&rsquo;에서 역대급 
+- 2026-09-27 · [‘800평 자택’ 노주현, 세컨하우스는 ‘보증금 11억’ 실버타운 (‘사미자’)](https://isplus.com/article/view/isp202609270017)
+  · 배우 노주현이 세컨하우스로 이용 중인 고급 실버타운 내부가 공개됐다. 최근 배우 사미자의 유튜브 채널 &lsquo;사미자말고 오미자&rsquo;에는 &lsquo;60억 집 팔고 선택한 마지막 집&rsquo;이라는 제목의 영상이 게재됐다.영상에서 사미자 부부는 프리미엄 시니어 레지던스(실버타운) 투어에 나섰다. 부부가 방문
+- 2026-09-27 · [아이딧, 추석맞이 ‘디지털 디톡스’ 이걸 해내네…템플스테이로 얻은 힐링](https://isplus.com/article/view/isp202609270015)
+  · 그룹 아이딧이 추석을 맞아 휴대폰을 내려놓고 힐링으로 가득한 하루를 보냈다. 템플스테이를 경험하며 평소에는 나누지 못했던 진솔한 대화를 통해 독보적인 팀워크를 다시 한 번 확인했다.아이딧(장용훈, 김민재, 박원빈, 추유찬, 박성현, 백준혁, 정세민)은 추석 당일 공식 유튜브 채널을 통해 묘적사를 찾아 템플스테이를 체험하는
+- 2026-09-27 · [‘PD♥’ 임예진 “시댁 안 간지 7~8년, 밥상 차리면 남자만 먹어” (동치미)](https://isplus.com/article/view/isp202609270014)
+  · 배우 임예진이 집안 문화 차이로 명절에도 시댁에 가지 않는다고 밝혔다.26일 방송된 MBN &lsquo;속풀이쇼 동치미&rsquo;는 추석 특집으로 꾸며져 명절 때 겪은 경험들을 이야기했다.이날 출연한 임예진은 &ldquo;저는 시댁에 가족이 많은데 결혼하고 7~8년 정도는 다니고 그 다음부터는 안 내려갔다. 좀 멀다&r
+- 2026-09-27 · [정준하, ‘무한도전’ 최코디 딸 대학 등록금 책임진다 “내가 해줄게”](https://isplus.com/article/view/isp202609270013)
+  · 방송인 겸 사업가 정준하가 과거 자신의 매니저에게 딸의 대학 등록금을 책임지겠다고 약속했다.지난 26일 유튜브 채널 &lsquo;하와수&rsquo;에는 &lsquo;추석 특집! 최코디 & 정실장에게 은혜 갚고 왔습니다&rsquo;라는 제목의 영상이 공개됐다.이날 정준하와 박명수는 MBC &lsquo;무한도전&rsquo; 
 
 ### 신호
 
 **r/indieheads** (25건)
-- 2026-09-25 · [[FRESH] Knats - Carpet Doctor (Squid Remix)](https://www.reddit.com/r/indieheads/comments/1wq8747/fresh_knats_carpet_doctor_squid_remix/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/astaireboy"> /u/astaireboy </a> <br/> <span><a href="https://open.qobuz.com/track/454409724">[link]</a></span> &#32; <
-- 2026-09-25 · [[FRESH] Isobel - Carmen](https://www.reddit.com/r/indieheads/comments/1wq7se3/fresh_isobel_carmen/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wq7se3/fresh_isobel_carmen/"> <img src="https://external-preview.redd.it/fT2GZISIh8Gyk6QZftAQYTnQCLhD0cNlEHg
-- 2026-09-25 · [[FRESH ALBUM] Ian Noe - Canyon Falls Trailer Band](https://www.reddit.com/r/indieheads/comments/1wq75az/fresh_album_ian_noe_canyon_falls_trailer_band/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wq75az/fresh_album_ian_noe_canyon_falls_trailer_band/"> <img src="https://external-preview.redd.it/4KY296EuO
-- 2026-09-25 · [Under The K Bridge Presents The Prodigy, Brutalismus 3000, Sextile, Lip Critic show canceled. Sextile & Lip Critic playing late show at Saint Vitus tonight.](https://www.reddit.com/r/indieheads/comments/1wq6egm/under_the_k_bridge_presents_the_prodigy/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/carlore8"> /u/carlore8 </a> <br/> <span><a href="https://www.instagram.com/p/DduNt2sjAxb/?stkn=N28xa3k5NHg0ZW1n">[link
-- 2026-09-25 · [[AMA ANNOUNCEMENT] Gilla Band on Monday, September 28 at 3pm ET/8pm BST](https://www.reddit.com/r/indieheads/comments/1wq6967/ama_announcement_gilla_band_on_monday_september/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wq6967/ama_announcement_gilla_band_on_monday_september/"> <img src="https://external-preview.redd.it/Z2sBYmD
-- 2026-09-25 · [Oasis once failed to win over America. Now they’re filling stadiums – what changed?](https://www.reddit.com/r/indieheads/comments/1wq5k9i/oasis_once_failed_to_win_over_america_now_theyre/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wq5k9i/oasis_once_failed_to_win_over_america_now_theyre/"> <img src="https://external-preview.redd.it/rcst61
-- 2026-09-25 · [Paste: The 50 best songs of the 2020s so far](https://www.reddit.com/r/indieheads/comments/1wq42qf/paste_the_50_best_songs_of_the_2020s_so_far/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wq42qf/paste_the_50_best_songs_of_the_2020s_so_far/"> <img src="https://external-preview.redd.it/s3FFs3-EgXs
-- 2026-09-25 · [[FRESH ALBUM] Deady - HUNKA JUNK](https://www.reddit.com/r/indieheads/comments/1wq3ugj/fresh_album_deady_hunka_junk/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wq3ugj/fresh_album_deady_hunka_junk/"> <img src="https://external-preview.redd.it/lEdcetAYkgILRDjRa50gcBcXYf
-- 2026-09-25 · [[FRESH ALBUM] Butch Kassidy - ANNA](https://www.reddit.com/r/indieheads/comments/1wq3euj/fresh_album_butch_kassidy_anna/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wq3euj/fresh_album_butch_kassidy_anna/"> <img src="https://external-preview.redd.it/Jq-EqjINRvdDZICOaaXTrJsM
-- 2026-09-25 · [[FRESH ALBUM] moss - moss](https://www.reddit.com/r/indieheads/comments/1wq3ea0/fresh_album_moss_moss/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wq3ea0/fresh_album_moss_moss/"> <img src="https://external-preview.redd.it/Eku8nn-jRsQj8vDA69k3xUo9Me2tQVHok
-- 2026-09-25 · [[FRESH ALBUM] Dogviolet - Wilting](https://www.reddit.com/r/indieheads/comments/1wq3dqc/fresh_album_dogviolet_wilting/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wq3dqc/fresh_album_dogviolet_wilting/"> <img src="https://external-preview.redd.it/736jvd9G2fSIFrEYMRKvhYwCo
-- 2026-09-25 · [[FRESH ALBUM] Rorcal - Mahre](https://www.reddit.com/r/indieheads/comments/1wq3ctf/fresh_album_rorcal_mahre/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wq3ctf/fresh_album_rorcal_mahre/"> <img src="https://external-preview.redd.it/oi2exwGEZSc0wlOnTIsEKaIgP1iYsh
+- 2026-09-27 · [[FRESH CHART] New Alternative 40 - September 27, 2026 - PHOEBE BRIDGERS lands an 8th solo #1 with "On Video". QUEENS OF THE STONE AGE, CHVRCHES, REX ORANGE COUNTY, JULIA JACKLIN, BLONDSHELL, and REMI WOLF also debut in the top 20.](https://www.reddit.com/r/indieheads/comments/1wr63s5/fresh_chart_new_alternative_40_september_27_2026/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wr63s5/fresh_chart_new_alternative_40_september_27_2026/"> <img src="https://preview.redd.it/yrtvspznjyrh1.p
+- 2026-09-26 · [[FRESH ALBUM] The Palm Sunday Band Organ - Palm Sunday](https://www.reddit.com/r/indieheads/comments/1wr04lk/fresh_album_the_palm_sunday_band_organ_palm_sunday/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wr04lk/fresh_album_the_palm_sunday_band_organ_palm_sunday/"> <img src="https://external-preview.redd.it/qVUJ
+- 2026-09-26 · [[FRESH] Hail - candy/mind lust](https://www.reddit.com/r/indieheads/comments/1wqxyx1/fresh_hail_candymind_lust/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wqxyx1/fresh_hail_candymind_lust/"> <img src="https://external-preview.redd.it/y9qOkEazjwLy0Q8xx6DPDSznxRsqp
+- 2026-09-26 · [Chuck Varga Dead: Founding Singer Of Shock Rock Metal Band GWAR Was 68](https://www.reddit.com/r/indieheads/comments/1wqwo2o/chuck_varga_dead_founding_singer_of_shock_rock/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wqwo2o/chuck_varga_dead_founding_singer_of_shock_rock/"> <img src="https://external-preview.redd.it/U7EGjy5N
+- 2026-09-26 · [[FRESH] Allie Kenny - Autumn Tomorrow](https://www.reddit.com/r/indieheads/comments/1wqw3y5/fresh_allie_kenny_autumn_tomorrow/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wqw3y5/fresh_allie_kenny_autumn_tomorrow/"> <img src="https://external-preview.redd.it/6ujMmZSRuTgGMsyieVhbU
+- 2026-09-26 · [[Saturday] General Discussion - 26 September 2026](https://www.reddit.com/r/indieheads/comments/1wqvkye/saturday_general_discussion_26_september_2026/)
+  · <!-- SC_OFF --><div class="md"><p><strong>Talk about anything, music related or not!</strong> Or if you want to discuss music, check out the <a href="https://www.reddit.com/r/indie
+- 2026-09-26 · [[FRESH VIDEO] Andy Burns - RIVER OF SALT](https://www.reddit.com/r/indieheads/comments/1wqv1fl/fresh_video_andy_burns_river_of_salt/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wqv1fl/fresh_video_andy_burns_river_of_salt/"> <img src="https://external-preview.redd.it/hhGmlEgln3fg5lur-_
+- 2026-09-26 · [[Saturday] Daily Music Discussion - 26 September 2026](https://www.reddit.com/r/indieheads/comments/1wqsoid/saturday_daily_music_discussion_26_september_2026/)
+  · <!-- SC_OFF --><div class="md"><p><strong>Talk about anything music related that doesn&#39;t need its own thread.</strong> This thread is not for discussion that is tangentially mu
+- 2026-09-26 · [[FRESH ALBUM] Hill View #73 - Flame Dreams](https://www.reddit.com/r/indieheads/comments/1wqrviw/fresh_album_hill_view_73_flame_dreams/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wqrviw/fresh_album_hill_view_73_flame_dreams/"> <img src="https://external-preview.redd.it/mjAzsgII52KbR1UGn
+- 2026-09-26 · [[FRESH] Lexie Carroll - stevie](https://www.reddit.com/r/indieheads/comments/1wqr83a/fresh_lexie_carroll_stevie/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wqr83a/fresh_lexie_carroll_stevie/"> <img src="https://external-preview.redd.it/1qBd6HCor9tkwkhkUnRMneT13pFO
+- 2026-09-26 · [[FRESH ALBUM] Chelsea Cutler - IS THIS THE END?](https://www.reddit.com/r/indieheads/comments/1wqqyb0/fresh_album_chelsea_cutler_is_this_the_end/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wqqyb0/fresh_album_chelsea_cutler_is_this_the_end/"> <img src="https://external-preview.redd.it/eA384aViNS6n
+- 2026-09-26 · [[FRESH] Taylor Acorn - Growing Pains](https://www.reddit.com/r/indieheads/comments/1wqqotn/fresh_taylor_acorn_growing_pains/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1wqqotn/fresh_taylor_acorn_growing_pains/"> <img src="https://external-preview.redd.it/vqfl9a-yNyPtIQ9riwuoKx
+
+**r/hiphopheads** (25건)
+- 2026-09-26 · [Daddex - Can't Complain](https://www.reddit.com/r/hiphopheads/comments/1wr2wvy/daddex_cant_complain/)
+  · <!-- SC_OFF --><div class="md"><p>Nothing quite like sparking a J and listening to some prime Daddex. Takes me back </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="http
+- 2026-09-26 · [Q-Tip - Gettin' Up](https://www.reddit.com/r/hiphopheads/comments/1wr1pg0/qtip_gettin_up/)
+  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/mkk4"> /u/mkk4 </a> <br/> <span><a href="https://m.youtube.com/watch?v=rFwooCkbTxo">[link]</a></span> &#32; <span><a h
+- 2026-09-26 · [[FRESH ALBUM] al.divino - ITS ALOT GOING ON](https://www.reddit.com/r/hiphopheads/comments/1wr1ewu/fresh_album_aldivino_its_alot_going_on/)
+  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/GimmieThat"> /u/GimmieThat </a> <br/> <span><a href="https://www.youtube.com/watch?v=sI8EZg6GFoE">[link]</a></span> &#
+- 2026-09-26 · [[FRESH ALBUM] al.divino - ICHIBAN VINO VOL. 1000](https://www.reddit.com/r/hiphopheads/comments/1wr1dwv/fresh_album_aldivino_ichiban_vino_vol_1000/)
+  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/GimmieThat"> /u/GimmieThat </a> <br/> <span><a href="https://www.youtube.com/watch?v=NX7MPL1YDX4">[link]</a></span> &#
+- 2026-09-26 · [[FRESH ALBUM] al.divino - SHARK WRESTLING IN SHIBUYA](https://www.reddit.com/r/hiphopheads/comments/1wr1bfs/fresh_album_aldivino_shark_wrestling_in_shibuya/)
+  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/GimmieThat"> /u/GimmieThat </a> <br/> <span><a href="https://www.youtube.com/watch?v=jSjUfj4fuew">[link]</a></span> &#
+- 2026-09-26 · [CL Smooth: Noochie's Live From The Front Porch](https://www.reddit.com/r/hiphopheads/comments/1wqz7ue/cl_smooth_noochies_live_from_the_front_porch/)
+  · <!-- SC_OFF --><div class="md"><p>Fire performance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hungry-Piglet-2273"> /u/Hungry-Piglet-227
+- 2026-09-26 · [Ludacris - Grew Up A Screw Up ft. Young Jeezy](https://www.reddit.com/r/hiphopheads/comments/1wqve1n/ludacris_grew_up_a_screw_up_ft_young_jeezy/)
+  · <!-- SC_OFF --><div class="md"><p>Produced by DJ Nasty &amp; LVM (2006)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EminemEncore2004"> /u
+- 2026-09-26 · [Kanye West Joins Chris Brown and Usher for Surprise Performance in Los Angeles](https://www.reddit.com/r/hiphopheads/comments/1wqtof6/kanye_west_joins_chris_brown_and_usher_for/)
+  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/kanyefan_24"> /u/kanyefan_24 </a> <br/> <span><a href="https://apple.news/AtaF0cDLQTCK7_kP8CaqzBQ">[link]</a></span> &
+- 2026-09-26 · [Heavy D & The Boyz (Biggie, Busta Rhymes, Guru, Rob-O, Third Eye) - Buncha Niggas](https://www.reddit.com/r/hiphopheads/comments/1wqt7b4/heavy_d_the_boyz_biggie_busta_rhymes_guru_robo/)
+  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/AmericansSukAtVoting"> /u/AmericansSukAtVoting </a> <br/> <span><a href="https://youtu.be/iVNX7Z0CLb8">[link]</a></spa
+- 2026-09-26 · [Fetty P Franklin - FLOURISH](https://www.reddit.com/r/hiphopheads/comments/1wqrody/fetty_p_franklin_flourish/)
+  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/bigjaymizzle"> /u/bigjaymizzle </a> <br/> <span><a href="https://youtu.be/rW0FXeKTXhQ?is=oZbqCzkNkX8CbfPK">[link]</a><
+- 2026-09-26 · [Peewee Longway - Sleeping On A Kilo feat. Offset](https://www.reddit.com/r/hiphopheads/comments/1wqn828/peewee_longway_sleeping_on_a_kilo_feat_offset/)
+  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/lovingkindness301"> /u/lovingkindness301 </a> <br/> <span><a href="https://youtu.be/s2xby1vdLUA?si=-6AyJWhCP4y103D3">[
+- 2026-09-26 · [Evidence - LetYourselfGo (feat. The Alchemist & Phonte) (2007)](https://www.reddit.com/r/hiphopheads/comments/1wqn4c0/evidence_letyourselfgo_feat_the_alchemist_phonte/)
+  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/mesablanka"> /u/mesablanka </a> <br/> <span><a href="https://youtu.be/b_nNIjDBsuk?si=FbR4AtlACZTfA60N">[link]</a></spa
