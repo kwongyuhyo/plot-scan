@@ -1,7 +1,7 @@
 {
   "_comment": "발굴 풀 — promote.js가 자동 관리. 차트에서 급등/신규 진입했는데 코어·커버리지 어디에도 없는 아티스트. 밀도 지표 계산에는 절대 넣지 않는다. 관찰하다 확실해지면 사람이 watchlist-coverage.json으로 옮긴다.",
-  "updated": "2026-09-27",
-  "count": 112,
+  "updated": "2026-09-28",
+  "count": 113,
   "artists": [
     {
       "name": "HEEDAE",
@@ -40,9 +40,9 @@
       "eng": "",
       "spotifyId": "1rp5HzWaNwgauM5W5YmZ3U",
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
       "bestRank": 14,
-      "hits": 16,
+      "hits": 17,
       "note": "자동 승격 — spotify 148위 +24"
     },
     {
@@ -100,9 +100,9 @@
       "eng": "",
       "spotifyId": "30b9WulBM8sFuBo17nNq9c",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-28",
       "bestRank": 79,
-      "hits": 9,
+      "hits": 10,
       "note": "자동 승격 — spotify 85위 +19"
     },
     {
@@ -130,9 +130,9 @@
       "eng": "",
       "spotifyId": "1ZLU77nRzQIaP23mVSYpCQ",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-28",
       "bestRank": 20,
-      "hits": 19,
+      "hits": 20,
       "note": "자동 승격 — spotify 92위 +44"
     },
     {
@@ -220,9 +220,9 @@
       "eng": "",
       "spotifyId": "0JGN9XIqm3vfg7hhPHjExI",
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
       "bestRank": 100,
-      "hits": 7,
+      "hits": 8,
       "note": "자동 승격 — spotify 183위 +17"
     },
     {
@@ -330,9 +330,9 @@
       "eng": "",
       "spotifyId": "36cgvBn0aadzOijnjjwqMN",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-28",
       "bestRank": 59,
-      "hits": 9,
+      "hits": 10,
       "note": "자동 승격 — spotify 59위 +18"
     },
     {
@@ -550,9 +550,9 @@
       "eng": "",
       "spotifyId": "4qRXrzUmdy3p33lgvJEzdv",
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-28",
       "bestRank": 84,
-      "hits": 8,
+      "hits": 9,
       "note": "자동 승격 — spotify 157위 +19"
     },
     {
@@ -620,9 +620,9 @@
       "eng": "",
       "spotifyId": "1SsVqqC31h54Hg08g7uQhM",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-28",
       "bestRank": 115,
-      "hits": 9,
+      "hits": 10,
       "note": "자동 승격 — spotify 137위 +35"
     },
     {
@@ -640,9 +640,9 @@
       "eng": "",
       "spotifyId": "0k2zyzGq6HX383VlMBOvRG",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
       "bestRank": 74,
-      "hits": 9,
+      "hits": 10,
       "note": "자동 승격 — spotify 132위 +35"
     },
     {
@@ -930,9 +930,9 @@
       "eng": "",
       "spotifyId": "4C3iHuAHTUbOigoE9lmhdx",
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-16",
-      "bestRank": 103,
-      "hits": 3,
+      "lastSeen": "2026-09-28",
+      "bestRank": 88,
+      "hits": 4,
       "note": "자동 승격 — spotify 157위 +25"
     },
     {
@@ -1124,6 +1124,16 @@
       "bestRank": 90,
       "hits": 1,
       "note": "자동 승격 — spotify 90위 +18"
+    },
+    {
+      "name": "Sondia",
+      "eng": "",
+      "spotifyId": "18VQ59noY7aOj59UNMozHp",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "bestRank": 169,
+      "hits": 1,
+      "note": "자동 승격 — spotify 169위 +16"
     }
   ]
 }
