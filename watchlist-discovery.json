@@ -1,7 +1,7 @@
 {
   "_comment": "발굴 풀 — promote.js가 자동 관리. 차트에서 급등/신규 진입했는데 코어·커버리지 어디에도 없는 아티스트. 밀도 지표 계산에는 절대 넣지 않는다. 관찰하다 확실해지면 사람이 watchlist-coverage.json으로 옮긴다.",
-  "updated": "2026-10-22",
-  "count": 135,
+  "updated": "2026-10-23",
+  "count": 137,
   "artists": [
     {
       "name": "HEEDAE",
@@ -60,9 +60,9 @@
       "eng": "",
       "spotifyId": "7bmYpVgQub656uNTu6qGNQ",
       "firstSeen": "2026-08-02",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 8,
-      "hits": 22,
+      "hits": 23,
       "note": "자동 승격 — spotify 96위 +15"
     },
     {
@@ -131,9 +131,9 @@
       "eng": "",
       "spotifyId": "1ZLU77nRzQIaP23mVSYpCQ",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 11,
-      "hits": 31,
+      "hits": 32,
       "note": "자동 승격 — spotify 92위 +44"
     },
     {
@@ -183,9 +183,9 @@
       "eng": "",
       "spotifyId": "2dd5mrQZvg6SmahdgVKDzh",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-23",
       "bestRank": 59,
-      "hits": 15,
+      "hits": 16,
       "note": "자동 승격 — spotify 171위 +27"
     },
     {
@@ -215,9 +215,9 @@
       "eng": "",
       "spotifyId": "1Xyo4u8uXC1ZmMpatF05PJ",
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-23",
       "bestRank": 27,
-      "hits": 13,
+      "hits": 14,
       "note": "자동 승격 — spotify 146위 +15"
     },
     {
@@ -245,9 +245,9 @@
       "eng": "",
       "spotifyId": "5deOsjuFTKrNMJW3rKuL8S",
       "firstSeen": "2026-08-05",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 3,
-      "hits": 14,
+      "hits": 15,
       "note": "자동 승격 — spotify 64위 +15"
     },
     {
@@ -336,9 +336,9 @@
       "eng": "",
       "spotifyId": "36cgvBn0aadzOijnjjwqMN",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 13,
-      "hits": 20,
+      "hits": 21,
       "note": "자동 승격 — spotify 59위 +18"
     },
     {
@@ -397,9 +397,9 @@
       "eng": "",
       "spotifyId": "",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-10-23",
       "bestRank": 19,
-      "hits": 5,
+      "hits": 6,
       "note": "자동 승격 — youtube 19위 NEW"
     },
     {
@@ -651,9 +651,9 @@
       "eng": "",
       "spotifyId": "0k2zyzGq6HX383VlMBOvRG",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 11,
-      "hits": 31,
+      "hits": 32,
       "note": "자동 승격 — spotify 132위 +35"
     },
     {
@@ -671,9 +671,9 @@
       "eng": "",
       "spotifyId": "5t5FqBwTcgKTaWmfEbwQY9",
       "firstSeen": "2026-08-23",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-23",
       "bestRank": 43,
-      "hits": 3,
+      "hits": 4,
       "note": "자동 승격 — spotify 43위 NEW"
     },
     {
@@ -684,7 +684,8 @@
       "lastSeen": "2026-08-23",
       "bestRank": 18,
       "hits": 1,
-      "note": "자동 승격 — youtube 18위 NEW"
+      "note": "자동 승격 — youtube 18위 NEW",
+      "dormant": true
     },
     {
       "name": "The Kid LAROI",
@@ -741,9 +742,9 @@
       "eng": "",
       "spotifyId": "1snhtMLeb2DYoMOcVbb8iB",
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-23",
       "bestRank": 91,
-      "hits": 4,
+      "hits": 5,
       "note": "자동 승격 — spotify 91위 +20"
     },
     {
@@ -831,9 +832,9 @@
       "eng": "",
       "spotifyId": "7l8rOFwZFQ3G0sgZ7gjGng",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-10-20",
+      "lastSeen": "2026-10-23",
       "bestRank": 72,
-      "hits": 8,
+      "hits": 9,
       "note": "자동 승격 — spotify 145위 +31"
     },
     {
@@ -911,9 +912,9 @@
       "eng": "",
       "spotifyId": "1YBOO3E40cq9VVNUHeQGDm",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-23",
       "bestRank": 88,
-      "hits": 10,
+      "hits": 11,
       "note": "자동 승격 — spotify 153위 +16"
     },
     {
@@ -931,9 +932,9 @@
       "eng": "",
       "spotifyId": "",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 1,
-      "hits": 10,
+      "hits": 11,
       "note": "자동 승격 — youtube 17위 NEW"
     },
     {
@@ -951,9 +952,9 @@
       "eng": "",
       "spotifyId": "7oefVAcL2YuRdata5VCUzf",
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-10",
-      "bestRank": 158,
-      "hits": 1,
+      "lastSeen": "2026-10-23",
+      "bestRank": 119,
+      "hits": 2,
       "note": "자동 승격 — spotify 158위 +29"
     },
     {
@@ -1011,9 +1012,9 @@
       "eng": "",
       "spotifyId": "",
       "firstSeen": "2026-09-12",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 2,
-      "hits": 11,
+      "hits": 12,
       "note": "자동 승격 — youtube 2위 NEW"
     },
     {
@@ -1061,9 +1062,9 @@
       "eng": "",
       "spotifyId": "",
       "firstSeen": "2026-09-16",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 10,
-      "hits": 9,
+      "hits": 10,
       "note": "자동 승격 — youtube 11위 NEW"
     },
     {
@@ -1111,9 +1112,9 @@
       "eng": "",
       "spotifyId": "",
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 13,
-      "hits": 11,
+      "hits": 12,
       "note": "자동 승격 — youtube 20위 NEW"
     },
     {
@@ -1131,9 +1132,9 @@
       "eng": "",
       "spotifyId": "6USv9qhCn6zfxlBQIYJ9qs",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-23",
       "bestRank": 90,
-      "hits": 3,
+      "hits": 4,
       "note": "자동 승격 — spotify 90위 +18"
     },
     {
@@ -1171,9 +1172,9 @@
       "eng": "",
       "spotifyId": "4gEMn0YPOdotLOygnk0Ng2",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 2,
-      "hits": 13,
+      "hits": 14,
       "note": "자동 승격 — spotify 87위 NEW"
     },
     {
@@ -1211,9 +1212,9 @@
       "eng": "",
       "spotifyId": "6EB5QC7lGAu7bSuWQ416d4",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-23",
       "bestRank": 69,
-      "hits": 6,
+      "hits": 7,
       "note": "자동 승격 — spotify 162위 +34"
     },
     {
@@ -1251,9 +1252,9 @@
       "eng": "",
       "spotifyId": "4FqmqIspLaUGtxAFFLsZxc",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 12,
-      "hits": 6,
+      "hits": 7,
       "note": "자동 승격 — spotify 36위 NEW"
     },
     {
@@ -1281,9 +1282,9 @@
       "eng": "",
       "spotifyId": "7rBQch7KtqQNQjV5AxdHlE",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 4,
-      "hits": 7,
+      "hits": 8,
       "note": "자동 승격 — spotify 14위 NEW"
     },
     {
@@ -1291,9 +1292,9 @@
       "eng": "",
       "spotifyId": "",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 2,
-      "hits": 8,
+      "hits": 9,
       "note": "자동 승격 — youtube 2위 NEW"
     },
     {
@@ -1301,9 +1302,9 @@
       "eng": "",
       "spotifyId": "",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 12,
-      "hits": 8,
+      "hits": 9,
       "note": "자동 승격 — youtube 12위 NEW"
     },
     {
@@ -1311,9 +1312,9 @@
       "eng": "",
       "spotifyId": "08hHTBHlv0WRXWlyrsb6Kv",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-22",
+      "lastSeen": "2026-10-23",
       "bestRank": 7,
-      "hits": 6,
+      "hits": 7,
       "note": "자동 승격 — spotify 101위 +44"
     },
     {
@@ -1365,6 +1366,26 @@
       "bestRank": 58,
       "hits": 1,
       "note": "자동 승격 — spotify 58위 NEW"
+    },
+    {
+      "name": "Crush",
+      "eng": "",
+      "spotifyId": "6aLdhHUqgdKE86xbtNmY8g",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "bestRank": 80,
+      "hits": 1,
+      "note": "자동 승격 — spotify 80위 NEW"
+    },
+    {
+      "name": "O.WHEN",
+      "eng": "",
+      "spotifyId": "7f5OHScUwC0ZKZzma5mMxq",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "bestRank": 93,
+      "hits": 1,
+      "note": "자동 승격 — spotify 93위 NEW"
     }
   ]
 }
