@@ -1,17 +1,18 @@
-# PLOT 피드 수집 — 2026-11-02
+# PLOT 피드 수집 — 2026-11-03
 
 > GitHub Actions가 수집. 브리프는 이 파일을 읽는다(RSS 직접 페치 불가 우회).
 > 트랙 표기는 `셀렉션-기준-정본.md` 의 T1/T2 슬롯과 대응한다.
 
-## ⚠️ 수집 실패 15건
-- `starnews` (rss) — fetch failed
+## ⚠️ 수집 실패 16건
+- `reddit_hiphopheads` (rss) — HTTP 429
 - `khan_music` (rss) — HTTP 403
 - `khan_ent` (rss) — HTTP 403
 - `yt_waterbomb` (rss) — HTTP 404
-- `yt_pentaport` (rss) — HTTP 404
+- `yt_pentaport` (rss) — HTTP 500
 - `yt_gmf` (rss) — HTTP 404
 - `yt_mintpaper` (rss) — HTTP 404
 - `yt_busanrock` (rss) — HTTP 404
+- `hiphople` (titles) — HTTP 403
 - `hiphopplaya` (titles) — HTTP 429
 - `eyesmag` (titles) — HTTP 404
 - `glowupmag` (titles) — 제목 0건 — 셀렉터 확인 필요
@@ -22,12 +23,8 @@
 
 ## 국내 매체 신규 (제목 diff)
 
-### 힙합엘이 · T2-발견 — 신규 0 / 전체 7
+### IZM · T2-발견 — 신규 0 / 전체 12
 _전일 대비 신규 없음_
-
-### IZM · T2-발견 — 신규 2 / 전체 12
-- Day And Night 칼리 래 젭슨 (Carly Rae Jepsen) by 한성현
-- No Bad Memories 애벌랜치스 (The Avalanches) by 박승민
 
 ### EBS 스페이스 공감 · T2-발견 — 신규 0 / 전체 40
 _전일 대비 신규 없음_
@@ -36,188 +33,236 @@ _전일 대비 신규 없음_
 
 ### T2-발견
 
-**Pitchfork 리뷰** (2건)
+**Pitchfork 리뷰** (5건)
+- 2026-11-02 · [Late Loop](https://pitchfork.com/reviews/albums/andy-stott-late-loop/)
+  · Featuring heartbroken vocal performances and stripped of frills like basslines or reverb, the Manchester producer’s latest album of bruised electronica is his starkest and most for
+- 2026-11-02 · [The Girl of Your Dreams](https://pitchfork.com/reviews/albums/ashe-the-girl-of-your-dreams/)
+  · The “Stop the Wedding!” singer’s vintage-styled new album combines stately pop classicism and exuberant ’70s pastiche.
+- 2026-11-02 · [Passing the Cup of Sorrows](https://pitchfork.com/reviews/albums/william-basinski-passing-the-cup-of-sorrows/)
+  · The Disintegration Loops made the composer’s name synonymous with weighty meditations on memory and loss, but his latest album—calm, focused, tender—is a reminder of his fondness f
+- 2026-11-02 · [Everything in Readiness](https://pitchfork.com/reviews/albums/shovel-dance-collective-everything-in-readiness/)
+  · Marrying lush arrangements and field-recording experiments, the English revivalists honor folk music’s radical tradition by reinforcing its contemporary significance.
 - 2026-11-01 · [Katamari Fortissimo Damacy](https://pitchfork.com/reviews/albums/various-artists-katamari-fortissimo-damacy/)
   · Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we reconnect with a 2004 cult-classic gam
-- 2026-10-31 · [Drukqs (25th Anniversary Edition)](https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/)
-  · Richard D. James’ once divisive 2001 album today looks, with 25 years of hindsight, like the keystone of his career, joining rave mischief and academic rigor in a sprawling, 100-mi
 
-**Bandcamp Daily** (0건)
-_최근 3일 내 항목 없음_
+**Bandcamp Daily** (4건)
+- 2026-11-02 · [GDP Had to Disappear to Find Himself](https://daily.bandcamp.com/features/gdp-rapper-run-for-cover-interview)
+  · Nearly a decade after walking away from rap, the New Jersey underground lifer has returned with a hard-won new perspective on music, ambition, and the cost of creative freedom. Rea
+- 2026-11-02 · [Various Artists, “A La Altura: Visionary Mexican Music 1977–1999, Volume 1”](https://daily.bandcamp.com/album-of-the-day/various-artists-a-la-altura-visionary-mexican-music-1977-1999-volume-1-review)
+  · A compilation of late 20th-century Mexican experimental music features ambient and New Age ruminations that sprawl with celestial curiosity. Read full story on the Bandcamp Daily .
+- 2026-11-02 · [The Best Punk on Bandcamp, October 2026](https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-october-2026)
+  · Our guide to the month’s crucial punk releases. Read full story on the Bandcamp Daily .
+- 2026-11-02 · [The Best Hip-Hop on Bandcamp, October 2026](https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-october-2026)
+  · Our guide to the month’s crucial rap LPs. Read full story on the Bandcamp Daily .
 
-**Stereogum** (6건)
-- 2026-11-01 · [Gracie Abrams (And David S. Pumpkins) Returns To SNL](https://stereogum.com/2516238/gracie-abrams-and-david-s-pumpkins-returns-to-snl/news/)
-  · The post Gracie Abrams (And David S. Pumpkins) Returns To SNL appeared first on Stereogum .
-- 2026-11-01 · [Billy Strings Plays He-Man-Themed Set Dressed As He-Man](https://stereogum.com/2516231/billy-strings-plays-he-man-themed-set-dressed-as-he-man/news/)
-  · The post Billy Strings Plays He-Man-Themed Set Dressed As He-Man appeared first on Stereogum .
-- 2026-11-01 · [Harry Styles Wraps Up MSG Residency With Pizza Rat Costume, “Psycho Killer” Cover, Jalen Brunson](https://stereogum.com/2516224/harry-styles-wraps-up-msg-residency-with-pizza-rat-costume-psycho-killer-cover-jalen-brunson/news/)
-  · The post Harry Styles Wraps Up MSG Residency With Pizza Rat Costume, “Psycho Killer” Cover, Jalen Brunson appeared first on Stereogum .
-- 2026-10-31 · [Snooper – “Orange Exposure”](https://stereogum.com/2516216/snooper-orange-exposure/music/)
-  · The post Snooper – “Orange Exposure” appeared first on Stereogum .
-- 2026-10-31 · [My Chemical Romance Bring Out Bert McCracken, Confirm Plans For New Album](https://stereogum.com/2516212/my-chemical-romance-bring-out-bert-mccracken-confirm-plans-for-new-album/news/)
-  · The post My Chemical Romance Bring Out Bert McCracken, Confirm Plans For New Album appeared first on Stereogum .
-- 2026-10-31 · [James Hetfield Says Turnstile Turned Down Metallica Tour](https://stereogum.com/2516208/james-hetfield-says-turnstile-turned-down-metallica-tour/news/)
-  · The post James Hetfield Says Turnstile Turned Down Metallica Tour appeared first on Stereogum .
+**Stereogum** (20건)
+- 2026-11-02 · [Justin Timberlake Prepping Four-Part “Tell-All” Docuseries Featuring Janet Jackson](https://stereogum.com/2516399/justin-timberlake-prepping-four-part-tell-all-docuseries-featuring-janet-jackson/news/)
+  · The post Justin Timberlake Prepping Four-Part “Tell-All” Docuseries Featuring Janet Jackson appeared first on Stereogum .
+- 2026-11-02 · [Chastity Belt – “Friends For This”](https://stereogum.com/2516394/chastity-belt-friends-for-this/music/)
+  · The post Chastity Belt – “Friends For This” appeared first on Stereogum .
+- 2026-11-02 · [Kennedy Center 2026 Honorees Include Paul Anka, Barbara Mandrell, David Foster](https://stereogum.com/2516347/kennedy-center-2026-honorees-include-paul-anka-barbara-mandrell-david-foster/news/)
+  · The post Kennedy Center 2026 Honorees Include Paul Anka, Barbara Mandrell, David Foster appeared first on Stereogum .
+- 2026-11-02 · [Listen To Maiya Blaney’s Understated Mary Bed EP](https://stereogum.com/2516313/listen-to-maiya-blaneys-understated-mary-bed-ep/music/)
+  · The post Listen To Maiya Blaney’s Understated <em>Mary Bed</em> EP appeared first on Stereogum .
+- 2026-11-02 · [Joshua Idehen – “Say Less”](https://stereogum.com/2516336/joshua-idehen-say-less/music/)
+  · The post Joshua Idehen – “Say Less” appeared first on Stereogum .
+- 2026-11-02 · [Band To Watch: RIP Magic](https://stereogum.com/2516252/band-to-watch-rip-magic/interviews/band-to-watch/)
+  · The post Band To Watch: RIP Magic appeared first on Stereogum .
+- 2026-11-02 · [Computerwife – “Hammered”](https://stereogum.com/2516335/computerwife-hammered-born-from-a-wish/music/)
+  · The post Computerwife – “Hammered” appeared first on Stereogum .
+- 2026-11-02 · [Oso Oso – “the facts”](https://stereogum.com/2516332/oso-oso-the-facts/music/)
+  · The post Oso Oso – “the facts” appeared first on Stereogum .
+- 2026-11-02 · [Steven Tyler Addresses Bill Burr’s Claim That Aerosmith Won’t Play More Shows](https://stereogum.com/2516327/steven-tyler-addresses-bill-burrs-claim-that-aerosmith-wont-play-more-shows/news/)
+  · The post Steven Tyler Addresses Bill Burr’s Claim That Aerosmith Won’t Play More Shows appeared first on Stereogum .
+- 2026-11-02 · [Wiki Drops New Mixtape Papiseed Street Vol. 2](https://stereogum.com/2516316/wiki-drops-new-mixtape-papiseed-street-vol-2/music/)
+  · The post Wiki Drops New Mixtape <em>Papiseed Street Vol. 2</em> appeared first on Stereogum .
+- 2026-11-02 · [smush – “john dearly”](https://stereogum.com/2516309/smush-john-dearly/news/)
+  · The post smush – “john dearly” appeared first on Stereogum .
+- 2026-11-02 · [Yaeji – “ddr”](https://stereogum.com/2516296/yaeji-ddr/music/)
+  · The post Yaeji – “ddr” appeared first on Stereogum .
 
 ### T2-선점
 
-**Music Business Worldwide** (0건)
-_최근 3일 내 항목 없음_
+**Music Business Worldwide** (7건)
+- 2026-11-02 · [FTC and four states demand jury trial in BOTS Act lawsuit against Live Nation and Ticketmaster](https://www.musicbusinessworldwide.com/ftc-and-four-states-demand-jury-trial-in-bots-act-lawsuit-against-live-nation-and-ticketmaster/)
+  · The US Federal Trade Commission and four states have demanded a jury trial in their lawsuit against Live Nation and its ticketing subsidiary, Ticketmaster. Colorado, Florida, Illin
+- 2026-11-02 · [Alphabet shareholder sues Sundar Pichai and 12 others over training Google’s AI, including Lyria, on copyrighted works](https://www.musicbusinessworldwide.com/alphabet-shareholder-sues-sundar-pichai-and-12-others-over-training-googles-ai-including-lyria-on-copyrighted-works/)
+  · Phil Rosen is suing on Alphabet's behalf in a shareholder derivative suit, meaning any damages recovered would be paid to Alphabet itself rather than to him. Source
+- 2026-11-02 · [Live Nation’s Ticketmaster brings festival ticketing subsidiary Front Gate Tickets into CashorTrade face-value resale partnership](https://www.musicbusinessworldwide.com/live-nations-ticketmaster-brings-festival-ticketing-subsidiary-front-gate-tickets-into-cashortrade-face-value-resale-partnership/)
+  · Fans who bought festival passes through Front Gate can now resell them to other fans on CashorTrade for no more than they originally paid. Source
+- 2026-11-02 · [Irving Azoff’s Music Artists Coalition joins Cate Blanchett and CAA on AI licensing brief in New York Times’ case against OpenAI](https://www.musicbusinessworldwide.com/irving-azoffs-music-artists-coalition-joins-cate-blanchett-and-caa-on-ai-licensing-brief-in-new-york-times-case-against-openai/)
+  · RIAA, NMPA, ASCAP, BMI, and five other music organizations filed a proposed brief of their own, formally backing the plaintiffs. Source
+- 2026-11-02 · [Raye, Sam Fender, Garth Brooks… and the bots. Five things to know about the AI arms race in live ticketing](https://www.musicbusinessworldwide.com/raye-sam-fender-garth-brooks-and-the-bots-five-things-to-know-about-the-ai-arms-race-in-live-ticketing/)
+  · Bots overwhelmed a presale sign-up, a ticket queue, and a ticketing site in October. Here’s how, and what lawmakers plan to do about it. Source
+- 2026-11-02 · [Pandora’s monthly user base fell by 2.75m YoY in Q3, while SiriusXM’s total revenue share and royalty costs rose to $726M](https://www.musicbusinessworldwide.com/pandoras-monthly-user-base-fell-by-2-75m-yoy-in-q3-while-siriusxms-total-revenue-share-and-royalty-costs-rose-to-726m/)
+  · Pandora’s monthly active user base shrank by 2.75 million year-over-year in the third quarter of 2026. The streaming service had 38.81 million monthly active users (MAUs) at the en
+- 2026-11-02 · [UMG, Sony, and DistroKid tell court they are ‘working on a resolution’ in dispute over AI music data for Suno case](https://www.musicbusinessworldwide.com/umg-sony-and-distrokid-tell-court-they-are-working-on-a-resolution-in-dispute-over-ai-music-data-for-suno-case/)
+  · The two majors are seeking data from DistroKid on how many of the tracks it delivers to streaming services are flagged as AI-generated. Source
 
 ### T1
 
-**Pitchfork 뉴스** (2건)
+**Pitchfork 뉴스** (7건)
+- 2026-11-02 · [New Music Releases and Upcoming Albums in 2026 and 2027](https://pitchfork.com/news/new-album-releases/)
+  · A regularly updated guide to the new albums, EPs, mixtapes, and projects getting released in the coming weeks and months
+- 2026-11-02 · [Nettspend, Gracie Abrams, Factory Floor, and More: This Week’s Pitchfork Selects Playlist](https://pitchfork.com/story/nettspend-gracie-abrams-factory-floor-pitchfork-selects-playlist-songs-of-the-week/)
+  · Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat
+- 2026-11-02 · [Trent Reznor and Atticus Ross Are Back at It (Scoring David Fincher Movies)](https://pitchfork.com/story/trent-reznor-and-atticus-ross-david-fincher-mis-adventures-of-cliff-booth/)
+  · The duo’s work on The Further Mis-Adventures of Cliff Booth will be their sixth collaboration
+- 2026-11-02 · [Yaeji Plots a Dance Dance Revolution in New Single “DDR”](https://pitchfork.com/story/yaeji-plots-a-dance-dance-revolution-in-new-ddr-video/)
+  · The singer-producer’s first song of the year is a collaboration with Enayet and K Wata
+- 2026-11-02 · [Listen to Sufjan Stevens’ New Song “On This Christmas (It Only Gets Better)”](https://pitchfork.com/story/listen-to-sufjan-stevens-new-song-on-this-christmas-it-only-gets-better/)
+  · He dug into the vault for his holiday compilation Worst Christmas Ever!
 - 2026-11-02 · [The 18 Best Musician Halloween Costumes This Year](https://pitchfork.com/story/the-17-best-musician-halloween-costumes-this-year/)
   · From Tinashe as melatonin to Wednesday as the Addams Family, here are our favorite get-ups this year
 - 2026-11-01 · [Juan Atkins, Co-Founder of Techno Music, Dies at 64](https://pitchfork.com/story/juan-atkins-co-founder-of-techno-music-dies-at-64/)
   · The Detroit producer and DJ pioneered the genre as a solo artist and member of the Belleville Three, Cybotron, and Borderland
 
-**Consequence** (13건)
-- 2026-11-01 · [Kid Rock Reveals He Used AI on New Song with Eminem](https://consequence.net/2026/11/kid-rock-reveals-he-used-ai-on-song/)
-  · The newly minted Christian music artist told Bill Maher that using AI saved time when making the song. Kid Rock Reveals He Used AI on New Song with Eminem Travis Bland
-- 2026-11-01 · [Wu-Tang Clan to Headline Halftime Show of Detroit Lions’ Thanksgiving Day Game](https://consequence.net/2026/11/wu-tang-clan-thanksgiving-day-lions-halftime-show/)
-  · The halftime show is being executive produced by Eminem. Wu-Tang Clan to Headline Halftime Show of Detroit Lions’ Thanksgiving Day Game Alex Young
-- 2026-11-01 · [Harry Styles Covers “Psycho Killer” on Final Night of MSG Residency](https://consequence.net/2026/11/harry-styles-covers-psycho-killer/)
-  · The singer also donned a Pizza Rat costume and broke an arena record. Harry Styles Covers “Psycho Killer” on Final Night of MSG Residency Travis Bland
-- 2026-11-01 · [Lost Daft Punk Mix From 1997 Discovered and Released](https://consequence.net/2026/11/dj-uncovers-lost-daft-punk-mix/)
-  · The French EDM duo sent him the mix to DJ Ralph Lawson to promote their 1997 debut album. Lost Daft Punk Mix From 1997 Discovered and Released Travis Bland
-- 2026-11-01 · [Michael Mann Accidentally Shoots Himself at Firing Range](https://consequence.net/2026/11/michael-mann-shoots-himself-at-firing-range/)
-  · The director was taken by ambulance to a local hospital. Michael Mann Accidentally Shoots Himself at Firing Range Alex Young
-- 2026-11-01 · [Trump Ruins David S. Pumpkins’ Return to SNL](https://consequence.net/2026/11/trump-ruins-david-s-pumpkins-return-to-snl/)
-  · David S. Pumpkins returned to Saturday Night Live this Halloween, only to have his comeback hijacked by another very loud, very orange, and considerably less entertaining character
-- 2026-10-31 · [Deep Purple Postpone Shows as Singer Ian Gillan Hospitalized Due to “Medical Emergency”](https://consequence.net/2026/10/deep-purple-ian-gillan-medical-emergency/)
-  · The legendary rock act is in the midst of a UK/European tour. Deep Purple Postpone Shows as Singer Ian Gillan Hospitalized Due to “Medical Emergency” Spencer Kaufman
-- 2026-10-31 · [Harry Styles Says the Scariest Thing This Halloween Is New York City’s Coffee Prices](https://consequence.net/2026/10/harry-styles-harryween-coffee-prices/)
-  · Wearing an Elvis Presley costume at Madison Square Garden, Styles poked fun at checkout screens asking customers to tip 20, 22, or 24 percent. Harry Styles Says the Scariest Thing 
-- 2026-10-31 · [Two Arrested in Murder of SNL Writer Jimmy Fowlie’s Sister](https://consequence.net/2026/10/two-arrested-in-murder-of-snl-writer-sister/)
-  · Downer disappeared in December 2025, prompting her brother to publicly appeal for answers about her whereabouts. Two Arrested in Murder of SNL Writer Jimmy Fowlie’s Sister Alex Kri
-- 2026-10-31 · [Christian Musician Kid Rock Compares Abdul El-Sayed to 9/11 Hijackers](https://consequence.net/2026/10/kid-rock-abdul-el-sayed-9-11-hijackers-maher/)
-  · During an appearance on Real Time with Bill Maher, Kid Rock argued that the Michigan Senate candidate had assimilated into American society... much like the 9/11 hijackers. Christi
-- 2026-10-31 · [SZA Seemingly Confirms Coachella 2027 Headlining Appearance, Work on New Album](https://consequence.net/2026/10/sza-coachella-2027-new-album/)
-  · In a post to her alternate Instagram account, SZA shared a screenshot of TMZ's recent report on Coachella's 2027 headliners. SZA Seemingly Confirms Coachella 2027 Headlining Appear
-- 2026-10-31 · [James Hetfield Says Turnstile Turned Down Touring with Metallica](https://consequence.net/2026/10/james-hetfield-turnstile-turned-down-metallica/)
-  · "We wanted to get them on tour, and they said no. They're doing good on their own alread." James Hetfield Says Turnstile Turned Down Touring with Metallica Alex Young
+**Consequence** (15건)
+- 2026-11-02 · [Tove Lo Extends “ESTRUS World Tour” with Spring 2027 US Dates](https://consequence.net/2026/11/tove-lo-2027-us-tour-dates/)
+  · The spring run kicks off April 19th in Dallas and wraps May 7th at Red Rocks Amphitheatre in Colorado. Tove Lo Extends “ESTRUS World Tour” with Spring 2027 US Dates Alex Krinsky
+- 2026-11-02 · [Spike Lee Invented the Red Yankees Hat That Fred Durst Made Famous: “He Didn’t Have It Before Me”](https://consequence.net/2026/11/spike-lee-invented-red-yankees-hat-fred-durst/)
+  · The legendary director tells the story of how he got New Era to make a red Yankees hat. Spike Lee Invented the Red Yankees Hat That Fred Durst Made Famous: “He Didn’t Have It Befor
+- 2026-11-02 · [Panchiko Announces 2027 US Tour Behind New Album Chimera](https://consequence.net/2026/11/panchiko-2027-us-tour/)
+  · The run begins April 13th in San Antonio and includes stops in New York, Denver, Seattle, and Inglewood. Panchiko Announces 2027 US Tour Behind New Album Chimera Alex Krinsky
+- 2026-11-02 · [Pixies Unearth Four Archival Tracks, Including Steve Albini Version of “Dig for Fire”](https://consequence.net/2026/11/pixies-archival-tracks-dig-for-fire-albini/)
+  · The newly available tracks also include “Go Man Go,” a Black Francis and Kim Deal co-write, plus “Brackish Boy” and “Punk Loop.” Pixies Unearth Four Archival Tracks, Including Stev
+- 2026-11-02 · [David Byrne Hails Argentina’s New Generation of Musicians in Latest Curated Playlist: “It’s a Moment!”](https://consequence.net/2026/11/david-byrne-argentina-playlist/)
+  · The Talking Heads frontman celebrates a new wave of Argentine artists blending traditional sounds with hip-hop, punk, and electronic music. David Byrne Hails Argentina’s New Genera
+- 2026-11-02 · [The Viral Bar Owner Who Stole Conan’s Subway Takes Episode Is Back for More](https://consequence.net/2026/11/debbie-shields-subway-takes-confessions-pod/)
+  · Shields also sounds off on last call, subway etiquette, and the “coughers, sneezers, and squeezers” keeping her off the train. The Viral Bar Owner Who Stole Conan’s Subway Takes Ep
+- 2026-11-02 · [A Perfect Circle’s Billy Howerdel Auctioning 120-Plus Items of Gear and Memorabilia](https://consequence.net/2026/11/a-perfect-circle-billy-howerdel-auction/)
+  · The collection, which features 123 items spanning a painting, guitars, amps, and even shirts, goes on sale November 8th. A Perfect Circle’s Billy Howerdel Auctioning 120-Plus Items
+- 2026-11-02 · [Godzilla Minus Zero Review: Bigger, Louder, Chonkier, and Beautiful](https://consequence.net/2026/11/godzilla-minus-zero-review-takashi-yamazaki/)
+  · The sequel to the Oscar-winning Minus One captures everything that made the first movie so glorious. Godzilla Minus Zero Review: Bigger, Louder, Chonkier, and Beautiful Liz Shannon
+- 2026-11-02 · [Boy Throb Announce 2027 North American Tour](https://consequence.net/2026/11/boy-throb-2027-north-american-tour/)
+  · Now with fourth member Darshan Magdum officially joining the group in the United States, the 20-date outing marks Boy Throb's first tour as a quartet. Boy Throb Announce 2027 North
+- 2026-11-02 · [Deep Purple’s Ian Gillan Gives Update After “Medical Emergency,” Band Postpones Remainder of Tour](https://consequence.net/2026/11/deep-purple-ian-gillan-update-medical-emergency/)
+  · The singer's has been advised to refrain from touring due to "very serious risks." Deep Purple’s Ian Gillan Gives Update After “Medical Emergency,” Band Postpones Remainder of Tour
+- 2026-11-02 · [David Mamet, Andy Garcia, Paul Anka Consent to Receive 2026 Kennedy Center Honors](https://consequence.net/2026/11/2026-kennedy-center-honors-david-mamet-andy-garcia/)
+  · The stars willing to receive an award from the Trump-controlled cultural institution also include singers Barbara Mandrell and Paul Anka. David Mamet, Andy Garcia, Paul Anka Consen
+- 2026-11-02 · [My Chemical Romance’s Black Parade First Anniversary Reissue to Ever Top Billboard 200](https://consequence.net/2026/11/my-chemical-romance-anniversay-reissue-debut-1-billboard/)
+  · The release also saw the band net their first UK number 1. My Chemical Romance’s Black Parade First Anniversary Reissue to Ever Top Billboard 200 Langdon Hickman
 
 **NME** (10건)
-- 2026-11-02 · [Today’s Wordle answer and hints for #1962 on November 02](https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&utm_medium=rss&utm_campaign=heres-the-wordle-answer-for-today)
-  · There's no need to lose your streak - here's the 'Wordle' answer for today The post Today’s Wordle answer and hints for #1962 on November 02 appeared first on NME .
-- 2026-11-02 · [‘Connections’ answers and hints for today, November 02](https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&utm_medium=rss&utm_campaign=connections-answers-hints-groups-today)
-  · Here are hints, groups and answers for 'Connections' #1240 The post ‘Connections’ answers and hints for today, November 02 appeared first on NME .
-- 2026-11-02 · [Globle answer today – here’s the answer and hints for November 02](https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&utm_medium=rss&utm_campaign=globle-hint-answer-today)
-  · Where in the world? The post Globle answer today – here’s the answer and hints for November 02 appeared first on NME .
-- 2026-11-02 · [Framed answer today – here’s the solution for November 02](https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186?utm_source=rss&utm_medium=rss&utm_campaign=framed-answer-today)
-  · You’ve been framed The post Framed answer today – here’s the solution for November 02 appeared first on NME .
-- 2026-11-01 · [Watch Gracie Abrams channel ‘Romeo + Juliet’ for performances of ‘Hit The Wall’ and ‘Here You Come, There You Go’ on ‘SNL’](https://www.nme.com/news/music/watch-gracie-abrams-channel-romeo-juliet-for-performances-of-hit-the-wall-and-here-you-come-there-you-go-on-snl-3974753?utm_source=rss&utm_medium=rss&utm_campaign=watch-gracie-abrams-channel-romeo-juliet-for-performances-of-hit-the-wall-and-here-you-come-there-you-go-on-snl)
-  · The singer-songwriter releases the deluxe edition of ‘Daughter From Hell’ on November 20 The post Watch Gracie Abrams channel ‘Romeo + Juliet’ for performances of ‘Hit The Wall’ an
-- 2026-11-01 · [Turnstile turned down the chance to tour with Metallica](https://www.nme.com/news/music/turnstile-turned-down-the-chance-to-tour-with-metallica-3974749?utm_source=rss&utm_medium=rss&utm_campaign=turnstile-turned-down-the-chance-to-tour-with-metallica)
-  · James Hetfield has praised the Baltimore hardcore band, urging fans to catch their live show The post Turnstile turned down the chance to tour with Metallica appeared first on NME 
-- 2026-11-01 · [Deep Purple postpone shows after Ian Gillan hospitalised following “medical emergency”](https://www.nme.com/news/music/deep-purple-postpone-shows-ian-gillan-hospitalised-medical-emergency-3974745?utm_source=rss&utm_medium=rss&utm_campaign=deep-purple-postpone-shows-ian-gillan-hospitalised-medical-emergency)
-  · The band have cancelled their planned concerts in Leipzig and Hamburg The post Deep Purple postpone shows after Ian Gillan hospitalised following “medical emergency” appeared first
-- 2026-11-01 · [Here’s how your favourite musicians and actors dressed up for Halloween 2026](https://www.nme.com/news/music/heres-how-your-favourite-musicians-and-actors-dressed-up-for-halloween-2026-3974741?utm_source=rss&utm_medium=rss&utm_campaign=heres-how-your-favourite-musicians-and-actors-dressed-up-for-halloween-2026)
-  · Harry Styles, Lily Allen, Wolf Alice, Yungblud, Lizzo and Zendaya were among the stars getting into the Halloween spirit The post Here’s how your favourite musicians and actors dre
-- 2026-10-31 · [Watch Harry Styles recreate his 2010 ‘X Factor’ audition with Stevie Wonder cover at ‘Harryween’ show](https://www.nme.com/news/music/watch-harry-styles-recreate-x-factor-audition-stevie-wonder-harryween-3974732?utm_source=rss&utm_medium=rss&utm_campaign=watch-harry-styles-recreate-x-factor-audition-stevie-wonder-harryween)
-  · The singer also dressed as Elvis Presley as he celebrated Halloween at Madison Square Garden The post Watch Harry Styles recreate his 2010 ‘X Factor’ audition with Stevie Wonder co
-- 2026-10-31 · [“Blue dot fever”: Lily Allen dresses up as Ticketmaster unsold seat map for Halloween](https://www.nme.com/news/music/blue-dot-fever-lily-allen-ticketmaster-unsold-seat-map-halloween-3974727?utm_source=rss&utm_medium=rss&utm_campaign=blue-dot-fever-lily-allen-ticketmaster-unsold-seat-map-halloween)
-  · The singer was poking fun at the ticket sales controversy surrounding her recent North American tour The post “Blue dot fever”: Lily Allen dresses up as Ticketmaster unsold seat ma
+- 2026-11-03 · [Today’s Wordle answer and hints for #1963 on November 03](https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&utm_medium=rss&utm_campaign=heres-the-wordle-answer-for-today)
+  · There's no need to lose your streak - here's the 'Wordle' answer for today The post Today’s Wordle answer and hints for #1963 on November 03 appeared first on NME .
+- 2026-11-03 · [‘Connections’ answers and hints for today, November 03](https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&utm_medium=rss&utm_campaign=connections-answers-hints-groups-today)
+  · Here are hints, groups and answers for 'Connections' #1241 The post ‘Connections’ answers and hints for today, November 03 appeared first on NME .
+- 2026-11-03 · [Globle answer today – here’s the answer and hints for November 03](https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&utm_medium=rss&utm_campaign=globle-hint-answer-today)
+  · Where in the world? The post Globle answer today – here’s the answer and hints for November 03 appeared first on NME .
+- 2026-11-03 · [Framed answer today – here’s the solution for November 03](https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186?utm_source=rss&utm_medium=rss&utm_campaign=framed-answer-today)
+  · You’ve been framed The post Framed answer today – here’s the solution for November 03 appeared first on NME .
+- 2026-11-02 · [Interpol announce intimate London replacement show after Bloc Party co-headline gig cancelled](https://www.nme.com/news/music/interpol-london-olympia-british-airways-arc-bloc-party-replacement-show-tickets-3974851?utm_source=rss&utm_medium=rss&utm_campaign=interpol-london-olympia-british-airways-arc-bloc-party-replacement-show-tickets)
+  · "This intimate show is a way for us to celebrate ‘This Mirror Weighs A Ton’ with fans before touring further in 2027" The post Interpol announce intimate London replacement show af
+- 2026-11-02 · [Watch Harry Styles cover Talking Heads’ ‘Psycho Killer’ (and dress as NYC ‘pizza rat’) at final night of MSG residency](https://www.nme.com/news/music/watch-harry-styles-cover-talking-heads-psycho-killer-and-dress-as-nyc-pizza-rat-at-final-night-of-msg-residency-3974850?utm_source=rss&utm_medium=rss&utm_campaign=watch-harry-styles-cover-talking-heads-psycho-killer-and-dress-as-nyc-pizza-rat-at-final-night-of-msg-residency)
+  · NBA star Jalen Brunson also came out as a special guest to celebrate Styles completing 30 shows at the venue The post Watch Harry Styles cover Talking Heads’ ‘Psycho Killer’ (and d
+- 2026-11-02 · [Bill Bailey turned into Dwarf for ‘World of Warcraft’ nature doc parody ‘Planet Azeroth’](https://www.nme.com/news/gaming-news/bill-bailey-turned-into-dwarf-for-world-of-warcraft-nature-doc-parody-planet-azeroth-3974837?utm_source=rss&utm_medium=rss&utm_campaign=bill-bailey-turned-into-dwarf-for-world-of-warcraft-nature-doc-parody-planet-azeroth)
+  · The British comedy legend is taking on David Attenborough at his own game The post Bill Bailey turned into Dwarf for ‘World of Warcraft’ nature doc parody ‘Planet Azeroth’ appeared
+- 2026-11-02 · [Mighty Hoopla celebrates 10th anniversary with huge 2027 line-up including Robyn, Pussycat Dolls, Kelis, Bebe Rexha, FLO, Nicola Roberts and more](https://www.nme.com/news/music/mighty-hoopla-announces-10th-anniversary-2027-line-up-robyn-pussycat-dolls-kelis-bebe-rexha-flo-3974826?utm_source=rss&utm_medium=rss&utm_campaign=mighty-hoopla-announces-10th-anniversary-2027-line-up-robyn-pussycat-dolls-kelis-bebe-rexha-flo)
+  · Other names on the bull include Sophie Ellis-Bextor, Jordin Sparks and B*Witched The post Mighty Hoopla celebrates 10th anniversary with huge 2027 line-up including Robyn, Pussycat
+- 2026-11-02 · [‘Final Fantasy’ composer Nobuo Uematsu says game scores are becoming too similar – and Hollywood’s to blame](https://www.nme.com/news/gaming-news/final-fantasy-composer-nobuo-uematsu-says-game-scores-are-becoming-too-similar-and-hollywoods-to-blame-3974822?utm_source=rss&utm_medium=rss&utm_campaign=final-fantasy-composer-nobuo-uematsu-says-game-scores-are-becoming-too-similar-and-hollywoods-to-blame)
+  · "It has become increasingly difficult to differentiate a work just through its feel alone" The post ‘Final Fantasy’ composer Nobuo Uematsu says game scores are becoming too similar
+- 2026-11-02 · [Xbox Game Pass confirms November 2026 additions](https://www.nme.com/news/gaming-news/xbox-game-pass-confirms-november-2026-additions-3974805?utm_source=rss&utm_medium=rss&utm_campaign=xbox-game-pass-confirms-november-2026-additions)
+  · Meanwhile, 'GoldenEye 007' and other big games are set to leave the service this month The post Xbox Game Pass confirms November 2026 additions appeared first on NME .
 
 **Billboard** (10건)
-- 2026-11-02 · [Marty Erlichman, Barbra Streisand’s Longtime Manager, Dies at 97](https://www.billboard.com/pro/marty-erlichman-death-barbra-streisand-manager/)
-  · An entertainment manager for decades, Erlichman also worked with The Clancy Brothers and Tommy Makem.
-- 2026-11-01 · [Wu-Tang Clan to Headline Detroit Lions Thanksgiving Game Halftime Show](https://www.billboard.com/music/rb-hip-hop/wu-tang-clan-halftime-show-detroit-lions-thanksgiving-game-1236371793/)
-  · They'll take the halftime performance slot at the Nov. 26 Lions-Bears game, while Antonio Cipriano will perform the national anthem.
-- 2026-11-01 · [‘Sunday Night Football’: How to Watch Philadelphia Eagles vs. Washington Commanders Game Live Online Free](https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/)
-  · Watch the PHL Eagles take on the WAS Commanders on Sunday, Nov. 1.
-- 2026-11-01 · [Harry Styles Dresses as NYC ‘Pizza Rat,’ Gets Jalen Brunson Tribute at Final MSG Residency Show](https://www.billboard.com/music/pop/harry-styles-pizza-rat-harryween-msg-residency-final-show-1236371781/)
-  · The pop star marked the occasion with a Halloween tribute to one of the city's most infamous viral sensations.
-- 2026-11-01 · [Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List](https://www.billboard.com/lists/top-country-albums-number-ones-biggest/)
-  · Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.
-- 2026-11-01 · [Rawayana Throws Venezuelan-Style Halloween Party in NYC, Feat. Guests Cheo Pardo & Yorghaki](https://www.billboard.com/music/latin/rawayana-venezuelan-halloween-party-new-york-concert-review-1236371750/)
-  · Donning wigs and costumes, the trippy-pop band lit up Brooklyn's Barclays Center as part of their ¿Dónde Es El After? World Tour.
-- 2026-11-01 · [My Chemical Romance Earns First No. 1 Album on Billboard 200 After ‘The Black Parade’ Reissue](https://www.billboard.com/music/chart-beat/my-chemical-romance-number-one-billboard-200-black-parade-1236371717/)
-  · The Black Parade ’s 20-year-wait to reach No. 1 is the longest ever for an album.
-- 2026-11-01 · [Juan Atkins, Techno Pioneer and Cybotron Co-Founder, Dies at 64](https://www.billboard.com/music/music-news/juan-atkins-death-techno-music-pioneer-cybotron-dies-1236371734/)
-  · The DJ and producer helped bring techno to a global audience through Cybotron, Model 500 and the Belleville Three.
-- 2026-11-01 · [The First Billboard: All That Was ‘New, Bright & Interesting on the Boards’](https://www.billboard.com/pro/first-billboard-issue-november-1-1894/)
-  · Looking back at Nov. 1, 1894, when Billboard published its first issue, one that's vastly different from today's magazine and expanded platforms.
-- 2026-11-01 · [The Best 2026 Halloween Costumes, From Paris Hilton as Britney Spears to Kim Kardashian as North West](https://www.billboard.com/lists/best-halloween-costumes-paris-hilton-kim-kardashian/)
-  · Boo!
+- 2026-11-03 · [Here’s Why the My Chemical Romance Lawsuit Really Ended, According to the Band’s Manager](https://www.billboard.com/pro/my-chemical-romance-cowboys-cheerleaders-lawsuit-why-ended/)
+  · Court filings reveal a new explanation for why the high-profile legal dispute with the Dallas Cowboys Cheerleaders wrapped up so quickly.
+- 2026-11-03 · [Jingle Ball 2026: Buy Tickets to See Olivia Rodrigo, Sombr, KATSEYE, ADÉLA & More](https://www.billboard.com/culture/product-recommendations/iheartradio-jingle-ball-2026-buy-tickets-online-shop-prices-1236372531/)
+  · iHeartRadio is coming back for its annual Jingle Ball with a nine-city tour across the U.S. Shop tickets here starting at $36.
+- 2026-11-03 · [TWS: The Beauty of Growing Up Unscripted](https://www.billboard.com/lists/tws-interview-to-us-growing-up-unscripted/)
+  · With their second single album TO US , SHINYU, DOHOON, YOUNGJAE, HANJIN, JIHOON & KYUNGMIN open up about growing up & embracing imperfections.
+- 2026-11-02 · [Justin Timberlake to Release 4-Part Docuseries That Includes Janet Jackson as a Guest](https://www.billboard.com/music/music-news/justin-timberlake-docuseries-janet-jackson-apple-tv-1236372543/)
+  · The project is set to arrive on Apple TV by the end of the year.
+- 2026-11-02 · [‘Monday Night Football’ 2026: How to Watch Chicago Bears vs. Seattle Seahawks Live Online Free](https://www.billboard.com/culture/product-recommendations/monday-night-football-2026-2027-watch-nfl-live-online-free-1236339452/)
+  · Watch the CHI Bears take on the SEA Seahawks on Monday, Nov. 2 — and possible celebrity sightings at the game.
+- 2026-11-02 · [Bruce Springsteen Backs Michigan’s Dr. Abdul El-Sayed for U.S. Senate Amid Haley Stevens Reversal: ‘He’s a Fighter’](https://www.billboard.com/music/music-news/bruce-springsteen-michigan-abdul-el-sayed-us-senate-1236372511/)
+  · "I’m in his corner 100%," the Boss said of the Democratic nominee.
+- 2026-11-02 · [Taylor Swift’s Songs Written for Movies, Ranked (Critic’s Picks)](https://www.billboard.com/lists/taylor-swift-movie-songs-ranked/)
+  · Swift’s soundtrack credits include Cats , The Hunger Games , Where the Crawdads Sing and more.
+- 2026-11-02 · [Tate McRae’s ‘Housewife’ Scores Second Week at No. 1 on Billboard Global Charts](https://www.billboard.com/music/chart-beat/tate-mcrae-housewife-global-charts-nov-7-1236372344/)
+  · Plus, first top 10s for Jamie Miller and Felipe & Rodrigo.
+- 2026-11-02 · [Cardi B Tells Students to Pass Exams Without Using AI: ‘Don’t Ask ChatGPT for the Answer’](https://www.billboard.com/music/rb-hip-hop/cardi-b-students-dont-use-ai-chatgpt-1236372365/)
+  · Cardi had a message for the students who attended Johns Hopkins University’s Hoptoberfest over the weekend.
+- 2026-11-02 · [Timbaland Sues Ex-Managers for $15M Over Accusations of ‘Financial Misconduct’](https://www.billboard.com/pro/timbaland-lawsuit-ex-managers-financial-misconduct/)
+  · The veteran hitmaker claims his longtime manager and partner Gary Marella treated him like "a piggy bank" — accusations the manager strongly denies.
+
+**스타뉴스** (25건)
+- 날짜없음 · [이세영 "예쁘지 않으면 미움 받겠구나..외모 관리 최선" [스타현장]](https://www.starnewskorea.com/star/2026/11/03/2026110311483143195)
+  · 배우 이세영이 작품을 촬영하며 외모 관리에 최선을 다했던 이유를 설명했다. 3일 오전 서울 영등포구 여의도 콘래드 호텔에서 디즈니+ '재혼 황후' 제작보고회가 열렸다. 이날 행사에는 배우 신민아, 주지훈, 이종석, 이세영 그리고 조수원 감독이 참석했다. '재혼 황후'는 동대제국의 완벽한 황후 '나비에'(신민아 분)가 도망
+- 날짜없음 · ["악당 칸쵸를 찾아라" 롯데웰푸드, 소비자 참여형 이색 미션 이벤트 개최](https://www.starnewskorea.com/business-life/2026/11/03/2026110312025997975)
+  · 롯데웰푸드가 대표 초콜릿 과자 칸쵸를 활용해 소비자가 직접 참여하는 이색 이벤트인 '악당 칸쵸 찾기'를 이달 9일부터 내년 1월 17일까지 진행한다고 3일 밝혔다. 지난해 과자에 새겨진 자신의 이름을 인증하는 온·오프라인 이벤트로 큰 호응을 얻은 데 이어, 올해는 소비자가 직접 스토리 속 주인공이 되어 미션을 해결하는 참
+- 날짜없음 · ['새상' 이종석, 최초 새 연기 소감.."나체로 연기, 부담" [스타현장]](https://www.starnewskorea.com/star/2026/11/03/2026110311532513196)
+  · 배우 이종석이 최초로 새 연기를 펼친 소감을 전하며 "부담이 있었다"라고 말했다. 3일 오전 서울 영등포구 여의도 콘래드 호텔에서 디즈니+ '재혼 황후' 제작보고회가 열렸다. 이날 행사에는 배우 신민아, 주지훈, 이종석, 이세영 그리고 조수원 감독이 참석했다. '재혼 황후'는 동대제국의 완벽한 황후 '나비에'(신민아 분)
+- 날짜없음 · ['KBL 새역사 일등공신' 칸터, 압도적 라운드 MVP 선정... 상금 200만원 [공식발표]](https://www.starnewskorea.com/sports/2026/11/03/2026110311012377824)
+  · KBL 역대 최초 '1라운드 전승'이라는 새 역사를 쓴 서울 삼성의 특급 용병 케렘 칸터가 2026~2027 프로농구 1라운드 최고의 별로 우뚝 섰다. KBL은 3일 보도자료를 통해 출입 기자단 투표 결과 칸터가 총 유효 투표 수 101표 중 압도적인 85표를 획득해 2026~2027 KCC 프로농구 1라운드 MVP로 선
+- 날짜없음 · [이종석(LeeJongSuk), '나는 새상~ 저 맞아요' [영상]](https://www.starnewskorea.com/star/2026/11/03/2026110312014621336)
+  · 3일 오전 서울 영등포구 콘래드 서울 호텔에서 드라마 '재혼 황후' 제작발표회가 열렸다. 이날 배우 신민아,주지훈,이종석,이세영이 참석했다. 2026.11.03...
+- 날짜없음 · [김재원 "연하남의 아이콘? 누나들과 호흡 편해..다음엔 박은빈과"(최종면접) [인터뷰②]](https://www.starnewskorea.com/movie/2026/11/03/2026110311562026030)
+  · 배우 김재원이 '연하남의 아이콘'으로 자리매김한 소감과 선배 배우들과의 호흡에 대해 밝혔다. 3일 서울시 종로구 삼청로의 한 카페에서 영화 '최종면접'의 배우 김재원과 만나 작품에 관한 이야기를 나눴다. '최종면접'은 최종면접장에 모인 6인의 지원자들이 각자의 폭로가 담긴 의문의 봉투를 발견하면서 서로를 의심하고 혼란에 
+- 날짜없음 · [신민아X주지훈X이종석X이세영, '캐릭터 싱크로율!? 준비 많이 했어요!' [영상]](https://www.starnewskorea.com/star/2026/11/03/2026110311572147603)
+  · 3일 오전 서울 영등포구 콘래드 서울 호텔에서 드라마 '재혼 황후' 제작발표회가 열렸다. 이날 배우 신민아,주지훈,이종석,이세영이 참석했다. 2026.11.03...
+- 날짜없음 · [KZ정밀 "영풍, '핵심' 피하고 같은 말 반복…콜옵션 고정가격 변경 경위 밝혀야"](https://www.starnewskorea.com/business-life/2026/11/03/2026110311525231074)
+  · 영풍이 MBK파트너스(이하 MBK)와 맺은 경영협력계약상 콜옵션 조항을 둘러싸고 배임 의혹이 제기되는 가운데, KZ정밀이 영풍 측의 입장 발표를 "핵심을 비껴간 공허한 설명"이라는 내용의 입장문을 내고 비판했다. KZ정밀은 영풍이 핵심 자산인 고려아연 주식의 '공개매수가격 연동 조항'을 포기하고 고정가격 방식으로 계약을 
+- 날짜없음 · ['최종면접' 김재원, 첫 스크린 도전 열정 "6kg 감량에 민낯 촬영까지"[인터뷰①]](https://www.starnewskorea.com/movie/2026/11/03/2026110310580436790)
+  · 배우 김재원이 영화 '최종면접'으로 스크린에 데뷔하는 소감과 연기 과정에서의 고민을 밝혔다. 3일 서울시 종로구 삼청로의 한 카페에서 영화 '최종면접'의 배우 김재원과 만나 작품에 관한 이야기를 나눴다. '최종면접'은 최종면접장에 모인 6인의 지원자들이 각자의 폭로가 담긴 의문의 봉투를 발견하면서 서로를 의심하고 혼란에 
+- 날짜없음 · ["이제야 '연프', 다른 프로그램이라 해도 무방"..'돌싱N모솔', 달라진 2기로 컴백 [종합]](https://www.starnewskorea.com/broadcast-show/2026/11/03/2026110310582268125)
+  · 이제서야 제대로 된 '연프'(연애 프로그램)다. 1기에서 큰 화제를 모았던 '돌싱N모솔'이 2기로 돌아왔다. 이번 시즌에는 1기와 다른 매력의 출연자들이 합류해 한층 짙어진 연애 리얼리티를 예고했다. 3일 서울 마포구 상암 스탠포드호텔에서 MBC에브리원·E채널 예능 프로그램 '돌싱N모솔' 제작발표회가 진행됐다. 행사에는 
+- 날짜없음 · [신민아X주지훈X이종석X이세영, '재혼 황후 보기전 필수 시청!! 4인 4색 캐릭터 분석' [영상]](https://www.starnewskorea.com/star/2026/11/03/2026110311532614592)
+  · 3일 오전 서울 영등포구 콘래드 서울 호텔에서 드라마 '재혼 황후' 제작발표회가 열렸다. 이날 배우 신민아,주지훈,이종석,이세영이 참석했다. 2026.11.03...
+- 날짜없음 · ['림솔대전 끝판왕 가린다' 서교림 VS 김민솔, 2026시즌 최후의 여왕 대보 하우스디 챔피언십서 결정 [KLPGA]](https://www.starnewskorea.com/sports/2026/11/03/2026110310491617868)
+  · 2026시즌 한국여자프로골프(KLPGA) 투어의 마지막 무대에서 06년생 동갑내기 라이벌 서교림(20·삼천리)과 김민솔(20·두산건설We've)의 '끝판왕' 승부가 펼쳐진다. 올 시즌 KLPGA투어 최종전인 '대보 하우스디 챔피언십'(총상금 12억원, 우승 상금 3억원)이 오는 6일부터 8일까지 사흘간 경기도 파주 서원밸
 
 **일간스포츠** (25건)
-- 2026-11-02 · [노시환 행선지로 양키스 등 4개 구단 거론…계약 규모는 285억](https://isplus.com/article/view/isp202611020069)
-  · 국내 프로야구 KBO리그 한화 이글스의 거포 3루수 노시환(26)이 미국 프로야구 메이저리그(MLB) 진출에 도전한다. 빅리그에서도 매력적이라고 평가한 장타력을 갖춘 노시환이 포스팅 시스템(비공개 경쟁입찰)에 돌입한 가운데, MLB 소식을 집중적으로 전하는 매체는 노시환의 잠재적 행선지로 뉴욕 양키스 등 4곳을 지목했다.
-- 2026-11-02 · [박병호·오승환 vs 오가사와라·나카타…한일 야구 레전드 12월 고척서 맞대결](https://isplus.com/article/view/isp202611020068)
-  · 한국과 일본을 대표하는 야구 레전드들이 맞대결을 펼친다. 올해로 3회째를 맞는 '한일 드림 플레이어즈 게임 2026'이 오는 12월 4일 전야제와 5일 본경기 일정으로 서울 고척스카이돔에서 개최된다. 앞선 1&middot;2회 대회는 일본 프로야구(NPB) 닛폰햄 파이터스의 홈구장인 홋카이도 에스콘필드에서 열린 바 있다.
-- 2026-11-02 · [[IS 인터뷰] "내가 나태했다" KT 강성욱의 솔직한 고백, 2년 차 징크스 딛고 반등 시동](https://isplus.com/article/view/isp202611020066)
-  · 소포모어 징크스. 흔히 '2년 차 징크스'라고 불리는 현상이 2년 차 가드 강성욱(22&middot;수원 KT)에게도 따라붙었다. 성공적인 데뷔 시즌을 보낸 선수에게 다음 시즌에 대한 기대가 따르는 건 당연하다. 그 기대에 미치지 못하면 아쉬움도 클 수밖에 없다. 그래도 강성욱은 주저앉지는 않았다. 자신의 부족함을 인정하
-- 2026-11-02 · ["태인이와 이렇게 될 줄은.." 푸피에가 "해줘" 하는 선수가 있다, 2000년생 동갑내기의 유쾌한 티키타카 [IS 인터뷰]](https://isplus.com/article/view/isp202611020067)
-  · &ldquo;뒤에 너 있으니까 그냥 갔다 올게.&rdquo;평소에는 선발 투수 원태인이 불펜의 이승민에게 하던 말이었다. 필승조 이승민에게 남은 이닝을 잘 지켜달라는 부탁이었다. 그런데 이번 가을에는 순서가 바뀌었다. 원태인이 필승조와 마무리 역할을 맡으면서 셋업맨인 이승민의 뒤를 잇는 상황이 생겼다. 이번에는 이승민이 
-- 2026-11-02 · ['김상엽 1골 1도움·전종훈 27세이브' HL 안양, 도호쿠 꺾고 3위 도약](https://isplus.com/article/view/isp202611020065)
-  · HL 안양이 일본 원정에서 도호쿠 프리블레이즈를 꺾고 전날 패배를 설욕했다.백지선 감독이 이끄는 HL 안양은 1일 일본 아오모리현 플랫 하치노헤 아이스링크에서 열린 2026~27 아시아리그 아이스하키 정규리그 10차전에서 도호쿠를 4-1로 제압했다.전날 같은 상대에 1-4로 패했던 HL 안양은 하루 만에 설욕에 성공하며 
-- 2026-11-02 · [35세 마무리 투수 134억 선수 옵션 거절, 새 둥지 찾는다…거취 주목](https://isplus.com/article/view/isp202611020063)
-  · 미국 스포츠 전문채널 ESPN은 '신시내티 레즈의 마무리 투수 에밀리오 파간(35)이 2027시즌 1000만 달러(134억원) 규모의 선수 옵션을 거부하고 자유계약선수(FA)가 되기로 결정했다'고 2일(한국시간) 밝혔다.파간은 올 시즌 45경기에 등판해 5승 1패 25세이브 평균자책점 3.38을 기록했다. 개인 한 시즌 
-- 2026-11-02 · [주한 외국인 900명 태권도로 하나 됐다…2026 외국인 태권도 경연 축제 성료](https://isplus.com/article/view/isp202611020062)
-  · 국내에 거주하는 외국인 900여 명이 태권도를 매개로 한자리에 모였다.국기원과 강남구청이 공동 주최하고 주한외국인태권도문화협회가 주관한 &lsquo;2026 외국인 태권도 경연 축제&rsquo;가 지난달 31일 국기원에서 열렸다. 주한 미군과 유학생, 교환학생, 외국인 근로자 등 900여 명이 참가해 품새와 겨루기, 스피
-- 2026-11-02 · ['이대호·오승환·박병호 총출동' 한국야구 레전드, 日 레전드와 고척에서 맞붙는다](https://isplus.com/article/view/isp202611020061)
-  · 이대호와 오승환, 박병호, 윤석민 등 한국 야구를 대표하는 스타들이 일본 야구의 레전드들과 맞대결을 펼친다.&lsquo;한일 드림 플레이어즈 게임 2026&rsquo;이 오는 12월 5일 서울 고척스카이돔에서 열린다. 올해로 3회째를 맞는 이 대회는 한 시대를 풍미한 한일 야구 스타들이 다시 그라운드에 서는 레전드 매치다
-- 2026-11-02 · [KIA 나성범 "타이거즈 강한 모습 다시 증명, 내년엔 꼭 3할-30홈런-100타점을" [IS 대구]](https://isplus.com/article/view/isp202611020058)
-  · KIA 타이거즈 주장 나성범(37)이 올 시즌을 마감한 뒤 "좀 더 야구하고 싶었는데&hellip;"라며 아쉬워했다. KIA는 지난 1일 대구 삼성라이온즈파크에서 열린 삼성 라이온즈와의 플레이오프(PO&middot;5전 3승제) 5차전에서 1-6으로 졌다. 시리즈 전적 2승 3패를 기록한 KIA는 한국시리즈(KS) 티켓을
-- 2026-11-02 · [안효섭 ‘파이널 테이블’ 2.6% 최고 시청률 경신…파밀리아 1라운드 1등 [차트IS]](https://isplus.com/article/view/isp202611020060)
-  · &lsquo;파이널 테이블&rsquo;이 최고 시청률을 경신했다.1일 방송한 JTBC 토일드라마 &lsquo;파이널 테이블&rsquo; 4회는 닐슨코리아 전국 유료가구 기준 2.6%를 기록했다. 직전 최고 시청률 2회 2.4%에서 소폭 올라 최고 시청률을 경신했다.&lsquo;파이널 테이블&rsquo;은 최고의 한국인 요
-- 2026-11-02 · [‘14전 전승’ UFC에 나타난 괴물, 2년도 안 됐는데 ‘챔피언 로드’ 그린다…“14위→5위 잡고 챔프”](https://isplus.com/article/view/isp202611020033)
-  · 미국 종합격투기(MMA) 단체 UFC 웰터급(77.1kg) 괴물로 꼽히는 자코비 스미스(미국)가 향후 원하는 상대의 이름을 콕 집었다. 사실상 이들을 잡고 왕좌에 오르겠다는 의미다.스미스는 미국 매체 &lsquo;MMA 정키&rsquo;가 2일(한국시간) 공개한 인터뷰에서 &ldquo;내 마음대로 할 수 있다면, 케빈 홀
-- 2026-11-02 · ['KS 타짜'들이 만난다...'현대·삼성 왕조' 이끈 박진만 vs 타이거즈 전설의 주역 이강철 [IS 피플]](https://isplus.com/article/view/isp202611020056)
-  · 왕조의 후예들이 만났다. 해태 타이거즈 황금기의 일원이었던 이강철(60) KT 위즈 감독과 현대 유니콘스&middot;삼성 라이온즈의 전성기를 이끈 박진만(50) 삼성 감독이 한국시리즈(KS&middot;7전 4승제)에서 만난다. 선수 시절부터 큰 무대의 주인공이었던 &lsquo;KS 타짜&rsquo;들의 대결이다.삼성은
+- 2026-11-03 · [“원작 팬들 실망하지 않도록”…신민아→주지훈, 상상 속 ‘재혼 황후’의 황실이 열린다 [종합]](https://isplus.com/article/view/isp202611030109)
+  · 화려한 황실을 둘러싼 사랑과 배신, 엇갈리는 네 사람의 운명. 오랜 시간 사랑받아 온 &lsquo;재혼 황후&rsquo;의 장대한 서사가 마침내 현실에 펼쳐진다. 신민아, 주지훈, 이세영, 이종석이 원작 속 인물들로 변신해 신비로운 제국을 배경으로 사랑과 욕망이 뒤얽힌 이야기를 그려낸다.3일 오전 서울 여의도 콘래드 서울
+- 2026-11-03 · [‘흐린 기억 속의 그대’ 현진영 “90년대 수입=하루에 7000만원…반포 아파트 전셋값” (같이 삽시다)](https://isplus.com/article/view/isp202611030108)
+  · 가수 현진영이 전성기 시절 하루 공연으로 7000만원을 벌었다고 밝혀 놀라움을 안긴다.오는 4일 방송되는 KBS1 예능 프로그램 &lsquo;황신혜의 같이 삽시다&rsquo;(이하 &lsquo;같이 삽시다&rsquo;)에서는 현진영이 출연해 1990년대 전성기 수입부터 히트곡에 얽힌 가족사까지 공개한다.이날 현진영은 자신
+- 2026-11-03 · [차강윤, ‘언슬전’ 인턴 맞아?... ‘대리수능’서 흙수저 전교 1등 된다](https://isplus.com/article/view/isp202611030107)
+  · 배우 차강윤이 전교 1등 모범생에서 위험한 선택의 기로에 선 고등학생으로 변신한다.티빙 오리지널 시리즈 &lsquo;대리수능&rsquo; 측은 3일 차강윤이 연기하는 강건태의 캐릭터 스틸을 공개했다.&lsquo;대리수능&rsquo;은 인생이 걸린 수능 당일, 서로 다른 결핍과 욕망을 지닌 인물들이 돌이킬 수 없는 범죄에 
+- 2026-11-03 · [‘기업회생’ JTBC, 새 주인 찾기 속도... 법원에 매각공고 허가 신청](https://isplus.com/article/view/isp202611030106)
+  · 기업회생 절차를 진행 중인 종합편성채널 JTBC가 본격적인 매각 작업에 나선다.3일 JTBC와 투자은행(IB) 업계에 따르면 JTBC는 이날 서울회생법원에 매각공고안과 인수의향서(LOI) 제출안내서에 대한 허가를 신청했다.JTBC는 당초 지난달 매각공고를 낼 예정이었으나 일정이 지연됐다. 현재는 법원 승인을 거쳐 이르면 
+- 2026-11-03 · [‘재혼 황후’ 신민아 “이세영, 너무 밝고 사랑스러워…미움받는 라스타 연기 걱정했다”](https://isplus.com/article/view/isp202611030105)
+  · 배우 신민아가 &lsquo;재혼 황후&rsquo;에서 자신과 대립하는 라스타 역을 맡은 이세영의 연기를 극찬하며 고마운 마음을 전했다.3일 오전 서울 여의도 콘래드 서울에서 디즈니플러스 새 시리즈 &lsquo;재혼 황후&rsquo; 제작발표회가 열렸다. 이 자리에는 조수원 감독을 비롯해 배우 신민아, 주지훈, 이세영, 이
+- 2026-11-03 · [이해란이 찾은 돌파구는 궂은일..."우리가 약하다고 생각하지 않아"](https://isplus.com/article/view/isp202611030060)
+  · 여자프로농구(WKBL) 용인 삼성생명 이해란(23&middot;1m82cm)은 지난 1일 개막한 KB스타뱅킹 2026~27 WKBL 정규리그서 최우수선수(MVP) 후보로 꼽히는 선수 중 한 명이다.프로 6년 차를 맞이한 그는 2026 아이치&middot;나고야 아시안게임(AG) 여자농구 일본과 결승전에선 24점을 몰아쳐 
+- 2026-11-03 · [이른 교체는 뮌헨전 위한 포석? "LEE, 다시 선택받을 수 있어"](https://isplus.com/article/view/isp202611030059)
+  · 이강인(25&middot;아틀레티코 마드리드)과 김민재(30&middot;바이에른 뮌헨)의 코리안 더비가 성사될 수 있을까. 스페인 한 현지 매체는 이강인의 선발 출전 가능성을 높게 점쳤다.스페인 매체 문도 데포르티보는 2일(한국시간) "디에고 시메오네 아틀레티코 감독이 패를 감추며 바이에른 뮌헨전 선발에 대한 의문을 낳
+- 2026-11-03 · [[영상] ‘재혼황후’ 신민아X주지훈X이종석X이세영, 비주얼부터 압도적인 황실 라인업…눈 뗄 수 없는 환상 케미](https://isplus.com/article/view/isp202611030103)
+  · 배우 신민아, 주지훈, 이종석, 이세영, 조수원 감독이 3일 오전 서울 영등포구 콘래드 서울에서 열린 디즈니+ 오리지널 시리즈 '재혼 황후' 제작발표회에 참석했다. '재혼 황후'는 동대제국의 완벽한 황후 '나비에'(신민아 분)가 도망 노예 '라스타'(이세영 분)에게 빠진 황제 '소비에슈'(주지훈 분)로부터 이혼을 통보받고
+- 2026-11-03 · [‘재혼 황후’ 주지훈 “소비에슈 마음껏 욕하시길…속 시원하다면 뿌듯”](https://isplus.com/article/view/isp202611030102)
+  · 배우 주지훈이 &lsquo;재혼 황후&rsquo;에서 분노를 유발하는 황제 소비에슈를 연기한 소감을 전했다.3일 오전 서울 여의도 콘래드 서울에서 디즈니플러스 새 시리즈 &lsquo;재혼황후&rsquo; 제작발표회가 열렸다. 이 자리에는 조수원 감독을 비롯해 배우 신민아, 주지훈, 이세영, 이종석 등이 참석했다.&lsqu
+- 2026-11-03 · [골키퍼와 충돌 후 심정지 온 공격수…심폐소생술로 맥박 회복, 의식은 아직](https://isplus.com/article/view/isp202611030096)
+  · 스페인 프로축구 세군다 디비시온 B(라리가2)에서 아찔한 상황이 발생한다. CD 테네리페의 공격수 헤수스 데 미겔(30)이 에스타디오 엘리오도로 로드리게스 로페스에서 FC안도라와 벌인 리그 경기에서 상대 골키퍼와 충돌한 뒤 심정지 상태에 빠진 거다. 현재 의식을 되찾지 못한 채 중환자실에서 치료를 받고 있다.스페인 마르카
+- 2026-11-03 · [[포토] 인사말 하는 이종석](https://isplus.com/article/view/isp202611030101)
+  · 배우 이종석이 3일 서울 영등포구 콘래드 서울에서 열린 디즈니+ 오리지널 시리즈 '재혼 황후' 제작발표회에 참석해 포토타임을 갖고 있다. '재혼 황후'는 동대제국의 완벽한 황후 '나비에'(신민아 분)가 도망 노예 '라스타'(이세영 분)에게 빠진 황제 '소비에슈'(주지훈 분)로부터 이혼을 통보받고, 이를 수락하는 대신 서왕
+- 2026-11-03 · [[포토] 인사말 하는 신민아](https://isplus.com/article/view/isp202611030100)
+  · 배우 신민아가 3일 서울 영등포구 콘래드 서울에서 열린 디즈니+ 오리지널 시리즈 '재혼 황후' 제작발표회에 참석해 포토타임을 갖고 있다. '재혼 황후'는 동대제국의 완벽한 황후 '나비에'(신민아 분)가 도망 노예 '라스타'(이세영 분)에게 빠진 황제 '소비에슈'(주지훈 분)로부터 이혼을 통보받고, 이를 수락하는 대신 서왕
 
 ### 신호
 
 **r/indieheads** (25건)
-- 2026-11-01 · [[FRESH ALBUM] Chanele McGuinness - Tangled at the Core](https://www.reddit.com/r/indieheads/comments/1xl9jd6/fresh_album_chanele_mcguinness_tangled_at_the_core/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl9jd6/fresh_album_chanele_mcguinness_tangled_at_the_core/"> <img src="https://external-preview.redd.it/JEwy
-- 2026-11-01 · [[FRESH ALBUM] Elephant Sessions - This Place of Ours](https://www.reddit.com/r/indieheads/comments/1xl910y/fresh_album_elephant_sessions_this_place_of_ours/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl910y/fresh_album_elephant_sessions_this_place_of_ours/"> <img src="https://external-preview.redd.it/9U9AeA
-- 2026-11-01 · [[FRESH ALBUM] CCCC (Chiara Civello & Clap! Clap!) - CCCC](https://www.reddit.com/r/indieheads/comments/1xl8z17/fresh_album_cccc_chiara_civello_clap_clap_cccc/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl8z17/fresh_album_cccc_chiara_civello_clap_clap_cccc/"> <img src="https://external-preview.redd.it/rCm2kN-O
-- 2026-11-01 · [[FRESH ALBUM] Nouvelle Vague - A Date with Depeche Mode](https://www.reddit.com/r/indieheads/comments/1xl8x6m/fresh_album_nouvelle_vague_a_date_with_depeche/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl8x6m/fresh_album_nouvelle_vague_a_date_with_depeche/"> <img src="https://external-preview.redd.it/teRI7K5A
-- 2026-11-01 · [[FRESH ALBUM] Lele Javel - Stereogefühle](https://www.reddit.com/r/indieheads/comments/1xl8w1t/fresh_album_lele_javel_stereogefühle/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl8w1t/fresh_album_lele_javel_stereogefühle/"> <img src="https://external-preview.redd.it/yaXgG4XJ5Mmu9zTVke
-- 2026-11-01 · [[FRESH ALBUM] Bitw - Gaddo Glaw](https://www.reddit.com/r/indieheads/comments/1xl8tne/fresh_album_bitw_gaddo_glaw/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl8tne/fresh_album_bitw_gaddo_glaw/"> <img src="https://external-preview.redd.it/tI6sE4TSnNX3DWvQI6r2eiSJscz
-- 2026-11-01 · [[FRESH ALBUM] Gloria de Oliveira - The Lying Swans](https://www.reddit.com/r/indieheads/comments/1xl8t4m/fresh_album_gloria_de_oliveira_the_lying_swans/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl8t4m/fresh_album_gloria_de_oliveira_the_lying_swans/"> <img src="https://external-preview.redd.it/70R9uifK
-- 2026-11-01 · [[FRESH ALBUM] Elke - Big Mike](https://www.reddit.com/r/indieheads/comments/1xl8sbd/fresh_album_elke_big_mike/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl8sbd/fresh_album_elke_big_mike/"> <img src="https://external-preview.redd.it/4a5S0UAtucIUagxiOQP8W8iwkENzn
-- 2026-11-01 · [[FRESH ALBUM] Dog Unit - Runners](https://www.reddit.com/r/indieheads/comments/1xl8rt7/fresh_album_dog_unit_runners/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl8rt7/fresh_album_dog_unit_runners/"> <img src="https://external-preview.redd.it/w9FdqsWrU71sMS5w3lfOT9NAmP
-- 2026-11-01 · [[FRESH ALBUM] Warrington-Runcorn New Town Development Plan - Industrial Growth](https://www.reddit.com/r/indieheads/comments/1xl8raj/fresh_album_warringtonruncorn_new_town/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl8raj/fresh_album_warringtonruncorn_new_town/"> <img src="https://external-preview.redd.it/eX2RMiyCf4_dmqLY
-- 2026-11-01 · [[FRESH ALBUM] Shook - Arcana](https://www.reddit.com/r/indieheads/comments/1xl8qr5/fresh_album_shook_arcana/)
-  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xl8qr5/fresh_album_shook_arcana/"> <img src="https://external-preview.redd.it/DHvDAPRatAAYTXvi16vhfri2D_cJI8
-- 2026-11-01 · [Your /r/indieheads [FRESH] recap for the week of October 25 - October 31, 2026](https://www.reddit.com/r/indieheads/comments/1xl6rt4/your_rindieheads_fresh_recap_for_the_week_of/)
-  · <!-- SC_OFF --><div class="md"><p><strong>Sunday, October 25 - Saturday, October 31, 2026</strong></p> <h3>Fresh Albums</h3> <table><thead> <tr> <th>score</th> <th>comments</th> <t
-
-**r/hiphopheads** (25건)
-- 2026-11-02 · [Future & Metro Boomin feat. J Cole - Red Leather](https://www.reddit.com/r/hiphopheads/comments/1xlk9q7/future_metro_boomin_feat_j_cole_red_leather/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/kanyefan_24"> /u/kanyefan_24 </a> <br/> <span><a href="https://youtu.be/C_j04lSGZWs?si=Pwj5UKXKbGWUtY3s">[link]</a></s
-- 2026-11-02 · [[FRESH] EverythingOShauN - FRESHWHITETOES (feat. iBXRHM)](https://www.reddit.com/r/hiphopheads/comments/1xliybf/fresh_everythingoshaun_freshwhitetoes_feat_ibxrhm/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/Trick_Nebula"> /u/Trick_Nebula </a> <br/> <span><a href="https://open.spotify.com/album/0LXbnNYKHDhmrS6SQvDaYq">[link]
-- 2026-11-01 · [[FRESH ALBUM] monti - one-winged angel](https://www.reddit.com/r/hiphopheads/comments/1xlhfy4/fresh_album_monti_onewinged_angel/)
-  · <!-- SC_OFF --><div class="md"><p>mönti, the artist also known as Chester Watson, has emerged as one of the most notable voices of the underground. one-winged angel marks mönti&#39
-- 2026-11-01 · [[Fresh] Sheek Louch Ft. Jadakiss x Conway The Machine - Coke On Loose Leaf (Prod. Jahlil Beats)](https://www.reddit.com/r/hiphopheads/comments/1xlg14l/fresh_sheek_louch_ft_jadakiss_x_conway_the/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/Akverse47"> /u/Akverse47 </a> <br/> <span><a href="https://youtu.be/6gkJ6OaS1qk?si=xBSNmkc8u5-rzq-o">[link]</a></span>
-- 2026-11-01 · [Kid Rock Reveals He Used AI on New Song with Eminem](https://www.reddit.com/r/hiphopheads/comments/1xleyyp/kid_rock_reveals_he_used_ai_on_new_song_with/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/kanyefan_24"> /u/kanyefan_24 </a> <br/> <span><a href="https://consequence.net/2026/11/kid-rock-reveals-he-used-ai-on-
-- 2026-11-01 · [Curren$y & Harry Fraud Announce New Album "Off To The Races" dropping November 13 (tracklist and features revealed)](https://www.reddit.com/r/hiphopheads/comments/1xle3jc/curreny_harry_fraud_announce_new_album_off_to_the/)
-  · <!-- SC_OFF --><div class="md"><ol> <li><p>Colorblast </p></li> <li><p>White Linen Dinner</p></li> <li><p>The Telethon (<strong>feat. Rome Streetz</strong>)</p></li> <li><p>Kamikaz
-- 2026-11-01 · [Eminem Taps Wu-Tang Clan to Headline Halftime Show of Detroit Lions' Thanksgiving Day Game](https://www.reddit.com/r/hiphopheads/comments/1xlcmhe/eminem_taps_wutang_clan_to_headline_halftime_show/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/ebradio"> /u/ebradio </a> <br/> <span><a href="https://consequence.net/2026/11/wu-tang-clan-thanksgiving-day-lions-hal
-- 2026-11-01 · [[Fresh Album] Sheek Louch - Gorillaween 8 (Ft. Styles P, Jadakiss, Conway The Machine)](https://www.reddit.com/r/hiphopheads/comments/1xlbusp/fresh_album_sheek_louch_gorillaween_8_ft_styles_p/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/Akverse47"> /u/Akverse47 </a> <br/> <span><a href="https://open.spotify.com/album/0MtXuk2WE6f88l6PDiWVeN?si=Xxj-VljORu
-- 2026-11-01 · [[LEAK] Future & Tight - You Don't Belong (2005)](https://www.reddit.com/r/hiphopheads/comments/1xlb84t/leak_future_tight_you_dont_belong_2005/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/StillBeamen"> /u/StillBeamen </a> <br/> <span><a href="https://www.youtube.com/watch?v=ITSs--e-GhY">[link]</a></span> 
-- 2026-11-01 · [[LEAK] Future - We on It (ft. Tight, Head, & Big Mark) (2005)](https://www.reddit.com/r/hiphopheads/comments/1xlb74d/leak_future_we_on_it_ft_tight_head_big_mark_2005/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/StillBeamen"> /u/StillBeamen </a> <br/> <span><a href="https://www.youtube.com/watch?v=mc17tsjQl0o">[link]</a></span> 
-- 2026-11-01 · [[LEAK] Future - We Ain't Playin (ft. Tight & Marc Decoca) (2005)](https://www.reddit.com/r/hiphopheads/comments/1xlb5v2/leak_future_we_aint_playin_ft_tight_marc_decoca/)
-  · &#32; submitted by &#32; <a href="https://www.reddit.com/user/StillBeamen"> /u/StillBeamen </a> <br/> <span><a href="https://www.youtube.com/watch?v=2QGLVAh4sm0">[link]</a></span> 
-- 2026-11-01 · [[FRESH VIDEO] D. Gutta - Cadillac Man (Official Video | Gutterman Movie Soundtrack)](https://www.reddit.com/r/hiphopheads/comments/1xl9y2c/fresh_video_d_gutta_cadillac_man_official_video/)
-  · <!-- SC_OFF --><div class="md"><p>I produced the beat, laid the vocals, and animated this entire 70s Blaxploitation visual myself.</p> <p>&quot;Cadillac Man&quot; is the lead singl
+- 2026-11-02 · [[FRESH] Chastity Belt - Friends for This](https://www.reddit.com/r/indieheads/comments/1xmdna5/fresh_chastity_belt_friends_for_this/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xmdna5/fresh_chastity_belt_friends_for_this/"> <img src="https://external-preview.redd.it/MIABOLOIS6v-POBbDs
+- 2026-11-02 · [Panchiko Announce Tour Dates](https://www.reddit.com/r/indieheads/comments/1xmakd0/panchiko_announce_tour_dates/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xmakd0/panchiko_announce_tour_dates/"> <img src="https://preview.redd.it/j570dwt3s9zh1.jpeg?width=640&amp;cr
+- 2026-11-02 · [Staff Picks: Best Albums of October 2026 (Consequence)](https://www.reddit.com/r/indieheads/comments/1xmac5o/staff_picks_best_albums_of_october_2026/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xmac5o/staff_picks_best_albums_of_october_2026/"> <img src="https://external-preview.redd.it/iHjfc2pBX9vi_8T
+- 2026-11-02 · [[AMA ANNOUNCEMENT] WHY? on Wednesday, November 4th @ 6pm ET/3pm PT!](https://www.reddit.com/r/indieheads/comments/1xm9bke/ama_announcement_why_on_wednesday_november_4th/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xm9bke/ama_announcement_why_on_wednesday_november_4th/"> <img src="https://external-preview.redd.it/p5i1MTU1
+- 2026-11-02 · [[FRESH PERFORMANCE] Frankie Master - Many Moons (Live at Welles Park)](https://www.reddit.com/r/indieheads/comments/1xm8e09/fresh_performance_frankie_master_many_moons_live/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xm8e09/fresh_performance_frankie_master_many_moons_live/"> <img src="https://external-preview.redd.it/KvJsio
+- 2026-11-02 · [[FRESH] Buddha G Bahía - Honesty Honestly](https://www.reddit.com/r/indieheads/comments/1xm5nb2/fresh_buddha_g_bahía_honesty_honestly/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xm5nb2/fresh_buddha_g_bahía_honesty_honestly/"> <img src="https://external-preview.redd.it/ZciLa9H6Ved3RPHw3
+- 2026-11-02 · [[FRESH PERFORMANCE] deadharrie - backyard on bassett](https://www.reddit.com/r/indieheads/comments/1xm5gdw/fresh_performance_deadharrie_backyard_on_bassett/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xm5gdw/fresh_performance_deadharrie_backyard_on_bassett/"> <img src="https://external-preview.redd.it/qv7ExS
+- 2026-11-02 · [[DISCUSSION] "It was starting to become more desperate, the way that I was numbing," says Orville Peck of his rock bottom moment, hours before Madison Square Garden show](https://www.reddit.com/r/indieheads/comments/1xm39h8/discussion_it_was_starting_to_become_more/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xm39h8/discussion_it_was_starting_to_become_more/"> <img src="https://preview.redd.it/dtt6am6wf8zh1.png?widt
+- 2026-11-02 · [@'s folk songs are beguiling and beautiful](https://www.reddit.com/r/indieheads/comments/1xm3887/s_folk_songs_are_beguiling_and_beautiful/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xm3887/s_folk_songs_are_beguiling_and_beautiful/"> <img src="https://external-preview.redd.it/sCsFelyJOQJPHC
+- 2026-11-02 · [Trent Reznor and Atticus Ross Scored David Fincher’s The Further Mis-Adventures of Cliff Booth](https://www.reddit.com/r/indieheads/comments/1xm2s51/trent_reznor_and_atticus_ross_scored_david/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xm2s51/trent_reznor_and_atticus_ross_scored_david/"> <img src="https://external-preview.redd.it/pf2nUHdMzHHd
+- 2026-11-02 · [Hey it’s 54 Ultra, AMA!!](https://www.reddit.com/r/indieheads/comments/1xm2n10/hey_its_54_ultra_ama/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xm2n10/hey_its_54_ultra_ama/"> <img src="https://preview.redd.it/76e5a90gc8zh1.jpeg?width=140&amp;height=140
+- 2026-11-02 · [[FRESH INTERVIEW] J Mascis of Dinosaur Jr. on touring, old gear, and breaking CD players | KCRW Interview](https://www.reddit.com/r/indieheads/comments/1xm24an/fresh_interview_j_mascis_of_dinosaur_jr_on/)
+  · <table> <tr><td> <a href="https://www.reddit.com/r/indieheads/comments/1xm24an/fresh_interview_j_mascis_of_dinosaur_jr_on/"> <img src="https://external-preview.redd.it/7brsemVG7uOe
