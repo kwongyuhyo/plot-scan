@@ -1,22 +1,14 @@
-# PLOT 데일리 브리프 — 2026-11-03
+# PLOT 데일리 브리프 — 2026-11-04
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-11-02
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-11-03
 
-> 밀도(Spotify 200 중 워치리스트): 56곡 · 28.0% (2026-11-02 대비 ▲1.5p)
+> 밀도(Spotify 200 중 워치리스트): 56곡 · 28.0% (2026-11-03 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 
-- **197위** LEE MU JIN - Propose (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 3곡 동시
-- **198위** Kim Hyung Joong - She's laughing (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 단독
 - **7위** Redoor - Forever Has Always Been (+2) · Days 533
   ▸ 하락 (한때 5위, −2)
   ▸ 롱테일 (약 18개월)
@@ -67,7 +59,15 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
   ▸ 하락 (한때 15위, −42)
   ▸ 롱테일 (약 23개월)
   ▸ GRAY · 카탈로그 단독
-_…외 5건 (원자료 참조)_
+- **92위** Dynamicduo - Guilty (-3) · Days 395
+  ▸ 하락 (한때 83위, −9)
+  ▸ 롱테일 (약 13개월)
+  ▸ 다이나믹듀오 · 카탈로그 단독
+- **115위** Yerin Baek - Antifreeze (+3) · Days 752
+  ▸ 하락 (한때 5위, −110)
+  ▸ 롱테일 (약 25개월)
+  ▸ 백예린 · 카탈로그 단독
+_…외 3건 (원자료 참조)_
 
 ## 오음소 소재
 _소식 — 급등·재진입·오래된 곡의 이변_
@@ -166,46 +166,38 @@ _맥락 — 카탈로그 다곡·플랫폼 괴리_
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
 _…외 18곡군: Hearts2Hearts(6) · RESCENE(5) · AKMU(4) · NMIXX(3) · Sung Si Kyung(3) · LEE MU JIN(3) · NewJeans(3) · BIGBANG(3) · A2O(2) · Jimin(2) · ATEEZ(2) · KiiiKiii(2) · YANGHONGWON(2) · The Weeknd(2) · Tim(2) · Justin Bieber(2) · M.C the Max(2) · Kenshi Yonezu(2)_
 
-_조인: YouTube 20곡 중 15곡 Spotify 매칭(정확 14·제목폴백 1) · 미매칭 5곡은 아래 'YouTube 선행'_
+_조인: YouTube 20곡 중 14곡 Spotify 매칭(정확 14·제목폴백 0) · 미매칭 6곡은 아래 'YouTube 선행'_
 
 **플랫폼 동반 (Spotify＋YouTube · 진짜 확산 → 특집)**
-- **Epik High - Mise en scène (w/ DAVICHI )** — SP 56위 · YT 11위  ← **워치리스트**
-- **A2O - NEON (w/ A2O LITE )** — SP 1위 · YT 2위
-- **IVE - Looks Can Kill** — SP 3위 · YT 7위
-- **RESCENE - LOVE ATTACK** — SP 6위 · YT 10위
-- **CORTIS - REDRED** — SP 9위 · YT 14위
+- **Epik High - Mise en scène (w/ DAVICHI )** — SP 56위 · YT 15위  ← **워치리스트**
+- **A2O - NEON (w/ A2O LITE )** — SP 1위 · YT 1위
+- **IVE - Looks Can Kill** — SP 3위 · YT 6위
+- **RESCENE - LOVE ATTACK** — SP 6위 · YT 9위
+- **CORTIS - REDRED** — SP 9위 · YT 17위
 - **RESCENE - Deja Vu** — SP 10위 · YT 16위
 - **ATEEZ - BAD** — SP 11위 · YT 8위
-- **RESCENE - Pretty Girl** — SP 15위 · YT 13위
-- **WOODZ - Drowning** — SP 19위 · YT 20위
-- **aespa - LEMONADE** — SP 20위 · YT 15위
-- **Hearts2Hearts - RUDE!** — SP 23위 · YT 17위
-- **ILLIT - It's Me** — SP 29위 · YT 19위
-_…외 3곡_
+- **RESCENE - Pretty Girl** — SP 15위 · YT 18위
+- **WOODZ - Drowning** — SP 19위 · YT 19위
+- **aespa - LEMONADE** — SP 20위 · YT 11위
+- **Hearts2Hearts - RUDE!** — SP 23위 · YT 14위
+- **ILLIT - It's Me** — SP 29위 · YT 20위
+_…외 2곡_
 
 **YouTube 선행 (Spotify 200위 밖 · 대중·영상이 먼저 → MV/라이브클립 앵글)**
-- MEOMURU - 꿈꾸던 어른이 되었나요? — YT 3위 (NEW)
-- SOYEON - 퇴사할게여 — YT 4위 (NEW)
-- ILLIT - 체포하겠어 — YT 6위 (NEW)
-- Crush - 삐그덕 (feat. IU) — YT 9위 (NEW)
-- Choi Yu Ree - 생각을 멈추다 보면 — YT 18위 (NEW)  ← **워치리스트**
+- MEOMURU - 꿈꾸던 어른이 되었나요? — YT 2위 (NEW)
+- ILLIT - 체포하겠어 — YT 3위 (NEW)
+- AND2BLE - French Kissing — YT 4위 (NEW)
+- SOYEON - 퇴사할게여 — YT 5위 (NEW)
+- K/DA - FIRESTARTER (feat. Sophie Powers, MIYEON & 소연 (SOYEON)) — YT 12위 (NEW)
+- Crush - 삐그덕 (feat. IU) — YT 13위 (NEW)
 
 ---
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-11-02_
+_비교 기준: 2026-11-03_
 ### 신규 진입
-- **123위** Sung Si Kyung - Fije (RE) · Days 44
-- **146위** Position - I Love You (RE) · Days 3
-- **167위** Choi Yu Ree - Forest (RE) · Days 396
-- **171위** Jung Seung Hwan - The Snowman (RE) · Days 318
-- **180위** Loco - Spring Is Gone by chance (w/ YUJU ) (RE) · Days 198
-- **185위** 데이먼스 이어 Damons year - Mondegreen (RE) · Days 32
-- **187위** Loco - It Takes Time (Feat. Colde) (w/ Colde ) (RE) · Days 11
-- **195위** The Walters - I Love You So (RE) · Days 783
-- **197위** LEE MU JIN - Propose (NEW) · Days 1
-- **198위** Kim Hyung Joong - She's laughing (NEW) · Days 1
+없음
 ### 급등 (+15↑)
 - **59위** Heize - And July (w/ DEAN , dj friz ) (+18) · Days 166
 - **65위** OFFICIAL HIGE DANDISM - Pretender (+19) · Days 861
@@ -292,18 +284,21 @@ _비교 기준: 2026-11-02_
 - **199위** Beenzino - Aqua Man (-7) · Days 189  ← **빈지노**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-11-02_
+_비교 기준: 2026-11-03_
 ### 신규 진입
-없음
+- **4위** AND2BLE - French Kissing (NEW)
+- **7위** BABYMONSTER - DESERVE (NEW)
+- **12위** K/DA - FIRESTARTER (feat. Sophie Powers, MIYEON & 소연 (SOYEON)) (NEW)
 ### 급등 (+15↑)
 없음
 ### 재진입 (RE)
 없음
 ### 이탈 (전일 100위 내)
-없음
-### 워치리스트 히트 (2)
-- **11위** Epik High - Mise en scène (NEW)  ← **에픽하이**
-- **18위** Choi Yu Ree - 생각을 멈추다 보면 (NEW)  ← **최유리**
+- **1위** LISA - Tarantino (NEW)
+- **5위** K-NIGHTCORE - DESERVE (NEW)
+- **18위** Choi Yu Ree - 생각을 멈추다 보면 (NEW)
+### 워치리스트 히트 (1)
+- **15위** Epik High - Mise en scène (NEW)  ← **에픽하이**
 
 ---
 괴리 읽기: Spotify O/멜론 X → 오늘의 노래 · Shorts O/Top X → 이슈 · 전 차트 동반 → 특집. 자세한 건 운영 루틴 v10 §5-2.
