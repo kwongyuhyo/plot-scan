@@ -1,186 +1,185 @@
-# PLOT 데일리 브리프 — 2026-11-04
+# PLOT 데일리 브리프 — 2026-11-05
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-11-03
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-11-04
 
-> 밀도(Spotify 200 중 워치리스트): 56곡 · 28.0% (2026-11-03 대비 =0.0p)
+> 밀도(Spotify 200 중 워치리스트): 49곡 · 24.5% (2026-11-04 대비 ▼3.5p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 
-- **7위** Redoor - Forever Has Always Been (+2) · Days 533
-  ▸ 하락 (한때 5위, −2)
+- **3위** RESCENE - With (NEW) · Days 1
+  ▸ 상승 중 (정점 미도달)
+  ▸ 신곡
+  ▸ 워치리스트 ✗ · 카탈로그 10곡 동시
+- **8위** RESCENE - Inside Out (NEW) · Days 1
+  ▸ 상승 중 (정점 미도달)
+  ▸ 신곡
+  ▸ 워치리스트 ✗ · 카탈로그 10곡 동시
+- **9위** RESCENE - Finest Thing (NEW) · Days 1
+  ▸ 상승 중 (정점 미도달)
+  ▸ 신곡
+  ▸ 워치리스트 ✗ · 카탈로그 10곡 동시
+- **15위** RESCENE - MEME (NEW) · Days 1
+  ▸ 상승 중 (정점 미도달)
+  ▸ 신곡
+  ▸ 워치리스트 ✗ · 카탈로그 10곡 동시
+- **21위** RESCENE - Dragon (NEW) · Days 1
+  ▸ 상승 중 (정점 미도달)
+  ▸ 신곡
+  ▸ 워치리스트 ✗ · 카탈로그 10곡 동시
+- **108위** TWS - Call My Name (+83) · Days 2
+  ▸ 상승 중 (정점 미도달)
+  ▸ 신곡
+  ▸ 워치리스트 ✗ · 카탈로그 단독
+- **12위** Redoor - Forever Has Always Been (-4) · Days 535
+  ▸ 하락 (한때 5위, −7)
   ▸ 롱테일 (약 18개월)
   ▸ Redoor · 카탈로그 단독
-- **12위** Nerd Connection - If I have you only (My love X Nerd Connection) (+1) · Days 1082
-  ▸ 하락 (한때 9위, −3)
+- **17위** Nerd Connection - If I have you only (My love X Nerd Connection) (-3) · Days 1084
+  ▸ 하락 (한때 9위, −8)
   ▸ 롱테일 (약 36개월)
   ▸ 너드커넥션 · 카탈로그 2곡 동시
-- **14위** HANRORO - Landing in Love (+1) · Days 475
-  ▸ 하락 (한때 1위, −13)
+- **18위** HANRORO - Landing in Love (-3) · Days 477
+  ▸ 하락 (한때 1위, −17)
   ▸ 롱테일 (약 16개월)
   ▸ 한로로 · 카탈로그 3곡 동시
-- **16위** HANRORO - 0+0 (+1) · Days 410
-  ▸ 하락 (한때 1위, −15)
-  ▸ 롱테일 (약 14개월)
-  ▸ 한로로 · 카탈로그 3곡 동시
-- **21위** HANRORO - Let Me Love My Youth (+5) · Days 478
-  ▸ 하락 (한때 6위, −15)
+- **27위** HANRORO - Let Me Love My Youth (+5) · Days 480
+  ▸ 하락 (한때 6위, −21)
   ▸ 롱테일 (약 16개월)
   ▸ 한로로 · 카탈로그 3곡 동시
-- **24위** BIG Naughty - Vancouver (-3) · Days 1284
-  ▸ 하락 (한때 19위, −5)
-  ▸ 롱테일 (약 43개월)
-  ▸ 빅나티 · 카탈로그 3곡 동시
-- **25위** JANNABI - for lovers who hesitate (+3) · Days 1896
-  ▸ 하락 (한때 21위, −4)
-  ▸ 롱테일 (약 63개월)
-  ▸ 잔나비 · 카탈로그 3곡 동시
-- **27위** BIG Naughty - Nostalgia (-3) · Days 63
-  ▸ 하락 (한때 1위, −26)
-  ▸ 빅나티 · 카탈로그 3곡 동시
-- **31위** 데이먼스 이어 Damons year - yours (+2) · Days 1466
-  ▸ 하락 (한때 6위, −25)
+- **38위** 데이먼스 이어 Damons year - yours (-5) · Days 1468
+  ▸ 하락 (한때 6위, −32)
   ▸ 롱테일 (약 49개월)
-  ▸ 데이먼스 이어 · 카탈로그 2곡 동시
-- **34위** The Black Skirts - Ling Ling (+4) · Days 361
-  ▸ 하락 (한때 21위, −13)
-  ▸ 롱테일 (약 12개월)
-  ▸ 검정치마 · 카탈로그 5곡 동시
-- **38위** NELL - The time of walking on remembrance (+2) · Days 138
-  ▸ 상승 중 (정점 미도달)
-  ▸ 넬 · 카탈로그 단독
-- **55위** Epik High - Love Love Love (-2) · Days 355
-  ▸ 하락 (한때 5위, −50)
-  ▸ 롱테일 (약 12개월)
-  ▸ 에픽하이 · 카탈로그 3곡 동시
-- **57위** Woo - We Are (w/ Loco , GRAY ) (+1) · Days 684
-  ▸ 하락 (한때 15위, −42)
+  ▸ 데이먼스 이어 · 카탈로그 단독
+- **51위** Choi Yu Ree - When I stop thinking (-4) · Days 120
+  ▸ 하락 (한때 47위, −4)
+  ▸ 최유리 · 카탈로그 2곡 동시
+- **67위** Woo - We Are (w/ Loco , GRAY ) (-2) · Days 686
+  ▸ 하락 (한때 15위, −52)
   ▸ 롱테일 (약 23개월)
   ▸ GRAY · 카탈로그 단독
-- **92위** Dynamicduo - Guilty (-3) · Days 395
-  ▸ 하락 (한때 83위, −9)
-  ▸ 롱테일 (약 13개월)
-  ▸ 다이나믹듀오 · 카탈로그 단독
-- **115위** Yerin Baek - Antifreeze (+3) · Days 752
-  ▸ 하락 (한때 5위, −110)
-  ▸ 롱테일 (약 25개월)
-  ▸ 백예린 · 카탈로그 단독
-_…외 3건 (원자료 참조)_
+- **73위** Heize - And July (w/ DEAN , dj friz ) (-4) · Days 168
+  ▸ 하락 (한때 52위, −21)
+  ▸ DEAN · 카탈로그 단독
+- **81위** The Black Skirts - 1:05 (+5) · Days 566
+  ▸ 하락 (한때 45위, −36)
+  ▸ 롱테일 (약 19개월)
+  ▸ 검정치마 · 카탈로그 5곡 동시
+_…외 8건 (원자료 참조)_
 
 ## 오음소 소재
 _소식 — 급등·재진입·오래된 곡의 이변_
 
-- **134위** BIG Naughty - Beyond Love (Feat. 10CM) (w/ 10CM ) (+55) · Days 652
-  ▸ 하락 (한때 2위, −132)
-  ▸ 롱테일 (약 22개월)
-  ▸ 10CM · 카탈로그 3곡 동시
-- **130위** BOOHWAL - Never Ending Story (+47) · Days 395
-  ▸ 하락 (한때 58위, −72)
-  ▸ 롱테일 (약 13개월)
+- **108위** TWS - Call My Name (+83) · Days 2
+  ▸ 상승 중 (정점 미도달)
+  ▸ 신곡
   ▸ 워치리스트 ✗ · 카탈로그 단독
-- **129위** AKMU - Last Goodbye (+38) · Days 130
-  ▸ 하락 (한때 64위, −65)
-  ▸ 워치리스트 ✗ · 카탈로그 4곡 동시
-- **125위** JANNABI - A thought on an autumn night (+37) · Days 136
-  ▸ 하락 (한때 99위, −26)
-  ▸ 잔나비 · 카탈로그 3곡 동시
-- **113위** Jimin - Be Mine (+35) · Days 816
-  ▸ 하락 (한때 2위, −111)
+- **113위** Paul Kim - Every day, Every Moment (+46) · Days 630
+  ▸ 하락 (한때 62위, −51)
+  ▸ 롱테일 (약 21개월)
+  ▸ 워치리스트 ✗ · 카탈로그 단독
+- **127위** Roy Kim - If You Ask Me What Love Is (+40) · Days 218
+  ▸ 하락 (한때 81위, −46)
+  ▸ 워치리스트 ✗ · 카탈로그 단독
+- **159위** LEE MU JIN - Episode (+37) · Days 771
+  ▸ 하락 (한때 69위, −90)
+  ▸ 롱테일 (약 26개월)
+  ▸ 워치리스트 ✗ · 카탈로그 2곡 동시
+- **86위** izna - SIGN (+34) · Days 152
+  ▸ 하락 (한때 49위, −37)
+  ▸ 워치리스트 ✗ · 카탈로그 단독
+- **119위** Younha - Event Horizon (+33) · Days 484
+  ▸ 하락 (한때 1위, −118)
+  ▸ 롱테일 (약 16개월)
+  ▸ 워치리스트 ✗ · 카탈로그 단독
+- **147위** Car, the garden - 나무 (+31) · Days 569
+  ▸ 하락 (한때 47위, −100)
+  ▸ 롱테일 (약 19개월)
+  ▸ 카더가든 · 카탈로그 3곡 동시
+- **109위** Hearts2Hearts - The Chase (+20) · Days 595
+  ▸ 하락 (한때 6위, −103)
+  ▸ 롱테일 (약 20개월)
+  ▸ 워치리스트 ✗ · 카탈로그 7곡 동시
+- **155위** M.C the Max - 행복하지 말아요 (+17) · Days 79
+  ▸ 하락 (한때 72위, −83)
+  ▸ 워치리스트 ✗ · 카탈로그 2곡 동시
+- **156위** BIGBANG - Sunset Glow (+17) · Days 359
+  ▸ 하락 (한때 50위, −106)
+  ▸ 롱테일 (약 12개월)
+  ▸ 워치리스트 ✗ · 카탈로그 2곡 동시
+- **170위** DAY6 - HAPPY (+17) · Days 808
+  ▸ 하락 (한때 4위, −166)
+  ▸ 롱테일 (약 27개월)
+  ▸ 데이식스 · 카탈로그 3곡 동시
+- **177위** Loco - Say Yes (w/ Punch ) (+16) · Days 504
+  ▸ 하락 (한때 61위, −116)
+  ▸ 롱테일 (약 17개월)
+  ▸ 로꼬 · 카탈로그 단독
+- **107위** Jimin - Be Mine (+15) · Days 818
+  ▸ 하락 (한때 2위, −105)
   ▸ 롱테일 (약 27개월)
   ▸ 워치리스트 ✗ · 카탈로그 2곡 동시
-- **138위** The Black Skirts - Antifreeze (+35) · Days 302
-  ▸ 하락 (한때 83위, −55)
-  ▸ 롱테일 (약 10개월)
+- **115위** AKMU - Last Goodbye (+15) · Days 132
+  ▸ 하락 (한때 64위, −51)
+  ▸ 워치리스트 ✗ · 카탈로그 4곡 동시
+- **125위** The Black Skirts - Till The End of Time (+12) · Days 342
+  ▸ 하락 (한때 67위, −58)
+  ▸ 롱테일 (약 11개월)
   ▸ 검정치마 · 카탈로그 5곡 동시
-- **112위** wave to earth - love. (+34) · Days 366
-  ▸ 하락 (한때 95위, −17)
-  ▸ 롱테일 (약 12개월)
-  ▸ wave to earth · 카탈로그 단독
-- **121위** Loco - Say Yes (w/ Punch ) (+33) · Days 502
-  ▸ 하락 (한때 61위, −60)
-  ▸ 롱테일 (약 17개월)
-  ▸ 로꼬 · 카탈로그 3곡 동시
-- **127위** Parc Jae Jung - Let's Say Goodbye (+32) · Days 388
-  ▸ 하락 (한때 30위, −97)
-  ▸ 롱테일 (약 13개월)
-  ▸ 워치리스트 ✗ · 카탈로그 단독
-- **154위** Baek A - Amor (+29) · Days 1215
-  ▸ 하락 (한때 16위, −138)
-  ▸ 롱테일 (약 41개월)
-  ▸ 워치리스트 ✗ · 카탈로그 단독
-- **157위** Yoon Jong Shin - Like it (+25) · Days 41
-  ▸ 하락 (한때 112위, −45)
-  ▸ 워치리스트 ✗ · 카탈로그 단독
-- **141위** DEAN - instagram (+24) · Days 1353
-  ▸ 하락 (한때 60위, −81)
-  ▸ 롱테일 (약 45개월)
-  ▸ DEAN · 카탈로그 단독
-- **103위** The Black Skirts - EVERYTHING (+23) · Days 1336
-  ▸ 하락 (한때 70위, −33)
-  ▸ 롱테일 (약 45개월)
-  ▸ 검정치마 · 카탈로그 5곡 동시
-- **177위** Dhruv - double take (+23) · Days 1818
-  ▸ 하락 (한때 30위, −147)
-  ▸ 롱테일 (약 61개월)
-  ▸ 워치리스트 ✗ · 카탈로그 단독
-- **97위** HYUKOH - TOMBOY (+22) · Days 876
-  ▸ 하락 (한때 39위, −58)
-  ▸ 롱테일 (약 29개월)
-  ▸ 혁오 · 카탈로그 단독
-_…외 29건 (원자료 참조)_
+_…외 21건 (원자료 참조)_
 
 ## 특집 신호
 _맥락 — 카탈로그 다곡·플랫폼 괴리_
 
-- **The Black Skirts** — 카탈로그 5곡 동시 차트인 (34위·58위·84위·103위·138위)  ← **워치리스트**
+- **The Black Skirts** — 카탈로그 5곡 동시 차트인 (43위·81위·125위·153위·172위)  ← **워치리스트**
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **HANRORO** — 카탈로그 3곡 동시 차트인 (14위·16위·21위)  ← **워치리스트**
+- **HANRORO** — 카탈로그 3곡 동시 차트인 (18위·22위·27위)  ← **워치리스트**
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **BIG Naughty** — 카탈로그 3곡 동시 차트인 (24위·27위·134위)  ← **워치리스트**
+- **BIG Naughty** — 카탈로그 3곡 동시 차트인 (34위·35위·199위)  ← **워치리스트**
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **JANNABI** — 카탈로그 3곡 동시 차트인 (25위·125위·190위)  ← **워치리스트**
+- **Epik High** — 카탈로그 3곡 동시 차트인 (62위·65위·158위)  ← **워치리스트**
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **Epik High** — 카탈로그 3곡 동시 차트인 (55위·56위·74위)  ← **워치리스트**
+- **Car, the garden** — 카탈로그 3곡 동시 차트인 (72위·123위·147위)  ← **워치리스트**
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **Car, the garden** — 카탈로그 3곡 동시 차트인 (82위·161위·183위)  ← **워치리스트**
+- **DAY6** — 카탈로그 3곡 동시 차트인 (140위·150위·170위)  ← **워치리스트**
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **Loco** — 카탈로그 3곡 동시 차트인 (121위·180위·187위)  ← **워치리스트**
+- **Nerd Connection** — 카탈로그 2곡 동시 차트인 (17위·36위)  ← **워치리스트**
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **DAY6** — 카탈로그 3곡 동시 차트인 (162위·166위·191위)  ← **워치리스트**
+- **JANNABI** — 카탈로그 2곡 동시 차트인 (37위·200위)  ← **워치리스트**
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **Nerd Connection** — 카탈로그 2곡 동시 차트인 (12위·26위)  ← **워치리스트**
+- **Choi Yu Ree** — 카탈로그 2곡 동시 차트인 (51위·175위)  ← **워치리스트**
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **데이먼스 이어 Damons year** — 카탈로그 2곡 동시 차트인 (31위·185위)  ← **워치리스트**
+- **Primary** — 카탈로그 2곡 동시 차트인 (130위·168위)  ← **워치리스트**
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **Choi Yu Ree** — 카탈로그 2곡 동시 차트인 (54위·167위)  ← **워치리스트**
+- **Lim Young Woong** — 카탈로그 12곡 동시 차트인 (45위·69위·75위·84위·92위·97위·106위·110위·111위·120위·138위·174위)
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **Primary** — 카탈로그 2곡 동시 차트인 (124위·163위)  ← **워치리스트**
+- **RESCENE** — 카탈로그 10곡 동시 차트인 (3위·7위·8위·9위·13위·15위·19위·21위·40위·42위)
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **Lim Young Woong** — 카탈로그 11곡 동시 차트인 (40위·70위·73위·75위·86위·90위·104위·110위·111위·120위·136위)
+- **ILLIT** — 카탈로그 9곡 동시 차트인 (2위·33위·70위·96위·117위·141위·164위·184위·189위)
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **ILLIT** — 카탈로그 7곡 동시 차트인 (2위·29위·85위·98위·135위·140위·196위)
+- **Hearts2Hearts** — 카탈로그 7곡 동시 차트인 (24위·56위·66위·99위·102위·109위·144위)
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-- **PLAVE** — 카탈로그 6곡 동시 차트인 (17위·36위·44위·46위·48위·189위)
+- **PLAVE** — 카탈로그 6곡 동시 차트인 (25위·29위·41위·49위·50위·154위)
   ▸ 히트곡 하나 아닌 카탈로그 소비 = 팬덤 아닌 취향의 증거
-_…외 18곡군: Hearts2Hearts(6) · RESCENE(5) · AKMU(4) · NMIXX(3) · Sung Si Kyung(3) · LEE MU JIN(3) · NewJeans(3) · BIGBANG(3) · A2O(2) · Jimin(2) · ATEEZ(2) · KiiiKiii(2) · YANGHONGWON(2) · The Weeknd(2) · Tim(2) · Justin Bieber(2) · M.C the Max(2) · Kenshi Yonezu(2)_
+_…외 19곡군: AKMU(4) · NewJeans(4) · NMIXX(3) · Sung Si Kyung(3) · A2O(2) · Jimin(2) · ATEEZ(2) · Jung Kook(2) · aespa(2) · KiiiKiii(2) · LEE MU JIN(2) · The Weeknd(2) · YANGHONGWON(2) · IU(2) · Tim(2) · Justin Bieber(2) · BIGBANG(2) · M.C the Max(2) · Kenshi Yonezu(2)_
 
 _조인: YouTube 20곡 중 14곡 Spotify 매칭(정확 14·제목폴백 0) · 미매칭 6곡은 아래 'YouTube 선행'_
 
 **플랫폼 동반 (Spotify＋YouTube · 진짜 확산 → 특집)**
-- **Epik High - Mise en scène (w/ DAVICHI )** — SP 56위 · YT 15위  ← **워치리스트**
+- **Epik High - Mise en scène (w/ DAVICHI )** — SP 65위 · YT 15위  ← **워치리스트**
 - **A2O - NEON (w/ A2O LITE )** — SP 1위 · YT 1위
-- **IVE - Looks Can Kill** — SP 3위 · YT 6위
-- **RESCENE - LOVE ATTACK** — SP 6위 · YT 9위
-- **CORTIS - REDRED** — SP 9위 · YT 17위
-- **RESCENE - Deja Vu** — SP 10위 · YT 16위
-- **ATEEZ - BAD** — SP 11위 · YT 8위
-- **RESCENE - Pretty Girl** — SP 15위 · YT 18위
-- **WOODZ - Drowning** — SP 19위 · YT 19위
-- **aespa - LEMONADE** — SP 20위 · YT 11위
-- **Hearts2Hearts - RUDE!** — SP 23위 · YT 14위
-- **ILLIT - It's Me** — SP 29위 · YT 20위
+- **IVE - Looks Can Kill** — SP 6위 · YT 6위
+- **RESCENE - LOVE ATTACK** — SP 7위 · YT 9위
+- **RESCENE - Deja Vu** — SP 13위 · YT 16위
+- **CORTIS - REDRED** — SP 14위 · YT 17위
+- **ATEEZ - BAD** — SP 16위 · YT 8위
+- **RESCENE - Pretty Girl** — SP 19위 · YT 18위
+- **WOODZ - Drowning** — SP 23위 · YT 19위
+- **Hearts2Hearts - RUDE!** — SP 24위 · YT 14위
+- **aespa - LEMONADE** — SP 26위 · YT 11위
+- **ILLIT - It's Me** — SP 33위 · YT 20위
 _…외 2곡_
 
 **YouTube 선행 (Spotify 200위 밖 · 대중·영상이 먼저 → MV/라이브클립 앵글)**
@@ -195,108 +194,109 @@ _…외 2곡_
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-11-03_
+_비교 기준: 2026-11-04_
 ### 신규 진입
-없음
+- **3위** RESCENE - With (NEW) · Days 1
+- **8위** RESCENE - Inside Out (NEW) · Days 1
+- **9위** RESCENE - Finest Thing (NEW) · Days 1
+- **15위** RESCENE - MEME (NEW) · Days 1
+- **21위** RESCENE - Dragon (NEW) · Days 1
+- **76위** JISOO - ADDICTED (-2) · Days 3
+- **108위** TWS - Call My Name (+83) · Days 2
+- **144위** Hearts2Hearts - Moonride (+12) · Days 39
+- **149위** aespa - Whiplash (-7) · Days 730
+- **161위** D.O. - Popcorn (-16) · Days 151
+- **165위** IU - Unknown Planet (+5) · Days 51
+- **174위** Lim Young Woong - Our Blues, Our Life (-31) · Days 1277
+- **181위** Jung Kook - Standing Next to You (-46) · Days 1083
+- **182위** DAVICHI - TIME CAPSULE (+13) · Days 253
+- **184위** ILLIT - Super in Love (-31) · Days 6
 ### 급등 (+15↑)
-- **59위** Heize - And July (w/ DEAN , dj friz ) (+18) · Days 166
-- **65위** OFFICIAL HIGE DANDISM - Pretender (+19) · Days 861
-- **75위** Lim Young Woong - Moise (+16) · Days 54
-- **84위** The Black Skirts - Till The End of Time (+19) · Days 340
-- **96위** Zion.T - No Make Up (+16) · Days 563
-- **97위** HYUKOH - TOMBOY (+22) · Days 876
-- **103위** The Black Skirts - EVERYTHING (+23) · Days 1336
-- **111위** Lim Young Woong - Love Always Runs Away RE (+18) · Days 54
-- **112위** wave to earth - love. (+34) · Days 366
-- **113위** Jimin - Be Mine (+35) · Days 816
-- **121위** Loco - Say Yes (w/ Punch ) (+33) · Days 502
-- **122위** SYSTEM SEOUL - 너 (w/ ycs ) (+17) · Days 268
-- **125위** JANNABI - A thought on an autumn night (+37) · Days 136
-- **127위** Parc Jae Jung - Let's Say Goodbye (+32) · Days 388
-- **129위** AKMU - Last Goodbye (+38) · Days 130
+- **86위** izna - SIGN (+34) · Days 152
+- **107위** Jimin - Be Mine (+15) · Days 818
+- **108위** TWS - Call My Name (+83) · Days 2
+- **109위** Hearts2Hearts - The Chase (+20) · Days 595
+- **113위** Paul Kim - Every day, Every Moment (+46) · Days 630
+- **115위** AKMU - Last Goodbye (+15) · Days 132
+- **119위** Younha - Event Horizon (+33) · Days 484
+- **127위** Roy Kim - If You Ask Me What Love Is (+40) · Days 218
+- **147위** Car, the garden - 나무 (+31) · Days 569
+- **155위** M.C the Max - 행복하지 말아요 (+17) · Days 79
+- **156위** BIGBANG - Sunset Glow (+17) · Days 359
+- **159위** LEE MU JIN - Episode (+37) · Days 771
+- **170위** DAY6 - HAPPY (+17) · Days 808
+- **177위** Loco - Say Yes (w/ Punch ) (+16) · Days 504
 ### 재진입 (RE)
-- **123위** Sung Si Kyung - Fije (RE) · Days 44
-- **146위** Position - I Love You (RE) · Days 3
-- **167위** Choi Yu Ree - Forest (RE) · Days 396
-- **171위** Jung Seung Hwan - The Snowman (RE) · Days 318
-- **180위** Loco - Spring Is Gone by chance (w/ YUJU ) (RE) · Days 198
-- **185위** 데이먼스 이어 Damons year - Mondegreen (RE) · Days 32
-- **187위** Loco - It Takes Time (Feat. Colde) (w/ Colde ) (RE) · Days 11
-- **195위** The Walters - I Love You So (RE) · Days 783
+- **168위** Primary - question mark (Feat. CHOIZA Of Dynamicduo, Zion.T) (w/ CHOIZA , Zion.T ) (RE) · Days 358
+- **189위** ILLIT - Cherish (My Love) (RE) · Days 540
+- **193위** AOA - Miniskirt (RE) · Days 79
+- **195위** Park Hwayobi - 그런 일은 (RE) · Days 5
+- **196위** Mariah Carey - All I Want for Christmas Is You (RE) · Days 292
+- **197위** NewJeans - Supernatural (RE) · Days 826
+- **200위** JANNABI - A thought on an autumn night (RE) · Days 137
 ### 이탈 (전일 100위 내)
-없음
-### 워치리스트 히트 (56)
-- **7위** Redoor - Forever Has Always Been (+2) · Days 533  ← **Redoor**
-- **12위** Nerd Connection - If I have you only (My love X Nerd Connection) (+1) · Days 1082  ← **너드커넥션**
-- **14위** HANRORO - Landing in Love (+1) · Days 475  ← **한로로**
-- **16위** HANRORO - 0+0 (+1) · Days 410  ← **한로로**
-- **21위** HANRORO - Let Me Love My Youth (+5) · Days 478  ← **한로로**
-- **24위** BIG Naughty - Vancouver (-3) · Days 1284  ← **빅나티**
-- **25위** JANNABI - for lovers who hesitate (+3) · Days 1896  ← **잔나비**
-- **26위** Nerd Connection - ‎Good Night Good Dream (+6) · Days 867  ← **너드커넥션**
-- **27위** BIG Naughty - Nostalgia (-3) · Days 63  ← **빅나티**
-- **31위** 데이먼스 이어 Damons year - yours (+2) · Days 1466  ← **데이먼스 이어**
-- **34위** The Black Skirts - Ling Ling (+4) · Days 361  ← **검정치마**
-- **38위** NELL - The time of walking on remembrance (+2) · Days 138  ← **넬**
-- **54위** Choi Yu Ree - When I stop thinking (+7) · Days 118  ← **최유리**
-- **55위** Epik High - Love Love Love (-2) · Days 355  ← **에픽하이**
-- **56위** Epik High - Mise en scène (w/ DAVICHI ) (-7) · Days 20  ← **에픽하이**
-- **57위** Woo - We Are (w/ Loco , GRAY ) (+1) · Days 684  ← **GRAY**
-- **58위** The Black Skirts - 1:05 (+14) · Days 564  ← **검정치마**
-- **59위** Heize - And July (w/ DEAN , dj friz ) (+18) · Days 166  ← **DEAN**
-- **74위** Epik High - 우산 (w/ Younha ) (+8) · Days 285  ← **에픽하이**
-- **77위** Leellamarz - On the street (Feat. ASH ISLAND) (w/ ASH ISLAND ) (+8) · Days 106  ← **릴러말즈**
-- **80위** Yoon Do Hyun - I Guess I Loved You (-18) · Days 1192  ← **윤도현**
-- **82위** Car, the garden - Closely Far Away (-8) · Days 785  ← **카더가든**
-- **84위** The Black Skirts - Till The End of Time (+19) · Days 340  ← **검정치마**
-- **88위** george - Boat (+8) · Days 612  ← **george**
-- **92위** Dynamicduo - Guilty (-3) · Days 395  ← **다이나믹듀오**
-- **94위** 10CM - To Reach You (-14) · Days 377  ← **10CM**
-- **96위** Zion.T - No Make Up (+16) · Days 563  ← **Zion.T**
-- **97위** HYUKOH - TOMBOY (+22) · Days 876  ← **혁오**
-- **103위** The Black Skirts - EVERYTHING (+23) · Days 1336  ← **검정치마**
-- **112위** wave to earth - love. (+34) · Days 366  ← **wave to earth**
-- **114위** HAON - Skrr (w/ GISELLE ) (+10) · Days 589  ← **하온**
-- **115위** Yerin Baek - Antifreeze (+3) · Days 752  ← **백예린**
-- **119위** DELISPICE - 고백 (-9) · Days 224  ← **델리스파이스**
-- **121위** Loco - Say Yes (w/ Punch ) (+33) · Days 502  ← **로꼬**
-- **124위** Primary - Johnny (w/ Dynamicduo ) (-17) · Days 517  ← **프라이머리**
-- **125위** JANNABI - A thought on an autumn night (+37) · Days 136  ← **잔나비**
-- **134위** BIG Naughty - Beyond Love (Feat. 10CM) (w/ 10CM ) (+55) · Days 652  ← **10CM**
-- **137위** VINXEN - FLYING HIGH WITH U (-9) · Days 259  ← **빈첸**
-- **138위** The Black Skirts - Antifreeze (+35) · Days 302  ← **검정치마**
-- **141위** DEAN - instagram (+24) · Days 1353  ← **DEAN**
-- **147위** ZICO - actually (+22) · Days 111  ← **ZICO**
-- **161위** Car, the garden - 나무 (+15) · Days 567  ← **카더가든**
-- **162위** DAY6 - You Were Beautiful (-4) · Days 1168  ← **데이식스**
-- **163위** Primary - question mark (Feat. CHOIZA Of Dynamicduo, Zion.T) (w/ CHOIZA , Zion.T ) (+11) · Days 357  ← **Zion.T**
-- **166위** DAY6 - Time of Our Life -Japanese ver.- - Japanese ver. (-15) · Days 1414  ← **데이식스**
-- **167위** Choi Yu Ree - Forest (RE) · Days 396  ← **최유리**
-- **172위** DPR LIVE - Jasmine (+12) · Days 544  ← **DPR LIVE**
-- **174위** NOWIMYOUNG - KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki) (w/ Royal 44 , SUNWOO ) (-2) · Days 227  ← **나우아임영**
-- **180위** Loco - Spring Is Gone by chance (w/ YUJU ) (RE) · Days 198  ← **로꼬**
-- **183위** Car, the garden - My whole world (-60) · Days 303  ← **카더가든**
-- **185위** 데이먼스 이어 Damons year - Mondegreen (RE) · Days 32  ← **데이먼스 이어**
-- **187위** Loco - It Takes Time (Feat. Colde) (w/ Colde ) (RE) · Days 11  ← **로꼬**
-- **190위** JANNABI - Baby I need you (-2) · Days 318  ← **잔나비**
-- **191위** DAY6 - HAPPY (-16) · Days 806  ← **데이식스**
-- **193위** BOL4 - Please Summer! (-12) · Days 99  ← **볼빨간사춘기**
-- **199위** Beenzino - Aqua Man (-7) · Days 189  ← **빈지노**
+- **95위** D-Hack - OHAYO MY NIGHT (w/ PATEKO ) (+7) · Days 708
+### 워치리스트 히트 (49)
+- **12위** Redoor - Forever Has Always Been (-4) · Days 535  ← **Redoor**
+- **17위** Nerd Connection - If I have you only (My love X Nerd Connection) (-3) · Days 1084  ← **너드커넥션**
+- **18위** HANRORO - Landing in Love (-3) · Days 477  ← **한로로**
+- **22위** HANRORO - 0+0 (-6) · Days 412  ← **한로로**
+- **27위** HANRORO - Let Me Love My Youth (+5) · Days 480  ← **한로로**
+- **34위** BIG Naughty - Nostalgia (-8) · Days 65  ← **빅나티**
+- **35위** BIG Naughty - Vancouver (-10) · Days 1286  ← **빅나티**
+- **36위** Nerd Connection - ‎Good Night Good Dream (-6) · Days 869  ← **너드커넥션**
+- **37위** JANNABI - for lovers who hesitate (-6) · Days 1898  ← **잔나비**
+- **38위** 데이먼스 이어 Damons year - yours (-5) · Days 1468  ← **데이먼스 이어**
+- **43위** The Black Skirts - Ling Ling (-8) · Days 363  ← **검정치마**
+- **51위** Choi Yu Ree - When I stop thinking (-4) · Days 120  ← **최유리**
+- **52위** NELL - The time of walking on remembrance (-8) · Days 140  ← **넬**
+- **62위** Epik High - Love Love Love (+8) · Days 357  ← **에픽하이**
+- **65위** Epik High - Mise en scène (w/ DAVICHI ) (-10) · Days 22  ← **에픽하이**
+- **67위** Woo - We Are (w/ Loco , GRAY ) (-2) · Days 686  ← **GRAY**
+- **72위** Car, the garden - Closely Far Away (+10) · Days 787  ← **카더가든**
+- **73위** Heize - And July (w/ DEAN , dj friz ) (-4) · Days 168  ← **DEAN**
+- **81위** The Black Skirts - 1:05 (+5) · Days 566  ← **검정치마**
+- **88위** george - Boat (-4) · Days 614  ← **george**
+- **104위** Leellamarz - On the street (Feat. ASH ISLAND) (w/ ASH ISLAND ) (-11) · Days 108  ← **릴러말즈**
+- **105위** 10CM - To Reach You (-1) · Days 379  ← **10CM**
+- **122위** Zion.T - No Make Up (+3) · Days 565  ← **Zion.T**
+- **123위** Car, the garden - My whole world (+10) · Days 305  ← **카더가든**
+- **125위** The Black Skirts - Till The End of Time (+12) · Days 342  ← **검정치마**
+- **130위** Primary - Johnny (w/ Dynamicduo ) (-12) · Days 519  ← **프라이머리**
+- **132위** HYUKOH - TOMBOY (-18) · Days 878  ← **혁오**
+- **134위** Dynamicduo - Guilty (-28) · Days 397  ← **다이나믹듀오**
+- **137위** Yerin Baek - Antifreeze (-41) · Days 754  ← **백예린**
+- **140위** DAY6 - You Were Beautiful (-2) · Days 1170  ← **데이식스**
+- **142위** DELISPICE - 고백 (+4) · Days 226  ← **델리스파이스**
+- **147위** Car, the garden - 나무 (+31) · Days 569  ← **카더가든**
+- **150위** DAY6 - Time of Our Life -Japanese ver.- - Japanese ver. (+1) · Days 1416  ← **데이식스**
+- **151위** wave to earth - love. (+3) · Days 368  ← **wave to earth**
+- **152위** VINXEN - FLYING HIGH WITH U (-13) · Days 261  ← **빈첸**
+- **153위** The Black Skirts - EVERYTHING (-19) · Days 1338  ← **검정치마**
+- **158위** Epik High - 우산 (w/ Younha ) (-22) · Days 287  ← **에픽하이**
+- **163위** DEAN - instagram (-19) · Days 1355  ← **DEAN**
+- **168위** Primary - question mark (Feat. CHOIZA Of Dynamicduo, Zion.T) (w/ CHOIZA , Zion.T ) (RE) · Days 358  ← **Zion.T**
+- **170위** DAY6 - HAPPY (+17) · Days 808  ← **데이식스**
+- **171위** HAON - Skrr (w/ GISELLE ) (-9) · Days 591  ← **하온**
+- **172위** The Black Skirts - Antifreeze (+7) · Days 304  ← **검정치마**
+- **175위** Choi Yu Ree - Forest (-34) · Days 398  ← **최유리**
+- **177위** Loco - Say Yes (w/ Punch ) (+16) · Days 504  ← **로꼬**
+- **183위** ZICO - actually (-1) · Days 113  ← **ZICO**
+- **185위** Yoon Do Hyun - I Guess I Loved You (-54) · Days 1194  ← **윤도현**
+- **192위** NOWIMYOUNG - KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki) (w/ Royal 44 , SUNWOO ) (-8) · Days 229  ← **나우아임영**
+- **199위** BIG Naughty - Beyond Love (Feat. 10CM) (w/ 10CM ) (-25) · Days 654  ← **10CM**
+- **200위** JANNABI - A thought on an autumn night (RE) · Days 137  ← **잔나비**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-11-03_
+_비교 기준: 2026-11-04_
 ### 신규 진입
-- **4위** AND2BLE - French Kissing (NEW)
-- **7위** BABYMONSTER - DESERVE (NEW)
-- **12위** K/DA - FIRESTARTER (feat. Sophie Powers, MIYEON & 소연 (SOYEON)) (NEW)
+없음
 ### 급등 (+15↑)
 없음
 ### 재진입 (RE)
 없음
 ### 이탈 (전일 100위 내)
-- **1위** LISA - Tarantino (NEW)
-- **5위** K-NIGHTCORE - DESERVE (NEW)
-- **18위** Choi Yu Ree - 생각을 멈추다 보면 (NEW)
+없음
 ### 워치리스트 히트 (1)
 - **15위** Epik High - Mise en scène (NEW)  ← **에픽하이**
 
