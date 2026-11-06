@@ -1,34 +1,14 @@
-# PLOT 데일리 브리프 — 2026-11-05
+# PLOT 데일리 브리프 — 2026-11-06
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-11-04
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-11-05
 
-> 밀도(Spotify 200 중 워치리스트): 49곡 · 24.5% (2026-11-04 대비 ▼3.5p)
+> 밀도(Spotify 200 중 워치리스트): 49곡 · 24.5% (2026-11-05 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
 
-- **3위** RESCENE - With (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 10곡 동시
-- **8위** RESCENE - Inside Out (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 10곡 동시
-- **9위** RESCENE - Finest Thing (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 10곡 동시
-- **15위** RESCENE - MEME (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 10곡 동시
-- **21위** RESCENE - Dragon (NEW) · Days 1
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 10곡 동시
 - **108위** TWS - Call My Name (+83) · Days 2
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
@@ -67,7 +47,26 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
   ▸ 하락 (한때 45위, −36)
   ▸ 롱테일 (약 19개월)
   ▸ 검정치마 · 카탈로그 5곡 동시
-_…외 8건 (원자료 참조)_
+- **88위** george - Boat (-4) · Days 614
+  ▸ 하락 (한때 49위, −39)
+  ▸ 롱테일 (약 20개월)
+  ▸ george · 카탈로그 단독
+- **105위** 10CM - To Reach You (-1) · Days 379
+  ▸ 하락 (한때 8위, −97)
+  ▸ 롱테일 (약 13개월)
+  ▸ 10CM · 카탈로그 단독
+- **122위** Zion.T - No Make Up (+3) · Days 565
+  ▸ 하락 (한때 65위, −57)
+  ▸ 롱테일 (약 19개월)
+  ▸ Zion.T · 카탈로그 단독
+- **140위** DAY6 - You Were Beautiful (-2) · Days 1170
+  ▸ 하락 (한때 24위, −116)
+  ▸ 롱테일 (약 39개월)
+  ▸ 데이식스 · 카탈로그 3곡 동시
+- **142위** DELISPICE - 고백 (+4) · Days 226
+  ▸ 하락 (한때 77위, −65)
+  ▸ 델리스파이스 · 카탈로그 단독
+_…외 3건 (원자료 참조)_
 
 ## 오음소 소재
 _소식 — 급등·재진입·오래된 곡의 이변_
@@ -128,7 +127,7 @@ _소식 — 급등·재진입·오래된 곡의 이변_
   ▸ 하락 (한때 67위, −58)
   ▸ 롱테일 (약 11개월)
   ▸ 검정치마 · 카탈로그 5곡 동시
-_…외 21건 (원자료 참조)_
+_…외 19건 (원자료 참조)_
 
 ## 특집 신호
 _맥락 — 카탈로그 다곡·플랫폼 괴리_
@@ -194,23 +193,9 @@ _…외 2곡_
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-11-04_
+_비교 기준: 2026-11-05_
 ### 신규 진입
-- **3위** RESCENE - With (NEW) · Days 1
-- **8위** RESCENE - Inside Out (NEW) · Days 1
-- **9위** RESCENE - Finest Thing (NEW) · Days 1
-- **15위** RESCENE - MEME (NEW) · Days 1
-- **21위** RESCENE - Dragon (NEW) · Days 1
-- **76위** JISOO - ADDICTED (-2) · Days 3
-- **108위** TWS - Call My Name (+83) · Days 2
-- **144위** Hearts2Hearts - Moonride (+12) · Days 39
-- **149위** aespa - Whiplash (-7) · Days 730
-- **161위** D.O. - Popcorn (-16) · Days 151
-- **165위** IU - Unknown Planet (+5) · Days 51
-- **174위** Lim Young Woong - Our Blues, Our Life (-31) · Days 1277
-- **181위** Jung Kook - Standing Next to You (-46) · Days 1083
-- **182위** DAVICHI - TIME CAPSULE (+13) · Days 253
-- **184위** ILLIT - Super in Love (-31) · Days 6
+없음
 ### 급등 (+15↑)
 - **86위** izna - SIGN (+34) · Days 152
 - **107위** Jimin - Be Mine (+15) · Days 818
@@ -235,7 +220,7 @@ _비교 기준: 2026-11-04_
 - **197위** NewJeans - Supernatural (RE) · Days 826
 - **200위** JANNABI - A thought on an autumn night (RE) · Days 137
 ### 이탈 (전일 100위 내)
-- **95위** D-Hack - OHAYO MY NIGHT (w/ PATEKO ) (+7) · Days 708
+없음
 ### 워치리스트 히트 (49)
 - **12위** Redoor - Forever Has Always Been (-4) · Days 535  ← **Redoor**
 - **17위** Nerd Connection - If I have you only (My love X Nerd Connection) (-3) · Days 1084  ← **너드커넥션**
@@ -288,7 +273,7 @@ _비교 기준: 2026-11-04_
 - **200위** JANNABI - A thought on an autumn night (RE) · Days 137  ← **잔나비**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-11-04_
+_비교 기준: 2026-11-05_
 ### 신규 진입
 없음
 ### 급등 (+15↑)
