@@ -1,10 +1,10 @@
-# PLOT 데일리 브리프 — 2026-11-09
+# PLOT 데일리 브리프 — 2026-11-10
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-11-08
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-11-09
 
-> 밀도(Spotify 200 중 워치리스트): 55곡 · 27.5% (2026-11-08 대비 ▲0.5p)
+> 밀도(Spotify 200 중 워치리스트): 55곡 · 27.5% (2026-11-09 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
@@ -193,22 +193,9 @@ _…외 2곡_
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-11-08_
+_비교 기준: 2026-11-09_
 ### 신규 진입
-- **161위** COOL - 애상 (RE) · Days 167
-- **170위** Wham! - Last Christmas (RE) · Days 217
-- **177위** Loco - Spring Is Gone by chance (w/ YUJU ) (RE) · Days 201
-- **178위** freestyle - Y (Please Tell Me Why) (RE) · Days 141
-- **183위** BIG Naughty - Beyond Love (Feat. 10CM) (w/ 10CM ) (RE) · Days 655
-- **186위** Ariana Grande - Santa Tell Me (RE) · Days 263
-- **187위** Dhruv - double take (RE) · Days 1819
-- **190위** HYUKOH - TOMBOY (RE) · Days 880
-- **191위** JANNABI - Baby I need you (RE) · Days 319
-- **193위** Dominic Fike - Babydoll (RE) · Days 232
-- **195위** LEE MU JIN - Episode (RE) · Days 772
-- **196위** Shawn Mendes - There's Nothing Holdin' Me Back (RE) · Days 506
-- **199위** Yuuri - ベテルギウス (RE) · Days 1290
-- **200위** DEAN - instagram (RE) · Days 1356
+없음
 ### 급등 (+15↑)
 - **56위** NELL - The time of walking on remembrance (+23) · Days 144
 - **59위** Leellamarz - On the street (Feat. ASH ISLAND) (w/ ASH ISLAND ) (+16) · Days 112
@@ -296,7 +283,7 @@ _비교 기준: 2026-11-08_
 - **200위** DEAN - instagram (RE) · Days 1356  ← **DEAN**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-11-08_
+_비교 기준: 2026-11-09_
 ### 신규 진입
 없음
 ### 급등 (+15↑)
