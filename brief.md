@@ -1,10 +1,10 @@
-# PLOT 데일리 브리프 — 2026-11-15
+# PLOT 데일리 브리프 — 2026-11-16
 
 > 급등 기준: 전일 대비 +15 이상 · 데이터: kworb (24~48h 지연 가능)
 
-> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-11-14
+> 수집: Spotify KR 200곡 · YouTube KR 20곡 · 비교 기준 2026-11-15
 
-> 밀도(Spotify 200 중 워치리스트): 53곡 · 26.5% (2026-11-14 대비 ▲2.0p)
+> 밀도(Spotify 200 중 워치리스트): 53곡 · 26.5% (2026-11-15 대비 =0.0p)
 
 ## 오늘의 노래 후보
 _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
@@ -14,10 +14,6 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
   ▸ 신곡
   ▸ 쏠 · 카탈로그 단독
 - **130위** LEE MU JIN - Night Stage (+27) · Days 2
-  ▸ 상승 중 (정점 미도달)
-  ▸ 신곡
-  ▸ 워치리스트 ✗ · 카탈로그 3곡 동시
-- **140위** ATEEZ - UP (NEW) · Days 1
   ▸ 상승 중 (정점 미도달)
   ▸ 신곡
   ▸ 워치리스트 ✗ · 카탈로그 3곡 동시
@@ -67,7 +63,11 @@ _발견 — 진입 중 신곡·상승 곡·워치리스트 안정 히트_
   ▸ 하락 (한때 6위, −33)
   ▸ 롱테일 (약 49개월)
   ▸ 데이먼스 이어 · 카탈로그 단독
-_…외 16건 (원자료 참조)_
+- **43위** BIG Naughty - Vancouver (+1) · Days 1296
+  ▸ 하락 (한때 19위, −24)
+  ▸ 롱테일 (약 43개월)
+  ▸ 빅나티 · 카탈로그 2곡 동시
+_…외 15건 (원자료 참조)_
 
 ## 오음소 소재
 _소식 — 급등·재진입·오래된 곡의 이변_
@@ -192,18 +192,9 @@ _…외 2곡_
 ## 원자료
 
 ### Spotify KR 일간 (200곡)
-_비교 기준: 2026-11-14_
+_비교 기준: 2026-11-15_
 ### 신규 진입
-- **80위** PLAVE - Born Savage (RE) · Days 179
-- **120위** hyeminsong - SOLEMNIZE (w/ shinjihang , YULEUM , Nochang ) (NEW) · Days 1
-- **140위** ATEEZ - UP (NEW) · Days 1
-- **161위** Swings - JM Interlude (w/ hyeminsong , YULEUM , shinjihang , Nochang ) (NEW) · Days 1
-- **179위** Epik High - 우산 (w/ Younha ) (RE) · Days 291
-- **184위** freestyle - Y (Please Tell Me Why) (RE) · Days 143
-- **189위** Swings - Ripple Effect2 Remix (w/ hyeminsong , shinjihang , YULEUM , BILL STAX , Nochang ) (NEW) · Days 1
-- **190위** Baek A - Amor (RE) · Days 1222
-- **194위** JANNABI - A thought on an autumn night (RE) · Days 138
-- **198위** YANGHONGWON - 4 Seasons(1.12) (RE) · Days 86
+없음
 ### 급등 (+15↑)
 - **21위** PLAVE - Star Trace (+16) · Days 33
 - **49위** Izi - 응급실 (+18) · Days 595
@@ -285,7 +276,7 @@ _비교 기준: 2026-11-14_
 - **195위** Loco - It Takes Time (Feat. Colde) (w/ Colde ) (-19) · Days 21  ← **로꼬**
 
 ### YouTube KR 일간 (20곡)
-_비교 기준: 2026-11-14_
+_비교 기준: 2026-11-15_
 ### 신규 진입
 없음
 ### 급등 (+15↑)

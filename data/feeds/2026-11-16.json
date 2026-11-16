@@ -1,0 +1,836 @@
+{
+  "date": "2026-11-16",
+  "rss": {
+    "pitchfork_reviews": {
+      "label": "Pitchfork 리뷰",
+      "track": "T2-발견",
+      "count": 2,
+      "items": [
+        {
+          "title": "Yield",
+          "url": "https://pitchfork.com/reviews/albums/pearl-jam-yield/",
+          "published": "2026-11-15",
+          "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the outspoken grunge icons’ daring and emotionally complicated fifth album, a test of faith after a series of controversies, tragedies, and failures."
+        },
+        {
+          "title": "Quiet Forest",
+          "url": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/",
+          "published": "2026-11-14",
+          "summary": "Inspired by a visit to the Pacific Northwest, this 1996 record was the final album-length work released during the composer’s lifetime; it offers a rare glimpse of his most playful side."
+        }
+      ]
+    },
+    "pitchfork_news": {
+      "label": "Pitchfork 뉴스",
+      "track": "T1",
+      "count": 5,
+      "items": [
+        {
+          "title": "Watch Phoebe Bridgers Play “Bobby” and “Still Standing” on Saturday Night Live",
+          "url": "https://pitchfork.com/story/watch-phoebe-bridgers-play-bobby-and-still-standing-on-saturday-night-live/",
+          "published": "2026-11-15",
+          "summary": "The singer-songwriter made her third SNL appearance, this time to promote Lost Weekend"
+        },
+        {
+          "title": "Peter Hook, Lauren Mayberry, Deftones Play Joy Division and New Order Songs at 2026 Rock Hall",
+          "url": "https://pitchfork.com/story/deftones-lauren-mayberry-peter-hook-play-joy-division-and-new-order-songs-at-2026-rock-hall/",
+          "published": "2026-11-15",
+          "summary": "They christened the 2026 induction ceremony with “Love Will Tear Us Apart” and “Bizarre Love Triangle”"
+        },
+        {
+          "title": "Watch Wu-Tang Clan Perform at the Rock & Roll Hall of Fame 2026 Induction Ceremony",
+          "url": "https://pitchfork.com/story/watch-wu-tang-clan-perform-at-the-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
+          "published": "2026-11-15",
+          "summary": "RZA, GZA, Method Man, Raekwon, Ghostface Killah, and co. broke out the hits for the occasion"
+        },
+        {
+          "title": "Phil Collins Gets Rare Two-Time Inductee Status at Rock & Roll Hall of Fame",
+          "url": "https://pitchfork.com/story/phil-collins-gets-rare-two-time-inductee-status-at-rock-and-roll-hall-of-fame/",
+          "published": "2026-11-15",
+          "summary": "The Genesis musician was celebrated for his solo career at the 2026 Induction Ceremony"
+        },
+        {
+          "title": "Watch St. Vincent, Metallica, More Cover Iron Maiden at Rock & Roll Hall of Fame 2026 Induction Ceremony",
+          "url": "https://pitchfork.com/story/watch-st-vincent-metallica-more-cover-iron-maiden-at-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
+          "published": "2026-11-15",
+          "summary": "Rage Against the Machine’s Brad Wilk, Mötley Crüe’s John 5, and Jack Black joined the all-star lineup to perform “The Trooper”"
+        }
+      ]
+    },
+    "bandcamp_daily": {
+      "label": "Bandcamp Daily",
+      "track": "T2-발견",
+      "count": 0,
+      "items": []
+    },
+    "stereogum": {
+      "label": "Stereogum",
+      "track": "T2-발견",
+      "count": 9,
+      "items": [
+        {
+          "title": "Tyler, The Creator Performs Live Debuts And Rarities At Camp Flog Gnaw 2026, Tells His Fans He Hates Them",
+          "url": "https://stereogum.com/2518102/tyler-the-creator-performs-live-debuts-and-rarities-at-camp-flog-gnaw-2026/news/",
+          "published": "2026-11-15",
+          "summary": "The post Tyler, The Creator Performs Live Debuts And Rarities At Camp Flog Gnaw 2026, Tells His Fans He Hates Them appeared first on Stereogum ."
+        },
+        {
+          "title": "Slayer’s Tom Araya Scolds Crowd Over Behavior At LA Show",
+          "url": "https://stereogum.com/2518093/slayers-tom-araya-scolds-crowd-over-behavior-at-la-show/news/",
+          "published": "2026-11-15",
+          "summary": "The post Slayer’s Tom Araya Scolds Crowd Over Behavior At LA Show appeared first on Stereogum ."
+        },
+        {
+          "title": "Red Hot Chili Peppers Perform As Rick Rubins At Rock & Roll Hall Of Fame 2026",
+          "url": "https://stereogum.com/2518085/red-hot-chili-peppers-perform-as-rick-rubins-at-rock-roll-hall-of-fame-2026/news/",
+          "published": "2026-11-15",
+          "summary": "The post Red Hot Chili Peppers Perform As Rick Rubins At Rock & Roll Hall Of Fame 2026 appeared first on Stereogum ."
+        },
+        {
+          "title": "Phoebe Bridgers Glows On SNL",
+          "url": "https://stereogum.com/2518073/phoebe-bridgers-glows-on-snl/news/",
+          "published": "2026-11-15",
+          "summary": "The post Phoebe Bridgers Glows On <em>SNL</em> appeared first on Stereogum ."
+        },
+        {
+          "title": "Phil Collins Enters Rock & Roll Hall Of Fame As Solo Artist, Says “You Haven’t Heard The Last Of Me”",
+          "url": "https://stereogum.com/2518065/phil-collins-enters-rock-roll-hall-of-fame-as-solo-artist-says-you-havent-heard-the-last-of-me/news/",
+          "published": "2026-11-15",
+          "summary": "The post Phil Collins Enters Rock & Roll Hall Of Fame As Solo Artist, Says “You Haven’t Heard The Last Of Me” appeared first on Stereogum ."
+        },
+        {
+          "title": "Sienna Spiro Covers Sade At Rock & Roll Hall Of Fame 2026",
+          "url": "https://stereogum.com/2518015/sienna-spiro-covers-sade-at-rock-roll-hall-of-fame-2026/news/",
+          "published": "2026-11-15",
+          "summary": "The post Sienna Spiro Covers Sade At Rock & Roll Hall Of Fame 2026 appeared first on Stereogum ."
+        },
+        {
+          "title": "St. Vincent-Led Supergroup Covers Iron Maiden At Rock & Roll Hall Of Fame Induction",
+          "url": "https://stereogum.com/2518034/st-vincent-led-supergroup-covers-iron-maiden-at-rock-roll-hall-of-fame-induction/news/",
+          "published": "2026-11-15",
+          "summary": "The post St. Vincent-Led Supergroup Covers Iron Maiden At Rock & Roll Hall Of Fame Induction appeared first on Stereogum ."
+        },
+        {
+          "title": "Deftones & Lauren Mayberry Cover Joy Division & New Order With Peter Hook At Rock & Roll Hall Of Fame 2026",
+          "url": "https://stereogum.com/2518032/deftones-lauren-mayberry-cover-joy-division-new-order-with-peter-hook-at-rock-roll-hall-of-fame-2026/news/",
+          "published": "2026-11-15",
+          "summary": "The post Deftones & Lauren Mayberry Cover Joy Division & New Order With Peter Hook At Rock & Roll Hall Of Fame 2026 appeared first on Stereogum ."
+        },
+        {
+          "title": "Leaked GTA VI Soundtrack Tracklist Reveals New Songs By Lana Del Rey, Dua Lipa, Justice x Michael McDonald, & More",
+          "url": "https://stereogum.com/2518014/leaked-gta-vi-soundtrack-tracklist-reveals-new-songs-by-lana-del-rey-dua-lipa-justice-x-michael-mcdonald-more/news/",
+          "published": "2026-11-15",
+          "summary": "The post Leaked <em>GTA VI</em> Soundtrack Tracklist Reveals New Songs By Lana Del Rey, Dua Lipa, Justice x Michael McDonald, & More appeared first on Stereogum ."
+        }
+      ]
+    },
+    "consequence": {
+      "label": "Consequence",
+      "track": "T1",
+      "count": 15,
+      "items": [
+        {
+          "title": "Bob Dylan Meets the Pope on SNL",
+          "url": "https://consequence.net/2026/11/bob-dylan-the-pope-snl/",
+          "published": "2026-11-15",
+          "summary": "James Austion Johnson reprised his Dylan impersonation in a sketch co-starring John Mulaney as Pope Francis. Bob Dylan Meets the Pope on SNL Alex Young"
+        },
+        {
+          "title": "Phil Collins Says at Rock Hall Induction “The Door’s Not Closed” to New Music and Performing Live",
+          "url": "https://consequence.net/2026/11/phil-collins-on-music-and-performing/",
+          "published": "2026-11-15",
+          "summary": "The 75-year-old musician is remaining defiant against health issues that have limited his ability to perform Phil Collins Says at Rock Hall Induction “The Door’s Not Closed” to New Music and Performing Live Travis Bland"
+        },
+        {
+          "title": "Peter Hook Crushes Almost All Hope for Reunion With New Order at Rock Hall Induction Except for One Big Caveat",
+          "url": "https://consequence.net/2026/11/peter-hook-on-new-order-reunion/",
+          "published": "2026-11-15",
+          "summary": "The bassist expressed how personal the chasm between him and his former bandmates is at the Rock Hall ceremony. Peter Hook Crushes Almost All Hope for Reunion With New Order at Rock Hall Induction Except for One Big Caveat Travis Bland"
+        },
+        {
+          "title": "Read Travis Barker’s Full Speech Inducting Phil Collins into the Rock and Roll Hall of Fame",
+          "url": "https://consequence.net/2026/11/travis-barker-phil-collins-rock-and-roll-hall-of-fame-speech/",
+          "published": "2026-11-15",
+          "summary": "Barker touched on both the massive cultural impact of Collins and the profound personal impact the drummer had on him as a young musician. Read Travis Barker’s Full Speech Inducting Phil Collins into the Rock and Roll Hall of Fame Jonah Krueger"
+        },
+        {
+          "title": "Phoebe Bridgers Takes SNL Stage for Sophomore Performance with “Bobby” and “Still Standing”",
+          "url": "https://consequence.net/2026/11/phoebe-bridgers-plays-snl-november-2026-video/",
+          "published": "2026-11-15",
+          "summary": "The set marked the alternative songwriter's second appearance on SNL. Phoebe Bridgers Takes SNL Stage for Sophomore Performance with “Bobby” and “Still Standing” Travis Bland"
+        },
+        {
+          "title": "Slayer Halt Reign in Blood 40th Anniversary Show in LA Due to Destructive Fans, Threaten to “Go Home”",
+          "url": "https://consequence.net/2026/11/slayer-reign-in-blood-show-stopped/",
+          "published": "2026-11-15",
+          "summary": "The progenitors of thrash metal left the stage eight songs in before Tom Araya came out to say, \"You can’t start destroying shit.\" Slayer Halt Reign in Blood 40th Anniversary Show in LA Due to Destructive Fans, Threaten to “Go Home” Travis Bland"
+        },
+        {
+          "title": "Peter Hook Accepts Joy Division/New Order’s Rock Hall Induction Following Introduction from Trent Reznor",
+          "url": "https://consequence.net/2026/11/peter-hook-joy-division-new-order-rock-hall-induction-trent-reznor/",
+          "published": "2026-11-15",
+          "summary": "The induction recognizes Ian Curtis, Bernard Sumner, Peter Hook, Stephen Morris, and Gillian Gilbert across two closely linked eras of music history. Peter Hook Accepts Joy Division/New Order’s Rock Hall Induction Following Introduction from Trent Reznor Alex Krinsky"
+        },
+        {
+          "title": "Wu-Tang Clan Get Their Flowers, Perform at Rock & Roll Hall of Fame Induction Ceremony",
+          "url": "https://consequence.net/2026/11/wu-tang-clan-rock-hall-induction-speech/",
+          "published": "2026-11-15",
+          "summary": "The Staten Island rap group ascended into Rock Hall alongside the likes of Oasis, Phil Collins, Joy Division/New Order, and more. Wu-Tang Clan Get Their Flowers, Perform at Rock & Roll Hall of Fame Induction Ceremony Travis Bland"
+        },
+        {
+          "title": "Iron Maiden Rock Hall Induction: Jack Black, St. Vincent Perform with Members of Metallica, RATM, and Mötley Crüe",
+          "url": "https://consequence.net/2026/11/iron-maiden-rock-hall-induction-jack-black-st-vincent-metallica-ratm-motley-crue/",
+          "published": "2026-11-15",
+          "summary": "The all-star supergroup performed \"The Trooper\" in honor of the legendary metal band. Iron Maiden Rock Hall Induction: Jack Black, St. Vincent Perform with Members of Metallica, RATM, and Mötley Crüe Spencer Kaufman"
+        },
+        {
+          "title": "Deftones, Lauren Mayberry, and Peter Hook Perform Joy Division and New Order Classics at Rock & Roll Hall of Fame Ceremony",
+          "url": "https://consequence.net/2026/11/deftones-joy-division-new-order-rock-roll-hall-of-fame-ceremony/",
+          "published": "2026-11-15",
+          "summary": "The one-off supergroup performed \"Love Will Tear Us Apart\" and \"Bizarre Love Triangle.\" Deftones, Lauren Mayberry, and Peter Hook Perform Joy Division and New Order Classics at Rock & Roll Hall of Fame Ceremony Spencer Kaufman"
+        },
+        {
+          "title": "Rick Rubin Inducted into Rock & Roll Hall of Fame: “Can’t Kill Rock and Roll”",
+          "url": "https://consequence.net/2026/11/rick-rubin-rock-hall-neil-young-rhcp/",
+          "published": "2026-11-15",
+          "summary": "Neil Young introduced the producer with a lengthy, rambling speech. Rick Rubin Inducted into Rock & Roll Hall of Fame: “Can’t Kill Rock and Roll” Alex Young and Alex Krinsky"
+        },
+        {
+          "title": "Red Hot Chili Peppers All Dress as Rick Rubin for Rock & Roll Hall of Fame Performance",
+          "url": "https://consequence.net/2026/11/red-hot-chili-peppers-rick-rubin-rock-roll-hall-of-fame-performance/",
+          "published": "2026-11-15",
+          "summary": "RHCP performed \"Give It Away\" off the Rubin-produced Blood Sugar Sex Magik. Red Hot Chili Peppers All Dress as Rick Rubin for Rock & Roll Hall of Fame Performance Spencer Kaufman"
+        },
+        {
+          "title": "Bob Odenkirk Thinks It Made Sense for Oasis to Skip the Rock Hall Ceremony",
+          "url": "https://consequence.net/2026/11/bob-odenkirk-oasis-rock-hall-ceremony/",
+          "published": "2026-11-15",
+          "summary": "The band's music is \"a dose of Viagra for the ego,\" according to the Better Call Saul star. Bob Odenkirk Thinks It Made Sense for Oasis to Skip the Rock Hall Ceremony Liz Shannon Miller"
+        },
+        {
+          "title": "Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me”",
+          "url": "https://consequence.net/2026/11/phil-collins-rock-hall-induction-solo-artist/",
+          "published": "2026-11-15",
+          "summary": "The two-time Rock Hall inductee was introduced by Travis Barker and serenaded by Cynthia Erivo. Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me” Alex Krinsky"
+        },
+        {
+          "title": "U2 Deliver Surprise Performance at 2026 Rock & Roll Hall of Fame Induction Ceremony",
+          "url": "https://consequence.net/2026/11/u2-deliver-surprise-performance-at-2026-rock-and-roll-hall-of-fame-induction-ceremony/",
+          "published": "2026-11-15",
+          "summary": "The Irish rockers performed \"Silencio\" and \"Pride (In the Name of Love)\" to kick off this year's ceremony. U2 Deliver Surprise Performance at 2026 Rock & Roll Hall of Fame Induction Ceremony Alex Krinsky"
+        }
+      ]
+    },
+    "nme": {
+      "label": "NME",
+      "track": "T1",
+      "count": 10,
+      "items": [
+        {
+          "title": "Today’s Wordle answer and hints for #1976 on November 16",
+          "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240",
+          "published": "2026-11-16",
+          "summary": "There's no need to lose your streak - here's the 'Wordle' answer for today The post Today’s Wordle answer and hints for #1976 on November 16 appeared first on NME ."
+        },
+        {
+          "title": "‘Connections’ answers and hints for today, November 16",
+          "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066",
+          "published": "2026-11-16",
+          "summary": "Here are hints, groups and answers for 'Connections' #1254 The post ‘Connections’ answers and hints for today, November 16 appeared first on NME ."
+        },
+        {
+          "title": "Globle answer today – here’s the answer and hints for November 16",
+          "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991",
+          "published": "2026-11-16",
+          "summary": "Where in the world? The post Globle answer today – here’s the answer and hints for November 16 appeared first on NME ."
+        },
+        {
+          "title": "Framed answer today – here’s the solution for November 16",
+          "url": "https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186",
+          "published": "2026-11-16",
+          "summary": "You’ve been framed The post Framed answer today – here’s the solution for November 16 appeared first on NME ."
+        },
+        {
+          "title": "Watch Travis Barker and Cynthia Erivo perform ‘In The Air Tonight’ as Phil Collins tells Rock & Roll Hall Of Fame: “You haven’t heard the last of me”",
+          "url": "https://www.nme.com/news/music/travis-barker-cynthia-erivo-in-the-air-tonight-phil-collins-rock-roll-hall-fame-3976002",
+          "published": "2026-11-15",
+          "summary": "The former Genesis frontman became a two-time inductee at an emotional ceremony in Los Angeles, where he received a standing ovation The post Watch Travis Barker and Cynthia Erivo perform ‘In The Air Tonight’ as Phil Collins tells Rock & Roll Hall Of Fame: “You haven’t heard the last of me” appeared first on NME ."
+        },
+        {
+          "title": "Watch Red Hot Chili Peppers dress as Rick Rubin for Rock & Roll Hall Of Fame performance as he declares: “You can’t kill rock ‘n’ roll”",
+          "url": "https://www.nme.com/news/music/watch-red-hot-chili-peppers-dress-rick-rubin-rock-roll-hall-fame-performance-3975998",
+          "published": "2026-11-15",
+          "summary": "Neil Young inducted the legendary producer, before the Chili Peppers paid tribute with a rendition of ‘Give It Away’ The post Watch Red Hot Chili Peppers dress as Rick Rubin for Rock & Roll Hall Of Fame performance as he declares: “You can’t kill rock ‘n’ roll” appeared first on NME ."
+        },
+        {
+          "title": "Oasis skip Rock & Roll Hall Of Fame induction as Bob Odenkirk hails them “a dose of Viagra for the ego” and Stephen Wilson Jr. covers ‘Wonderwall’",
+          "url": "https://www.nme.com/news/music/oasis-skip-rock-roll-hall-fame-induction-bob-odenkirk-stephen-wilson-jr-wonderwall-3975994",
+          "published": "2026-11-15",
+          "summary": "Noel Gallagher was performing with Goldie and Skunk Anansie's Skin in London instead, while Liam had already made his feelings about the ceremony clear The post Oasis skip Rock & Roll Hall Of Fame induction as Bob Odenkirk hails them “a dose of Viagra for the ego” and Stephen Wilson Jr. covers ‘Wonderwall’ appeared first on NME ."
+        },
+        {
+          "title": "Lana Del Rey, Dua Lipa and Zara Larsson contribute new music to ‘GTA VI: The Album’ – see the full tracklist",
+          "url": "https://www.nme.com/news/music/lana-del-rey-dua-lipa-zara-larsson-gta-vi-the-album-full-tracklist-3975990",
+          "published": "2026-11-15",
+          "summary": "The 34-song soundtrack also features collaborations from Justice, Tame Impala, SZA, Michael McDonald and more The post Lana Del Rey, Dua Lipa and Zara Larsson contribute new music to ‘GTA VI: The Album’ – see the full tracklist appeared first on NME ."
+        },
+        {
+          "title": "Watch Deftones’ Chino Moreno, Chvrches’ Lauren Mayberry and Peter Hook perform Joy Division and New Order classics with Rock Hall Of Fame induction from Trent Reznor",
+          "url": "https://www.nme.com/news/music/deftones-chino-moreno-chvrches-peter-hook-joy-division-new-order-rock-hall-fame-trent-reznor-3975986",
+          "published": "2026-11-15",
+          "summary": "Hook was the only member of the band to attend the ceremony, where he paid tribute to the fans and reflected on his turbulent musical career The post Watch Deftones’ Chino Moreno, Chvrches’ Lauren Mayberry and Peter Hook perform Joy Division and New Order classics with Rock Hall Of Fame induction from Trent Reznor appeared first on NME ."
+        },
+        {
+          "title": "Tout selling £1million of U2 tickets has raised questions about clampdown on bot use for bulk-buying",
+          "url": "https://www.nme.com/news/music/tout-1million-u2-tickets-raised-questions-clampdown-bot-use-bulk-buying-3975982",
+          "published": "2026-11-15",
+          "summary": "More than 2,000 tickets for the band's upcoming London shows were listed by a single seller on StubHub, with some priced at over four times their face value The post Tout selling £1million of U2 tickets has raised questions about clampdown on bot use for bulk-buying appeared first on NME ."
+        }
+      ]
+    },
+    "billboard": {
+      "label": "Billboard",
+      "track": "T1",
+      "count": 10,
+      "items": [
+        {
+          "title": "The ‘Twilight’ Crocs Collection Just Got a Surprise Restock & It’s Worth Sinking Your Teeth Into",
+          "url": "https://www.billboard.com/culture/product-recommendations/twilight-crocs-collection-viral-where-to-buy-nov-2026-1236382590/",
+          "published": "2026-11-16",
+          "summary": "Team Edward and Team Jacob can finally agree on something: These fan-favorite Crocs deserve a spot in your closet."
+        },
+        {
+          "title": "Fans Choose U2 & Dolly Parton’s ‘Torn’ as This Week’s Favorite New Music",
+          "url": "https://www.billboard.com/music/music-news/u2-dolly-parton-torn-best-new-music-poll-results-1236382556/",
+          "published": "2026-11-16",
+          "summary": "Parton's posthumous collaboration with U2 brought in 40% of the vote."
+        },
+        {
+          "title": "Here’s How to Watch ‘Darius Rucker: They Called Me Hootie’ Online for Free",
+          "url": "https://www.billboard.com/culture/product-recommendations/darius-rucker-they-called-me-hootie-hulu-stream-online-free-1236382546/",
+          "published": "2026-11-15",
+          "summary": "The new documentary about the singer-songwriter is available to stream starting on Monday (Nov. 16)."
+        },
+        {
+          "title": "‘SNL’ Imagines Bob Dylan & The Pope’s Conversation in Cut-for-Time Sketch",
+          "url": "https://www.billboard.com/culture/tv-film/snl-bob-dylan-pope-john-mulaney-1236382560/",
+          "published": "2026-11-15",
+          "summary": "\"The photos of their meeting went viral, but the conversation that followed has remained a mystery. Until now,\" the parody's opening crawl read."
+        },
+        {
+          "title": "‘Sunday Night Football’: How to Watch Pittsburgh Steelers vs. Cincinnati Bengals Game Live Online Free",
+          "url": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
+          "published": "2026-11-15",
+          "summary": "Watch the PIT Steelers take on the CIN Bengals on Sunday, Nov. 15."
+        },
+        {
+          "title": "Shane Gillis Addresses ‘SNL’ Monologue Backlash: ‘A Lot to Do With the Climate’",
+          "url": "https://www.billboard.com/culture/tv-film/shane-gillis-addresses-snl-monologue-backlash-1236382542/",
+          "published": "2026-11-15",
+          "summary": "\"I promise there’s no controversy,\" the comedian told SNL ahead of his Oct. 10 episode."
+        },
+        {
+          "title": "The 46 Best Christmas Gifts to Shop Online in 2026",
+          "url": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-2026-buy-shop-online-1236368800/",
+          "published": "2026-11-15",
+          "summary": "ShopBillboard has the best gift ideas for the holiday season — starting at just $25."
+        },
+        {
+          "title": "Garbage Wraps 2026 Tour With Mariachi-Infused Free Show at Mexico City’s Zócalo: 5 Best Moments",
+          "url": "https://www.billboard.com/lists/garbage-mexico-city-zocalo-free-show-best-moments/",
+          "published": "2026-11-15",
+          "summary": "Shirley Manson became the first non-Hispanic woman to conquer the iconic venue on Nov. 14."
+        },
+        {
+          "title": "Chart Rewind: In 1986, Alabama Had ‘The Touch’ at No. 1",
+          "url": "https://www.billboard.com/music/chart-beat/alabama-the-touch-chart-rewind-1986-1236382521/",
+          "published": "2026-11-15",
+          "summary": "The band’s 1986 LP marked its seventh straight multi-week Top Country Albums leader."
+        },
+        {
+          "title": "Olivia Rodrigo’s ‘you seem pretty sad for a girl so in love’ Scores Fifth Week at No. 1 on Billboard 200",
+          "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-pretty-sad-fifth-week-atop-billboard-200-1236382448/",
+          "published": "2026-11-15",
+          "summary": "The set ties SOUR for her longest reign. Plus, Lil Baby and P1Harmony debut in the top five."
+        }
+      ]
+    },
+    "mbw": {
+      "label": "Music Business Worldwide",
+      "track": "T2-선점",
+      "count": 4,
+      "items": [
+        {
+          "title": "Sony’s new deal in China, TikTok signing Daddy Yankee… it’s MBW’s Weekly Round-Up",
+          "url": "https://www.musicbusinessworldwide.com/from-tiktoks-daddy-yankee-deal-to-youtubes-billboard-comeback-its-mbws-weekly-round-up/",
+          "published": "2026-11-14",
+          "summary": "The biggest headlines from the past few days... Source"
+        },
+        {
+          "title": "Sony Music renews multi-year licensing deal with China’s NetEase Cloud Music",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-renews-multi-year-licensing-deal-with-chinas-netease-cloud-music/",
+          "published": "2026-11-14",
+          "summary": "The multi-year deal, announced on Friday (November 13), means NetEase Cloud Music has now re-signed with all three major music companies in 2026 Source"
+        },
+        {
+          "title": "Az Cohen’s AZTEC, a joint venture label with Believe, has signed its first artist",
+          "url": "https://www.musicbusinessworldwide.com/az-cohens-aztec-a-joint-venture-label-with-believe-has-signed-its-first-artist/",
+          "published": "2026-11-14",
+          "summary": "Believe unveiled AZTEC in May, describing it as its first JV in the United States. Source"
+        },
+        {
+          "title": "Symphonic inks deal to bring ‘hundreds of thousands’ of songs to Roblox",
+          "url": "https://www.musicbusinessworldwide.com/symphonic-inks-deal-to-bring-hundreds-of-thousands-of-songs-to-roblox/",
+          "published": "2026-11-14",
+          "summary": "According to Symphonic, artists will receive royalties for all plays of their music on Roblox Source"
+        }
+      ]
+    },
+    "reddit_indieheads": {
+      "label": "r/indieheads",
+      "track": "신호",
+      "count": 25,
+      "items": [
+        {
+          "title": "[DISCUSSION] Most Disappointing Releases of 2026",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xxbur2/discussion_most_disappointing_releases_of_2026/",
+          "published": "2026-11-16",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Not to be a negative Nancy (or rather YES explicitly that) but what albums came and went in your listening history this year?</p> <p>For me, James Blake&#39;s record, &quot;Trying Times,&quot; was such a missed opportunity of capitalizing on his return to form that was 2023&#39;s &quot;Playing Robots into Heaven.&quot; I have no doubts that the man is insanely tal"
+        },
+        {
+          "title": "[FRESH ALBUM] Fine Food Market - Alas Time Has Passed",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xx5uk9/fresh_album_fine_food_market_alas_time_has_passed/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xx5uk9/fresh_album_fine_food_market_alas_time_has_passed/\"> <img src=\"https://external-preview.redd.it/jjjITdu5R2-mAYVhW9rqCnA1I0TRa1ISpuM0rdQUYI8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36a5bbf981c196e71f82eddaf0ab96475010fa8c\" alt=\"[FRESH ALBUM] Fine Food Market - Alas Time Has Passed\" title=\"[FRESH ALBUM] Fine Foo"
+        },
+        {
+          "title": "Pokémon interview with Rainbow Kitten Surprise's Jess Haney",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xx4duo/pokémon_interview_with_rainbow_kitten_surprises/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xx4duo/pokémon_interview_with_rainbow_kitten_surprises/\"> <img src=\"https://external-preview.redd.it/hsLD-k6t21jiXhn0wlz6Vr-TYh3Tk_06__2lrB_4J-I.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=409f254cd313915cd031f74b80b284ad49122d5a\" alt=\"Pokémon interview with Rainbow Kitten Surprise's Jess Haney\" title=\"Pokémon interview "
+        },
+        {
+          "title": "[FRESH VIDEO] Jake Elijah - Like A Loser",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xx0m5n/fresh_video_jake_elijah_like_a_loser/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xx0m5n/fresh_video_jake_elijah_like_a_loser/\"> <img src=\"https://external-preview.redd.it/PGhql8x74-yU6aiyF_hHYXfEbmwPi7LvaGVeQ8rFyTo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=02dec40de8ec932fffa77674af13fb12a87868f3\" alt=\"[FRESH VIDEO] Jake Elijah - Like A Loser\" title=\"[FRESH VIDEO] Jake Elijah - Like A Loser\" /> </a"
+        },
+        {
+          "title": "Your /r/indieheads [FRESH] recap for the week of November 08 - November 14, 2026",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwz52h/your_rindieheads_fresh_recap_for_the_week_of/",
+          "published": "2026-11-15",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Sunday, November 08 - Saturday, November 14, 2026</strong></p> <h3>Fresh Albums</h3> <table><thead> <tr> <th>score</th> <th>comments</th> <th>title &amp; link</th> <th>mirrors</th> </tr> </thead><tbody> <tr> <td>139</td> <td><a href=\"/r/indieheads/comments/1xrnlgv/fresh_album_squid_crowds/\">17 comments</a></td> <td><code>[*&amp;#91;LIVE ALBUM&amp;#93;]</co"
+        },
+        {
+          "title": "[AMA ANNOUNCEMENT] Do Nothing on Tuesday, November 17 at 4pm ET/9pm GMT",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwxk7l/ama_announcement_do_nothing_on_tuesday_november/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xwxk7l/ama_announcement_do_nothing_on_tuesday_november/\"> <img src=\"https://preview.redd.it/ktlw2d760p1i1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=23a75510d1de8cd76658cdce4adc131fff7e8cac\" alt=\"[AMA ANNOUNCEMENT] Do Nothing on Tuesday, November 17 at 4pm ET/9pm GMT\" title=\"[AMA ANNOUNCEMENT] Do Nothi"
+        },
+        {
+          "title": "[Sunday] Daily Music Discussion - 15 November 2026",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xww6tz/sunday_daily_music_discussion_15_november_2026/",
+          "published": "2026-11-15",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Talk about anything music related that doesn&#39;t need its own thread.</strong> This thread is not for discussion that is tangentially music related; that belongs in the <a href=\"https://www.reddit.com/r/indieheads/search/?q=GENERAL%20DISCUSSION\">general discussion</a> threads. If you&#39;re new here, we encourage you to introduce yourself and tell us abo"
+        },
+        {
+          "title": "Lankum’s Radie Peat discusses her magnificent debut solo album, a decade in the making",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwrkz0/lankums_radie_peat_discusses_her_magnificent/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xwrkz0/lankums_radie_peat_discusses_her_magnificent/\"> <img src=\"https://external-preview.redd.it/nByWLDSo4PB8uuORufZXbC1KOdMbL_HNlveGCmYNG30.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c40d0bba286a17e6ab83d849280c1da5906a267\" alt=\"Lankum’s Radie Peat discusses her magnificent debut solo album, a decade in the making\" t"
+        },
+        {
+          "title": "[FRESH PERFORMANCE] Phoebe Bridgers - Still Standing (Live on SNL)",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwpb85/fresh_performance_phoebe_bridgers_still_standing/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xwpb85/fresh_performance_phoebe_bridgers_still_standing/\"> <img src=\"https://external-preview.redd.it/msC-m5QIPxSq8kMjF6PCNuDbMER0iRG4oJTCMoCLOCY.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bdc1a6a572d82c6115d5ae83ed8f634a7f0ada66\" alt=\"[FRESH PERFORMANCE] Phoebe Bridgers - Still Standing (Live on SNL)\" title=\"[FRESH PER"
+        },
+        {
+          "title": "Deftones, Lauren Mayberry, and Peter Hook Perform Joy Division and New Order Classics at Rock & Roll Hall of Fame Ceremony",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwp53l/deftones_lauren_mayberry_and_peter_hook_perform/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xwp53l/deftones_lauren_mayberry_and_peter_hook_perform/\"> <img src=\"https://external-preview.redd.it/z0v4dyyvYnUqwDJcnhIzDmiKdyNrLV0q1E1fPRZf_wA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2501921ab480c0aebcf8cf958d70ea12128beea4\" alt=\"Deftones, Lauren Mayberry, and Peter Hook Perform Joy Division and New Order Classics "
+        },
+        {
+          "title": "[FRESH CHART] New Alternative 40 - November 15, 2026 - FONTAINES D.C. Holds at #1 with \"Japan\". RACING MOUNT PLEASANT has the highest debut. BEACH BUNNY, GANG OF YOUTHS, and CHRISTINE AND THE QUEENS also debut in the top 20. RACING MOUNT PLEASANT and ECCO2K chart for the first time.",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwo3dj/fresh_chart_new_alternative_40_november_15_2026/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xwo3dj/fresh_chart_new_alternative_40_november_15_2026/\"> <img src=\"https://preview.redd.it/zeuwx8nmwp1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0635477622d35a319c02ee33ef9baacfffc6ded0\" alt=\"[FRESH CHART] New Alternative 40 - November 15, 2026 - FONTAINES D.C. Holds at #1 with &quot;Japan&quot;. RACING MOUNT PLEASAN"
+        },
+        {
+          "title": "[FRESH PERFORMANCE] Phoebe Bridgers - Bobby (Live on SNL)",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwo2ve/fresh_performance_phoebe_bridgers_bobby_live_on/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xwo2ve/fresh_performance_phoebe_bridgers_bobby_live_on/\"> <img src=\"https://external-preview.redd.it/1-EW_K8bvzaWZxXIMsUsh4IE00-v3CyhSocGFqfzQwU.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=305f55ecc068bb9189a9bdaedd79856f7be5398f\" alt=\"[FRESH PERFORMANCE] Phoebe Bridgers - Bobby (Live on SNL)\" title=\"[FRESH PERFORMANCE] "
+        },
+        {
+          "title": "[FRESH] Marcy the Baptist - 19k appeals to \"Clout Rock\"",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwlq04/fresh_marcy_the_baptist_19k_appeals_to_clout_rock/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xwlq04/fresh_marcy_the_baptist_19k_appeals_to_clout_rock/\"> <img src=\"https://external-preview.redd.it/7uW67pocggEf_Q9PiKpinP8i02FAxVxF2oZWVGS-kk8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=334b9ae12b4ca68bd7ce661a6bbd34e423591d16\" alt=\"[FRESH] Marcy the Baptist - 19k appeals to &quot;Clout Rock&quot;\" title=\"[FRESH] Ma"
+        },
+        {
+          "title": "[FRESH] THE WAR WITHIN ME - Take It",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwk2kc/fresh_the_war_within_me_take_it/",
+          "published": "2026-11-15",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xwk2kc/fresh_the_war_within_me_take_it/\"> <img src=\"https://external-preview.redd.it/4wRynNJ9rdRFUjoYQ9il5bk6DQTIpVW9NhxJzD5EauU.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0923c2c1a90fcc7c16b339c38f51d4e5dcec45d2\" alt=\"[FRESH] THE WAR WITHIN ME - Take It\" title=\"[FRESH] THE WAR WITHIN ME - Take It\" /> </a> </td><td> &#3"
+        },
+        {
+          "title": "[FRESH] Sam Raspante - Pretty Little Lies",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwc433/fresh_sam_raspante_pretty_little_lies/",
+          "published": "2026-11-14",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xwc433/fresh_sam_raspante_pretty_little_lies/\"> <img src=\"https://external-preview.redd.it/7-v5-USaq5BuYsX5Ts4WNrGtZUSEyjZuHptSS7vNlbQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=27147da77431cae5bf23500ef5ada225e7be714a\" alt=\"[FRESH] Sam Raspante - Pretty Little Lies\" title=\"[FRESH] Sam Raspante - Pretty Little Lies\" /> "
+        },
+        {
+          "title": "[FRESH] Mystery Girlfriend - Halcyon",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xwat0h/fresh_mystery_girlfriend_halcyon/",
+          "published": "2026-11-14",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xwat0h/fresh_mystery_girlfriend_halcyon/\"> <img src=\"https://external-preview.redd.it/QSVeDw4dvXpCXeAgt6kr6Y5wPDorO_xPQz7daQSfYR0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=23a51f167c65f94cb7c7b04b2d6783e94016c1f0\" alt=\"[FRESH] Mystery Girlfriend - Halcyon\" title=\"[FRESH] Mystery Girlfriend - Halcyon\" /> </a> </td><td> "
+        },
+        {
+          "title": "[Saturday] General Discussion - 14 November 2026",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xw7bzy/saturday_general_discussion_14_november_2026/",
+          "published": "2026-11-14",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Talk about anything, music related or not!</strong> Or if you want to discuss music, check out the <a href=\"https://www.reddit.com/r/indieheads/search/?q=DAILY%20MUSIC%20DISCUSSION\">daily music discussion</a> threads. If you&#39;re new here, we encourage you to introduce yourself and tell us about music you&#39;re passionate about.</p> <p>Find out who&#39;"
+        },
+        {
+          "title": "Joanna Newsom released 'Ys' 20 years ago today",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xw6imu/joanna_newsom_released_ys_20_years_ago_today/",
+          "published": "2026-11-14",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YoureASkyscraper\"> /u/YoureASkyscraper </a> <br/> <span><a href=\"https://www.instagram.com/dragcityrecords/p/DfuoGSaoIBA/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/indieheads/comments/1xw6imu/joanna_newsom_released_ys_20_years_ago_today/\">[댓글]</a></span>"
+        },
+        {
+          "title": "Beastie Boys released their debut album ‘Licensed to Ill' 40 years ago",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xw5o10/beastie_boys_released_their_debut_album_licensed/",
+          "published": "2026-11-14",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xw5o10/beastie_boys_released_their_debut_album_licensed/\"> <img src=\"https://external-preview.redd.it/H247Tm0j5qR8bSDN7Wk-KvF--pHLo6-dBU7qBv774Aw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ef7891c929960efd547889e45b408b3c5183b28\" alt=\"Beastie Boys released their debut album ‘Licensed to Ill' 40 years ago\" title=\"Beasti"
+        },
+        {
+          "title": "[FRESH] The Record Company - Last Lonely Winter",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xw5nlf/fresh_the_record_company_last_lonely_winter/",
+          "published": "2026-11-14",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xw5nlf/fresh_the_record_company_last_lonely_winter/\"> <img src=\"https://external-preview.redd.it/LL73TsJ6oImK0lBlz7IqEAb6c3os5IED0RxegUYEk0M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bf8038c496b3b8717edc6c5013fc92ab418465c\" alt=\"[FRESH] The Record Company - Last Lonely Winter\" title=\"[FRESH] The Record Company - Last "
+        },
+        {
+          "title": "[FRESH] Jackie Giroux - Rotten Fruit",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xw5myk/fresh_jackie_giroux_rotten_fruit/",
+          "published": "2026-11-14",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xw5myk/fresh_jackie_giroux_rotten_fruit/\"> <img src=\"https://external-preview.redd.it/CQD5d7qhsKSHQcLGYLM11G2EaT7tXr2S3BtQ_5s3jts.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7732407ef2a37a0d6839387987a5d5fdd52ea416\" alt=\"[FRESH] Jackie Giroux - Rotten Fruit\" title=\"[FRESH] Jackie Giroux - Rotten Fruit\" /> </a> </td><td> "
+        },
+        {
+          "title": "[FRESH ALBUM] Menahan Street Band - Illusions",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xw4rba/fresh_album_menahan_street_band_illusions/",
+          "published": "2026-11-14",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xw4rba/fresh_album_menahan_street_band_illusions/\"> <img src=\"https://external-preview.redd.it/yMK3ObrbfBN9qfpi9szhdx4GfowQyeVF8QJqoZBFbuk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7917ae27ccb06f1274b46d8cf98f208ddcf997b2\" alt=\"[FRESH ALBUM] Menahan Street Band - Illusions\" title=\"[FRESH ALBUM] Menahan Street Band - Il"
+        },
+        {
+          "title": "[Saturday] Daily Music Discussion - 14 November 2026",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xw4g4v/saturday_daily_music_discussion_14_november_2026/",
+          "published": "2026-11-14",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Talk about anything music related that doesn&#39;t need its own thread.</strong> This thread is not for discussion that is tangentially music related; that belongs in the <a href=\"https://www.reddit.com/r/indieheads/search/?q=GENERAL%20DISCUSSION\">general discussion</a> threads. If you&#39;re new here, we encourage you to introduce yourself and tell us abo"
+        },
+        {
+          "title": "[FRESH] Khloe Rose - Easy",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xw3c19/fresh_khloe_rose_easy/",
+          "published": "2026-11-14",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xw3c19/fresh_khloe_rose_easy/\"> <img src=\"https://external-preview.redd.it/hPzlkLuuFIdV31Zky4zcagmY5fIEDLSIPmAmpAdBHqw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=348f2a8e567ba7187ab626e594c06062db89080c\" alt=\"[FRESH] Khloe Rose - Easy\" title=\"[FRESH] Khloe Rose - Easy\" /> </a> </td><td> &#32; submitted by &#32; <a href="
+        },
+        {
+          "title": "[FRESH ALBUM] Peel Dream Magazine - Taurus (Deluxe)",
+          "url": "https://www.reddit.com/r/indieheads/comments/1xw32v6/fresh_album_peel_dream_magazine_taurus_deluxe/",
+          "published": "2026-11-14",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indieheads/comments/1xw32v6/fresh_album_peel_dream_magazine_taurus_deluxe/\"> <img src=\"https://external-preview.redd.it/oDxaPVh1Vw0KR3A6buEybkGsKqh-fvcaiB2sxRma2eo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=005ff8efaa2bba2751775c0fc1f28f0a5dcb74e3\" alt=\"[FRESH ALBUM] Peel Dream Magazine - Taurus (Deluxe)\" title=\"[FRESH ALBUM] Peel Dream Mag"
+        }
+      ]
+    },
+    "isplus": {
+      "label": "일간스포츠",
+      "track": "T1",
+      "count": 25,
+      "items": [
+        {
+          "title": "배현성, 진짜 고등학생인 줄... ‘대리수능’서 열등감·욕망 폭발한다",
+          "url": "https://isplus.com/article/view/isp202611160067",
+          "published": "2026-11-16",
+          "summary": "배우 배현성이 완벽한 모범생의 가면 뒤에 열등감과 욕망을 감춘 인물로 변신한다.오는 23일 공개되는 티빙 오리지널 시리즈 &lsquo;대리수능&rsquo; 측은 16일 배현성, 차강윤, 박윤호의 촬영 현장이 담긴 비하인드 사진을 공개했다. 세 배우는 극중 각자의 욕망으로 얽히며 위험한 관계를 형성하는 고등학생으로 분해 치열한 심리전을 펼칠 예정이다.&lsquo;대리수능&rsquo;은 인생이 걸린 수능을 앞두고 서로 다른 결핍과 욕망을 지닌 인물들이 돌이킬 수 없는 범죄에 휘말리는 과정을 그린 스릴러다. &lsquo;피라미드 게임&rsquo;을 연출한 박소연 감독과 최수 작가가 의기투합했다. 배현성은 극중 부족할 것 없는 집안에서 자란 모범생 남재엽 역을 맡았다. 뛰어난 조건을 모두 갖춘 이른바 &lsquo;"
+        },
+        {
+          "title": "박훈정 ‘슬픈 열대’, 글로벌 먼저 홀렸다…북미 등 93개국 선판매 [공식]",
+          "url": "https://isplus.com/article/view/isp202611160066",
+          "published": "2026-11-16",
+          "summary": "&lsquo;슬픈 열대&rsquo;가 개봉 전부터 글로벌 시장의 뜨거운 관심을 받고 있다.16일 해외 배급사 화인컷에 따르면 영화 &lsquo;슬픈 열대&rsquo;는 북미를 비롯해 프랑스, 독일, 스페인, 이탈리아, 폴란드, 대만, 인도네시아, 몽골, 인도아대륙, 러시아와 CIS 등 전 세계 93개국에 선판매됐다. &lsquo;슬픈 열대&rsquo;는 &lsquo;신세계&rsquo;, &lsquo;마녀&rsquo; 등을 연출한 박훈정 감독의 신작으로, 사부의 죽음 이후, 그가 키워낸 킬러 조직 슬픈 열대에서 형제처럼 자란 조직원들이 서로를 향한 의심 속에 피의 복수를 다짐하며 벌어지는 이야기를 그린다.해외 바이어들은 복수와 의심의 소용돌이를 압도적인 미장센과 강렬한 액션, 짙은 여운으로 담아낸 박훈정표 액"
+        },
+        {
+          "title": "‘신과 함께’ 덕춘이도 다 컸네…김향기, 이번엔 짠내 로맨스 [줌인]",
+          "url": "https://isplus.com/article/view/isp202611160060",
+          "published": "2026-11-16",
+          "summary": "&ldquo;우리 한 이불 덮고 자자.&rdquo;&lsquo;신과함께&rsquo;의 덕춘이도 다 컸다. 맑고 앳된 얼굴로 관객들의 애정 어린 사랑을 받았던 배우 김향기가 이제는 사랑과 생계 사이에서 아등바등 살아가는 20대 청춘의 모습을 그린다. 아역 배우로 출발해 차근차근 성장해 온 그가 이번에는 &lsquo;짠내&rsquo; 나는 현실 로맨스에 도전한다.오는 18일 개봉하는 영화 &lsquo;옆에서 숨만 쉬어도 좋아&rsquo;는 전세 사기로 보증금을 잃고 지하 2층 생활을 시작한 화란(김향기)과 이완(안동구)이 팍팍한 현실 속에서도 사랑과 꿈을 지켜가는 청춘 생존 로맨스다. 김향기는 극중 웹툰 작가를 꿈꾸는 최화란 역을 맡았다. 화란은 생계를 위해 콜센터에서 일하면서도 남자친구 이완과 함께할 미래를 "
+        },
+        {
+          "title": "‘추노’ 대길이 그림자 지웠다... ‘문무’ 장혁, 3분 만에 증명한 연개소문의 무게 [줌인]",
+          "url": "https://isplus.com/article/view/isp202611160042",
+          "published": "2026-11-16",
+          "summary": "&ldquo;나의 칼끝으로 고구려를 지키겠다.&rdquo;3분. 지난 15일 방송된 KBS2 토일드라마 &lsquo;문무&rsquo;에서 연개소문 역을 맡은 장혁이 영류왕 고건무(조성하)를 시해하고 고구려의 군사 전권을 장악한 시간이다. 그의 피 묻은 외침은 짧지만 강렬했다.&lsquo;문무&rsquo;는 김춘추(김강우)가 삼국통일의 기반을 마련하고 김법민(이현욱)이 통일을 완성하기까지의 과정을 그린 작품이다. 장혁은 당나라에 맞서 고구려를 지킨 구국의 영웅이자, 왕을 죽이고 권력을 잡은 냉혹한 독재자라는 엇갈린 평가를 받는 연개소문을 맡았다.장혁은 영화 &lsquo;순수의 시대&rsquo;, 드라마 &lsquo;빛나거나 미치거나&rsquo;, &lsquo;나의 나라&rsquo;, &lsquo;장사의 신-객"
+        },
+        {
+          "title": "[공식] 이호선 교수, 모친상 조의금 1억 전액 기부… “어머니 가르침 따라”",
+          "url": "https://isplus.com/article/view/isp202611160064",
+          "published": "2026-11-16",
+          "summary": "상담 전문가 이호선 교수가 모친상으로 받은 조의금 1억여 원을 기부하며 어머니의 뜻을 이어갔다.16일 굿네이버스에 따르면 이호선 교수는 지난달 모친 고(故) 김정화 씨의 장례 기간 모인 조의금 1억90만 원을 굿네이버스에 전달했다.기부금은 아동복지시설이나 가정위탁 등의 보호를 받다가 홀로서기에 나선 자립준비청년들의 경제적&middot;정서적 자립을 지원하는 데 사용될 예정이다.이 교수는 &ldquo;어머니는 늘 배움을 멈추지 않으셨고, 어려운 이웃을 돕고 섬기는 일에도 주저함이 없으셨다&rdquo;며 &ldquo;&lsquo;사랑밖에는 답이 없다&rsquo;는 어머니의 가르침을 기억하며 그 사랑을 이웃과 나누는 삶으로 이어가고 싶다&rdquo;고 전했다.이 교수의 선행은 이번이 처음이 아니다. 그는 지난해부"
+        },
+        {
+          "title": "‘리틀 임영웅’ 안율, 독자 레이블 ‘B612’ 설립",
+          "url": "https://isplus.com/article/view/isp202611160063",
+          "published": "2026-11-16",
+          "summary": "트롯계 &lsquo;어린왕자&rsquo; 안율이 독자 레이블을 설립하고 새로운 도약에 나섰다. 안율은 최근 공식 레이블 &lsquo;B612(비육일이)&rsquo;를 설립했다. 사명은 안율의 대표 수식어인 &lsquo;어린왕자&rsquo;가 살던 소행성의 이름에서 착안한 것으로, 자신만의 뚜렷한 색깔과 독창적인 음악 세계를 더욱 깊이 있게 펼쳐나가겠다는 안율의 의지를 담았다.레이블 설립 소식과 함께 공개된 새 프로필 사진은 안율의 한계 없는 콘셉트 소화력과 입체적인 매력을 담아내고 있다. 첫 번째 사진 속 안율은 화이트 이너에 하늘색 셔츠를 매치하고 주근깨 메이크업을 더해 맑고 순수한 &lsquo;어린왕자&rsquo;의 청량한 소년미를 극대화했다. 또 다른 사진에서는 블랙 의상에 리본 타이를 스타일링하고 깊"
+        },
+        {
+          "title": "'한국 패배, 포르투갈도 완패'...축구토토 승무패 68회차 1등 적중자 0명",
+          "url": "https://isplus.com/article/view/isp202611160062",
+          "published": "2026-11-16",
+          "summary": "서울올림픽기념국민체육진흥공단이 발행하는 체육진흥투표권 스포츠토토의 수탁사업자 한국스포츠레저㈜(대표이사 김대욱)가 한국-사우디아라비아 친선 A매치와 2026`27 UEFA 네이션스리그 리그 페이즈 5차전 등 총 14경기를 대상으로 진행한 축구토토 승무패 68회차에서 1등 적중이 나오지 않아 3억 9,968만 750원이 다음 회차로 이월됐다고 밝혔다.11월 15일(일) 공식 인터넷 발매 사이트 베트맨이 발표한 적중결과에 따르면, 지정된 14경기의 결과를 모두 맞힌 1등 적중은 나오지 않았다. 이에 따라 1등에 배정된 총 적중금 3억 9,968만 750원은 다음 회차로 이월됐다.2등은 6건이 적중했으며, 개별 적중금은 2,664만 5,390원이다. 이어 3등은 122건(65만 5,220원), 4등은 1,787건("
+        },
+        {
+          "title": "시릴 간, 호킷 테이크다운 27회 막아내고 UFC 1차 방어…해리슨은 ‘GOAT’ 누네스에 서브미션 승",
+          "url": "https://isplus.com/article/view/isp202611160059",
+          "published": "2026-11-16",
+          "summary": "UFC 헤비급(120.2kg) 챔피언 시릴 간(36&middot;프랑스)이 첫 타이틀 방어에 성공했다. 도전자 조쉬 호킷(28&middot;미국)의 거센 초반 압박에 고전했지만, 경기 후반 타격 우위를 앞세워 판정승을 거뒀다.간(15승 2패 1무효)은 지난 15일(한국시간) 미국 뉴욕주 뉴욕시 매디슨 스퀘어 가든에서 열린 &lsquo;폴리마켓 UFC 334: 간 vs 호킷&rsquo; 메인이벤트에서 호킷에게 만장일치 판정승(48-47, 48-47, 48-47)을 거뒀다. 호킷의 테이크다운 시도 30회 중 27회를 막아내며 승리를 챙겼다.초반 흐름은 호킷이 주도했다. 경기 시작부터 거세게 달려들어 테이크다운과 펀치로 간을 몰아붙였다. 간은 잽과 어퍼컷으로 맞섰지만, 3라운드까지 판정단의 채점은 2-1로 호킷이"
+        },
+        {
+          "title": "'불혹에 전성기' SSG 노경은, 자서전 '투수라는 직업에게 경례' 출간",
+          "url": "https://isplus.com/article/view/isp202611160061",
+          "published": "2026-11-16",
+          "summary": "프로야구 SSG 랜더스의 베테랑 투수 노경은(42)이 마흔이 넘어 맞이한 전성기와 그 이면의 굴곡진 야구 인생을 담은 에세이 '투수라는 직업에게 경례-버티는 힘은 내 일에 대한 무한한 존경'을 출간했다. 스포츠조선 나유리 기자가 엮은 이 책은 긴 무명 시절과 방출의 설움을 딛고 마운드를 지켜낸 노경은의 치열한 생존기를 그린다.노경은은 2023년부터 2025년까지 KBO리그 사상 최초로 3년 연속 30홀드 이상을 달성하고, 2024년과 2025년 2년 연속 홀드왕을 차지하며 제2의 전성기를 누리고 있다. 올해는 월드베이스볼클래식(WBC) 대표팀에 발탁돼 13년 만에 태극마크를 달기도 했다. 책의 첫머리는 올해 WBC 당시 마이애미행 전세기에서 류현진, 이정후 등 후배들이 열어준 깜짝 생일파티의 영광스러운 순간"
+        },
+        {
+          "title": "\"완벽한 60분, 혼돈의 30분\"…'월드컵 챔피언 격파' 잉글랜드 향한 BBC의 평가는?",
+          "url": "https://isplus.com/article/view/isp202611160030",
+          "published": "2026-11-16",
+          "summary": "잉글랜드 대표팀이 적지 마드리드에서 '세계 챔피언' 스페인을 격침하고 유럽축구연맹(UEFA) 네이션스리그(UNL) 조 1위 등극과 패배 설욕이라는 두 마리 토끼를 모두 잡았다.영국 매체 BBC는 16일(한국시간) \"60분의 완벽함과 30분의 혼돈이 공존한 길이 남을 승리였다. 투헬 감독의 잉글랜드는 월드컵 우승팀 스페인을 상대로 압도적인 경기력을 선보인 끝에 3-2 승리를 거두며 스페인의 43경기 무패 행진에 마침표를 찍었다\"라고 보도했다. 이날 잉글랜드는 스페인 마드리드의 리야드 에어 메트로폴리타노에서 열린 2026~27 UNL A3조 6차전 원정경기에서 스페인을 3-2로 꺾었다. 두 팀은 5승 1패(승점 15)로 동률을 이뤘으나, 골 득실에서 앞선 잉글랜드(+13)가 스페인(+8)을 밀어내고 조 1위를 "
+        },
+        {
+          "title": "양키스, 좌안 사이드암스로 투수 팀 힐과 1+1 계약...IRS 1위 투수 지켰다",
+          "url": "https://isplus.com/article/view/isp202611160058",
+          "published": "2026-11-16",
+          "summary": "스토브리그에서 불펜 전력 보강을 노리는 메이저리그(MLB) 뉴욕 양키스가 희소가치가 있는 투수 팀 힐과 최장 2년 더 동행한다. MLB닷컴은 16일(한국시간) \"양키스가 힐과 1년 225만 달러에 계약했다\"라고 밝혔다. 구단의 공식 발표는 아직 나오지 않았지만, 2028년 250만 달러 구단 옵션이 포함된 것으로 알려졌다. 1+1 계약이다. MLB닷컴은 올겨울 브라이언 캐시먼 양키스 단장의 과제는 불펜 보강이라고 규정했다. 팀 평균자책점 3.13 2위에 올랐지만, 몇몇 핵심 선수들이 자유계약선수(FA) 자격을 얻었다. 2026시즌 마무리 투수를 맡았던 데이비드 베드너에게도 퀄리파잉오퍼를 한 상태라고. 힐은 MLB에서는 드문 좌완 사이드암 투수다. 2026 정규시즌 67경기에서 58과 3분의 2이닝을 소화하며"
+        },
+        {
+          "title": "고강도 운동 후 우유 섭취, 뼈 형성 관련 지표에 차이",
+          "url": "https://isplus.com/article/view/isp202611160056",
+          "published": "2026-11-16",
+          "summary": "-캐나다 연구진, 건강한 성인 20명 대상 우유&middot;그릭요거트&middot;탄수화물 음료&middot;물 비교-운동 24시간 뒤 P1NP 증가&middot;RANKL 감소 관찰&hellip;장기적 골밀도 개선으로 확대 해석은 주의 고강도 운동을 마친 뒤 우유를 섭취했을 때 뼈 형성과 흡수에 관련된 일부 혈액 지표가 다른 식품이나 음료를 섭취한 경우와 차이를 보였다는 해외 연구 결과가 나왔다.국제 학술지 &lsquo;Applied Physiology, Nutrition, and Metabolism&rsquo;에 발표된 캐나다 연구진의 연구에 따르면, 운동 후 우유를 섭취한 조건에서 뼈 대사와 관련된 일부 생체지표가 물이나 그릭요거트, 탄수화물 음료를 섭취했을 때와 다른 양상을 나타냈다.구체적으로 운동"
+        },
+        {
+          "title": "이현욱, 괜히 ‘문무’ 주인공 아니네… 김흥수와 날 선 대립 속 애틋한 가족애",
+          "url": "https://isplus.com/article/view/isp202611160055",
+          "published": "2026-11-16",
+          "summary": "배우 이현욱이 전쟁의 참혹한 현실 앞에서 고뇌하는 김법민의 모습을 설득력 있게 그려냈다.지난 15일 방송된 KBS2 대하드라마 &lsquo;문무&rsquo; 2회에서는 김법민(이현욱)이 전쟁으로 희생된 백성들의 참상을 목격하고 충격에 빠지는 모습이 그려졌다. 이현욱은 혼란스러운 감정부터 냉철한 카리스마, 가족을 향한 애틋함까지 폭넓은 연기로 극의 몰입도를 높였다. 이날 김법민은 아버지 김춘추(김강우)와 함께 대야성으로 향하던 중 처참하게 훼손된 마을을 발견했다. 곳곳에 시신이 매달려 있는 끔찍한 광경에 김법민은 말을 잇지 못했다. 가야와 백제, 신라의 지배를 거쳐 온 백성들이 출신을 이유로 첩자라는 의심을 받고 목숨을 잃었다는 사실은 그에게 큰 충격을 안겼다.김법민은 전쟁의 피해가 단순히 국가 간의 대립에 "
+        },
+        {
+          "title": "\"해외 에이전트 선임\" 구자욱·원태인 협상 장기화 가능성, 이종열 단장의 '속전속결' 가능할까",
+          "url": "https://isplus.com/article/view/isp202611160054",
+          "published": "2026-11-16",
+          "summary": "우승의 기쁨 뒤, 고민의 시간이 찾아왔다. 삼성 라이온즈가 투타의 핵심 구자욱과 원태인을 붙잡아야 하는 겨울을 맞았다. 두 선수 모두 구단의 대우에 기대를 드러냈지만, 해외 진출까지 염두에 두고 있어 협상이 장기화할 여지도 있다.삼성은 KT 위즈와의 한국시리즈(KS)에서 승리하며 12년 만에 정상에 올랐다. 박진만 감독은 우승 직후 2연패 도전을 선언했다. 이를 위해서는 이번 겨울 자유계약선수(FA)가 된 구자욱과 원태인의 잔류가 중요하다. 타선과 마운드의 중심을 동시에 지켜야 우승 전력을 유지할 수 있다.두 선수의 가치는 가장 중요한 무대인 가을야구에서 다시 확인됐다. 구자욱은 햄스트링 부상 속에서도 KS 타율 0.500(20타수 10안타)을 기록하며 최우수선수(MVP)에 올랐다. 원태인은 플레이오프부터 "
+        },
+        {
+          "title": "곽선영, 장르 소화력에 흥행까지 잡았다…‘크래시2’ 오늘(16일) 컴백",
+          "url": "https://isplus.com/article/view/isp202611160053",
+          "published": "2026-11-16",
+          "summary": "배우 곽선영이 &lsquo;크래시2 : 분노의 도로&rsquo;를 통해 한계없는 장르 소화력과 흥행력을 증명한다.곽선영은 16일 오후 첫 방송되는 ENA 새 월화드라마 &lsquo;크래시2 : 분노의 도로&rsquo;(이하 &lsquo;크래시2&rsquo;)를 통해 다시 안방극장에 찾아간다. &lsquo;크래시2&rsquo;는 2024년 인기리에 방송된 &lsquo;크래시&rsquo;의 두 번째 시즌으로, 남강서 교통범죄수사팀 T.C.I가 국가수사본부 소속 광역수사대로 거듭나 전국구 교통범죄 사건을 해결하는 이야기를 그린다.곽선영은 지난 시즌에 이어, T.C.I 팀의 중추이자 거침없는 행동력을 지닌 반장 민소희 역으로 활약한다. 극중 민소희는 타고난 순발력은 물론, 실전으로 다져진 무술 실력과 운전 실력까지"
+        },
+        {
+          "title": "JYP 오브더블루, 베일 너머로 건넨 묘한 첫인사 [줌인]",
+          "url": "https://isplus.com/article/view/isp202611160052",
+          "published": "2026-11-16",
+          "summary": "이름도 얼굴도 아직 낯선 소년들이 노래 한 곡으로 귀를 사로잡았다. 제목은 &lsquo;풍선인간&rsquo;. 어딘가 생소한 이름이지만, 듣고 나면 묘한 여운이 남는다.JYP엔터테인먼트가 내년 1월 선보일 신인 보이그룹 오브더블루가 벌써부터 심상치 않은 반응을 얻고 있다. 멤버들의 구체적인 정보가 공개되기 전, 음악부터 먼저 들려주는 방식을 택했는데 결과물이 꽤 흥미롭다. 편안한 멜로디에 겹겹이 쌓이는 화음, 얼굴을 가린 소년들이 등장하는 영상도 기존 아이돌 그룹들이 데뷔를 준비하는 방식과는 사뭇 다르다.오브더블루는 지난 11일 프리 데뷔곡 &lsquo;풍선인간&rsquo;을 발표했다. 내년 1월 11일 첫 번째 미니앨범 &lsquo;아웃 오브 더 블루&rsquo;로 데뷔하는 팀으로, 엔믹스를 탄생시킨 JY"
+        },
+        {
+          "title": "‘핑계고’ 공유, 송혜교 앞에서 ‘옛 연인’ 이병헌 언급… “혜교야 울컥했어?”",
+          "url": "https://isplus.com/article/view/isp202611160051",
+          "published": "2026-11-16",
+          "summary": "배우 공유가 송혜교 앞에서 과거 연인이었던 이병헌을 언급해 눈길을 끌었다.지난 14일 유튜브 채널 &lsquo;뜬뜬&rsquo;의 웹 예능 &lsquo;핑계고&rsquo;에는 넷플릭스 새 오리지널 시리즈 &lsquo;천천히 강렬하게&rsquo;의 주역 송혜교와 공유가 게스트로 출연했다.이날 공유는 &ldquo;얼마 전 넷플릭스 10주년 행사가 있어서 다녀왔다&rdquo;며 &ldquo;시상식을 방불케 할 정도로 수많은 배우가 왔다. 그때 내가 약간 &lsquo;나이가 들었나?&rsquo;라는 생각이 든 게 이정재, 이병헌 선배님이 계신 테이블로 자연스럽게 가서 앉게 되더라&rdquo;고 밝혀 웃음을 자아냈다.이어 &ldquo;예전엔 그렇게 어려워했던 이정재, 이병헌 두 선배님이었다. 과거엔 진짜 떨리고 그래"
+        },
+        {
+          "title": "2am, 12월 26·27일 단독 콘서트 개최",
+          "url": "https://isplus.com/article/view/isp202611160050",
+          "published": "2026-11-16",
+          "summary": "그룹 2am이 연말 단독 콘서트를 개최하고 팬들과 한 해의 마지막을 특별하게 장식한다.2am의 단독 콘서트 &lsquo;다시, 오늘&rsquo;은 오는 12월 26일 오후 6시와 27일 오후 5시 총 2회에 걸쳐 성신여자대학교 운정그린캠퍼스 대강당에서 개최된다.이번 콘서트는 2am의 음악과 함께해 온 지난 시간을 돌아보고, 앞으로 이어질 새로운 이야기를 함께 그려가는 자리다. 오랜 시간 사랑받아 온 2am의 대표곡들을 통해 팬들에게 잊지 못할 추억을 선사할 예정이다.지난 6월 개최된 단독 콘서트 &lsquo;오늘, 2am&rsquo;과 연결되는 &lsquo;다시, 오늘&rsquo;이라는 제목으로 의미를 더한다. 당시 공연에서 시작된 이야기를 이어가며, 팬들과 쌓아온 시간을 되새기고 새로운 순간을 맞이한다는 "
+        },
+        {
+          "title": "故김주혁 불렀던 ‘세월이 가면’ 선곡에…‘절친’ 차태현·문근영 눈물 (‘우발라2’)",
+          "url": "https://isplus.com/article/view/isp202611160049",
+          "published": "2026-11-16",
+          "summary": "배우 차태현과 문근영이 &lsquo;우리들의 발라드 2&rsquo; 참가자의 무대를 통해 고(故) 김주혁을 추억한다.16일 방송되는 SBS 오디션 예능 &lsquo;우리들의 발라드 2&rsquo;에서는 세미파이널로 가는 관문, 3라운드 듀엣 미션이 진행된다.이날 참가자들이 뽑은 우승 후보 1위에 오른 임바다는 파트너와 함께 문근영의 플레이리스트 중 하나인 최호섭의 &lsquo;세월이 가면&rsquo;을 선곡해 듀엣에 나선다. 두 참가자의 무대에 로이킴은 &ldquo;최다 조회수 무대일 것&rdquo;이라고 단언한 가운데, 문근영과 차태현이 눈물을 쏟는다. &lsquo;세월이 가면&rsquo;은 지난 2017년 안타까운 사고로 세상을 떠난 배우 고 김주혁이 영화 &lsquo;광식이 동생 광태&rsquo;에서 "
+        },
+        {
+          "title": "‘4쿼터에만 3점 5방·16점 대폭발’ 이현중, 25점 맹폭으로 립시티 연장 대역전극 견인",
+          "url": "https://isplus.com/article/view/isp202611160041",
+          "published": "2026-11-16",
+          "summary": "한국 남자농구의 간판 슈터 이현중(26)이 4쿼터에만 16점을 몰아치는 &lsquo;대폭발&rsquo;을 선보이며 소속팀 립시티 리믹스의 짜릿한 연장 역전승에 기여했다.이현중은 16일(한국시간) 미국 캘리포니아주 스탁턴의 어드벤티스트 헬스 아레나에서 열린 스탁턴 킹스와의 미국프로농구(NBA) G리그 원정 경기에서 3점슛 6개 포함 25점 7리바운드 4어시스트 1스틸 1블록슛으로 맹활약했다. 팀은 연장 끝에 타깃 스코어 118점을 채워 119-115로 이겼다. 이현중은 지난 14일 같은 장소에서 열린 스탁턴전에서 3점슛 4개 포함 21점을 올리고도 졌는데, 이날은 25점을 몰아쳐 역전극을 주도했다.전반까지는 립시티의 흐름이었다. 1쿼터 레이업과 자유투로 4점을 올린 이현중은 2쿼터 들어 뱅크 점프슛 득점과 함"
+        },
+        {
+          "title": "“숨지 않기로 하자”…김똘똘이 전하는 진솔한 위로 ‘나답게 똘똘하게’ [IS북리뷰]",
+          "url": "https://isplus.com/article/view/isp202611160048",
+          "published": "2026-11-16",
+          "summary": "크리에이터 김똘똘이 첫 에세이를 통해 자신의 이야기를 털어놓는다.지난 4일 출간된 &lsquo;나답게 똘똘하게&rsquo;는 김똘똘(본명 김반석)이 타인의 시선과 편견 속에서도 자신만의 길을 찾아온 과정을 담은 책이다.김똘똘은 &lsquo;나답게 똘똘하게&rsquo;를 통해 어린 시절부터 겪어온 상처와 고민을 솔직하게 풀어냈다. 원치않게 타인에 의해 드러난 비밀부터 4년간 멀어져야 했던 아버지와의 관계, 자신을 둘러싼 오해와 악플까지 다양한 이야기를 담았다.특히 타인의 기준에 맞추기보다 있는 그대로의 자신을 받아들이고 사랑하는 과정이 공감을 자아낸다.&ldquo;숨지 않기로 하자, 나를 사랑할 시간이 늘었다&rdquo;는 문장처럼, 책은 세상이 정한 기준에서 벗어나 나답게 살아가고자 하는 이들에게 따뜻한 응"
+        },
+        {
+          "title": "‘비주얼 퀸’ 아이브 리즈, 눈빛으로 열도 사로잡았다",
+          "url": "https://isplus.com/article/view/isp202611160047",
+          "published": "2026-11-16",
+          "summary": "그룹 아이브 리즈가 일본 렌즈 브랜드의 새 얼굴로 발탁됐다.소속사 스타쉽엔터테인먼트는 16일 &ldquo;리즈가 일본 컬러 콘택트렌즈 브랜드 미젤의 모델로 발탁됐다&rdquo;고 밝히며 브랜드 화보를 공개했다.화보 속 리즈는 맑고 또렷한 눈빛과 인형 같은 비주얼로 시선을 사로잡았다. 긴 생머리와 화려한 액세서리로 세련된 분위기를 자아내는가 하면, 다양한 컬러의 렌즈를 완벽하게 소화하며 신비로운 매력을 발산했다. 사랑스러운 표정부터 시크하고 도도한 눈빛까지 자유자재로 오가며 다채로운 콘셉트 소화력을 뽐냈다.리즈는 무대 위 파워풀한 퍼포먼스와 독보적인 음색은 물론, 청순함과 화려함을 넘나드는 비주얼로 글로벌 팬들의 사랑을 받고 있다. 최근에는 &lsquo;2026 KGMA&rsquo; 뮤직 데이 MC로 나서 팔"
+        },
+        {
+          "title": "미미미누 이어 유대종도 목소리... “AI 부정행위 못 막으면 수능 연기”",
+          "url": "https://isplus.com/article/view/isp202611160046",
+          "published": "2026-11-16",
+          "summary": "국어 일타강사 유대종이 &lsquo;AI 안경&rsquo; 부정행위 논란에 대해 강력한 대책 마련을 촉구했다.유대종은 16일 자신의 SNS에 &ldquo;그동안 학생들에게 수능만큼은 분명히 공정한 시험이라고 가르쳐 왔고, 대한민국에서 수능 입시는 가장 공정한 제도로 남아야 한다&rdquo;며 &ldquo;편법과 위법 행위로 부당하게 좋은 점수를 얻으려는 악의적 시도는 반드시 차단되어야 한다&rdquo;고 목소리를 높였다.이어 &ldquo;정부와 교육 관계자는 반드시 오늘(16일) 중으로 AI 안경이나 소형 카메라 등을 이용한 부정행위를 원천 봉쇄할 대책을 강력하게 마련해야 한다&rdquo;며 &ldquo;만일 모든 고사장에서 공정하게 시험을 치를 수 있는 확실한 대책이 마련되지 않는다면 수능은 연기되어야 한"
+        },
+        {
+          "title": "총체적 난국 현대건설, 반등 실마리는 '정지윤 복귀'",
+          "url": "https://isplus.com/article/view/isp202611160045",
+          "published": "2026-11-16",
+          "summary": "2026~27 V리그 여자부 초반 양극화 현상이 나타나고 있다. IBK기업은행과 한국도로공사는 각각 승점 12를 기록했고, 신생팀 SOOP과 현대건설은 네 경기를 치러 전패를 당하며 승점 1도 얻지 못했다. 지난 시즌 정규리그 2위 현대건설이 고전해 시선을 모은다. 대들보였던 양효진이 은퇴했지만, 문제점이 '높이'에 그치지 않고 있다. 외국인 선수 조던 윌슨과 아시아쿼터서 선수 메가왓티 퍼위티(메가)의 화력도 기대에 미치지 못했고, 팀 리시브 효율(21.23%) 최하위(7위)에 그칠 만큼 수비도 헐겁다. 팀 블로킹 역시 세트당 1.231개로 최하위다. 15일 한국도로공사전 패전 뒤 만난 강성형 현대건설 감독은 범실 등 안 좋은 플레이가 나오면서 커진 불안감을 극복하지 못하고 있다고 봤다. 미들 블로커진 전력"
+        },
+        {
+          "title": "“고경표, 올해 마르는 시기” 한 달 전 ‘예능 4개’ 들떴는데…술버릇까지 파묘 [왓IS]",
+          "url": "https://isplus.com/article/view/isp202611160044",
+          "published": "2026-11-16",
+          "summary": "배우 고경표가 만취 상태로 운전하다 청소차를 들이받은 가운데, 불과 한 달전 그의 사주 풀이와 과거 술버릇까지 재조명 받고 있다.고경표는 지난 14일 오전 3시 30분께 서울 마포구 동교동의 한 도로에서 자신의 승용차를 운전하던 중 작업 중이던 청소차와 충돌하는 사고를 일으켰다. 당시 고경표의 혈중알코올농도는 운전면허 취소 수준으로 확인됐다.소속사 씨엘엔컴퍼니는 공식 입장을 통해 혐의를 인정하고 &ldquo;고경표는 자신의 잘못을 인정하고 깊이 반성하고 있다&rdquo;고 사과했다. 이어 &ldquo;향후 내려질 처분을 겸허히 받아들이겠다. 피해 회복을 비롯해 그에 따른 책임을 다하겠다&rdquo;고 전했다.고경표는 또한 15일 자신의 SNS에 장문의 사과문을 게시하며 &ldquo;술을 마시고 운전대를 잡은"
+        }
+      ]
+    }
+  },
+  "titles": {
+    "izm": {
+      "label": "IZM",
+      "track": "T2-발견",
+      "total": 12,
+      "new": [
+        "Pulse 리센느 (RESCENE) by 박승민",
+        "Prima 아델라 (ADÉLA) by 박시훈"
+      ]
+    },
+    "indistreet": {
+      "label": "인디스트릿",
+      "track": "T2-선점",
+      "total": 40,
+      "new": [
+        "무신사개러지 서울 마포구 잔다리로 32 서문빌딩 지하1층 2개 공연",
+        "Club Sharp 서울 마포구 동교로 63 지하1층 2개 공연",
+        "SPIN AND GRIND 서울 서대문구 연세로12길 32 1개 공연",
+        "아지토 라이브 홀 서울 서대문구 신촌역로 13 세오빌딩 지층 2개 공연",
+        "A.O.R 서울 마포구 와우산로 156 1개 공연",
+        "생기스튜디오 서울 마포구 와우산로 137 5층 3개 공연",
+        "코스모스루비 서울 마포구 와우산로29길 8, 지하1층 1개 공연",
+        "살롱문보우 서울 마포구 동교로12안길 36 1층 2개 공연",
+        "언플러그드 라운지 서울 마포구 와우산로29길 15 2층 5개 공연",
+        "우무지 서울 마포구 독막로8길 7 삼성빌딩 B1 2개 공연",
+        "라이브앤라우드 서울 마포구 동교로 191 디비엠빌딩 지하 2층 1개 공연",
+        "라디오가가 서울 마포구 양화로11길 54 1개 공연",
+        "남온 제주특별자치도 서귀포시 남원읍 신흥리 1576-1 1개 공연",
+        "퍼플노이즈 라이브홀 서울 서초구 방배동 910-5 지하1층 1개 공연",
+        "南堀江 knave 〒550-0015 大阪府大阪市西区南堀江3-11-21 Tall Valley B1F 6개 공연",
+        "新宿red cloth 〒160-0022 東京都新宿区新宿6-28-12 DS新宿ビルB1 6개 공연",
+        "스페이스 한강 서울 마포구 와우산로 128 지하1층 3개 공연",
+        "카페 언플러그드 홍대점 서울 마포구 와우산로33길 26 1층 4개 공연",
+        "오방가르드 부산 남구 용소로7번길 15-1 지하층 1개 공연",
+        "딩깅프렌즈 경기 수원시 팔달구 창룡대로 20 1개 공연",
+        "우주정거장 서울 마포구 와우산로29길 16 1개 공연",
+        "채널1969 서울 마포구 연희로 35 4개 공연",
+        "스트레인지 프룻 서울 마포구 와우산로29길 64 1개 공연",
+        "리얼라이즈 부산광역시 수영구 민락동 158-14 지하1층 1개 공연",
+        "꼬뮨 대구 중구 동성로5길 85 지하1층 1개 공연",
+        "언드 경남 거제시 거제대로 3734 지하1층 1개 공연"
+      ]
+    },
+    "ebs_space": {
+      "label": "EBS 스페이스 공감",
+      "track": "T2-발견",
+      "total": 40,
+      "new": []
+    }
+  },
+  "failures": [
+    {
+      "key": "reddit_hiphopheads",
+      "kind": "rss",
+      "error": "HTTP 429"
+    },
+    {
+      "key": "starnews",
+      "kind": "rss",
+      "error": "fetch failed"
+    },
+    {
+      "key": "khan_music",
+      "kind": "rss",
+      "error": "HTTP 403"
+    },
+    {
+      "key": "khan_ent",
+      "kind": "rss",
+      "error": "HTTP 403"
+    },
+    {
+      "key": "yt_waterbomb",
+      "kind": "rss",
+      "error": "HTTP 404"
+    },
+    {
+      "key": "yt_pentaport",
+      "kind": "rss",
+      "error": "HTTP 404"
+    },
+    {
+      "key": "yt_gmf",
+      "kind": "rss",
+      "error": "HTTP 404"
+    },
+    {
+      "key": "yt_mintpaper",
+      "kind": "rss",
+      "error": "HTTP 404"
+    },
+    {
+      "key": "yt_busanrock",
+      "kind": "rss",
+      "error": "HTTP 404"
+    },
+    {
+      "key": "hiphople",
+      "kind": "titles",
+      "error": "HTTP 403"
+    },
+    {
+      "key": "hiphopplaya",
+      "kind": "titles",
+      "error": "HTTP 429"
+    },
+    {
+      "key": "eyesmag",
+      "kind": "titles",
+      "error": "HTTP 404"
+    },
+    {
+      "key": "glowupmag",
+      "kind": "titles",
+      "error": "제목 0건 — 셀렉터 확인 필요"
+    },
+    {
+      "key": "weiv",
+      "kind": "titles",
+      "error": "fetch failed"
+    },
+    {
+      "key": "visla",
+      "kind": "titles",
+      "error": "제목 0건 — 셀렉터 확인 필요"
+    },
+    {
+      "key": "rhythmer",
+      "kind": "titles",
+      "error": "fetch failed"
+    }
+  ]
+}
