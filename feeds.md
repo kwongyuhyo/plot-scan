@@ -1,12 +1,13 @@
-# PLOT 피드 수집 — 2026-11-26
+# PLOT 피드 수집 — 2026-11-27
 
 > GitHub Actions가 수집. 브리프는 이 파일을 읽는다(RSS 직접 페치 불가 우회).
 > 트랙 표기는 `셀렉션-기준-정본.md` 의 T1/T2 슬롯과 대응한다.
 
-## ⚠️ 수집 실패 10건
+## ⚠️ 수집 실패 11건
 - `reddit_indieheads` (rss) — HTTP 404
-- `reddit_hiphopheads` (rss) — HTTP 429
+- `reddit_hiphopheads` (rss) — HTTP 404
 - `khan_music` (rss) — HTTP 403
+- `khan_ent` (rss) — HTTP 403
 - `hiphople` (titles) — HTTP 403
 - `hiphopplaya` (titles) — HTTP 429
 - `eyesmag` (titles) — HTTP 404
@@ -17,30 +18,30 @@
 
 ## 국내 매체 신규 (제목 diff)
 
-### IZM · T2-발견 — 신규 4 / 전체 12
-- Up 에이티즈 (ATEEZ) by 임동엽
-- 하라는 랩 다이나믹 듀오 (Dynamicduo) by 박승민
-- Unbelievable 하이키 (H1-KEY) by 손민현
-- Ya hit 퓨처 (Future) Feat. 드레이크 트래비스 스캇 로 시미 by 유성아
+### IZM · T2-발견 — 신규 0 / 전체 12
+_전일 대비 신규 없음_
 
-### 인디스트릿 · T2-선점 — 신규 17 / 전체 40
-- Today BOUND RUSH vol.6 11월 26일 (목) 오후 6:30 프리즘홀 asteria BE++ER!! ふる~Chu + 4
-- Today 노래하는 시인 박인희 콘서트 [서울] (11/26) 11월 26일 (목) 오후 7:00 이화여자대학교 삼성홀 박인희
-- Today 항해 11월 26일 (목) 오후 7:30 언플러그드 라운지 기묘말 정세영
-- Today A.O.R CRAZY THURSDAY 11월 26일 (목) 오후 7:30 A.O.R 일루반 에브리데이먼데이 FLEET + 2
-- Today 홍대우주정거장 OPEN MIC 공연 11월 26일 (목) 오후 7:30 우주정거장 송규범 루시엔 채민 + 1
-- Today 유성은 재즈콘서트 11월 26일 (목) 오후 7:30 거암아트홀 유성은
-- Today 78LIVE, kwacamolee 11월 26일 (목) 오후 7:30 엠피엠지 kwacamolee
-- Today 언플러그드 오픈스테이지 11월 26일 (목) 오후 8:00 카페 언플러그드 홍대점 Lemon Radio On 본하
-- 18:30 BOUND RUSH vol.6 프리즘홀 공연
-- 19:00 노래하는 시인 박인희 콘서트 [서울] (11/26) 이화여자대학교 삼성홀 공연
-- 19:30 항해 언플러그드 라운지 공연
-- 19:30 A.O.R CRAZY THURSDAY A.O.R 공연
-- 19:30 홍대우주정거장 OPEN MIC 공연 우주정거장 공연
-- D-1 노래하는 시인 박인희 콘서트 [서울] (11/27) 11월 27일 (금) 오후 6:00 이화여자대학교 삼성홀 박인희
-- D-1 난파란 단독 콘서트: 허공에서 11월 27일 (금) 오후 7:00 아지토 라이브 홀 난파란
-- D-1 ROCKERS ON FRIDAY vol.111 11월 27일 (금) 오후 7:30 Club Victim 시네마스퀘어 콘트라젤리 IGNITE + 1
-- D-1 헤어짐과 재회 11월 27일 (금) 오후 7:30 채널1969 한울 대소콜링 리프 + 1
+### 인디스트릿 · T2-선점 — 신규 20 / 전체 40
+- Today 노래하는 시인 박인희 콘서트 [서울] (11/27) 11월 27일 (금) 오후 6:00 이화여자대학교 삼성홀 박인희
+- Today 난파란 단독 콘서트: 허공에서 11월 27일 (금) 오후 7:00 아지토 라이브 홀 난파란
+- Today ROCKERS ON FRIDAY vol.111 11월 27일 (금) 오후 7:30 Club Victim 시네마스퀘어 콘트라젤리 IGNITE + 1
+- Today 헤어짐과 재회 11월 27일 (금) 오후 7:30 채널1969 한울 대소콜링 리프 + 1
+- Today 첫 마디 프로젝트 - 빈스프라우트 BEANSPROUT 11월 27일 (금) 오후 7:30 우무지 빈스프라우트 분리수거
+- Today off the menu: Soundwork Ⅱ 11월 27일 (금) 오후 7:30 CJ아지트 광흥창
+- Today 도빛나리 첫 EP <둥근포크(Round Fol(r)k)> 발매 쇼케이스 11월 27일 (금) 오후 7:30 공상온도 도빛나리
+- Today 박강수 콘서트: 11월, 가을의 위로 11월 27일 (금) 오후 7:30 베짱이홀 박강수
+- 18:00 노래하는 시인 박인희 콘서트 [서울] (11/27) 이화여자대학교 삼성홀 공연
+- 19:00 난파란 단독 콘서트: 허공에서 아지토 라이브 홀 공연
+- 19:30 ROCKERS ON FRIDAY vol.111 Club Victim 공연
+- 19:30 헤어짐과 재회 채널1969 공연
+- 19:30 첫 마디 프로젝트 - 빈스프라우트 BEANSPROUT 우무지 공연
+- D-1 신촌블루스 콘서트 (11/28) 11월 28일 (토) 오후 2:00 이들스 신촌블루스
+- D-1 구름 단독공연: What If - vol.2 11월 28일 (토) 오후 2:00 공상온도 구름
+- D-1 고공행진 11월 28일 (토) 오후 3:00 언플러그드 라운지 웰컴투초초랜드 일루반
+- D-1 CUSE HACKER 2ND RELEASE EVENT 11월 28일 (토) 오후 3:00 웨스트브릿지 라이브홀 BE++ER!! solanin CUSE HACKER
+- D-1 -ist 2026 11월 28일 (토) 오후 3:00 신예훈
+- D-1 ONE PACT 3RD ANNIVERSARY FAN CONCERT: MOMENTUM 11월 28일 (토) 오후 4:00 예림당아트홀 ONE PACT
+- D-1 김승민 <11월 해질녘 콘서트 - KIM> 11월 28일 (토) 오후 5:00 북두칠성도서관 아트훌 김승민
 
 ### EBS 스페이스 공감 · T2-발견 — 신규 0 / 전체 40
 _전일 대비 신규 없음_
@@ -66,15 +67,11 @@ _최근 3일 내 항목 없음_
 
 ### T2-발견
 
-**Pitchfork 리뷰** (3건)
+**Pitchfork 리뷰** (1건)
 - 2026-11-25 · [Collected Rips 2004-2024](https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/)
   · Colombia’s TraTraTrax label gathers unreleased tracks from a shadowy internet collective that’s been making mischief on the fringes of the Brazilian funk scene for more than two de
-- 2026-11-24 · [Fly 1111](https://pitchfork.com/reviews/albums/emma-ogier-fly-1111/)
-  · The Texas singer-songwriter’s debut channels a cool-girl-next-door vibe and a twangy alt-pop sound. At her best, she sounds wise beyond her years, with a knack for hooks and a lite
-- 2026-11-24 · [American Bully XL](https://pitchfork.com/reviews/albums/font-american-bully-xl/)
-  · On its second album, the Texas quartet runs classic country influences through blasts of distortion, pairing its noisy palette with newly confessional lyrics.
 
-**Bandcamp Daily** (7건)
+**Bandcamp Daily** (4건)
 - 2026-11-25 · [Underground Medicine #9](https://daily.bandcamp.com/underground-medicine/underground-medicine-9)
   · Ingrid Kerr of legendary '80s/'90s DIY punk collective Konkurrent and hardcore punk band Nog Watt tells all. Read full story on the Bandcamp Daily .
 - 2026-11-25 · [The Best Latin Music on Bandcamp, November 2026](https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-november-2026)
@@ -83,14 +80,18 @@ _최근 3일 내 항목 없음_
   · Our guide to the month’s crucial electronic LPs. Read full story on the Bandcamp Daily .
 - 2026-11-25 · [Purple Pilgrims, “Given To The Night”](https://daily.bandcamp.com/album-of-the-day/purple-pilgrims-given-to-the-night-review)
   · A back-to-nature record from the NZ siblings results in mystic dream pop. Read full story on the Bandcamp Daily .
-- 2026-11-24 · [The Best Country Music on Bandcamp, November 2026](https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-november-2026)
-  · Our guide to the month’s crucial country LPs. Read full story on the Bandcamp Daily .
-- 2026-11-24 · [The Best Jazz on Bandcamp, November 2026](https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-november-2026)
-  · Our guide to the month’s crucial jazz LPs Read full story on the Bandcamp Daily .
-- 2026-11-24 · [Rosetta, “Temporal Lapse”](https://daily.bandcamp.com/album-of-the-day/rosetta-temporal-lapse-review)
-  · The veteran post-rock band bid farewell—for now—with their most phenomenal LP to date. Read full story on the Bandcamp Daily .
 
-**Stereogum** (25건)
+**Stereogum** (19건)
+- 2026-11-26 · [Toronto Musician Michael Eckert Killed In Home Invasion](https://stereogum.com/2522048/toronto-musician-michael-eckert-killed-in-home-invasion/news/)
+  · The post Toronto Musician Michael Eckert Killed In Home Invasion appeared first on Stereogum .
+- 2026-11-26 · [Lana Del Rey Shares Thanksgiving Update On New Albums](https://stereogum.com/2522030/lana-del-rey-shares-thanksgiving-update-on-new-albums/news/)
+  · The post Lana Del Rey Shares Thanksgiving Update On New Albums appeared first on Stereogum .
+- 2026-11-26 · [DVTR – “Queen Cong”](https://stereogum.com/2522018/dvtr-queen-cong/music/)
+  · The post DVTR – “Queen Cong” appeared first on Stereogum .
+- 2026-11-26 · [Macy Gray Is Releasing Her New Album In A Microdrama](https://stereogum.com/2522004/macy-gray-is-releasing-her-new-album-in-a-microdrama/news/)
+  · The post Macy Gray Is Releasing Her New Album In A Microdrama appeared first on Stereogum .
+- 2026-11-26 · [U2 Perform Their Dolly Parton Collaboration At First-Ever Thanksgiving Eve NFL Game](https://stereogum.com/2521986/u2-perform-their-dolly-parton-collaboration-at-first-ever-thanksgiving-eve-nfl-game/news/)
+  · The post U2 Perform Their Dolly Parton Collaboration At First-Ever Thanksgiving Eve NFL Game appeared first on Stereogum .
 - 2026-11-26 · [Legss – “Angels Hide (Their Faces)”](https://stereogum.com/2521577/legss-angels-hide-their-faces/music/)
   · The post Legss – “Angels Hide (Their Faces)” appeared first on Stereogum .
 - 2026-11-25 · [Duran Duran’s Andy Taylor Dead At 65](https://stereogum.com/2521680/duran-durans-andy-taylor-dead-at-65/news/)
@@ -105,44 +106,38 @@ _최근 3일 내 항목 없음_
   · The post Manchester Police Say Don Toliver Concert Gas Incident May Be Linked To Jewelry Thefts appeared first on Stereogum .
 - 2026-11-25 · [Vince Staples Covers A Geto Boys Classic In The BBC Live Lounge](https://stereogum.com/2521547/vince-staples-covers-a-geto-boys-classic-in-the-bbc-live-lounge/news/)
   · The post Vince Staples Covers A Geto Boys Classic In The BBC Live Lounge appeared first on Stereogum .
-- 2026-11-25 · [Watch Erykah Badu’s Weird, Great Fallon Performance](https://stereogum.com/2521537/watch-erykah-badus-weird-great-fallon-performance/news/)
-  · The post Watch Erykah Badu’s Weird, Great <em>Fallon</em> Performance appeared first on Stereogum .
-- 2026-11-25 · [Ninajirachi Shares I Love My Computer Remix Album Feat. Wet Leg, Slayr, Genesis Owusu, More](https://stereogum.com/2521530/ninajirachi-shares-i-love-my-computer-remix-album-feat-wet-leg-slayr-genesis-owusu-more/music/)
-  · The post Ninajirachi Shares <em>I Love My Computer</em> Remix Album Feat. Wet Leg, Slayr, Genesis Owusu, More appeared first on Stereogum .
-- 2026-11-25 · [Helena Deland – “Whole Life”](https://stereogum.com/2521527/helena-deland-whole-life/music/)
-  · The post Helena Deland – “Whole Life” appeared first on Stereogum .
-- 2026-11-25 · [Advance Base – “The 1st Noelle”](https://stereogum.com/2521516/advance-base-the-1st-noelle/music/)
-  · The post Advance Base – “The 1st Noelle” appeared first on Stereogum .
-- 2026-11-25 · [Hell Hath No Fury Turns 20](https://stereogum.com/2518866/hell-hath-no-fury-turns-20/reviews/the-anniversary/)
-  · The post <em>Hell Hath No Fury</em> Turns 20 appeared first on Stereogum .
 
 ### T2-선점
 
 **Music Business Worldwide** (10건)
+- 2026-11-26 · [Vevo dscvr artists to watch 2027: AZ Chike, 54 Ultra, Barry B, FreshMula](https://www.musicbusinessworldwide.com/vevo-dscvr-artists-to-watch-2027-az-chike-54-ultra-barry-b-freshmula/)
+  · Introducing four more artists from Vevo's Artists To Watch 2027 roster... Source
+- 2026-11-26 · [Matador secures worldwide rights to Belle and Sebastian’s complete catalog, licensing titles from the band and Bella Figura](https://www.musicbusinessworldwide.com/matador-secures-worldwide-rights-to-belle-and-sebastians-complete-catalog-licensing-titles-from-the-band-and-bella-figura/)
+  · The Beggars Group label first released the Glasgow band's music in the US in 1998. Source
+- 2026-11-26 · [Universal, Warner, and the BPI back charter to tackle barriers keeping people with dementia from accessing music](https://www.musicbusinessworldwide.com/universal-warner-and-the-bpi-back-charter-to-tackle-barriers-keeping-people-with-dementia-from-accessing-music/)
+  · Only 3 in 10 older family caregivers can stream music with the person they care for, according to Music for Dementia. Source
+- 2026-11-26 · [LiveOne is paying its Global Music Rights licensing fees in stock. If they aren’t covered within 90 days, GMR can terminate the license.](https://www.musicbusinessworldwide.com/liveone-is-paying-its-global-music-rights-licensing-fees-in-stock-if-they-arent-covered-within-90-days-gmr-can-terminate-the-license/)
+  · The filing landed eight days after CEO Robert Ellin told investors LiveOne was preparing for "the biggest launch" in its history. Source
+- 2026-11-26 · [ElevenLabs in early talks to raise at $33B valuation – more than six times that of AI music rival Suno (report)](https://www.musicbusinessworldwide.com/elevenlabs-in-early-talks-to-raise-at-33b-valuation-more-than-six-times-that-of-ai-music-rival-suno-report/)
+  · ElevenLabs’ annual recurring revenue has reportedly hit USD $700 million, up from $600 million in September. Source
 - 2026-11-25 · [Believe acquires catalog of independent label Tianyue Huayin – its first catalog acquisition in Greater China](https://www.musicbusinessworldwide.com/believe-acquires-catalog-of-independent-label-tianyue-huayin-its-first-catalog-acquisition-in-greater-china/)
   · Deal arrives as Believe marks 10 years in Greater China Source
 - 2026-11-25 · [The Chicks join Jason Isbell’s class action against Suno, as amended complaint adds 16 plaintiffs and targets v6](https://www.musicbusinessworldwide.com/the-chicks-join-jason-isbells-class-action-against-suno-as-amended-complaint-adds-16-plaintiffs-and-targets-v6/)
   · Isbell filed the original suit on August 31 alongside David Lowery, Guy Forsyth, and Eduardo Calle Source
+- 2026-11-25 · [‘If the industry is going to be disrupted, I want to be at the forefront of whatever shapes its future.’](https://www.musicbusinessworldwide.com/if-the-industry-is-going-to-be-disrupted-i-want-to-be-at-the-forefront-of-whatever-shapes-its-future/)
+  · MBW's Trailblazers series meets Jaddan Comerford, Founder and CEO of Melbourne-headquartered independent music company UNIFIED Music Group Source
 - 2026-11-25 · [Musixmatch launches enhanced Pro for Artists platform, adding fan engagement analytics and lyric merch sales with ‘optional AI licensing coming soon’](https://www.musicbusinessworldwide.com/musixmatch-launches-enhanced-pro-for-artists-platform-adding-fan-engagement-analytics-and-lyric-merch-sales-with-optional-ai-licensing-coming-soon/)
   · Musixmatch has launched a new version of its Musixmatch Pro for Artists platform. Source
 - 2026-11-25 · [‘Our obsession with velocity and algorithms made the industry mistake ubiquity for legacy.’](https://www.musicbusinessworldwide.com/our-obsession-with-velocity-and-algorithms-made-the-industry-mistake-ubiquity-for-legacy/)
   · MBW's Inspiring Women series meets Yusim Aladro, General Manager of Warner Music Mexico Source
-- 2026-11-25 · [Believe fully acquires Lili Louise Musique, parent of French indie tôt Ou tard, after buying 49% stake in 2018](https://www.musicbusinessworldwide.com/believe-fully-acquires-lili-louise-musique-parent-of-french-indie-tot-ou-tard-after-acquiring-49-stake-in-2018/)
-  · Founder Vincent Frèrebeau stays at the helm, eight years after Believe paid €12.3 million for its first 49% stake in the group. Source
-- 2026-11-25 · [With friends like these: Suno and MiniMax team up](https://www.musicbusinessworldwide.com/with-friends-like-these-suno-and-minimax-team-up/)
-  · The following MBW op/ed comes from Victoria Furniss, Executive Director and CEO of ARIAM (the Alliance for Responsible Innovation in the Arts & Media) Source
-- 2026-11-25 · [Beatles attraction at former Apple Corps HQ where the band played final public concert approved by London’s Westminster City Council](https://www.musicbusinessworldwide.com/beatles-attraction-at-former-apple-corps-hq-where-the-band-played-final-public-concert-approved-by-londons-westminster-city-council/)
-  · Draft conditions in Westminster's planning papers reportedly included a ban on live music on the rooftop terrace. Source
-- 2026-11-25 · [Coachella sues Walmart for trademark infringement over unlicensed festival merch](https://www.musicbusinessworldwide.com/coachella-sues-walmart-for-trademark-infringement-over-unlicensed-festival-merch/)
-  · The companies behind Coachella have sued Walmart for trademark infringement. Source
-- 2026-11-25 · [Mary Bono asks appeals court to overturn Cher’s win in Sonny Bono song royalties fight, arguing Cher ‘already received nearly fifty years of royalties’](https://www.musicbusinessworldwide.com/mary-bono-asks-appeals-court-to-overturn-chers-win-in-sonny-bono-song-royalties-fight-arguing-cher-already-received-nearly-fifty-years-of-royalties/)
-  · Sonny's widow says he couldn't sign away rights that didn't exist in his lifetime, and cites Cher's own testimony: "I should get what I've always gotten." Source
-- 2026-11-25 · [PRS for Music signs Roblox licensing deal – including royalty payments for songwriters](https://www.musicbusinessworldwide.com/prs-for-music-signs-roblox-licensing-deal/)
-  · The deal follows PRS's legal action against Steam operator Valve in March over alleged unlicensed use of its members' music in games. Source
 
 ### T1
 
-**Pitchfork 뉴스** (8건)
+**Pitchfork 뉴스** (6건)
+- 2026-11-26 · [Watch Wu-Tang Clan Perform the 2026 NFL Thanksgiving Day Halftime Show](https://pitchfork.com/story/watch-wu-tang-clan-perform-the-nfl-thanksgiving-day-halftime-show/)
+  · The New York group took the stage in Detroit for the Bears vs. Lions football game
+- 2026-11-26 · [PUP Compose New Music for Sample Pack Benefitting Kids in Toronto](https://pitchfork.com/story/pup-compose-new-music-for-sample-pack-benefitting-kids-in-toronto/)
+  · Proceeds from the eight new songs will go to Community Music Schools of Toronto
 - 2026-11-25 · [King Crimson Co-Founder Michael Giles Dies at 84](https://pitchfork.com/story/king-crimson-co-founder-michael-giles-dies-at-84/)
   · The drummer played an essential role in the recording of In the Court of the Crimson King
 - 2026-11-25 · [Duran Duran’s Andy Taylor Dies at 65](https://pitchfork.com/story/duran-durans-andy-taylor-dies-at-65/)
@@ -151,16 +146,12 @@ _최근 3일 내 항목 없음_
   · “I didn’t understand that I was unable to stop talking, that I was in this neurodivergent state”
 - 2026-11-25 · [Erykah Badu Does “Breezy,” Salutes Elton John on Fallon](https://pitchfork.com/story/erykah-badu-does-breezy-salutes-elton-john-on-fallon/)
   · Her rendition of the Alchemist-assisted single interpolated “Bennie and the Jets”
-- 2026-11-24 · [Ninajirachi Drops I Love My Computer Remix Album](https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/)
-  · Wet Leg, Mallrat, Genesis Owusu, and more lend their hands to I Love My Computer, All My Friends Are Inside It
-- 2026-11-24 · [Tidal Bans AI Songs](https://pitchfork.com/story/tidal-bans-ai-songs/)
-  · In a first-of-its-kind move, the platform plans to delete some 29 million songs it deems wholly AI-generated
-- 2026-11-24 · [U2 Plot North American Stadium Tour](https://pitchfork.com/story/u2-plot-north-american-stadium-tour/)
-  · The War on Drugs support the West Coast and Southern dates, with Stephen Wilson Jr. on the East Coast
-- 2026-11-24 · [Wilco Expand 2027 Tour With U.S. Dates](https://pitchfork.com/story/wilco-expand-2027-tour-with-us-dates/)
-  · The Wilcoworld Tour includes a five-night residency at the San Francisco Fillmore
 
 **Consequence** (15건)
+- 2026-11-27 · [NBC Snubs Goo Goo Dolls’ Thanksgiving Day Halftime Show](https://consequence.net/2026/11/goo-goo-dolls-thanksgiving-day-halftime-show-doesnt-air/)
+  · The network instead aired a segment featuring former Pittsburgh Steelers head coach Mike Tomlin discussing the team's decision to release quarterback Aaron Rodgers. NBC Snubs Goo G
+- 2026-11-26 · [Wu-Tang Clan Bring Da Ruckus for NFL Thanksgiving Day Halftime Show](https://consequence.net/2026/11/wu-tang-clan-nfl-thanksgiving-show/)
+  · Teaming up with Chad Smith, the hip-hop legends served up a set of greatest hits during halftime of the NFL's Thanksgiving Day matchup between the Detroit Lions and Chicago Bears o
 - 2026-11-26 · [U2 Play the Hits, Pay Tribute to Dolly Parton for NFL Thanksgiving Eve Halftime Show](https://consequence.net/2026/11/u2-thanksgiving-eve-nfl-show/)
   · The five-song set included "Torn," "Sunday Bloody Sunday," "Where the Streets Have No Name," and "Pride (In the Name of Love)." U2 Play the Hits, Pay Tribute to Dolly Parton for NF
 - 2026-11-25 · [Andy Taylor, Duran Duran Guitarist, Dead at 65](https://consequence.net/2026/11/andy-taylor-dead-duran-duran-obituary/)
@@ -181,129 +172,99 @@ _최근 3일 내 항목 없음_
   · The San Bernardino corridos outfit will hit nine cities in February and March, including Managua, Bogotá, Lima, and Quito. Fuerza Regida Announce Central and South American Tour Af
 - 2026-11-25 · [Patti Smith Makes NPR Tiny Desk Concert Debut: Watch](https://consequence.net/2026/11/patti-smith-npr-tiny-desk-concert-debut/)
   · The Godmother of Punk delivered a spoken-word tale and performances of "Nine," "Fireflies," "Peaceable Kingdom," and "People Have the Power." Patti Smith Makes NPR Tiny Desk Concer
-- 2026-11-25 · [Robert Trujillo Says Metallica Plan to “Start Working on New Material”](https://consequence.net/2026/11/robert-trujillo-metallica-new-material/)
-  · The bassist has been working on new music with Kirk Hammett, while James Hetfield has been coming up with ideas, as well. Robert Trujillo Says Metallica Plan to “Start Working on N
-- 2026-11-25 · [Phil Collins Wants to Collaborate with Travis Barker](https://consequence.net/2026/11/travis-barker-phil-collins-collaborate/)
-  · Barker recently inducted Collins into the Rock & Roll Hall of Fame. Phil Collins Wants to Collaborate with Travis Barker Alex Young
 
 **NME** (10건)
-- 2026-11-26 · [Today’s Wordle answer and hints for #1986 on November 26](https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240)
-  · There's no need to lose your streak - here's the 'Wordle' answer for today The post Today’s Wordle answer and hints for #1986 on November 26 appeared first on NME .
-- 2026-11-26 · [‘Connections’ answers and hints for today, November 26](https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066)
-  · Here are hints, groups and answers for 'Connections' #1264 The post ‘Connections’ answers and hints for today, November 26 appeared first on NME .
-- 2026-11-26 · [Globle answer today – here’s the answer and hints for November 26](https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991)
-  · Where in the world? The post Globle answer today – here’s the answer and hints for November 26 appeared first on NME .
-- 2026-11-26 · [Framed answer today – here’s the solution for November 26](https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186)
-  · You’ve been framed The post Framed answer today – here’s the solution for November 26 appeared first on NME .
-- 2026-11-25 · [Duran Duran pay tribute after death of guitarist Andy Taylor, age 65: “His playing drove the songs that took us around the world”](https://www.nme.com/news/music/duran-duran-pay-tribute-after-death-of-guitarist-andy-taylor-age-65-his-playing-drove-the-songs-that-took-us-around-the-world-3976971)
-  · "The 'Geordie Genius', 'the live wire from Newcastle': how fortunate we were to have found him" The post Duran Duran pay tribute after death of guitarist Andy Taylor, age 65: “His 
-- 2026-11-25 · [Jungle announce run of huge summer 2027 UK shows](https://www.nme.com/news/music/jungle-announce-huge-run-of-summer-2027-uk-shows-tickets-3976960)
-  · Dates include their first full set at Latitude in 14 years, and their biggest Manchester show to date The post Jungle announce run of huge summer 2027 UK shows appeared first on NM
-- 2026-11-25 · [Getdown Services announce ‘The Massive Champion Ship’ curated UK Summer 2027 shows](https://www.nme.com/news/music/getdown-services-announce-the-massive-champion-ship-curated-uk-2027-shows-tickets-3976947)
-  · “Think 'The Little Mermaid' meets 'The Greatest Showman' meets 'Alien: Romulus'" The post Getdown Services announce ‘The Massive Champion Ship’ curated UK Summer 2027 shows appeare
-- 2026-11-25 · [Andy Burnham says UK government have “negotiated language that may make it easier in future for British bands, performers and artists to tour in Europe”](https://www.nme.com/news/music/andy-burnham-says-government-negotiated-language-make-it-easier-for-british-bands-tour-europe-3976938)
-  · “Brexit made it harder to tour, but we now have a chance to explore mutually beneficial solutions” The post Andy Burnham says UK government have “negotiated language that may make 
-- 2026-11-25 · [These musicians are obsessed with ‘Grand Theft Auto 6’](https://www.nme.com/news/gaming-news/musicians-obsessed-grand-theft-auto-6-noah-kahan-underscores-3976936)
-  · Noah Kahan, Underscores, The Weeknd and more have been spotted in Vice City The post These musicians are obsessed with ‘Grand Theft Auto 6’ appeared first on NME .
-- 2026-11-25 · [Bonehead to raffle iconic signed Oasis Live ’25 cut-out of himself for charity](https://www.nme.com/news/music/bonehead-to-raffle-iconic-signed-oasis-live-25-cut-out-of-himself-for-charity-3976932)
-  · “Cancer affects us all in one way or another. I’m pleased I can do something positive with the cut-out and raise money to help other people facing cancer” The post Bonehead to raff
+- 2026-11-27 · [Today’s Wordle answer and hints for #1987 on November 27](https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240)
+  · There's no need to lose your streak - here's the 'Wordle' answer for today The post Today’s Wordle answer and hints for #1987 on November 27 appeared first on NME .
+- 2026-11-27 · [‘Connections’ answers and hints for today, November 27](https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066)
+  · Here are hints, groups and answers for 'Connections' #1265 The post ‘Connections’ answers and hints for today, November 27 appeared first on NME .
+- 2026-11-27 · [Globle answer today – here’s the answer and hints for November 27](https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991)
+  · Where in the world? The post Globle answer today – here’s the answer and hints for November 27 appeared first on NME .
+- 2026-11-27 · [Framed answer today – here’s the solution for November 27](https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186)
+  · You’ve been framed The post Framed answer today – here’s the solution for November 27 appeared first on NME .
+- 2026-11-26 · [BBC Radio 1’s Big Weekend 2027 set to take place in Brighton](https://www.nme.com/news/music/bbc-radio-1s-big-weekend-2027-set-to-take-place-in-brighton-3977061)
+  · “It’s actually stupid that it’s taken so long for us to do a Big Weekend there. Sorry about that” The post BBC Radio 1’s Big Weekend 2027 set to take place in Brighton appeared fir
+- 2026-11-26 · [Substance released at Don Toliver Co-Op live show could be linked to jewellery thefts and robberies, police say](https://www.nme.com/news/music/substance-at-don-toliver-coop-live-show-could-be-linked-to-jewellery-thefts-police-say-3977049)
+  · Officers said that “similar robberies” have been reported at two previous Don Toliver gigs The post Substance released at Don Toliver Co-Op live show could be linked to jewellery t
+- 2026-11-26 · [Watch Queens Of The Stone Age give ‘Perfecth’ songs their live debut and air rarities as they kick off tour in Japan](https://www.nme.com/news/music/queens-of-the-stone-age-debut-perfecth-songs-rarities-japan-tour-footage-setlist-3977034)
+  · Josh Homme also paid tribute to Mark Lanegan on what would have been his birthday, saying that he always made music into “something more” The post Watch Queens Of The Stone Age giv
+- 2026-11-26 · [The NME Magazine November/December 2026 issue with Daine on the cover is now on sale](https://www.nme.com/news/music/nme-magazine-november-december-2026-issue-how-to-buy-3976263)
+  · Bundled with a copy of MusicTech Magazine starring Kenneth Blume aka Kenny Beats The post The NME Magazine November/December 2026 issue with Daine on the cover is now on sale appea
+- 2026-11-26 · [The ‘Silent Hill 2 Remake’ soundtrack is getting a vinyl re-release](https://www.nme.com/news/gaming-news/silent-hill-2-remake-soundtrack-vinyl-boxset-pre-order-2-3977032)
+  · The 93-track, 6LP boxset is getting a new colour pressing The post The ‘Silent Hill 2 Remake’ soundtrack is getting a vinyl re-release appeared first on NME .
+- 2026-11-26 · [Carly Rae Jepsen’s ‘Run Away With Me’ streams jump almost 1,100 per cent after ‘GTA 6’ sync](https://www.nme.com/news/gaming-news/carly-rae-jepsen-run-away-with-me-grand-theft-auto-resurgence-3977027)
+  · She’s compared it to Kate Bush’s ‘Stranger Things’-fuelled ‘Running Up The Hill’ revival The post Carly Rae Jepsen’s ‘Run Away With Me’ streams jump almost 1,100 per cent after ‘GT
 
 **Billboard** (10건)
-- 2026-11-26 · [U2 Wind Back the Years With Classics, Dolly Parton Tribute for Thanksgiving Eve NFL Halftime Show](https://www.billboard.com/music/rock/u2-dolly-parton-tribute-thanksgiving-eve-nfl-halftime-show-1236390070/)
-  · The Rock Hall-inducted group headlined the halftime show, which streamed live late Wednesday, Nov. 25 on Netflix.
-- 2026-11-25 · [Duran Duran’s Biggest Billboard Hits: ‘Rio,’ ‘Hungry Like the Wolf’ & More](https://www.billboard.com/lists/duran-duran-biggest-billboard-hits/)
-  · The band sent 15 classics to the Hot 100’s top 40 in the 1980s and ‘90s.
-- 2026-11-25 · [‘Hunger Games’ Series Returns to No. 1 on Soundtracks Chart After More Than a Decade](https://www.billboard.com/music/chart-beat/hunger-games-sunrise-reaping-album-tops-soundtracks-chart-1236390012/)
-  · The Hunger Games: Sunrise on the Reaping — with music by Noah Kahan, Ella Langley & more — bows atop the Soundtracks chart.
-- 2026-11-25 · [U2’s ‘Carnaval de Luz’ Debuts at No. 1 on 3 Billboard Album Charts](https://www.billboard.com/music/chart-beat/u2-carnaval-de-luz-number-1-billboard-charts-debut-1236389982/)
-  · It arrives in the top 10 on seven charts in total, including the Billboard 200.
-- 2026-11-25 · [Andy Taylor, Former Duran Duran Guitarist, Dead at 65](https://www.billboard.com/music/rock/andy-taylor-death-duran-duran-guitarist-1236389920/)
-  · The rocker had been battling prostate cancer for about eight years.
-- 2026-11-25 · [Hold Your Turkeys! Macy’s 100th Thanksgiving Day Parade Has Been Postponed: Here’s the New Date](https://www.billboard.com/music/music-news/macys-thanksgiving-day-parade-2026-canceled-delay-new-date-1236389923/)
-  · As it turns out, Mother Nature spares no man nor parade.
-- 2026-11-25 · [Billboard’s Music Industry Events Calendar](https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/)
-  · A complete rundown of the most important events across the music business.
-- 2026-11-25 · [Black Friday 2026: Peacock Is More Than 65% Off for 3 Months](https://www.billboard.com/culture/product-recommendations/peacock-2026-black-friday-streaming-deals-1236389460/)
-  · Subscribers get three months of Peacock Select for just $2.99 per month (was $8.99 per month) for a limited time.
-- 2026-11-25 · [From Exception to the Norm: The Latin Boom That Redefined LOS40 in Spain, ‘Integrating Naturally’](https://www.billboard.com/music/latin/latin-boom-redefines-los40-spain-music-market-1236389915/)
-  · How Latin American artists and genres went from occupying niche spaces to gaining significant traction in the European country.
-- 2026-11-25 · [Rihanna Shares Adorable BTS Footage With Her 3 Kids on Set for Fenty Holiday Campaign: ‘With the Actual Gifts’](https://www.billboard.com/music/rb-hip-hop/rihanna-kids-fenty-holiday-photos-1236389697/)
-  · Rih and the Mayers family got a head start on spreading holiday cheer.
+- 2026-11-27 · [It’s a Shaolin Thanksgiving! Wu-Tang Clan, Chad Smith Light Up Halftime at Detroit Lions NFL Game](https://www.billboard.com/lists/wu-tang-clan-thanksgiving-halftime-detroit-lions-nfl-game/)
+  · The hip-hop legends hit a nearly seven-minute tag-team medley of greatest hits that was announced as “the wrap-up” of its Wu-Tang Forever: The Final Chamber farewell tour.
+- 2026-11-27 · [Anuel AA’s ‘RHLM2’ Album Is Finally Here: ‘I Made It With My Heart and Soul’](https://www.billboard.com/music/latin/anuel-aa-rhlm2-album-1236389833/)
+  · The long-awaited album is a sequel to his 2018 debut, Real Hasta La Muerte, and his first in four years.
+- 2026-11-26 · [Lana Del Rey Says New Albums Are ‘Getting Close’ to Completion: ‘I’m Happy With Them’](https://www.billboard.com/music/music-news/lana-del-rey-new-albums-stove-spyda-update-1236390186/)
+  · The singer-songwriter updated fans on Stove and its companion album, Spyda , while seemingly teasing cryptic lyrics.
+- 2026-11-26 · [Goo Goo Dolls’ Halftime Show at the Chiefs vs. Bills Thanksgiving Game: Watch Online for Free](https://www.billboard.com/culture/product-recommendations/goo-goo-dolls-halftime-chiefs-bills-thanksgiving-watch-free-1236389230/)
+  · The game will take place on Thanksgiving Night (Nov. 26), with the rock band taking the stage at halftime. Fans can also tune in for a potential Taylor Swift and Hailee Steinfeld s
+- 2026-11-26 · [Where to Watch Jennifer Lopez’s Vegas Concert Film ‘The JLO Show’ Free Online](https://www.billboard.com/culture/product-recommendations/how-to-watch-jennifer-lopez-vegas-concert-film-free-online-1236390059/)
+  · The two-hour concert film documents Jennifer Lopez's Las Vegas residency finale in March of this year and premieres on Thanksgiving at 8:00 p.m. ET/PT.
+- 2026-11-26 · [Feid and Snoop Dogg Drop Thanksgiving Collaboration ‘Gracias x Todo’](https://www.billboard.com/music/music-news/feid-snoop-dogg-gracias-x-todo-thanksgiving-song-1236390180/)
+  · The two stars previewed the song at the 2026 Latin Grammy Awards.
+- 2026-11-26 · [Michael Giles, King Crimson Co-Founder and Original Drummer, Dies at 84](https://www.billboard.com/music/music-news/king-crimson-michael-giles-death-obituary-1236390176/)
+  · "His unique contribution to the evolution of progressive music will never be forgotten,” the band's label wrote.
+- 2026-11-26 · [Miranda Lambert NFL Halftime Show 2026: Where to Watch Philadelphia Eagles vs. Dallas Cowboys Live Online Free](https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-phl-dal-miranda-lambert-halftime-watch-free-1236385793/)
+  · Livestream the PHL Eagles taking on the DAL Cowboys for Thanksgiving Day. Watch Miranda Lambert perform at halftime.
+- 2026-11-26 · [Wu-Tang Clan Halftime Show 2026: Here’s Where to Watch Chicago Bears vs. Detroit Lions Live Online Free](https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-chi-det-wu-tang-clan-halftime-watch-free-1236385560/)
+  · Thanksgiving Day Game: Livestream the CHI Bears taking on the DET Lions on Nov. 26. Watch Wu-Tang Clan perform at halftime.
+- 2026-11-26 · [Inside the Madcap World of Chuyín: ‘Everyone Sings About the Neverending Party. I Sing About the Hangover’](https://www.billboard.com/music/latin/chuyin-street-mob-interview-latin-up-and-comer-tour-2027-1236389136/)
+  · Meet Billboard ’s Latin Up-and-Comer Artist of the Month for November.
 
 **스타뉴스** (25건)
-- 날짜없음 · [워너원→'약한영웅'→'왕사남'..박지훈, 신인상 그랜드슬램 [스타이슈]](https://www.starnewskorea.com/movie/2026/11/26/2026112610381645347)
-  · 가요계에서도, 안방극장에서도, 스크린에서도 신인왕이다. 가수 겸 배우 박지훈이 세 영역에서 모두 신인상의 영예를 안았다. 박지훈은 지난 25일 서울 영등포구 여의도 KBS홀에서 열린 제47회 청룡영화상에서 영화 '왕과 사는 남자'(감독 장항준)로 신인남우상을 수상했다. 여기에 청정원 인기스타상까지 거머쥐며 2관왕에 올랐다
-- 날짜없음 · [뮌헨 두 실점 모두 김민재 책임? 독일 현지 평가 엇갈렸다... 그런데 더 혹평받은 건 '선제골 주인공' 우파메카노였다](https://www.starnewskorea.com/sports/2026/11/26/2026112609401288123)
-  · 한국 축구대표팀의 핵심 수비수 김민재(30·바이에른 뮌헨)를 향한 독일 현지 매체들의 평가가 엇갈렸다. 뮌헨은 26일 오전 5시(한국시간) 프랑스 빌뇌브다스크의 스타드 피에르 모루아에서 열린 2026~2027시즌 유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 5차전에서 릴에 1-2로 역전패했다. 이날 김민재는 
-- 날짜없음 · [야호! 전현무·장도연·미나미 뭉쳤다..'2026 MBC 방송연예대상' MC 발탁](https://www.starnewskorea.com/broadcast-show/2026/11/26/2026112611412774246)
-  · 방송인 전현무와 장도연, 걸 그룹 리센느 멤버 미나미가 올해 'MBC 방송연예대상' MC로 호흡을 맞춘다. 26일 스타뉴스 취재 결과, 전현무와 장도연, 미나미는 오는 12월 29일 생방송으로 진행되는 '2026 MBC 방송연예대상' MC로 낙점됐다. 'MBC 방송연예대상'은 지난 한 해 동안 MBC 예능과 라디오 프로그
-- 날짜없음 · ['재혼 황후' 이세영도 갸우뚱.."'라스타' 영어 아닌 한글로 써요?"[인터뷰②]](https://www.starnewskorea.com/movie/2026/11/26/2026112611565785249)
-  · 배우 이세영이 '재혼 황후' 세계관에 대한 소신을 밝혔다. 26일 서울시 종로구 삼청로의 한 카페에서 디즈니+ 오리지널 시리즈 '재혼 황후'의 배우 이세영과 만나 작품에 관한 이야기를 나눴다. '재혼 황후'는 동대제국의 완벽한 황후 나비에(신민아 분)가 도망 노예 라스타(이세영 분)에게 빠진 황제 소비에슈(주지훈 분)로부
-- 날짜없음 · [이세영, 라스타에 쏟은 열정 "하얀 피부=노력..레이저 시술까지"(재혼황후) [인터뷰①]](https://www.starnewskorea.com/movie/2026/11/26/2026112611312598513)
-  · 배우 이세영이 '재혼 황후' 속 라스타를 향한 애정을 표현하며 캐릭터를 완성하기까지의 노력을 밝혔다. 26일 서울시 종로구 삼청로의 한 카페에서 디즈니+ 오리지널 시리즈 '재혼 황후'의 배우 이세영과 만나 작품에 관한 이야기를 나눴다. '재혼 황후'는 동대제국의 완벽한 황후 나비에(신민아 분)가 도망 노예 라스타(이세영 
-- 날짜없음 · ['기혼·엄마' 미스 유니버스 탄생, 석사 학위에 미 국방부 근무까지..산골 마을 '환호'](https://www.starnewskorea.com/star/2026/11/26/2026112611461884027)
-  · 푸에르토리코의 산골 마을 출신 여성이 미스 유니버스 2026 왕관을 차지했다. 그는 제니퍼 바레토는 기혼 여성인 동시에 아이를 둔 엄마이기도 하다. 25일(현지 시간) AP통신에 따르면 푸에르토리코 서부 산악 지대의 산세바스티안 출신 제니퍼 바레토가 미스 유니버스 2026 우승자로 호명되자 마을 주민들은 환호했다. 인구 
-- 날짜없음 · [31기 순자, 광고 받은 패딩도 완벽 소화..자연스러운 포즈](https://www.starnewskorea.com/star/2026/11/26/2026112611392895939)
-  · '나는 솔로' 31기 순자가 겨울 의상을 자연스럽게 소화했다. ENA, SBS플러스 연애 예능 프로그램 '나는 솔로' 31기 출연자 순자는 25일 자신의 SNS에 '광고'라는 해시태그와 함께 "비가 오고 나서 한파가 시작됐다"는 글을 게재했다. 순자는 자신이 광고를 진행하는 롱패딩을 입고 여러 포즈를 취했다. 특유의 단아
-- 날짜없음 · [[오피셜] 'FA 구자욱·원태인 불참' 삼성, 29일 한국시리즈 우승 기념 'V9 블루웨이브' 개최](https://www.starnewskorea.com/sports/2026/11/26/2026112611395191632)
-  · 삼성 라이온즈가 2026 한국시리즈 우승을 기념해 오는 29일 대구 삼성 라이온즈 파크에서 팬 감사 행사 'V9 블루웨이브'를 개최한다. 다만 자유계약선수(FA) 자격을 얻은 주축 선수 구자욱(33)과 원태인(26)은 이번 행사에 불참한다. 삼성 구단은 한 시즌 동안 뜨거운 성원을 보내준 팬들에게 감사의 마음을 전하고 우
-- 날짜없음 · [아빠 된 송중기, "가정적인 젊은 아빠" 목격담 이어 이번엔 "동결건조" 실물 극찬 후기 [스타이슈]](https://www.starnewskorea.com/star/2026/11/26/2026112611262535656)
-  · 배우 선우은숙의 며느리이자 미스 춘향 선발대회 출신 최선정이 송중기와 이승기를 만난 근황을 공개했다. 최선정은 지난 25일 개인 계정을 통해 문화유산 보존과 전통 공예 후원을 위한 비영리 재단법인 예올(YEOL)의 24주년 기념 후원의 밤 행사에 참석한 모습을 공유했다. 최선정은 "오 송중기님 봤어요?"라는 질문에 영상으
-- 날짜없음 · [[공식발표] 레이예스, 日 구단 관심에도 '끝내' 한국 남았다! 롯데와 180만 달러 재계약... '211안타 괴물' 4년째 동행](https://www.starnewskorea.com/sports/2026/11/26/2026112611264170669)
-  · 일본프로야구(NPB) 구단의 관심과 협상 난항설까지 불거졌던 빅터 레이예스(32)가 결국 롯데 자이언츠에 남는다. KBO 리그 단일 시즌 최다 안타 기록 보유자와 4년 연속 동행이 확정됐다. 롯데는 26일 "외국인 타자 레이예스와 총액 180만 달러에 재계약했다"고 공식 발표했다. 올해 총액 140만 달러에서 40만 달러
-- 날짜없음 · ['파이널 테이블' 장영남, 子 안효섭에 다가가지 못한 모성애 열연](https://www.starnewskorea.com/broadcast-drama/2026/11/26/2026112611272780941)
-  · '파이널 테이블' 배우 장영남이 안효섭에게 다가가지 못하는 애틋한 모성애로 여운을 남겼다. 장영남은 현재 방영 중인 JTBC 토일드라마 '파이널 테이블'(극본, 연출 김도훈)에서 국내 요식업계 1위 기업 평연그룹의 회장 문해선 역을 맡아 열연을 펼치고 있다. 극 중 문해선은 요리 서바이벌 '더 테이블: K 셰프 2026'
-- 날짜없음 · [김혜윤, '굿파트너2' 이혼 로펌 적응기 시작..장나라와 무슨일?](https://www.starnewskorea.com/broadcast-drama/2026/11/26/2026112611171653506)
-  · 김혜윤이 이혼 전문 로펌 적응기를 시작한다. SBS 금토드라마 '굿파트너2' 제작진은 26일 3~4회 방송을 앞두고 '법무법인 리봄'에 합류한 강혜성(김혜윤 분)의 극중 장면을 공개했다. 지난 방송에서는 강혜성을 둔 차은경(장나라 분)과 박태수(박해진 분)의 영입전이 펼쳐졌다. 강혜성은 차은경을 선택했다. 리봄 합류 이유
-
-**스포츠경향 연예** (25건)
-- 2026-11-26 · [손예진, ♥정해인과 8년만 밀착 투샷…“너무 뭉클해 마음 뜨거워”](https://sports.khan.co.kr/article/202611261300003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 손예진 SNS.배우 손예진이 청룡영화상 비하인드 컷과 함께 팬에게 고마움을 드러냈다.26일 손예진은 자신의 SNS에 팬들을 향한 애정 어린 메시지와 함께 여러 장의 사진을 게재했다.손예진은 “나를 보러 멀리서, 또 어딘가에서 항상 오는 나의 천사들”이라며 “유난히 추운 날, 밖에서 기다리며 얼마나 추웠을지. 창문을 열고 
-- 2026-11-26 · [스타 늘고 구독 22만 ‘증발’···SM ‘3078억 웃돈’ 버블에 빨간불 [가요판]](https://sports.khan.co.kr/article/202611261240003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 버블 평균 구독, 1년 새 22만 건 감소지난해 7월 앱 구독권 값 11~12% 인상참여 스타, 690명에서 720명 이상으로증권가, 마크·태민 등 이탈 영향 추정1년 새 구독이 22만 건 줄어든 디어유의 팬 소통 앱 ‘버블’ 홍보 이미지. 버블 홈페이지 캡처‘스타 문자앱’ 버블의 구독이 1년 새 22만 건 빠졌다.26일
-- 2026-11-26 · [‘음주운전’ 고경표, 과거 공사 차량 접촉사고 일화도 ‘파묘’](https://sports.khan.co.kr/article/202611261234003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 유튜브 채널 ‘뜬뜬’ 핑계고 영상 캡처.음주운전 사고로 경찰 조사를 받은 배우 고경표가 불과 한 달여 전 예능에서 자신의 교통사고 경험을 미담으로 소개했던 사실이 뒤늦게 주목받고 있다.지난달 10일 공개된 유튜브 채널 ‘뜬뜬’의 웹예능 ‘핑계고’에서 고경표는 운전 중 처음으로 사고를 냈던 순간을 떠올렸다. 영동대교에서 앞
-- 2026-11-26 · [K-브랜드지수’ 엔터사 부문, SM엔터테인먼트 1위 탈환… 하이브·갤럭시코퍼레이션 2·3위](https://sports.khan.co.kr/article/202611261207003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 빅데이터 평가 기관인 아시아브랜드연구소가 10월 1일부터 10월 31일까지 엔터사 부문 엔터테인먼트 상위 주요 기업 브랜드를 대상으로 온라인 빅데이터 1억 7307만 3606건을 분석한 결과 SM 엔터테인먼트가 1위를 기록했다. 사진제공|아시아브랜드연구소빅데이터 평가 기관인 아시아브랜드연구소는 ‘K-브랜드지수’ 엔터사 부
-- 2026-11-26 · [“안경 쓴 라스타?” ‘재혼황후’ 이세영의 반전 카리스마 화보](https://sports.khan.co.kr/article/202611261158003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 배우 이세영. 얼루어 코리아 제공배우 이세영이 화보를 통해 드라마 속 캐릭터와는 180도 다른 세련된 매력을 발산했다.패션·뷰티 매거진 ‘얼루어 코리아’는 25일 이날 종방한 디즈니+ 오리지널 시리즈 ‘재혼 황후’에서 라스타 역을 맡아 열연한 이세영의 화보와 인터뷰를 공개했다.공개된 화보 속 이세영은 강렬한 붉은색 배경 
-- 2026-11-26 · [환희·브라이언 “사귄 적 없다…앨범 내면 열애설, 활동 쉬면 불화설” (유퀴즈)](https://sports.khan.co.kr/article/202611261149003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · tvN 예능 ‘유퀴즈’ 방송 화면.7년 만에 완전체로 돌아온 플라이 투 더 스카이 환희와 브라이언이 오랜 시간 자신들을 따라다닌 열애설과 불화설에 입을 열었다.25일 방송된 tvN 예능 ‘유 퀴즈 온 더 블럭’에는 올해 데뷔 27주년을 맞은 플라이 투 더 스카이가 출연했다.이날 브라이언은 오랜 기간 그룹 활동을 하지 못한
-- 2026-11-26 · [이종석, ‘재혼 황후’ 종방 소감 “퀸처럼 마음껏 날았다”](https://sports.khan.co.kr/article/202611261147003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 배우 이종석. 에이스팩토리 제공디즈니+ 오리지널 시리즈 ‘재혼 황후’에서 서왕국 왕자 하인리로 분한 배우 이종석이 동화 같은 결말을 매듭지으며 작품에 대한 진솔한 종영 소감을 밝혔다.지난 25일 공개된 최종화(9, 10회)에서는 오직 황후 나비에(신민아 분)만을 바라보던 하인리의 순애보가 마침내 결실을 보는 과정이 그려졌
-- 2026-11-26 · [‘쓰복만’ 김보민, 내년에 엄마 된다…결혼 1년 8개월 만 임신](https://sports.khan.co.kr/article/202611261145003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 김보민 SNS.성우 겸 유튜버 쓰복만(본명 김보민)이 결혼 약 1년 8개월 만에 임신 소식을 전했다.25일 쓰복만은 자신의 SNS에 “저희에게 소중한 아이가 생겼어요”라는 글과 함께 사진을 게재했다.공개된 사진에는 결혼반지를 착용한 부부의 손과 태아의 초음파 사진이 담겼다. 부부의 손 옆에는 두 사람의 출생 연도인 ‘19
-- 2026-11-26 · [‘구독자 1010만’ 유튜버 진우·해티, 결혼 4년 만에 파경…채널은 진우에게](https://sports.khan.co.kr/article/202611261137003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 유튜브 ‘진우와해티’ 캡처전 세계 구독자 1,010만 명을 모으며 ‘다이아 버튼’을 거머쥔 한·영 국제 커플 유튜버 진우(허진우)와 해티(해리엇 에밀리)가 부부의 연을 정리한다.진우와 해티는 지난 25일 공동 유튜브 채널과 사회관계망서비스(SNS) 계정을 통해 “오랜 시간 저희의 일상을 함께해 주신 분들께 직접 전하고 싶
-- 2026-11-26 · [아이브, 배그 전장에 떴다···신곡 ‘레니게이드’ 12월 2일 공개](https://sports.khan.co.kr/article/202611261114003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 25일 PUBG 공식 유튜브 채널에서 공개배그 시즌형 음악 프로젝트 첫 참여자게임 전장 배경으로 현실과 게임 교차12월 2일 공개되는 배틀그라운드 협업 신곡 ‘레니게이드’ 뮤직비디오 티저 속 그룹 아이브. PUBG 공식 유튜브 채널 캡처그룹 아이브가 배틀그라운드 전장에 뛰어들었다.26일 소속사 스타쉽엔터테인먼트에 따르면 
-- 2026-11-26 · [양홍원 사생활 폭로한 A씨, 추가 폭로 나섰다…이번엔 약물 의혹](https://sports.khan.co.kr/article/202611261109003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 양홍원 인스타그램.최근 래퍼 양홍원의 사생활 폭로 글을 게시해 파장을 일으킨 A씨가 개인 사회관계망서비스(SNS) 라이브 방송을 통해 추가 주장을 내놨다.A씨는 26일 진행한 SNS 라이브 방송에서 “사나이, 사나이 하는 것 다 (약에) 절어서 하는 행동”이라며 특정 인물의 약물 투약 의혹을 제기했다. 이어 다수의 인물을
-- 2026-11-26 · [[전문] 공연업계 “중국 공연시장 진출 후속대책 마련하라” 성명서](https://sports.khan.co.kr/article/202611261052003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=entertainment)
-  · 음공협 제공사전심사 비차별 원칙 등 4가지 요구한국대중음악공연산업협회가 한중 자유무역협정(FTA) 후속 협상 타결과 관련해 양국 공연산업의 교류 확대를 위한 후속 대책을 정부에 요구했다.사단법인 한국대중음악공연산업협회는 26일 성명을 내고 지난 18일 발표된 한중 FTA 후속 협상 타결을 환영하면서도 공연 분야의 실질적인
+- 날짜없음 · [박민우가 직접 시상자로 나섰다! 프로야구 스타 5명, 중등·여자야구 꿈나무 격려... 수원북중·서울 후라 초대 왕중왕 등극](https://www.starnewskorea.com/sports/2026/11/27/2026112712463038544)
+  · 프로야구 선수들이 한 시즌을 마친 후배 선수들과 여자야구 선수들을 위해 직접 시상자로 나섰다. 한국프로야구선수협회(선수협) 박민우(33·NC 다이노스) 부회장을 비롯한 현역 선수 5명이 초대 왕중왕전의 마지막을 장식했다. 선수협은 27일 "지난 22일 열린 시상식을 끝으로 '2026 한국프로야구선수협회장배 컴투스프로야구 
+- 날짜없음 · [[공식발표] '3득점→41득점 대폭발' 첫 승 이끌고도 '끝내' 교체됐다! KB손해보험 파격 결단, V리그 885득점 아히 영입](https://www.starnewskorea.com/sports/2026/11/27/2026112712004023927)
+  · 불과 사흘 만에 3득점에서 41득점으로 극적인 반등에 성공했다. 개막 5연패 탈출을 이끈 외국인 선수였지만 구단의 선택은 결국 교체였다. 한국 남자배구 국가대표팀 감독까지 영입하며 야심 차게 새 시즌을 출발한 KB손해보험이 V리그 통산 885득점의 '경력자' 미힐 아히(28·등록명 아히)를 데려왔다. KB손해보험은 27일
+- 날짜없음 · [중국 8-0으로 이겼는데 아쉽다니, 멀티골 넣은 MVP도 "미안"... 이유 있었다, 中 한 골 모자라 조 3위로 32강행](https://www.starnewskorea.com/sports/2026/11/27/2026112711050826351)
+  · 중국 축구가 무려 21년 만에 U-17 월드컵 토너먼트에 진출하고도 아쉬움을 드러냈다. 이유가 있었다. 중국은 27일(한국시간) 카타르 아스파이어존에서 열린 2026 국제축구연맹(FIFA) 17세 이하(U-17) 남자 월드컵 H조 조별리그 최종 3차전에서 피지를 8-0으로 꺾었다. 중국이 U-17 월드컵에서 거둔 역대 최
+- 날짜없음 · ['3연임' 오한남 대한배구협회장, FIVB 세계총회 참석... 232개 회원국과 국제 협력 강화](https://www.starnewskorea.com/sports/2026/11/27/2026112710075026122)
+  · 대한배구협회를 이끌고 있는 오한남(74) 회장이 국제배구연맹(FIVB) 세계총회에 참석해 세계 배구계의 주요 현안을 공유하고 한국 배구의 국제 경쟁력 강화를 위한 교류 활동을 펼쳤다. 대한배구협회는 27일 "오한남 회장이 지난 20일부터 22일까지 도미니카공화국 푼타카나에서 열린 제40회 FIVB 세계총회에 참석해 국제 
+- 날짜없음 · ['제자 성폭행 혐의' 남경주 "학생들 가르칠 때 보람 느껴"..국민참여재판서 대표작 '시카고' 시청 굴욕 [스타이슈]](https://www.starnewskorea.com/star/2026/11/27/2026112711045775702)
+  · 제자를 성폭행한 혐의로 기소된 뮤지컬 배우 남경주(62)가 국민참여재판을 받는다. 서울중앙지법 형사합의29부(부장판사 엄기표)는 27일 오전 11시, 남경주의 피감독자간음 혐의 국민참여재판 첫 공판을 진행했다. 남경주는 지난해 12월 서울 서초구에서 제자를 성폭행한 혐의(피감독자간음)로 올해 4월 불구속 기소됐다. 공판준
+- 날짜없음 · [서출구, 재재 무시 논란에 입 열었다.."유배지 역사 모르고 했던 말" [스타이슈]](https://www.starnewskorea.com/broadcast-show/2026/11/27/2026112710011956498)
+  · 래퍼 서출구가 넷플릭스 서바이벌 예능 '데블스 플랜: 데드 어게인'(이하 '데블스 플랜3')에서 불거진 '유배지의 왕' 발언에 대해 해명했다. 서출구는 27일 자신의 인스타그램을 통해 "데플('데블스 플랜3') 결승날 했던 유배지의 왕 드립은 그저 (정)원영이 형과 유배지 최후의 매치만 직접 겪어봤던 제 입장에서만 했던 
+- 날짜없음 · ["너무 늦게 꽃피워 죄송합니다" 208안타 최원준의 못다 한 진심 뒷이야기, '왜' KIA팬들과 최형우·김선빈·양현종 떠올렸나](https://www.starnewskorea.com/sports/2026/11/27/2026112710074058144)
+  · 생애 첫 개인 타이틀을 차지한 최원준(29·KT 위즈)이 시상식 무대에서 미처 전하지 못한 진심을 털어놓았다. 10년간 몸담았던 KIA 타이거즈 팬들에게 미안했던 이유, 그리고 자신의 야구 인생을 함께한 선배들을 향한 고마움이었다. 최원준은 26일 서울 송파구 롯데호텔 월드 크리스탈볼룸에서 열린 '2026 신한 SOL K
+- 날짜없음 · [강호동 子, 전국 학생 골프대회서 준우승..키 188cm 피지컬에 '천하장사' DNA](https://www.starnewskorea.com/star/2026/11/27/2026112711363753149)
+  · 방송인 강호동의 아들 강시후가 전국 규모 학생 골프대회에서 준우승을 차지했다. 최근 한국중고등학교골프연맹에 따르면 강시후는 지난 23일부터 26일까지 전북 군산컨트리클럽에서 열린 '제6회 2026년도 전국중·고등학생골프대회' 남자고등부 개인전에서 최종 합계 1오버파 145타를 기록하며 2위에 올랐다. 이번 대회는 23~2
+- 날짜없음 · [[전문] 팬레터가 분리수거장에? 이동연 해명 "직접 버린 적 없어..실수"[스타이슈]](https://www.starnewskorea.com/star/2026/11/27/2026112711465087300)
+  · 뮤지컬 배우 이동연이 팬들에게 받은 편지를 분리수거장에 버렸다는 의혹에 대해 해명하고 사과했다. 27일 온라인 커뮤니티 게시판에는 '팬들이 보낸 편지 사진만 찍고 그대로 분리수거장에 버린 배우'라는 제목의 글이 올라왔다. 해당 글 작성자는 "분리수거하러 나갔다가 박스랑 종이 쓰레기 모아두는 곳에 OOO 배우님이라고 쓰여 
+- 날짜없음 · ['계약 끝났다고 남남 아닙니다' 시즌 아웃에도 수술·재활까지 책임진 우리카드의 진심, 아라우조도 아픈 몸 이끌고 장충 찾았다](https://www.starnewskorea.com/sports/2026/11/27/2026112711472062987)
+  · 계약은 끝났지만 인연까지 끝난 것은 아니었다. 오른쪽 무릎 부상으로 시즌 도중 팀을 떠나게 된 하파엘 아라우조(35)를 위해 우리카드가 수술부터 재활까지 지원을 이어간다. 아라우조 역시 수술을 하루 앞두고 가족과 함께 경기장을 찾아 옛 동료들을 응원하며 구단의 배려에 화답했다. 우리카드는 최근 아라우조와 계약을 마무리하고
+- 날짜없음 · [면허 취소 수준 아니라더니..낸시랭, 음주운전으로 불구속 송치 [스타이슈]](https://www.starnewskorea.com/star/2026/11/27/2026112711402267394)
+  · 방송인 겸 팝아티스트 낸시랭(본명 박혜령)이 음주운전 혐의로 불구속 송치됐다. 27일 경찰에 따르면 서울강남경찰서는 25일 도로교통법상 음주운전 혐의를 받는 낸시랭을 서울중앙지방공소청에 불구속 송치했다. 낸시랭은 지난 9월 8일 오전 3시 45분쯤 서울 강남구 강남대로 일대에서 술을 마신 상태로 운전한 혐의를 받는다. 앞
+- 날짜없음 · [브라이언, 장원영 '2억 소파'에 소신 발언 "집값이잖아"[유행꼰대]](https://www.starnewskorea.com/star/2026/11/27/2026112711404619747)
+  · '서인영의 유행꼰대'에서 서인영과 브라이언이 거침없는 입담으로 절친 케미를 발산했다. 지난 26일 방송된 티캐스트 E채널 예능 프로그램 '서인영의 유행꼰대'(연출 이지선, 제작 스튜디오브레이브) 9회에는 가수 브라이언이 일일 수강생으로 출연해 서인영, 미미미누와 함께 기상천외한 요즘 살림 트렌드를 탐구했다. 이날 브라이언
 
 **일간스포츠** (25건)
-- 2026-11-26 · [조기 휘슬로 VAR 기회마저 박탈→결승골 취소까지…“결정적 장면마다 불이익 당했다” 분노](https://isplus.com/article/view/isp202611260080)
-  · 마우리시오 포체티노 맨체스터 유나이티드 신임 감독이 유럽축구연맹(UEFA) 챔피언스리그(UCL) 스포르팅 CP 원정 무승부 직후 심판 판정에 강한 유감을 드러냈다. 두 차례의 득점 취소와 논란의 페널티킥 판정이 겹치며 다 잡았던 부임 첫 승을 놓쳤기 때문이다. 26일(한국시간) 글로벌 스포츠 매체 ESPN에 따르면 포체티
-- 2026-11-26 · [[IS하이컷] 송중기, 두 아이 아빠인데...공식 행사 포착 “여전히 대학생 같아”](https://isplus.com/article/view/isp202611260079)
-  · 배우 송중기가 한 공식 행사에서 포착되며 변함없는 동안 비주얼로 화제를 모으고 있다.배우 선우은숙의 며느리이자 사업가인 최선정은 지난 25일 자신의 개인 SNS 계정에 문화유산 보존 비영리 재단법인 예올의 24주년 기념 후원의 밤 행사 참석 근황을 공개했다.해당 재단의 홍보대사로 활동 중인 송중기 역시 이날 행사에 자리했
-- 2026-11-26 · [‘한국 최초 여자농구단’ 발자취 되새긴다…우리은행, 28일 홈경기서 ‘1958 헤리티지 DAY’ 개최](https://isplus.com/article/view/isp202611260073)
-  · 여자프로농구(WKBL) 아산 우리은행이 구단의 역사와 전통을 기념하는 '1958 헤리티지 DAY'를 개최한다.우리은행은 26일 "오는 28일 열리는 부천 하나은행과의 정규리그 홈경기에서 구단의 역사와 전통을 기념하는 '1958 헤리티지 DAY'를 진행한다"고 밝혔다. 1958년 문을 연 대한민국 최초의 여자농구단인 우리은
-- 2026-11-26 · [[IS하이컷] 이민정, 도쿄 여행 중 이병헌 사진 실력 폭로…“얼굴만이라도 나왔으면”](https://isplus.com/article/view/isp202611260078)
-  · 배우 이민정이 일본 도쿄 여행 사진과 함께 남편 이병헌의 다소 어설픈 촬영 실력을 유쾌하게 저격했다.이민정은 지난 25일 자신의 개인 SNS 계정에 &ldquo;남편의 사진 실력&rdquo;이라는 글과 함께 사진을 게재했다. 공개된 사진 속 이민정은 야간 조명이 반짝이는 도쿄 거리를 배경으로 호피무늬 니트를 입은 채 미소
-- 2026-11-26 · ["롯데 우승 위해 싸울 준비가 됐다"…3년간 600안타 폭발한 레이예스, 24억 재계약](https://isplus.com/article/view/isp202611260077)
-  · 롯데 자이언츠는 '3년 연속 전 경기에 출전해 최다안타 기록을 만들어낸 외야수 빅터 레이예스(32)가 총액 180만 달러(24억원)에 재계약했다'고 26일 밝혔다. 2024시즌부터 롯데 유니폼을 입은 레이예스는 세 시즌 동안 각각 202개, 187개, 211개의 안타를 기록하며 통산 600안타를 달성했다. 특히 올 시즌에
-- 2026-11-26 · [에드워즈 없어도 끄떡없다…‘올스타급 진화’ 맥다니스-볼 앞세워 OKC에 역전승](https://isplus.com/article/view/isp202611260076)
-  · 미국프로농구(NBA) 미네소타 팀버울브스가 에이스 앤서니 에드워즈의 장기 결장 공백 속에서도 '올스타급 포워드'로 진화한 제이든 맥다니엘스의 32점 10리바운드 맹활약을 앞세워 오클라호마시티 썬더를 제압했다. 미네소타는 26일(한국시간) 미국 오클라호마주 오클라호마의 페이컴 센터에서 열린 2026~27 에미레이츠 NBA 
-- 2026-11-26 · [신예 김시온, tvN ‘기프트’ 합류… 안방극장에 눈도장 찍는다 [공식]](https://isplus.com/article/view/isp202611260075)
-  · 신예 배우 김시온이 고교 야구부 타자로 변신한다.김시온은 오는 12월 5일 첫 방송되는 tvN 새 토일드라마 &lsquo;기프트&rsquo;에 출연한다.&lsquo;기프트&rsquo;는 불의의 사고로 특별한 능력을 얻은 전 프로야구 투수코치 정민용(김우빈)이 전국 꼴찌 고교 야구부의 감독을 맡으면서 펼쳐지는 이야기다. 카
-- 2026-11-26 · [서유리, 성희롱성 메시지 피해 호소…“욕하기도 현타 온다”](https://isplus.com/article/view/isp202611260074)
-  · 성우 겸 방송인 서유리가 도를 넘은 성희롱성 메시지에 불쾌감과 피로감을 드러냈다.서유리는 지난 25일 자신의 개인 SNS를 계정을 통해 &ldquo;메시지로 성희롱하는 놈들한테 답으로 보내줄 기깔나는 사진 있으면 공유 좀&rdquo;이라는 글을 게재했다. 이어 &ldquo;욕하기도 현타 온다&rdquo;며 계속되는 악성 
-- 2026-11-26 · [‘평창 신화’ 이용 총감독 복귀에 올림픽 2관왕 로흐너·듀커스 코치 가세…한국 봅슬레이·스켈레톤, 27일 월드컵 출격](https://isplus.com/article/view/isp202611260072)
-  · 대한민국 봅슬레이&middot;스켈레톤 국가대표팀이 '평창 신화'의 주역 이용 총감독의 복귀와 올림픽 금메달리스트 출신 세계 최정상급 코치진 합류라는 역대급 지원군을 등에 업고 2026~27시즌 세계무대 정복에 나선다. 지난 시즌 월드컵 종합 5위와 6위에 오르며 세계 정상권 경쟁력을 입증한 김진수(봅슬레이)와 정승기(스
-- 2026-11-26 · [‘재혼 황후’ 이세영 “목걸이 논란? 의상팀 하나하나 열심히 준비한 것 알아” [인터뷰④]](https://isplus.com/article/view/isp202611260071)
-  · 배우 이세영이 &lsquo;재혼 황후&rsquo;을 둘러싼 목걸이 소품 논란에 대한 생각을 밝혔다.26일 서울 종로구 한 카페에서는 디즈니플러스 오리지널 시리즈 &lsquo;재혼 황후&rsquo;의 라스타를 연기한 이세영의 인터뷰가 진행됐다.이세영은 극중 착용한 목걸이가 테무에서 판매되는 제품과 유사하다는 지적에 대해 &
-- 2026-11-26 · [‘누적 조회 수 1억 뷰 이어 실버 버튼까지’…WKBL 공식 유튜브 ‘여농티비’, 구독자 10만 돌파 기념 애칭 공모](https://isplus.com/article/view/isp202611260070)
-  · 한국여자농구연맹(WKBL)의 공식 유튜브 채널 '여농티비'가 구독자 10만 명을 돌파하며 유튜브 실버 버튼을 품에 안았다. 지난 2월 채널 누적 조회 수 1억 회를 넘어선 데 이어 구독자 10만 고지까지 밟으면서 여자농구 디지털 소통 채널의 가파른 성장세를 다시 한번 입증했다.WKBL은 26일 "공식 유튜브 채널 '여농티
-- 2026-11-26 · [‘재혼 황후’ 이세영 “이종새→개비애슈 조롱 인상깊어…배우들 스타성 대단” [인터뷰③]](https://isplus.com/article/view/isp202611260069)
-  · 배우 이세영이 &lsquo;재혼 황후&rsquo;을 둘러싼 각종 밈에 대한 생각을 밝혔다.26일 서울 종로구 한 카페에서는 디즈니플러스 오리지널 시리즈 &lsquo;재혼 황후&rsquo;의 라스타를 연기한 이세영의 인터뷰가 진행됐다.이세영은 기억에 남는 밈에 대해 &ldquo;내가 그런 걸 말해도 되는지 모르겠다. &ls
+- 2026-11-27 · [‘100일의 거짓말’이 발견한 신예 이선… “영복이로 지낸 시간 행복했다”](https://isplus.com/article/view/isp202611270062)
+  · 배우 이선이 첫 TV 드라마를 마무리하는 소회를 밝히며 시청자들에게 감사 인사를 전했다.27일 소속사 매니지먼트 시선은 tvN 토일드라마 &lsquo;100일의 거짓말&rsquo; 종영을 앞둔 이선의 소감을 공개했다.극중 이선은 항일단체 구국단의 일원이자 조일방직 사장 김승억(이기영)의 비서 이영복 역을 맡았다. 김명남(
+- 2026-11-27 · [ERA 7.45, ERA 7.69인데…23명 테스트한 울산이 '투수 2명'을 뽑은 이유](https://isplus.com/article/view/isp202611270061)
+  · 프로야구 최초의 퓨처스(2군)리그 시민구단 울산 웨일즈가 '지역 인재 발굴과 프로 진출 기회 확대를 위해 울산 출신 선수인 이른바 '울산 쿼터'로 투수 이강혁(23)과 박동규(18)를 영입했다'고 27일 밝혔다. 구단에 따르면 이번 영입은 지난 8월 울산 웨일즈, 울산광역시, 한국야구위원회(KBO), 울산시체육회, 울산시
+- 2026-11-27 · [손연재, 남편과 30억 쾌척 약속… 고위험 산모·태아 돕는다](https://isplus.com/article/view/isp202611270060)
+  · 전 리듬체조 국가대표 손연재가 남편 이준효 씨와 함께 고위험 산모와 태아를 위해 30억원을 기부하기로 했다.27일 연세의료원에 따르면 손연재 부부는 지난 18일 세브란스병원 내 &lsquo;연재태아협진센터&rsquo; 설립 및 운영을 위한 30억원 규모의 후원 협약을 체결했다.부부의 후원으로 마련될 센터는 고위험 산모와 
+- 2026-11-27 · [저스트절크 영제이, 2005년생 아내와 결혼 9개월 만에 득녀…“은하입니다”](https://isplus.com/article/view/isp202611270059)
+  · 댄스 크루 저스트절크의 리더 영제이(본명 성영재)가 결혼 9개월 만에 아빠가 됐다.영제이는 27일 자신의 사회관계망서비스(SNS)에 &ldquo;안녕하세요. 은하라고 해요&rdquo;라는 글과 함께 딸의 탄생을 알렸다.공개된 사진에는 모자와 속싸개로 감싼 신생아의 모습과 아기의 작은 발도장이 담긴 카드가 담겼다. 영제이는
+- 2026-11-27 · [기대하면 보란 듯이 해내는 '슈퍼스타', 김도영의 도전은 계속된다](https://isplus.com/article/view/isp202611260173)
+  · 김도영(23&middot;KIA 타이거즈)은 누구도 부정할 수 없는 '슈퍼스타'다. 슈퍼스타라는 수식어가 누구보다 잘 어울린다. 기대와 시선이 쏟아지는 순간마다 보란 듯이 결과로 증명해 왔다. 하지만 김도영은 아직 만족하지 않는다. 최고의 자리에 오른 뒤에도 끊임없이 성장하고 도전한다는 점이 그를 더욱 특별하게 만든다.김
+- 2026-11-27 · [아일릿 모카, 활동 중단 5개월만 복귀 “이날만 기다렸다”](https://isplus.com/article/view/isp202611270058)
+  · 그룹 아일릿 모카가 활동 중단 약 5개월 만에 팬들 곁으로 돌아온다.모카는 27일 팬 플랫폼 위버스를 통해 복귀를 알리며 &ldquo;그동안 나를 기다려준 글릿(공식 팬덤명)분들 너무너무 감사하다. 기다려준 글릿과 나를 도와준 모든 분 덕분에 또다시 이렇게 인사를 드릴 수 있게 됐다&rdquo;고 말했다.이어 &ldquo
+- 2026-11-27 · [K팝·패션 결합한 대형 서바이벌 온다… ‘아이콘드롭’ 출격 예고](https://isplus.com/article/view/isp202611270057)
+  · K팝과 글로벌 패션을 접목한 서바이벌 프로그램 &lsquo;아이콘드롭&rsquo;이 출연진 공개에 나선다.&lsquo;아이콘드롭&rsquo; 측은 오는 12월 24일 &lsquo;크리스마스에 생긴 일&rsquo;이라는 키워드와 함께 첫 번째 출연자를 발표한다고 밝혔다. 국내외 정상급 아티스트와 글로벌 셀럽의 참여가 예고된
+- 2026-11-27 · [정우성, 이미 아티스트컴퍼니 떠났다…‘청담 부부’ 10년 동행 마무리](https://isplus.com/article/view/isp202611270056)
+  · 배우 정우성이 아티스트컴퍼니를 떠났다. 27일 연예계에 따르면 정우성은 올 초 아티스트컴퍼니와 전속 계약이 만료됐다. 정우성은 별도의 소속사에 합류하지 않고, 10년 넘게 호흡을 맞춰온 담당 매니저와 함께 독자적인 행보를 이어가고 있는 것으로 알려졌다.아티스트컴퍼니는 2016년 &lsquo;청담 부부&rsquo;로 불렸던
+- 2026-11-27 · [솔비♥이규한, 내년 4월 25일 결혼… 서울 종로서 야외 웨딩 [공식]](https://isplus.com/article/view/isp202611270055)
+  · 가수 솔비와 배우 이규한이 내년 4월 부부의 연을 맺는다.27일 업계에 따르면 솔비와 이규한은 오는 2027년 4월 25일 서울 종로구의 한 야외 예식장에서 결혼식을 올린다. 예식은 양가 가족과 친인척, 가까운 지인들만 초대해 비공개로 진행될 예정이다.앞서 두 사람은 지난 10월 15일 별도의 열애 발표 없이 결혼 소식을
+- 2026-11-27 · [뮤지컬 배우 이동연, 팬레터 폐기 논란 해명 “실수로 종이박스에 들어가… 절대 이렇게 안 했다” 강조](https://isplus.com/article/view/isp202611270054)
+  · 뮤지컬 배우 이동연이 팬들에게 받은 손편지를 무더기로 버렸다는 의혹에 대해 해명하고 사과했다.27일 이동연은 자신의 SNS를 통해 &ldquo;먼저 저의 미숙한 행동으로 상처를 받으신 분들께 진심으로 죄송하다&rdquo;고 고개를 숙였다.앞서 최근 SNS와 온라인 커뮤니티에는 한 뮤지컬 배우에게 전달된 팬들의 손편지가 분
+- 2026-11-27 · [신광훈의 마지막 홈경기…포항, 광주전서 ‘레전드’와 작별한다](https://isplus.com/article/view/isp202611270052)
+  · 포항 스틸러스가 신광훈의 은퇴식과 함께 올 시즌 홈경기를 마무리한다.포항은 28일 오후 4시 30분 포항스틸야드에서 광주FC와 하나은행 K리그1 2026 37라운드를 치른다. 리그 마지막 홈경기이자 포항의 &lsquo;리빙 레전드&rsquo; 신광훈이 선수 생활에 마침표를 찍는 날이다. 김성재 감독대행과 선수단은 홈 팬들
+- 2026-11-27 · [낸시랭, 음주운전 적발 두 달여 만에 송치… 인명 피해는 없어](https://isplus.com/article/view/isp202611270051)
+  · 팝아티스트 겸 방송인 낸시랭이 음주운전 혐의로 불구속 송치됐다.27일 경찰에 따르면 서울 강남경찰서는 지난 25일 도로교통법 위반(음주운전) 혐의를 받는 낸시랭을 서울중앙지방공소청에 넘겼다.낸시랭은 지난 9월 8일 오전 3시 45분께 서울 강남구 강남대로 일대에서 술을 마신 채 차량을 운전한 혐의를 받는다.당시 신고를 받
